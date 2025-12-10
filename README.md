@@ -77,7 +77,6 @@ Mastering advanced structures and native-like expression.
 ```
 english-studying/
 ├── 🎯 prompts/         # AI prompts for English learning (vocabulary, grammar, etc.)
-├── 💬 practice/        # Writing practice and exercises
 └── 🎨 media/           # Images, logos, and visual assets
 ```
 
