@@ -97,7 +97,7 @@ english-studying/
 
 <br>
 
-**Institution:** [Linguapolis - University of Antwerp](https://www.uantwerpen.be/en/centres/linguapolis/online-conversation-practice/)  
+**Institution:** [Linguapolis - University of Antwerp](https://www.uantwerpen.be/en/centres/linguapolis/)  
 **Status:** 🔄 On-going  
 **Level:** C1+
 
