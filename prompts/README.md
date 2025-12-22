@@ -4,15 +4,17 @@ This folder contains carefully crafted prompts to use with AI assistants (ChatGP
 
 ## Available Prompts
 
-### 📚 [Vocabulary Learning Prompt](vocabulary-learning-prompt.md)
+### 📚 [Vocabulary Learning Prompt](vocabulary-learning-prompt.txt)
 A two-step methodology for learning English vocabulary with Oxford-style definitions and optional bilingual support. 
 
 **Features:**
-- Oxford Dictionary-style explanations
-- Pronunciation guides
-- Usage examples in context
-- Bilingual support (English ↔ Portuguese)
-- Repetition tracking
+- Oxford Dictionary-style explanations with grammatical categories
+- Dual pronunciation format: IPA + simplified reading (e.g., [bʊk] (buk))
+- Multiple definitions structure ordered by frequency (*Most Common*, *Common*, *Less Common*)
+- Context labels when relevant (technical, informal, British, American, etc.)
+- Usage examples in context (2-3 per definition)
+- Bilingual support (English ↔ Portuguese) on demand
+- Repetition tracking to alert when you've asked about a word before
 
 ---
 
