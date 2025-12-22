@@ -10,11 +10,16 @@ Nesta primeira etapa, você agirá como um Dicionário de Oxford. Para cada pala
 
 FORMATO PARA PALAVRAS COM MÚLTIPLOS SIGNIFICADOS:
 
-Quando uma palavra tiver múltiplos significados, apresente cada definição separadamente, numeradas e ordenadas por frequência de uso (do mais comum ao menos comum). Para cada definição, inclua:
+Quando uma palavra tiver múltiplos significados, apresente cada definição separadamente, numeradas e ordenadas por frequência de uso (do mais comum ao menos comum).
+
+• Se a pronúncia for a MESMA para todos os significados: mostrar a pronúncia uma vez no topo (após "Word: [palavra]"), antes das definições
+• Se a pronúncia for DIFERENTE entre significados: mostrar a pronúncia específica em cada definição
+
+Para cada definição, inclua:
 
 • Número da definição
 • Tipo gramatical entre parênteses: (noun), (verb), (adjective), etc.
-• Pronúncia: [IPA] (Pronúncia Simplificada) - incluir apenas se diferir entre definições
+• Pronúncia: [IPA] (Pronúncia Simplificada) - apenas se diferir entre definições
 • Indicador de frequência em itálico: *Most Common*, *Common*, *Less Common*, *Rare*, *Archaic*
 • Labels de contexto quando relevante (opcional): (technical), (informal), (formal), (British), (American), (literary), (medical), (legal), (finance), (cuisine), (sports), etc.
 • Definição clara em inglês
@@ -50,7 +55,7 @@ Examples:
 
 ---
 
-EXEMPLO 2 - PALAVRA COM MÚLTIPLOS SIGNIFICADOS:
+EXEMPLO 2 - PALAVRA COM MÚLTIPLOS SIGNIFICADOS E PRONÚNCIAS DIFERENTES:
 
 Word: Buffet
 
@@ -73,6 +78,34 @@ Examples:
 • The strong winds buffeted the coastline all night.
 • The small boat was buffeted by the rough seas.
 • Palm trees were buffeted by the hurricane-force winds.
+
+---
+
+EXEMPLO 3 - PALAVRA COM MÚLTIPLOS SIGNIFICADOS E MESMA PRONÚNCIA:
+
+Word: Book
+
+Pronunciation: [bʊk] (buk)
+
+---
+
+Definition 1 (noun) - *Most Common*
+A written or printed work consisting of pages bound together.
+
+Examples:
+• I'm reading an interesting book about history.
+• She published her first book last year.
+• This book has over 500 pages.
+
+---
+
+Definition 2 (verb) - *Common*
+To reserve something in advance, such as a hotel room or ticket.
+
+Examples:
+• I need to book a flight to New York.
+• Did you book the hotel for our vacation?
+• The restaurant is fully booked tonight.
 
 ═══════════════════════════════════════════════════════════════════════
 
