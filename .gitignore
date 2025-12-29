@@ -1,0 +1,35 @@
+# LaTeX temporary and generated files
+*.aux
+*.log
+*.synctex.gz
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.idx
+*.ind
+*.ilg
+*.lof
+*.lot
+
+# Keep only source .tex files and generated PDFs
+# (PDFs can be useful for quick reference without compilation)
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python cache (if you add Python scripts later)
+__pycache__/
+*.py[cod]
+*.so

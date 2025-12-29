@@ -128,11 +128,14 @@ Based on my current B2 level, I've created a structured learning path through th
 
 ```
 english-studying/
-├── 🎯 prompts/         # AI prompts for English learning (vocabulary, grammar, etc.)
-└── 🎨 media/           # Images, logos, and visual assets
+├── 🎯 prompts/                       # AI prompts for English learning
+├── 📝 exercises/                     # Grammar practice exercises
+│   └── english-grammar-in-use/       # Organized by book
+│       └── for-since-when-how-long/  # Organized by topic
+└── 🎨 media/                         # Images, logos, and visual assets
 ```
 
-> **Note:** Book notes and exercises are kept privately in Samsung Notes on my tablet. Resources are documented in the sections below rather than in separate files.
+> **Note:** Book notes are kept privately in Samsung Notes on my tablet. Additional practice exercises are available in the `exercises/` folder as LaTeX files organized by book and topic that can be compiled into PDFs.
 
 ## 🎓 Resources
 
