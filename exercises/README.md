@@ -9,9 +9,12 @@ Exercises are organized by book and topic:
 ```
 exercises/
 ├── english-grammar-in-use/
-│   └── for-since-when-how-long/
-│       ├── for-since-when-how-long-exercises.tex
-│       └── for-since-when-how-long-answers.tex
+│   ├── for-since-when-how-long/
+│   │   ├── for-since-when-how-long-exercises.tex
+│   │   └── for-since-when-how-long-answers.tex
+│   └── past-perfect/
+│       ├── past-perfect-exercises.tex
+│       └── past-perfect-answers.tex
 └── README.md (this file)
 ```
 
@@ -31,6 +34,22 @@ exercises/
 **Files:**
 - `for-since-when-how-long-exercises.tex` - Exercise set
 - `for-since-when-how-long-answers.tex` - Answer key with explanations
+
+---
+
+#### Past Perfect (I had done)
+**Path:** `english-grammar-in-use/past-perfect/`
+
+**Topics Covered:**
+- Past perfect formation (had + past participle)
+- Past simple vs past perfect usage
+- Sequence of events in the past
+- Common irregular past participles
+- Translation practice (Portuguese ↔ English)
+
+**Files:**
+- `past-perfect-exercises.tex` - Exercise set
+- `past-perfect-answers.tex` - Answer key with explanations
 
 ## 🔧 How to Use These Files
 
