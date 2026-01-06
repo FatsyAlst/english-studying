@@ -226,6 +226,101 @@ Examples:
 • That was strike two, he has one more chance.
 • The umpire called it a strike, but the batter disagreed.
 
+---
+
+SEÇÃO COMPLEMENTAR: PALAVRA-RAIZ E FAMÍLIA DE PALAVRAS
+
+Quando a palavra fornecida for uma forma derivada (como "stranded", "beautiful", "running"), inclua AUTOMATICAMENTE as seguintes informações adicionais:
+
+1. PALAVRA-RAIZ (ROOT WORD):
+   Se a palavra consultada for uma forma derivada, apresente também a palavra-raiz/base com seus significados principais. Isso ajuda a entender a origem e o significado central da palavra.
+
+2. FAMÍLIA DE PALAVRAS (WORD FAMILY):
+   Liste as formas derivadas mais comuns da palavra, mostrando como ela se transforma em diferentes classes gramaticais:
+   • Noun form(s)
+   • Verb form(s)
+   • Adjective form(s)
+   • Adverb form(s)
+   • Other derivations
+
+3. ETIMOLOGIA (ETYMOLOGY) - Opcional:
+   Breve origem da palavra quando for interessante ou útil para memorização. Não é necessário para palavras com etimologia óbvia ou pouco interessante.
+
+4. COLLOCATIONS COMUNS:
+   Liste 3-5 collocations frequentes com a palavra ou sua forma base. Isso ajuda a usar a palavra de forma natural.
+
+5. NOTAS DE USO (USAGE NOTES) - Quando relevante:
+   • Erros comuns a evitar
+   • Diferenças entre palavras similares (ex: "stranded" vs "stuck")
+   • Diferenças British vs American English
+   • Registro (formal/informal)
+   • Nuances de significado
+
+---
+
+EXEMPLO 8 - FORMA DERIVADA COM PALAVRA-RAIZ:
+
+Word: Stranded
+
+Type: Adjective / Past Participle (derived from verb "strand")
+
+Pronunciation: [ˈstrændɪd] (STRAN-did)
+
+Definition: Left without the means to move from somewhere; abandoned or isolated in a place.
+
+Examples:
+• The tourists were stranded at the airport due to the storm.
+• We found a stranded whale on the beach.
+• Without money or phone, she felt completely stranded in the foreign city.
+
+---
+
+🔹 ROOT WORD: Strand
+
+Pronunciation: [strænd] (strand)
+
+As a verb - *Less Common*:
+To leave someone in a place without a way to leave; to cause to run aground.
+• The broken car stranded us in the middle of nowhere.
+• The ship was stranded on the rocks.
+
+As a noun - *Common*:
+1. A single thin piece of thread, wire, hair, etc.
+   • A strand of hair fell across her face.
+   • The rope is made of several strands twisted together.
+
+2. (literary) A shore or beach.
+   • They walked along the strand at sunset.
+
+---
+
+🔹 WORD FAMILY:
+• Noun: strand (a thin piece; a shore)
+• Verb: strand / strands / stranded / stranding
+• Adjective: stranded
+• Related: unstrand (rare)
+
+---
+
+🔹 ETYMOLOGY:
+From Old English "strand" meaning "shore, beach." The verb sense of "leave helpless" developed from the nautical meaning of a ship running aground on a beach.
+
+---
+
+🔹 COMMON COLLOCATIONS:
+• stranded on an island
+• stranded at the airport
+• left stranded
+• stranded passengers/tourists/travelers
+• strand of hair/DNA/rope
+
+---
+
+🔹 USAGE NOTES:
+• "Stranded" vs "Stuck": Both mean unable to move, but "stranded" implies being abandoned or isolated (often in an unfamiliar/dangerous place), while "stuck" is more general and can be temporary (stuck in traffic).
+• "Stranded" often carries emotional weight - a sense of helplessness or abandonment.
+• The noun "strand" (meaning beach) is mostly literary/poetic in modern English.
+
 ═══════════════════════════════════════════════════════════════════════
 
 ETAPA 2: TRADUÇÃO E EXEMPLOS BILÍNGUES (QUANDO SOLICITADO OU NECESSÁRIO)

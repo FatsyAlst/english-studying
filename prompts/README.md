@@ -5,16 +5,36 @@ This folder contains carefully crafted prompts to use with AI assistants (ChatGP
 ## Available Prompts
 
 ### 📚 [Vocabulary Learning Prompt](vocabulary-learning-prompt.txt)
-A two-step methodology for learning English vocabulary with Oxford-style definitions and optional bilingual support. 
+A comprehensive two-step methodology for learning English vocabulary with Oxford-style definitions and optional bilingual support.
 
 **Features:**
+
+🔤 **Core Dictionary Features:**
 - Oxford Dictionary-style explanations with grammatical categories
 - Dual pronunciation format: IPA + simplified reading (e.g., [bʊk] (buk))
-- Multiple definitions structure ordered by frequency (*Most Common*, *Common*, *Less Common*)
-- Context labels when relevant (technical, informal, British, American, etc.)
+- Multiple definitions structure ordered by frequency (*Most Common*, *Common*, *Less Common*, *Rare*, *Archaic*)
+- Context labels when relevant (technical, informal, British, American, sports, medical, etc.)
 - Usage examples in context (2-3 per definition)
-- Bilingual support (English ↔ Portuguese) on demand
+
+🏷️ **Linguistic Structure Identification:**
+- Automatic detection of: nouns, verbs, adjectives, adverbs, idioms, phrasal verbs, collocations, compound nouns, expressions, proverbs, conditionals, and more
+- Priority identification for complex structures before basic grammatical classification
+
+🌳 **Word Family & Root Analysis:**
+- Root word explanations when querying derived forms (e.g., "stranded" → "strand")
+- Complete word family mapping (noun, verb, adjective, adverb forms)
+- Etymology when interesting or useful for memorization
+- Common collocations with the word
+- Usage notes: common mistakes, similar words comparison, British vs American differences
+
+🌐 **Bilingual Support:**
+- Portuguese translations on demand
+- Bilingual example sentences (English + Portuguese)
+- Contextual bridge between languages without replacing English-first learning
+
+📝 **Learning Aids:**
 - Repetition tracking to alert when you've asked about a word before
+- Patient and encouraging tone throughout
 
 ---
 
