@@ -147,7 +147,7 @@ Beyond textbooks, I also read books for enjoyment to improve my English naturall
 
 | Cover | Title | Author | Genre |
 |-------|-------|--------|-------|
-| <img src="./media/covers/long-way-round.jpg" width="80"/> | **Long Way Round** | Ewan McGregor & Charley Boorman | Travel / Motorcycle Adventure |
+| <img src="./media/covers/long-way-round.jpg" width="80"/> | **Long Way Round: Chasing Shadows Across the World** | Ewan McGregor & Charley Boorman | Travel / Motorcycle Adventure |
 
 📚 **[View Full Reading Tracker →](./reading/README.md)**
 

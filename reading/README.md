@@ -38,7 +38,7 @@ For effective vocabulary acquisition, aim for:
 
 | Cover | Title | Author | Status | Started | Progress |
 |-------|-------|--------|--------|---------|----------|
-| <img src="../media/covers/long-way-round.jpg" width="80"/> | **Long Way Round** | Ewan McGregor & Charley Boorman | 🔄 Reading | Jan 2026 | Just started |
+| <img src="../media/covers/long-way-round.jpg" width="80"/> | **Long Way Round: Chasing Shadows Across the World** | Ewan McGregor & Charley Boorman | 🔄 Reading | Jan 2026 | Just started |
 
 ### Completed
 
