@@ -33,7 +33,9 @@
     - [Phase 1: Foundation (Current)](#phase-1-foundation-current)
     - [Phase 2: Building](#phase-2-building)
     - [Phase 3: Advanced](#phase-3-advanced)
-  - [📁 Repository Structure](#-repository-structure)
+  - [� Reading for Pleasure](#-reading-for-pleasure)
+    - [Currently Reading](#currently-reading)
+  - [�📁 Repository Structure](#-repository-structure)
   - [🎓 Resources](#-resources)
     - [Online Courses](#online-courses)
       - [My Experience](#my-experience)
@@ -135,7 +137,21 @@ Based on my current B2 level, I've created a structured learning path through th
 | <img src="./media/covers/idioms-advanced.jpg" width="80"/> | **English Idioms in Use** (Advanced) | ⏸️ Not Started |
 | <img src="./media/covers/oxford-idioms-phrasal.jpg" width="80"/> | **Oxford Work Skills - Idioms and Phrasal Verbs** (Intermediate to Advanced) | ⏸️ Not Started |
 
-## 📁 Repository Structure
+## � Reading for Pleasure
+
+Beyond textbooks, I also read books for enjoyment to improve my English naturally. This includes novels, memoirs, and non-fiction on topics I love.
+
+> ⚠️ **Lesson Learned:** I once made the mistake of starting with philosophy books (Stoicism). Result? 40+ new words per chapter — completely overwhelming! Now I choose books with accessible vocabulary that I can actually learn from without burning out.
+
+### Currently Reading
+
+| Cover | Title | Author | Genre |
+|-------|-------|--------|-------|
+| <img src="./media/covers/long-way-round.jpg" width="80"/> | **Long Way Round** | Ewan McGregor & Charley Boorman | Travel / Motorcycle Adventure |
+
+📚 **[View Full Reading Tracker →](./reading/README.md)**
+
+## �📁 Repository Structure
 
 ```
 english-studying/
@@ -143,8 +159,7 @@ english-studying/
 ├── 📝 exercises/                     # Grammar practice exercises
 │   └── english-grammar-in-use/       # Organized by book
 │       ├── for-since-when-how-long/  # Organized by topic
-│       └── past-perfect/             # Past Perfect exercises
-└── 🎨 media/                         # Images, logos, and visual assets
+│       └── past-perfect/             # Past Perfect exercises├── 📖 reading/                       # Reading tracker for leisure books└── 🎨 media/                         # Images, logos, and visual assets
 ```
 
 > **Note:** Book notes are kept privately in Samsung Notes on my tablet. Additional practice exercises are available in the `exercises/` folder as LaTeX files organized by book and topic that can be compiled into PDFs.
