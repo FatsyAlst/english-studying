@@ -33,9 +33,9 @@
     - [Phase 1: Foundation (Current)](#phase-1-foundation-current)
     - [Phase 2: Building](#phase-2-building)
     - [Phase 3: Advanced](#phase-3-advanced)
-  - [� Reading for Pleasure](#-reading-for-pleasure)
+  - [📖 Reading for Pleasure](#-reading-for-pleasure)
     - [Currently Reading](#currently-reading)
-  - [�📁 Repository Structure](#-repository-structure)
+  - [📁 Repository Structure](#-repository-structure)
   - [🎓 Resources](#-resources)
     - [Online Courses](#online-courses)
       - [My Experience](#my-experience)
@@ -137,7 +137,7 @@ Based on my current B2 level, I've created a structured learning path through th
 | <img src="./media/covers/idioms-advanced.jpg" width="80"/> | **English Idioms in Use** (Advanced) | ⏸️ Not Started |
 | <img src="./media/covers/oxford-idioms-phrasal.jpg" width="80"/> | **Oxford Work Skills - Idioms and Phrasal Verbs** (Intermediate to Advanced) | ⏸️ Not Started |
 
-## � Reading for Pleasure
+## 📖 Reading for Pleasure
 
 Beyond textbooks, I also read books for enjoyment to improve my English naturally. This includes novels, memoirs, and non-fiction on topics I love.
 
@@ -151,7 +151,7 @@ Beyond textbooks, I also read books for enjoyment to improve my English naturall
 
 📚 **[View Full Reading Tracker →](./reading/README.md)**
 
-## �📁 Repository Structure
+## 📁 Repository Structure
 
 ```
 english-studying/
