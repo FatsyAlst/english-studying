@@ -10,6 +10,7 @@
 \usepackage{array}
 \usepackage{tcolorbox}
 \usepackage{soul}
+\usepackage{dashrule}
 
 % Header and footer
 \pagestyle{fancy}
@@ -34,6 +35,11 @@
 \definecolor{hardred}{RGB}{178, 34, 34}
 \definecolor{noteblue}{RGB}{0, 80, 160}
 \definecolor{tipbox}{RGB}{230, 247, 255}
+\definecolor{ieltsblue}{RGB}{0, 51, 102}
+\definecolor{cambridgered}{RGB}{163, 31, 52}
+\definecolor{toeflpurple}{RGB}{102, 51, 153}
+\definecolor{examorange}{RGB}{255, 102, 0}
+\definecolor{pitfallred}{RGB}{220, 53, 69}
 
 % Custom tcolorbox styles
 \newtcolorbox{grammarbox}[1][]{
@@ -68,6 +74,42 @@
     title={\textbf{HARD} — Production \& Analysis}
 }
 
+% Exam-specific boxes
+\newtcolorbox{ieltsbox}[1][]{
+    colback=blue!3!white,
+    colframe=ieltsblue,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{cambridgebox}[1][]{
+    colback=red!3!white,
+    colframe=cambridgered,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{toeflbox}[1][]{
+    colback=purple!3!white,
+    colframe=toeflpurple,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{examtipbox}[1][]{
+    colback=orange!5!white,
+    colframe=examorange,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{pitfallbox}[1][]{
+    colback=red!5!white,
+    colframe=pitfallred,
+    fonttitle=\bfseries,
+    title=#1
+}
+
 \begin{document}
 
 % ============================================================
@@ -80,11 +122,22 @@
     {\large (I had been doing)}\\[0.5cm]
     \rule{\textwidth}{0.4pt}\\[0.3cm]
     {\large English Grammar in Use — Unit 16}\\[0.2cm]
-    {\large 12 Exercises • 100+ Questions • With Portuguese Translations}\\[0.2cm]
+    {\large 18 Exercises • 170+ Questions • With Exam Practice}\\[0.2cm]
     \today
 \end{center}
 
-\vspace{0.5cm}
+\vspace{0.3cm}
+
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+\centering
+\textbf{[NOTE] Document Navigation}\\[0.2cm]
+\textit{Quick Reference Pages are located at the \textbf{end of this document} (tearable).}\\
+Includes grammar summary card and ruled pages for personal notes.
+}}
+\end{center}
+
+\vspace{0.3cm}
 
 % ============================================================
 % GRAMMAR SUMMARY BOX
@@ -140,7 +193,8 @@
 \textbf{Difficulty Progression Guide}\\[0.2cm]
 \textcolor{easygreen}{\textbf{EASY (Exercises 1-4):}} Recognition, basic formation, simple completion\\
 \textcolor{mediumyellow}{\textbf{MEDIUM (Exercises 5-8):}} Context application, choosing between tenses\\
-\textcolor{hardred}{\textbf{HARD (Exercises 9-12):}} Production, error correction, translation
+\textcolor{hardred}{\textbf{HARD (Exercises 9-12):}} Production, error correction, translation\\[0.2cm]
+\textcolor{examorange}{\textbf{REAL-LIFE \& EXAM (Exercises 13-18):}} Practical usage, IELTS, Cambridge, TOEFL
 }}
 \end{center}
 
@@ -182,6 +236,17 @@ Complete these with 90\%+ accuracy before moving to Medium exercises.
     \item (sit) → She \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in the same position for hours.
     \item (lie) → The cat \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in the sun all afternoon.
 \end{enumerate}
+
+\vspace{0.3cm}
+
+\begin{examtipbox}[[TIP] IELTS Tip — Spelling Matters!]
+In IELTS Writing, spelling errors affect your \textbf{Lexical Resource} score. Master these -ing spelling rules:
+\begin{itemize}[leftmargin=1cm]
+    \item \textbf{CVC verbs} (consonant-vowel-consonant): double the final consonant → \textit{sit → sitting}
+    \item \textbf{-ie verbs}: change to -y → \textit{lie → lying, die → dying}
+    \item \textbf{-e verbs}: drop the -e → \textit{live → living, make → making}
+\end{itemize}
+\end{examtipbox}
 
 \vspace{0.5cm}
 
@@ -360,6 +425,16 @@ Focus on choosing between tenses and understanding nuances.
     \item Before the exam, he \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (study) the same topic for weeks.\\
     \textit{(Focus: prolonged activity)}
 \end{enumerate}
+
+\vspace{0.3cm}
+
+\begin{examtipbox}[[TIP] Cambridge Exam Tip — Key Word Transformations]
+In Cambridge exams (FCE/CAE), you often need to transform sentences keeping the same meaning. Understanding when to use Past Perfect Continuous vs. Simple is crucial:
+\begin{itemize}[leftmargin=1cm]
+    \item \textbf{Duration/Process} → Past Perfect Continuous: \textit{``for hours'', ``all day'', ``since morning''}
+    \item \textbf{Completion/Result} → Past Perfect Simple: \textit{``already'', ``just'', ``never'', ``three times''}
+\end{itemize}
+\end{examtipbox}
 
 \vspace{0.5cm}
 
@@ -662,6 +737,16 @@ and translating between Portuguese and English.
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \end{enumerate}
 
+\vspace{0.3cm}
+
+\begin{examtipbox}[[TIP] TOEFL Tip — Avoid Direct Translation]
+When writing in TOEFL, don't translate directly from Portuguese. Notice how Portuguese often uses ``tinha estado + gerund'' but English structure is different:
+\begin{itemize}[leftmargin=1cm]
+    \item PT: ``Ele \textit{tinha estado trabalhando}'' → EN: ``He \textit{had been working}''
+    \item The structure is: \textbf{had been} + \textbf{-ing} (not ``had been'' + past participle)
+\end{itemize}
+\end{examtipbox}
+
 \newpage
 
 % ============================================================
@@ -740,7 +825,468 @@ and translating between Portuguese and English.
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \end{enumerate}
 
-\vspace{1cm}
+\newpage
+
+% ============================================================
+% REAL-LIFE & EXAM PRACTICE SECTION
+% ============================================================
+
+\begin{center}
+\begin{tcolorbox}[colback=orange!5!white, colframe=examorange, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- REAL-LIFE \& EXAM PRACTICE ---}}\\[0.2cm]
+{\large\textit{Practical Usage \& Proficiency Exam Preparation}}\\[0.3cm]
+\textbf{Exercises 13-18} focus on real-world communication and exam skills.\\
+Includes IELTS, Cambridge, and TOEFL practice formats.
+\end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 13: Micro-Dialogues}
+
+\textit{Complete these short conversations using the Past Perfect Continuous. Focus on natural, everyday English.}
+
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{At the gym:}\\
+    A: ``You look exhausted! How long have you been here?''\\
+    B: ``About two hours. I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (lift) weights before you arrived, and then I did cardio.''
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{At a café:}\\
+    A: ``Sorry I'm late! Have you been waiting long?''\\
+    B: ``Yes, I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (wait) for 30 minutes! I almost left.''
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{At work:}\\
+    A: ``Why does Sarah look so stressed?''\\
+    B: ``She \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (work) on that report all week. The deadline is tomorrow.''
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{At home:}\\
+    A: ``Why is the kitchen such a mess?''\\
+    B: ``I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (cook) all afternoon for the dinner party tonight.''
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{On the phone:}\\
+    A: ``You sound tired. Is everything okay?''\\
+    B: ``I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (not / sleep) well lately. Too much stress at work.''
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{At university:}\\
+    A: ``How did you pass that difficult exam?''\\
+    B: ``I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (study) for months before I took it. Hard work pays off!''
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{At a reunion:}\\
+    A: ``I didn't recognize you! You've changed so much.''\\
+    B: ``Well, I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (exercise) regularly and eating healthier.''
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{At the doctor's office:}\\
+    A: ``How long have you been experiencing this pain?''\\
+    B: ``It started yesterday, but I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (feel) tired for weeks before that.''
+\end{enumerate}
+
+\newpage
+
+% ============================================================
+\section{Exercise 14: Real-Life Context — Professional \& Academic}
+
+\textit{Complete these realistic scenarios using the Past Perfect Continuous where appropriate.}
+
+\vspace{0.3cm}
+
+\subsection*{Scenario A: Job Interview Follow-up Email}
+
+\textit{Complete the email with appropriate verb forms.}
+
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+Dear Mr. Johnson,
+
+Thank you for the interview yesterday. I wanted to follow up on our conversation about my experience.
+
+As I mentioned, before I (1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (join) my current company, I (2) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (work) as a freelance consultant for three years. During that time, I (3) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (develop) the skills that I believe would be valuable for this position.
+
+I (4) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (think) about transitioning to a corporate role for some time, and your company seems like the perfect fit.
+
+Best regards,\\
+Maria Santos
+}}
+\end{center}
+
+\vspace{0.5cm}
+
+\subsection*{Scenario B: Academic Report Introduction}
+
+\textit{Complete the paragraph with appropriate verb forms.}
+
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+\textbf{Research Background}
+
+Before this study (5) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (begin), researchers (6) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (investigate) climate patterns in the region for over a decade. Previous studies (7) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (show) concerning trends, but no conclusive data (8) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (exist) until now. Our team (9) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (collect) data for two years before we (10) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (publish) these findings.
+}}
+\end{center}
+
+\vspace{0.5cm}
+
+\subsection*{Scenario C: News Report}
+
+\textit{Complete the news excerpt with appropriate verb forms.}
+
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+\textbf{Local Company Announces Expansion}
+
+TechStart Inc. announced yesterday that they will open a new office in São Paulo. The company (11) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (plan) this expansion for over a year. ``We (12) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (look) at several locations before we (13) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (choose) São Paulo,'' said CEO Ana Ferreira. The company (14) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (grow) steadily since 2020 and (15) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (hire) over 200 employees in the past year alone.
+}}
+\end{center}
+
+\newpage
+
+% ============================================================
+\section{Exercise 15: Common Pitfalls for Brazilian Learners}
+
+\begin{pitfallbox}[[!] Watch Out! Common Mistakes]
+Brazilian Portuguese speakers often make these errors with Past Perfect Continuous. Test yourself!
+\end{pitfallbox}
+
+\vspace{0.3cm}
+
+\textit{Each sentence contains a common error made by Portuguese speakers. Identify and correct the mistake.}
+
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Using Present Perfect instead of Past Perfect Continuous:}\\
+    ``When you called, I \underline{have been working} for two hours.''\\
+    \textbf{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{Confusing ``for'' and ``since'':}\\
+    ``She had been studying since three hours when I arrived.''\\
+    \textbf{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{Using continuous with stative verbs:}\\
+    ``I had been knowing him for years before we worked together.''\\
+    \textbf{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{Wrong word order in questions:}\\
+    ``How long you had been waiting?''\\
+    \textbf{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{Translating ``estava + gerund'' literally:}\\
+    ``He was being working all day.'' (Ele estava trabalhando o dia todo.)\\
+    \textbf{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{Forgetting ``been'' in the structure:}\\
+    ``They had waiting for hours.''\\
+    \textbf{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{Using Past Perfect Continuous when Simple is needed:}\\
+    ``By 6 PM, I had been finishing my homework.'' (completed action)\\
+    \textbf{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \vspace{0.3cm}
+    
+    \item \textbf{Mixing Portuguese and English structures:}\\
+    ``She had been work hard all week.'' (faltou o -ing)\\
+    \textbf{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\end{enumerate}
+
+\newpage
+
+% ============================================================
+\section{Exercise 16: IELTS Practice}
+
+\begin{ieltsbox}[[TARGET] IELTS — Speaking \& Writing Practice]
+These exercises mirror real IELTS formats. Practice for Band 7+ performance!
+\end{ieltsbox}
+
+\vspace{0.3cm}
+
+\subsection*{Part A: IELTS Speaking Part 2 — Cue Card}
+
+\begin{center}
+\begin{tcolorbox}[colback=blue!5!white, colframe=ieltsblue, width=0.85\textwidth]
+\textbf{Describe a goal you achieved that took a long time.}
+
+You should say:
+\begin{itemize}
+    \item what the goal was
+    \item how long you had been working towards it
+    \item what difficulties you had been facing
+    \item and explain how you felt when you achieved it
+\end{itemize}
+
+\textit{Preparation time: 1 minute | Speaking time: 1-2 minutes}
+\end{tcolorbox}
+\end{center}
+
+\textbf{Write your response outline below (use Past Perfect Continuous where appropriate):}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{0.5cm}
+
+\subsection*{Part B: IELTS Speaking Part 3 — Discussion Questions}
+
+\textit{Answer these follow-up questions using Past Perfect Continuous where appropriate.}
+
+\begin{enumerate}[label=\arabic*.]
+    \item ``How long had people in your country been discussing environmental issues before the government took action?''
+    
+    \noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+    \noindent\rule{\textwidth}{0.4pt}
+    
+    \vspace{0.3cm}
+    
+    \item ``What changes had been happening in education before online learning became common?''
+    
+    \noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+    \noindent\rule{\textwidth}{0.4pt}
+    
+    \vspace{0.3cm}
+    
+    \item ``Had people been expecting these technological changes, or were they surprised?''
+    
+    \noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+    \noindent\rule{\textwidth}{0.4pt}
+\end{enumerate}
+
+\newpage
+
+\subsection*{Part C: IELTS Writing Task 2 — Essay Planning}
+
+\begin{center}
+\begin{tcolorbox}[colback=blue!5!white, colframe=ieltsblue, width=0.9\textwidth]
+\textbf{IELTS Writing Task 2}
+
+\textit{Some people believe that technological progress has made our lives more complicated. To what extent do you agree or disagree?}
+
+\textbf{Task:} Plan your essay. Write 2-3 sentences for the introduction using Past Perfect Continuous to describe the situation BEFORE recent changes.
+\end{tcolorbox}
+\end{center}
+
+\textbf{Introduction (use PPC to set context):}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{0.3cm}
+
+\begin{examtipbox}[[TIP] IELTS Band 7+ Strategy]
+Using Past Perfect Continuous in essays shows \textbf{grammatical range}:
+\begin{itemize}[leftmargin=1cm]
+    \item Use it to describe \textbf{trends before a change}: ``People had been relying on...''
+    \item Combine with other tenses to show \textbf{time relationships}
+    \item Don't overuse — 2-3 instances in an essay is enough
+\end{itemize}
+\end{examtipbox}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 17: Cambridge Exam Practice}
+
+\begin{cambridgebox}[[BOOK] Cambridge FCE/CAE — Use of English]
+Practice Key Word Transformations and Open Cloze — common formats in Cambridge exams.
+\end{cambridgebox}
+
+\vspace{0.3cm}
+
+\subsection*{Part A: Key Word Transformations}
+
+\textit{Complete the second sentence so that it has a similar meaning to the first. Use between 2-5 words including the word given.}
+
+\begin{enumerate}[label=\arabic*.]
+    \item She started studying at 6 AM. At 10 AM, she was still studying.\\
+    At 10 AM, she \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ for four hours. \textbf{(BEEN)}
+    
+    \vspace{0.3cm}
+    
+    \item The rain started in the morning. The streets were wet when I left at noon.\\
+    It \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ all morning, so the streets were wet. \textbf{(RAINING)}
+    
+    \vspace{0.3cm}
+    
+    \item They negotiated for three months. Then they reached an agreement.\\
+    They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ for three months before they agreed. \textbf{(HAD)}
+    
+    \vspace{0.3cm}
+    
+    \item He practiced piano daily since childhood. He won the competition at 18.\\
+    He \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ for years before he won at 18. \textbf{(PRACTICING)}
+    
+    \vspace{0.3cm}
+    
+    \item My wait started at 3 PM. She arrived at 5 PM.\\
+    I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ for two hours when she arrived. \textbf{(WAITING)}
+\end{enumerate}
+
+\newpage
+
+\subsection*{Part B: Open Cloze}
+
+\textit{Complete the text with ONE word in each gap.}
+
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+\textbf{The Marathon Runner}
+
+By the time Maria crossed the finish line, she (1) \_\_\_\_\_\_\_ been running for over four hours. She (2) \_\_\_\_\_\_\_ been training for this moment for two years. Before she started running marathons, she (3) \_\_\_\_\_\_\_ never imagined she would complete such a challenge.
+
+Her coach, who (4) \_\_\_\_\_\_\_ been working with her since 2022, was waiting at the finish line. He knew how hard she (5) \_\_\_\_\_\_\_ been pushing herself in recent months. ``I'm so proud,'' he said. ``You (6) \_\_\_\_\_\_\_ been preparing for this day for so long.''
+
+Maria smiled. She (7) \_\_\_\_\_\_\_ been dreaming of this moment, and now it was finally real.
+}}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 18: TOEFL Practice}
+
+\begin{toeflbox}[[GRAD] TOEFL iBT — Integrated Skills Practice]
+Practice speaking and writing responses using Past Perfect Continuous.
+\end{toeflbox}
+
+\vspace{0.3cm}
+
+\subsection*{Part A: TOEFL Speaking Task — Campus Situation}
+
+\begin{center}
+\begin{tcolorbox}[colback=purple!5!white, colframe=toeflpurple, width=0.9\textwidth]
+\textbf{Reading:} The university library will extend its hours starting next month.
+
+\textbf{Listening (summary):} A student says she is happy about this change because she had been struggling to find quiet study spaces. She had been going to coffee shops to study late at night, which was expensive and distracting.
+
+\textbf{Task:} Explain why the student supports the change. (Preparation: 30 seconds | Speaking: 60 seconds)
+\end{tcolorbox}
+\end{center}
+
+\textbf{Write your response notes:}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{0.5cm}
+
+\subsection*{Part B: TOEFL Writing — Integrated Task Style}
+
+\textit{Read the passage and lecture notes, then write a response.}
+
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+\textbf{Reading Passage:}\\
+``Remote work has become increasingly common in recent years. Companies report that productivity has remained stable or even improved.''
+
+\textbf{Lecture Notes:}\\
+Professor says: Before the pandemic, only 5\% of workers had been working remotely. Many companies had been resisting flexible work arrangements. Now, attitudes have changed dramatically.
+}}
+\end{center}
+
+\textbf{Write 2-3 sentences summarizing the relationship between the reading and lecture. Use Past Perfect Continuous:}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.4cm]
+\noindent\rule{\textwidth}{0.4pt}
+
+\newpage
+
+% ============================================================
+% COMMON EXAM MISTAKES
+% ============================================================
+
+\begin{center}
+\begin{tcolorbox}[colback=red!5!white, colframe=hardred, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{[!] COMMON EXAM MISTAKES}}\\[0.2cm]
+{\large\textit{Avoid These Errors in IELTS, Cambridge \& TOEFL}}
+\end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.3cm}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.4}
+\begin{tabularx}{\textwidth}{|c|X|X|}
+\hline
+\textbf{\#} & \textbf{{[X]} Common Mistake} & \textbf{{[OK]} Correct Form} \\
+\hline
+1 & \textit{I had been work hard.} & \textit{I \textbf{had been working} hard.} \\
+\hline
+2 & \textit{She had been knowing him for years.} & \textit{She \textbf{had known} him for years.} \\
+\hline
+3 & \textit{They have been waiting when I arrived.} & \textit{They \textbf{had been waiting} when I arrived.} \\
+\hline
+4 & \textit{I had been living there since 5 years.} & \textit{I had been living there \textbf{for} 5 years.} \\
+\hline
+5 & \textit{How long you had been studying?} & \textit{\textbf{How long had you been} studying?} \\
+\hline
+6 & \textit{The team had been finished the project.} & \textit{The team \textbf{had finished} the project.} \\
+\hline
+7 & \textit{He had been believing in himself.} & \textit{He \textbf{had believed} in himself.} \\
+\hline
+8 & \textit{We had waiting for hours.} & \textit{We \textbf{had been waiting} for hours.} \\
+\hline
+\end{tabularx}
+\end{center}
+
+\vspace{0.3cm}
+
+\begin{examtipbox}[[MEMO] Remember for Exams]
+\textbf{Stative verbs} that should NOT be used in continuous form:
+\begin{multicols}{3}
+\begin{itemize}[leftmargin=0.5cm]
+    \item know
+    \item believe
+    \item want
+    \item like/love/hate
+    \item understand
+    \item remember
+    \item belong
+    \item own
+    \item seem
+\end{itemize}
+\end{multicols}
+\textbf{Exception:} Some verbs change meaning in continuous → \textit{``I had been thinking about it''} (process) is correct!
+\end{examtipbox}
+
+\newpage
 
 % ============================================================
 % SCORING SUMMARY
@@ -759,7 +1305,9 @@ and translating between Portuguese and English.
 \hline
 \textcolor{hardred}{\textbf{HARD}} & 9-12 & 35 points \\
 \hline
-\textbf{GRAND TOTAL} & 1-12 & \textbf{115 points} \\
+\textcolor{examorange}{\textbf{REAL-LIFE \& EXAM}} & 13-18 & 55 points \\
+\hline
+\textbf{GRAND TOTAL} & 1-18 & \textbf{170 points} \\
 \hline
 \end{tabular}
 \vspace{0.5cm}
@@ -768,4 +1316,191 @@ and translating between Portuguese and English.
 {\large\textit{Check your answers with the Answer Key}}
 \end{center}
 
+\newpage
+
+% ============================================================
+% QUICK REFERENCE PAGES (TEARABLE)
+% ============================================================
+
+\pagestyle{empty}
+
+\begin{center}
+\rule{\textwidth}{0.5pt}\\[0.2cm]
+{\small\textit{[CUT] TEAR HERE — Quick Reference Card}}\\[0.2cm]
+\rule{\textwidth}{0.5pt}
+\end{center}
+
+\vspace{0.3cm}
+
+\begin{center}
+{\Huge\bfseries Quick Reference}\\[0.3cm]
+{\Large Past Perfect Continuous}\\[0.2cm]
+\rule{0.8\textwidth}{0.4pt}
+\end{center}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=blue!5!white, colframe=blue!70!black, title=\textbf{FORM}]
+\begin{center}
+\textbf{had} + \textbf{been} + \textbf{verb-ing}
+\end{center}
+
+\begin{tabular}{ll}
+\textbf{(+)} & I/You/He/She/It/We/They \textbf{had been working} \\
+\textbf{(-)} & I/You/He/She/It/We/They \textbf{hadn't been working} \\
+\textbf{(?)} & \textbf{Had} I/you/he/she/it/we/they \textbf{been working}? \\
+\end{tabular}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=green!5!white, colframe=easygreen, title=\textbf{MAIN USES}]
+\begin{enumerate}[leftmargin=1cm]
+    \item \textbf{Duration before a past moment:}\\
+    \textit{``I had been waiting for an hour when the bus came.''}
+    
+    \item \textbf{Cause → Visible result:}\\
+    \textit{``He was tired because he had been running.''}
+    
+    \item \textbf{Repeated actions before a past event:}\\
+    \textit{``She had been applying to jobs for months before she got hired.''}
+\end{enumerate}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=yellow!5!white, colframe=mediumyellow, title=\textbf{TIME EXPRESSIONS}]
+\begin{tabular}{|l|l|}
+\hline
+\textbf{FOR} + duration & for hours, for weeks, for ages, for a long time \\
+\hline
+\textbf{SINCE} + starting point & since morning, since 2020, since January \\
+\hline
+\textbf{ALL} + time period & all day, all night, all morning, all week \\
+\hline
+\textbf{HOW LONG} questions & How long had you been waiting...? \\
+\hline
+\end{tabular}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=red!5!white, colframe=hardred, title=\textbf{{[!]} COMMON MISTAKES}]
+\begin{tabular}{ll}
+{[X]} \textit{had been work} & {[OK]} \textit{had been \textbf{working}} \\
+{[X]} \textit{had been knowing} & {[OK]} \textit{had \textbf{known}} (stative verb!) \\
+{[X]} \textit{since 3 hours} & {[OK]} \textit{\textbf{for} 3 hours} \\
+{[X]} \textit{have been waiting (past)} & {[OK]} \textit{\textbf{had} been waiting} \\
+\end{tabular}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=purple!5!white, colframe=toeflpurple, title=\textbf{PPC vs. PP Simple}]
+\begin{tabular}{|p{7cm}|p{7cm}|}
+\hline
+\textbf{Past Perfect Continuous} & \textbf{Past Perfect Simple} \\
+\hline
+Focus on \textbf{duration/process} & Focus on \textbf{completion/result} \\
+\textit{``She had been reading for hours.''} & \textit{``She had read 3 books.''} \\
+\hline
+\end{tabular}
+\end{tcolorbox}
+
+\newpage
+
+\begin{center}
+\rule{\textwidth}{0.5pt}\\[0.2cm]
+{\small\textit{[CUT] TEAR HERE — Personal Notes Page 1}}\\[0.2cm]
+\rule{\textwidth}{0.5pt}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{center}
+{\Large\bfseries Personal Notes — Past Perfect Continuous}\\[0.3cm]
+\rule{0.8\textwidth}{0.4pt}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.7cm]
+\noindent\rule{\textwidth}{0.4pt}
+
+\newpage
+
+\begin{center}
+\rule{\textwidth}{0.5pt}\\[0.2cm]
+{\small\textit{[CUT] TEAR HERE — Personal Notes Page 2}}\\[0.2cm]
+\rule{\textwidth}{0.5pt}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{center}
+{\Large\bfseries My Mistakes \& Learning Points}\\[0.3cm]
+\rule{0.8\textwidth}{0.4pt}
+\end{center}
+
+\vspace{0.3cm}
+
+\textbf{Date:} \_\_\_\_\_\_\_\_\_\_\_\_ \hfill \textbf{Score:} \_\_\_\_\_ / 170
+
+\vspace{0.3cm}
+
+\textbf{Mistakes I made:}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{0.3cm}
+
+\textbf{Rules I need to remember:}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{0.3cm}
+
+\textbf{Review date:} \_\_\_\_\_\_\_\_\_\_\_\_ \hfill \textbf{Second attempt score:} \_\_\_\_\_ / 170
+
+\vspace{0.3cm}
+
+\textbf{Additional notes:}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.6cm]
+\noindent\rule{\textwidth}{0.4pt}
+
 \end{document}
+
+
