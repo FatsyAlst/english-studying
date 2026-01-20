@@ -12,9 +12,12 @@ exercises/
 │   ├── for-since-when-how-long/
 │   │   ├── for-since-when-how-long-exercises.tex
 │   │   └── for-since-when-how-long-answers.tex
-│   └── past-perfect/
-│       ├── past-perfect-exercises.tex
-│       └── past-perfect-answers.tex
+│   ├── past-perfect/
+│   │   ├── past-perfect-exercises.tex
+│   │   └── past-perfect-answers.tex
+│   └── past-perfect-continuous/
+│       ├── past-perfect-continuous-exercises.tex
+│       └── past-perfect-continuous-answers.tex
 └── README.md (this file)
 ```
 
@@ -50,6 +53,28 @@ exercises/
 **Files:**
 - `past-perfect-exercises.tex` - Exercise set
 - `past-perfect-answers.tex` - Answer key with explanations
+
+---
+
+#### Past Perfect Continuous (I had been doing)
+**Path:** `english-grammar-in-use/past-perfect-continuous/`
+
+**Topics Covered:**
+- Past perfect continuous formation (had been + -ing)
+- Duration of activities before a past moment
+- Cause and visible result in the past
+- Past perfect continuous vs past perfect simple
+- Time expressions (for, since, all day)
+- Translation practice (Portuguese ↔ English)
+
+**Difficulty Levels:**
+- 🟢 **EASY** — Recognition & Basic Formation (Exercises 1-4)
+- 🟡 **MEDIUM** — Application & Context (Exercises 5-8)
+- 🔴 **HARD** — Production & Analysis (Exercises 9-12)
+
+**Files:**
+- `past-perfect-continuous-exercises.tex` - 12 exercises, 115 points total
+- `past-perfect-continuous-answers.tex` - Answer key with detailed explanations
 
 ## 🔧 How to Use These Files
 

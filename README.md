@@ -158,8 +158,11 @@ english-studying/
 ├── 🎯 prompts/                       # AI prompts for English learning
 ├── 📝 exercises/                     # Grammar practice exercises
 │   └── english-grammar-in-use/       # Organized by book
-│       ├── for-since-when-how-long/  # Organized by topic
-│       └── past-perfect/             # Past Perfect exercises├── 📖 reading/                       # Reading tracker for leisure books└── 🎨 media/                         # Images, logos, and visual assets
+│       ├── for-since-when-how-long/  # FOR/SINCE exercises
+│       ├── past-perfect/             # Past Perfect exercises
+│       └── past-perfect-continuous/  # Past Perfect Continuous exercises
+├── 📖 reading/                       # Reading tracker for leisure books
+└── 🎨 media/                         # Images, logos, and visual assets
 ```
 
 > **Note:** Book notes are kept privately in Samsung Notes on my tablet. Additional practice exercises are available in the `exercises/` folder as LaTeX files organized by book and topic that can be compiled into PDFs.
