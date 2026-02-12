@@ -4,8 +4,6 @@
 > *Learn English vocabulary through the media you love.*
 
 ---
-### 📝 To-do
-- [ ] Rectify agent instructions: don't do extra steps in order to link notes when adding vocabulary; scan entire vault always when adding vocabulary, but, instead of adding extra content in order to link, just do the linking if there's reference to other vocabularies on the "Usage notes" for each new vocabulary
 
 ## 🎬 Media Sources
 

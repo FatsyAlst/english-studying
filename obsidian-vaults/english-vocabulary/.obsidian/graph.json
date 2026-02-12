@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:Homepage",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
       "query": "file:Dragon Ball Z",
       "color": {
         "a": 1,

@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "a1b5d293b4a3ff7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Vocabulary To-Do List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vocabulary To-Do List"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,11 +85,9 @@
           {
             "id": "2686c113777b2c49",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -230,18 +213,20 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "b59d586215fa08de",
+  "active": "2686c113777b2c49",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Vocabulary/Dragon Ball Z/ambush.md",
+    "Resources/Vocabulary To-Do List.md",
+    "Vocabulary/Dragon Ball Z/insidious.md",
     "Resources/Ingestion pending/jjk-modulo.txt",
     "Resources/Ingestion pending",
-    "Homepage.md",
     "Vocabulary/Dragon Ball Z/grudge.md",
     "Vocabulary/Dragon Ball Z/Dragon Ball Z.md",
     "Vocabulary/Dragon Ball Z/cunning.md",
     "Vocabulary/Jujutsu Kaisen Modulo/crystal-clear.md",
     "Vocabulary/Dragon Ball Z/pay-through-the-nose.md",
     "Vocabulary/Dragon Ball Z/plowing.md",
-    "Vocabulary/Dragon Ball Z/insidious.md",
     "Vocabulary/Jujutsu Kaisen Modulo/slack-off.md",
     "Vocabulary/Jujutsu Kaisen Modulo/good-for-nothing.md",
     "Vocabulary/Jujutsu Kaisen Modulo/wildfire.md",
@@ -258,7 +243,6 @@
     "Vocabulary/Jujutsu Kaisen Modulo/stir-up.md",
     "Vocabulary/Jujutsu Kaisen Modulo/embargo.md",
     "Vocabulary/Jujutsu Kaisen Modulo/deterrent.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/surge.md",
     "media/banners/jjk-modulo.jpg",
     "media/covers/dragon-ball-cover.jpg",
     "Vocabulary/Dragon Ball",
@@ -276,7 +260,6 @@
     "media/banners/uncanny-cover.jpg",
     "media/banners",
     "Exercises/vocabulary-practice-1/vocabulary-answers-1.pdf",
-    "Exercises/vocabulary-practice-3/vocabulary-exercises-3.tex",
-    "Exercises/vocabulary-practice-3/vocabulary-exercises-3.synctex.gz"
+    "Exercises/vocabulary-practice-3/vocabulary-exercises-3.tex"
   ]
 }

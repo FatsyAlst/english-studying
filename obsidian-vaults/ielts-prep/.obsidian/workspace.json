@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "d65669200d50992b",
+    "type": "split",
+    "children": [
+      {
+        "id": "de580cb5b018ef0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d6752da9d811abc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "579edc03b38f0e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "945163b77bc3b80f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c93af0a39039fea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2a94dfaf88619cea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d315f828b2f1a5ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca03d919afca35e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eaceebb95386b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f1772cb929f618",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "3b413566ed472672",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "58d7bf244b190a7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e499ee5457794c4f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "75bde953cb587522",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "7644ef918e009fcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Homepage"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
+    }
+  },
+  "active": "9d6752da9d811abc",
+  "lastOpenFiles": [
+    "Test overview.canvas",
+    "Homepage.md",
+    "01 - Algebra/Graphs of Linear Systems and Inequalities.md",
+    "01 - Algebra/Systems of Linear Equations.md",
+    "media/goten-dbz-1.gif",
+    "media/Unconfirmed 122862.crdownload",
+    "media/Unconfirmed 427774.crdownload",
+    "media/Pasted image 20260208115718.png",
+    "media/goku-ssj3-vp.png",
+    "Templates/Feedback Analysis.md",
+    "Scores/Practice Test 3.md",
+    "Scores/Practice Test 2.md",
+    "Scores/Practice Test 1.md",
+    "Scores/Score Log.md",
+    "Templates/Topic Note.md",
+    "Templates/Score Entry.md",
+    "01 - Algebra/Linear Equations.md",
+    "01 - Algebra/Index.md",
+    "Exercises/Khan Academy/Index.md",
+    "Exercises/Question Bank/Index.md",
+    "Templates/Exercise.md",
+    "Exercises/Question Bank",
+    "Exercises/Khan Academy",
+    "Exercises",
+    "Templates",
+    "Scores",
+    "04 - Geometry and Trigonometry/Index.md",
+    "04 - Geometry and Trigonometry",
+    "03 - Problem Solving and Data Analysis/Index.md",
+    "03 - Problem Solving and Data Analysis",
+    "02 - Advanced Math/Index.md",
+    "02 - Advanced Math",
+    "01 - Algebra/Linear Inequality.md",
+    "Welcome.md",
+    "Untitled 1.canvas"
+  ]
+}

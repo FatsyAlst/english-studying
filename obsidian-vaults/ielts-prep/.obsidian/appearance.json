@@ -1,0 +1,8 @@
+{
+  "accentColor": "#16b0fe",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "hide-properties"
+  ]
+}
