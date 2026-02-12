@@ -8,6 +8,7 @@
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Perplexity](https://img.shields.io/badge/Perplexity-20808d?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/FatsyAlst/english-studying?style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FatsyAlst/english-studying?style=flat-square)
@@ -36,7 +37,6 @@
   - [📖 Reading for Pleasure](#-reading-for-pleasure)
     - [Currently Reading](#currently-reading)
   - [🧠 Obsidian Vocabulary Vault](#-obsidian-vocabulary-vault)
-  - [📁 Repository Structure](#-repository-structure)
   - [🎓 Resources](#-resources)
     - [Online Courses](#online-courses)
       - [My Experience](#my-experience)
@@ -77,11 +77,25 @@ This repository serves as:
 
 ## 🎯 IELTS Journey
 
+<br>
+
+<div align="center">
+  <img src="./media/ielts.png" alt="IELTS Logo" width="200"/>
+</div>
+
+<br>
+
+<details open>
+
+<summary><b>Attempt #1</b></summary>
+
 > **Target Score:** 6.5 - 7.0 (Academic) | **Purpose:** International bachelor program applications
 
-| Attempt | Date | Format | Listening | Reading | Writing | Speaking | Overall | Notes |
-|:-------:|:----:|:------:|:---------:|:-------:|:-------:|:--------:|:-------:|:------|
-| 1 | Feb 11-12, 2026 | Online (British Council) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | First attempt. Awaiting results. |
+| Date | Format | Listening | Reading | Writing | Speaking | Overall | Notes |
+|:----:|:------:|:---------:|:-------:|:-------:|:--------:|:-------:|:------|
+| Feb 11-12, 2026 | Online Academic Test (British Council) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | First attempt. Awaiting results. |
+
+</details>
 
 ---
 
@@ -91,7 +105,7 @@ This repository serves as:
 I leverage various AI tools to enhance my learning experience:
 
 - **GitHub Copilot** - Code-based English practice and technical documentation
-- **Claude (via Codeium)** - Vocabulary learning and AI-powered coding assistance
+- **Claude** - Vocabulary learning and AI-powered coding assistance
 - **Perplexity** - Research, answering questions and finding quality resources
 
 ### Traditional Resources
