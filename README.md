@@ -18,33 +18,23 @@
 ---
 
 ## 📑 Table of Contents
-- [📚 English Studying Journey](#-english-studying-journey)
-    - [Made by a Brazilian 🇧🇷](#made-by-a-brazilian-)
-  - [📑 Table of Contents](#-table-of-contents)
-  - [🎯 About This Repository](#-about-this-repository)
-  - [🧑‍🎓 Starting Level](#-starting-level)
-  - [📚 Currently Studying](#-currently-studying)
-    - [📖 Book](#-book)
-    - [🎓 Online Course](#-online-course)
-  - [🛠️ Tools \& Resources](#️-tools--resources)
-    - [AI Assistants](#ai-assistants)
-    - [Traditional Resources](#traditional-resources)
-  - [📚 Book Study Plan](#-book-study-plan)
-    - [Phase 1: Foundation (Current)](#phase-1-foundation-current)
-    - [Phase 2: Building](#phase-2-building)
-    - [Phase 3: Advanced](#phase-3-advanced)
-  - [📖 Reading for Pleasure](#-reading-for-pleasure)
-    - [Currently Reading](#currently-reading)
-  - [📁 Repository Structure](#-repository-structure)
-  - [🎓 Resources](#-resources)
-    - [Online Courses](#online-courses)
-      - [My Experience](#my-experience)
-  - [💡 Study Approach](#-study-approach)
-  - [📊 Current Skills Proficiency](#-current-skills-proficiency)
-  - [⚠️ Important Note](#️-important-note)
-  - [❓ Frequently Asked Questions](#-frequently-asked-questions)
-  - [🤝 Contributing](#-contributing)
-  - [📜 License](#-license)
+- [🎯 About This Repository](#-about-this-repository)
+- [🧑‍🎓 Starting Level](#-starting-level)
+- [📚 Currently Studying](#-currently-studying)
+- [🎯 IELTS Journey](#-ielts-journey)
+- [🛠️ Tools & Resources](#️-tools--resources)
+- [📚 Book Study Plan](#-book-study-plan)
+- [📖 Reading for Pleasure](#-reading-for-pleasure)
+- [🧠 Obsidian Vocabulary Vault](#-obsidian-vocabulary-vault)
+- [📁 Repository Structure](#-repository-structure)
+- [🎓 Resources](#-resources)
+  - [Online Courses](#online-courses)
+- [💡 Study Approach](#-study-approach)
+- [📊 Current Skills Proficiency](#-current-skills-proficiency)
+- [⚠️ Important Note](#️-important-note)
+- [❓ Frequently Asked Questions](#-frequently-asked-questions)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ---
 
@@ -70,11 +60,19 @@ This repository serves as:
 ### 📖 Book
 **English Grammar in Use** (Intermediate)  
 
-### 🎓 Online Course
-**Linguapolis - Online Conversation Practice** (C1+)  
-📅 Started: November 18, 2025 | 🗣️ Focus: Speaking & Feedback
-
 </div>
+
+---
+
+## 🎯 IELTS Journey
+
+> **Target Score:** 6.5 - 7.0 (Academic) | **Purpose:** International CS program applications
+
+| Attempt | Date | Format | Listening | Reading | Writing | Speaking | Overall | Notes |
+|:-------:|:----:|:------:|:---------:|:-------:|:-------:|:--------:|:-------:|:------|
+| 1 | Feb 11-12, 2026 | Online (British Council) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | First attempt. Awaiting results. |
+
+> ⏳ = Awaiting results | Results are typically available 3-5 days after the test (online format).
 
 ---
 
@@ -99,7 +97,7 @@ I leverage various AI tools to enhance my learning experience:
 
 ## 📚 Book Study Plan
 
-> **Last Updated:** December 10, 2025
+> **Last Updated:** February 12, 2026
 
 Based on my current B2 level, I've created a structured learning path through the Cambridge English series and complementary materials.
 
@@ -151,6 +149,22 @@ Beyond textbooks, I also read books for enjoyment to improve my English naturall
 
 📚 **[View Full Reading Tracker →](./reading/README.md)**
 
+## 🧠 Obsidian Vocabulary Vault
+
+This repository includes a fully-featured **Obsidian vault** for tracking vocabulary learned from anime, manga, series, and other media. Located in `obsidian-vaults/english-vocabulary/`.
+
+**Features:**
+- 📇 **Vocabulary Cards** — Detailed word cards with definitions, word families, collocations, etymology, usage notes, and Portuguese translations
+- 📊 **Interactive Dashboard** — Homepage with DataviewJS-powered statistics, recent words, and paginated word lists per media source
+- 📈 **Learning Progress Charts** — Visual tracking of vocabulary growth over time for each media source
+- 🏷️ **Media-Based Organization** — Words organized by source material (Dragon Ball Z, F1, Peaky Blinders, Jujutsu Kaisen Modulo)
+- 🎨 **Custom Theme** — Dracula dark scheme with media-specific accent colors and custom CSS
+- 📝 **Blog Section** — Articles exploring interesting English language topics
+- 🧪 **Vocabulary Exercises** — Practice sets with LaTeX-generated PDFs
+- 🤖 **AI Prompt Integration** — Built-in vocabulary learning prompt for use with AI assistants
+
+> **To use the vault:** Open the `obsidian-vaults/english-vocabulary/` folder as a vault in [Obsidian](https://obsidian.md/). The vault includes all plugins, theme settings, and CSS snippets pre-configured.
+
 ## 📁 Repository Structure
 
 ```
@@ -159,9 +173,19 @@ english-studying/
 ├── 📝 exercises/                     # Grammar practice exercises
 │   └── english-grammar-in-use/       # Organized by book
 │       ├── for-since-when-how-long/  # FOR/SINCE exercises
+│       ├── have-have-got/            # HAVE/HAVE GOT exercises
 │       ├── past-perfect/             # Past Perfect exercises
 │       └── past-perfect-continuous/  # Past Perfect Continuous exercises
+├── 🧠 obsidian-vaults/               # Obsidian knowledge bases
+│   └── english-vocabulary/           # Vocabulary tracking vault
+│       ├── Vocabulary/               # Word cards by media source
+│       ├── Blog/                     # Language exploration articles
+│       ├── Exercises/                # Vocabulary practice sets
+│       ├── Resources/                # Learning prompts & to-do lists
+│       └── Templates/                # Card templates for new words
 ├── 📖 reading/                       # Reading tracker for leisure books
+├── 🎓 ielts-preparation/             # IELTS writing practice & examples
+├── 📕 books-pdf/                     # Study book PDFs
 └── 🎨 media/                         # Images, logos, and visual assets
 ```
 
@@ -183,8 +207,10 @@ english-studying/
 <br>
 
 **Institution:** [Linguapolis - University of Antwerp](https://www.uantwerpen.be/en/centres/linguapolis/)  
-**Status:** 🔄 On-going  
+**Status:** ✅ Completed  
 **Started:** November 18, 2025  
+**Finished:** February 3, 2026  
+**Total Sessions:** 10  
 **Level:** C1+
 
 #### My Experience
@@ -288,7 +314,7 @@ This repository is for educational purposes. All book materials referenced are c
 
 ---
 
-**Last Updated:** December 2025  
+**Last Updated:** February 2026  
 **Status:** 🚀 Active Learning
 
 <div align="center">
