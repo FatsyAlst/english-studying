@@ -18,23 +18,34 @@
 ---
 
 ## 📑 Table of Contents
-- [🎯 About This Repository](#-about-this-repository)
-- [🧑‍🎓 Starting Level](#-starting-level)
-- [📚 Currently Studying](#-currently-studying)
-- [🎯 IELTS Journey](#-ielts-journey)
-- [🛠️ Tools & Resources](#️-tools--resources)
-- [📚 Book Study Plan](#-book-study-plan)
-- [📖 Reading for Pleasure](#-reading-for-pleasure)
-- [🧠 Obsidian Vocabulary Vault](#-obsidian-vocabulary-vault)
-- [📁 Repository Structure](#-repository-structure)
-- [🎓 Resources](#-resources)
-  - [Online Courses](#online-courses)
-- [💡 Study Approach](#-study-approach)
-- [📊 Current Skills Proficiency](#-current-skills-proficiency)
-- [⚠️ Important Note](#️-important-note)
-- [❓ Frequently Asked Questions](#-frequently-asked-questions)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
+- [📚 English Studying Journey](#-english-studying-journey)
+    - [Made by a Brazilian 🇧🇷](#made-by-a-brazilian-)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🎯 About This Repository](#-about-this-repository)
+  - [🧑‍🎓 Starting Level](#-starting-level)
+  - [📚 Currently Studying](#-currently-studying)
+    - [📖 Book](#-book)
+  - [🎯 IELTS Journey](#-ielts-journey)
+  - [🛠️ Tools \& Resources](#️-tools--resources)
+    - [AI Assistants](#ai-assistants)
+    - [Traditional Resources](#traditional-resources)
+  - [📚 Book Study Plan](#-book-study-plan)
+    - [Phase 1: Foundation (Current)](#phase-1-foundation-current)
+    - [Phase 2: Building](#phase-2-building)
+    - [Phase 3: Advanced](#phase-3-advanced)
+  - [📖 Reading for Pleasure](#-reading-for-pleasure)
+    - [Currently Reading](#currently-reading)
+  - [🧠 Obsidian Vocabulary Vault](#-obsidian-vocabulary-vault)
+  - [📁 Repository Structure](#-repository-structure)
+  - [🎓 Resources](#-resources)
+    - [Online Courses](#online-courses)
+      - [My Experience](#my-experience)
+  - [💡 Study Approach](#-study-approach)
+  - [📊 Current Skills Proficiency](#-current-skills-proficiency)
+  - [⚠️ Important Note](#️-important-note)
+  - [❓ Frequently Asked Questions](#-frequently-asked-questions)
+  - [🤝 Contributing](#-contributing)
+  - [📜 License](#-license)
 
 ---
 
@@ -50,7 +61,7 @@ This repository serves as:
 
 - **Starting Point:** B2 (Upper-Intermediate)
 - **Start Date:** Late 2025
-- **Goal:** Achieve fluency and score 6.5-7.0 on IELTS for international CS program applications
+- **Goal:** Score 6.5-7.0 on IELTS for international program applications
 - **Native Language:** Portuguese (PT-BR)
 
 ## 📚 Currently Studying
@@ -66,13 +77,11 @@ This repository serves as:
 
 ## 🎯 IELTS Journey
 
-> **Target Score:** 6.5 - 7.0 (Academic) | **Purpose:** International CS program applications
+> **Target Score:** 6.5 - 7.0 (Academic) | **Purpose:** International bachelor program applications
 
 | Attempt | Date | Format | Listening | Reading | Writing | Speaking | Overall | Notes |
 |:-------:|:----:|:------:|:---------:|:-------:|:-------:|:--------:|:-------:|:------|
 | 1 | Feb 11-12, 2026 | Online (British Council) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | First attempt. Awaiting results. |
-
-> ⏳ = Awaiting results | Results are typically available 3-5 days after the test (online format).
 
 ---
 
@@ -82,7 +91,7 @@ This repository serves as:
 I leverage various AI tools to enhance my learning experience:
 
 - **GitHub Copilot** - Code-based English practice and technical documentation
-- **ChatGPT** - Vocabulary learning
+- **Claude (via Codeium)** - Vocabulary learning and AI-powered coding assistance
 - **Perplexity** - Research, answering questions and finding quality resources
 
 ### Traditional Resources
@@ -135,6 +144,10 @@ Based on my current B2 level, I've created a structured learning path through th
 | <img src="./media/covers/idioms-advanced.jpg" width="80"/> | **English Idioms in Use** (Advanced) | ⏸️ Not Started |
 | <img src="./media/covers/oxford-idioms-phrasal.jpg" width="80"/> | **Oxford Work Skills - Idioms and Phrasal Verbs** (Intermediate to Advanced) | ⏸️ Not Started |
 
+---
+
+> **Note:** Book notes and annotations are kept privately in **Samsung Notes** on my tablet for convenience during study sessions. Additional practice exercises are available in the [`exercises/` folder](./exercises/) as LaTeX files organized by book and topic.
+
 ## 📖 Reading for Pleasure
 
 Beyond textbooks, I also read books for enjoyment to improve my English naturally. This includes novels, memoirs, and non-fiction on topics I love.
@@ -164,32 +177,6 @@ This repository includes a fully-featured **Obsidian vault** for tracking vocabu
 - 🤖 **AI Prompt Integration** — Built-in vocabulary learning prompt for use with AI assistants
 
 > **To use the vault:** Open the `obsidian-vaults/english-vocabulary/` folder as a vault in [Obsidian](https://obsidian.md/). The vault includes all plugins, theme settings, and CSS snippets pre-configured.
-
-## 📁 Repository Structure
-
-```
-english-studying/
-├── 🎯 prompts/                       # AI prompts for English learning
-├── 📝 exercises/                     # Grammar practice exercises
-│   └── english-grammar-in-use/       # Organized by book
-│       ├── for-since-when-how-long/  # FOR/SINCE exercises
-│       ├── have-have-got/            # HAVE/HAVE GOT exercises
-│       ├── past-perfect/             # Past Perfect exercises
-│       └── past-perfect-continuous/  # Past Perfect Continuous exercises
-├── 🧠 obsidian-vaults/               # Obsidian knowledge bases
-│   └── english-vocabulary/           # Vocabulary tracking vault
-│       ├── Vocabulary/               # Word cards by media source
-│       ├── Blog/                     # Language exploration articles
-│       ├── Exercises/                # Vocabulary practice sets
-│       ├── Resources/                # Learning prompts & to-do lists
-│       └── Templates/                # Card templates for new words
-├── 📖 reading/                       # Reading tracker for leisure books
-├── 🎓 ielts-preparation/             # IELTS writing practice & examples
-├── 📕 books-pdf/                     # Study book PDFs
-└── 🎨 media/                         # Images, logos, and visual assets
-```
-
-> **Note:** Book notes are kept privately in Samsung Notes on my tablet. Additional practice exercises are available in the `exercises/` folder as LaTeX files organized by book and topic that can be compiled into PDFs.
 
 ## 🎓 Resources
 
