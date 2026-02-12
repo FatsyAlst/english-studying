@@ -1,0 +1,341 @@
+---
+tags:
+  - tracker
+  - study
+created: 2026-02-10
+---
+# 📝 Vocabulary To-Do List
+
+> [!info] How to Use
+> Add words you encounter and want to study later.
+
+---
+
+## 🆕 To Learn
+> Words waiting to be researched and added as vocabulary cards.
+
+### Media
+
+[[Jujutsu Kaisen Modulo]]
+- slit
+- bereaved
+- tap (and "tap into")
+- cub
+- recon (short for "reconnaissance")
+- prelim (short for "preliminary")
+- landlord
+- carelessness
+- litmus
+- gauge
+- twist (and "twisting things")
+- "old geezer"
+- chump
+- strip (and "strip away")
+- plaything
+- rot (and "rot away")
+- wise (and "wise up")
+- wit (and "keep your wits about you")
+- bickering
+- "the needles and thread are exactly how they look"
+- shapeshift
+- marbles
+- "a little of"
+- "off my game"
+- trampling
+- depicting
+- outright
+- linger
+- malignant
+- swirling
+- blunt
+- righteous
+- razed
+- rubble
+- clutching
+- vigilante
+- rampant
+- cages
+- rough up
+- boulder
+- detour
+- barren
+- crops
+- outlet
+- steady
+- suck up
+- gramps
+- weave
+- mauled
+- chieftain
+-  shed
+- toll
+- wield
+- numb
+- scraped (or scrapped...?)
+- quarry
+- "get framed"
+- reluctant
+- hesitant
+- "step in"
+- grand
+- swayed
+- bound
+- latent
+- leniency
+- drag
+- "is already common knowledge"
+- lackey
+- flour
+- stalled
+- tangible
+- "is a go"
+- shrivel
+- "sink like a rock"
+- reef
+- swarming
+- snag
+- rash guard
+- stung
+- swelling
+- bestowed
+- downright
+- batting
+- publicize
+- leakage
+- beacon
+- grovel
+- scrub
+- calamity
+- prefectural
+- spike
+- pipe down
+- nominate
+- whereabouts
+- relinquishment
+- roaches
+- brush off
+- unforeseen
+- forfeit
+- "put down roots"
+- speck
+- weary
+- merely
+- shook
+- oblivious
+- unveil
+- bursting
+- entrails
+- decree
+- deemed
+- tame
+- sole
+- prowess
+- evoke
+- imbued
+- voided
+- captive
+- "let loose"
+- bellitle
+- sneakily
+- backfired
+- distaste
+- maid
+- glimpse
+- amusement
+- "off the charts"
+- altogether
+- ordeal
+- soar
+- displeased
+- harboring
+- convey
+- withstand
+- pummel
+- crumble
+- wither (and "wither away)
+- shatter
+- hinderance
+- dwelling
+- sheer
+- rubbish
+- tinkered
+- abide
+- piss (and "piss over")
+- bureaucrat
+- "red handed"
+- aside
+- guts
+- fret
+- purge
+- cull
+- pursuit
+- neglect
+- cherish
+- "well off"
+- rundown
+- designate
+- plainly
+
+[[Dragon Ball Z]]
+- "half-pint"
+- "shoe-in"
+- toddler
+- "hang tight"
+- hopping
+- bargain sale
+- flouncing
+- clamp (and "clamp it")
+- errands
+- stretch
+- goofy
+- crack up
+- heck
+- steamroller
+- ham up
+- comb
+- "pinch me"
+- listen up
+- move on
+- "break a leg"
+- flocked
+- beware
+- wax
+- "spare me"
+- "there was talk"
+- shutter
+- "laughing stuck"
+- fetch
+- clench
+- would-be
+- bidding
+- specialty
+- blimp
+- sickening
+- padding
+- flinch
+- cracking
+- milk
+- big-mouth
+- shortcake
+- "out cold"
+- dandy
+- bummer
+- pint-size
+- floor
+- cliffhanger
+- hold-up
+- outward
+- keen
+- pound
+- gusto
+- tear up
+- farce
+- tarnation
+- stranglehold
+- brace up
+- yeller
+- wrestling
+- snapshot
+- lousy
+- bum
+- even-steven
+- reigning
+- renowned
+- lure (and "lure out")
+- vied
+- rightly
+- "toe-to-toe"
+- "make-believe"
+- outsmart
+- rascal
+- firecracker
+- tender
+- "fair and square"
+- concession
+- whirlpoor
+- heart-throb
+- famished
+- eggrolls
+- pit
+- feast
+- take on
+- portend
+- strung
+- poke (and "pokeout")
+- eyeholes
+- dull
+- oaf
+- scrawny
+- coffin
+- "right off the bat"
+- commence
+- "cut loose"
+- sworn
+- pulp
+- lame
+- bogus
+- edgy
+- slap-kick
+- undyingly
+- lug
+- toss
+- grunt
+- stretcher
+- feeble
+- twerp
+- rag
+- pawn
+- spell
+- brewing
+- infancy
+- harness
+- grasp
+- "the like of which"
+- clobbered
+- bide
+- gullible
+- ensnare
+- cower
+- foreshadow
+- thwart
+- torment
+- dispose
+- diseased
+- "as though"
+- lure
+- straggler
+- intermission
+- bust
+- thoroughly
+- crony
+- sidekick
+- smithereens
+- breakthrough
+- shaft
+- coast
+- disasterous
+- fortress  
+- utmost
+- delicacy
+- greed
+- cocoon
+- unsuspecting
+- decor
+- bind
+- duking
+- thrill
+- feat
+- wacky
+- bombshell
+- reckoned
+- flashiest
+- victor
+- saps
+- showmanship
+- itching
+
+---
+
+## 🔗 Related
+- [[Homepage]] — Back to main hub
+- [[Vocabulary Learning Prompt]] — AI prompt for researching words

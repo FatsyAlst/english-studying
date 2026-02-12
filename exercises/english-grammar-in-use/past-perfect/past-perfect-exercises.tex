@@ -5,12 +5,18 @@
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{tcolorbox}
+\usepackage{soul}
+\usepackage{dashrule}
 
 % Header and footer
 \pagestyle{fancy}
 \fancyhf{}
 \setlength{\headheight}{15pt}
-\lhead{English Grammar Practice}
+\lhead{English Grammar in Use}
 \rhead{PAST PERFECT}
 \cfoot{\thepage}
 
@@ -23,35 +29,187 @@
 {\large\bfseries\color{blue!50!black}}
 {\thesubsection}{1em}{}
 
+% Custom colors
+\definecolor{easygreen}{RGB}{34, 139, 34}
+\definecolor{mediumyellow}{RGB}{255, 165, 0}
+\definecolor{hardred}{RGB}{178, 34, 34}
+\definecolor{noteblue}{RGB}{0, 80, 160}
+\definecolor{tipbox}{RGB}{230, 247, 255}
+\definecolor{ieltsblue}{RGB}{0, 51, 102}
+\definecolor{cambridgered}{RGB}{163, 31, 52}
+\definecolor{toeflpurple}{RGB}{102, 51, 153}
+\definecolor{examorange}{RGB}{255, 102, 0}
+\definecolor{pitfallred}{RGB}{220, 53, 69}
+
+% Custom tcolorbox styles
+\newtcolorbox{grammarbox}[1][]{
+    colback=blue!5!white,
+    colframe=blue!70!black,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{tipbox}[1][]{
+    colback=tipbox,
+    colframe=noteblue,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{easybox}{
+    colback=green!5!white,
+    colframe=easygreen,
+    title={\textbf{EASY} — Recognition \& Basic Formation}
+}
+
+\newtcolorbox{mediumbox}{
+    colback=yellow!5!white,
+    colframe=mediumyellow,
+    title={\textbf{MEDIUM} — Application \& Context}
+}
+
+\newtcolorbox{hardbox}{
+    colback=red!5!white,
+    colframe=hardred,
+    title={\textbf{HARD} — Production \& Analysis}
+}
+
+% Exam-specific boxes
+\newtcolorbox{ieltsbox}[1][]{
+    colback=blue!3!white,
+    colframe=ieltsblue,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{cambridgebox}[1][]{
+    colback=red!3!white,
+    colframe=cambridgered,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{toeflbox}[1][]{
+    colback=purple!3!white,
+    colframe=toeflpurple,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{examtipbox}[1][]{
+    colback=orange!5!white,
+    colframe=examorange,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{pitfallbox}[1][]{
+    colback=red!5!white,
+    colframe=pitfallred,
+    fonttitle=\bfseries,
+    title=#1
+}
+
 \begin{document}
+
+% ============================================================
+% TITLE PAGE
+% ============================================================
 
 \begin{center}
     {\Huge\bfseries Grammar Practice Exercises}\\[0.5cm]
-    {\Large Past Perfect (I had done)}\\[0.5cm]
+    {\Large Past Perfect}\\[0.3cm]
+    {\large (I had done)}\\[0.5cm]
     \rule{\textwidth}{0.4pt}\\[0.3cm]
-    {\large Practice Set 1}\\[0.2cm]
+    {\large English Grammar in Use — Unit 15}\\[0.2cm]
+    {\large 15 Exercises • 120+ Questions • With Exam Practice}\\[0.2cm]
     \today
 \end{center}
 
-\vspace{1cm}
+\vspace{0.3cm}
 
-\section*{Instructions}
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+\centering
+\textbf{{[NOTE]} Document Navigation}\\[0.2cm]
+\textit{Quick Reference Pages are located at the \textbf{end of this document} (tearable).}\\
+Includes grammar summary card and ruled pages for personal notes.
+}}
+\end{center}
 
-This practice set focuses on the \textbf{Past Perfect} tense:
+\vspace{0.3cm}
+
+% ============================================================
+% GRAMMAR SUMMARY BOX
+% ============================================================
+
+\begin{grammarbox}[Grammar Summary: Past Perfect]
+\textbf{Form:} \textit{had} + \textbf{past participle} (had done, had seen, had been, etc.)
+
+\vspace{0.3cm}
+
+\textbf{Use:} To talk about something that happened \textbf{before} another past action or time.
+
+\vspace{0.3cm}
+
+\textbf{Timeline:}
+\begin{center}
+(First action: Past Perfect) $\rightarrow$ (Second action: Past Simple) $\rightarrow$ NOW
+\end{center}
+
+\textbf{Examples:}
 \begin{itemize}
-    \item Form: \textbf{had + past participle} (had done, had seen, had gone, etc.)
-    \item Use: To talk about something that happened \textbf{before} another past action or time
-    \item Key point: The past perfect shows which action happened \textbf{first} in the past
+    \item When I arrived at the cinema, the film \textbf{had already started}. (The film started first)
+    \item She wasn't hungry because she \textbf{had just eaten}. (She ate first, then she wasn't hungry)
+    \item I didn't recognize him. He \textbf{had changed} so much. (He changed before I saw him)
 \end{itemize}
+
+\textbf{Common Time Markers:}
+\textit{already, just, never, before, by the time, after, when, until}
+\end{grammarbox}
 
 \vspace{0.5cm}
 
 % ============================================================
-\section{Exercise 1: Complete with Past Perfect}
+% DIFFICULTY GUIDE
+% ============================================================
+
+\begin{center}
+\fbox{\parbox{0.95\textwidth}{
+\centering
+\textbf{Difficulty Progression Guide}\\[0.2cm]
+\textcolor{easygreen}{\textbf{EASY (Exercises 1-4):}} Recognition, basic formation, simple completion\\
+\textcolor{mediumyellow}{\textbf{MEDIUM (Exercises 5-8):}} Context application, mixed tenses, dialogues\\
+\textcolor{hardred}{\textbf{HARD (Exercises 9-12):}} Error correction, translation, complex sentences\\
+\textcolor{ieltsblue}{\textbf{EXAM (Exercises 13-15):}} IELTS, Cambridge, TOEFL practice
+}}
+\end{center}
+
+\newpage
+
+% ============================================================
+% EASY SECTION
+% ============================================================
+
+\begin{center}
+\begin{tcolorbox}[colback=green!5!white, colframe=easygreen, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- EASY EXERCISES ---}}\\[0.2cm]
+{\large\textit{Recognition \& Basic Formation}}\\[0.3cm]
+\textbf{Exercises 1-4} focus on recognizing and forming the Past Perfect.\\[0.1cm]
+Complete these with 90\%+ accuracy before moving to Medium exercises.
+\end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 1: Complete with Past Perfect (15 points)}
 
 \textit{Complete the sentences using the past perfect form of the verb in parentheses.}
 
-\begin{enumerate}[leftmargin=2cm]
+\begin{enumerate}[label=\arabic*.]
     \item When I arrived at the party, Tom \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (already / leave).
     \item She didn't want to go to the cinema because she \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (already / see) the film.
     \item By the time I got to the station, the train \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (already / go).
@@ -69,14 +227,23 @@ This practice set focuses on the \textbf{Past Perfect} tense:
     \item The movie \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (already / start) when we entered the cinema.
 \end{enumerate}
 
+\begin{tipbox}[Tip: Adverb Position]
+With Past Perfect, adverbs like \textbf{already}, \textbf{just}, \textbf{never} go between \textbf{had} and the \textbf{past participle}:
+\begin{itemize}
+    \item She \textbf{had already left}. {[OK]}
+    \item She \textbf{already had left}. {[X]}
+    \item I \textbf{had never seen} it before. {[OK]}
+\end{itemize}
+\end{tipbox}
+
 \newpage
 
 % ============================================================
-\section{Exercise 2: Past Simple or Past Perfect?}
+\section{Exercise 2: Past Simple or Past Perfect? (12 points)}
 
 \textit{Complete the sentences with the correct form: past simple or past perfect.}
 
-\begin{enumerate}[leftmargin=2cm]
+\begin{enumerate}[label=\arabic*.]
     \item When I \_\_\_\_\_\_\_\_\_\_ (arrive), everybody \_\_\_\_\_\_\_\_\_\_ (already / start) eating.
     \item She \_\_\_\_\_\_\_\_\_\_ (be) very hungry because she \_\_\_\_\_\_\_\_\_\_ (not / eat) anything all day.
     \item I \_\_\_\_\_\_\_\_\_\_ (not / recognize) him because he \_\_\_\_\_\_\_\_\_\_ (grow) a beard.
@@ -91,10 +258,37 @@ This practice set focuses on the \textbf{Past Perfect} tense:
     \item After they \_\_\_\_\_\_\_\_\_\_ (have) dinner, they \_\_\_\_\_\_\_\_\_\_ (watch) a movie.
 \end{enumerate}
 
-\vspace{1cm}
+\begin{pitfallbox}[Common Pitfall: After/Before]
+With \textbf{after} and \textbf{before}, the sequence is already clear, so Past Simple is also acceptable:
+\begin{itemize}
+    \item After he \textbf{had finished / finished} his work, he went home. (Both correct)
+    \item Before she \textbf{left / had left}, she checked the windows. (Both correct)
+\end{itemize}
+However, Past Perfect emphasizes that one action was complete before the other.
+\end{pitfallbox}
+
+\vspace{0.5cm}
 
 % ============================================================
-\section{Exercise 3: Write Sentences Using Past Perfect}
+\section{Exercise 3: Questions with Past Perfect (8 points)}
+
+\textit{Complete the questions using the past perfect.}
+
+\begin{enumerate}[label=\arabic*.]
+    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (you / ever / visit) London before your trip last year?
+    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (she / finish) her homework before the teacher arrived?
+    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (they / already / eat) when you got to the restaurant?
+    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (he / meet) her before the party?
+    \item Why \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (you / not / tell) me about the problem earlier?
+    \item How long \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (they / be) married before they had children?
+    \item What \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (happen) before the police arrived?
+    \item Where \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (she / work) before she joined our company?
+\end{enumerate}
+
+\newpage
+
+% ============================================================
+\section{Exercise 4: Write Sentences Using Past Perfect (6 points)}
 
 \textit{Combine the two sentences using the past perfect. The action in the first sentence happened first.}
 
@@ -103,7 +297,7 @@ First: I finished my homework.\\
 Then: I went out to play.\\
 \textit{Answer: I went out to play after I had finished my homework.}
 
-\begin{enumerate}[leftmargin=2cm]
+\begin{enumerate}[label=\arabic*.]
     \item First: She studied French for five years.\\
     Then: She moved to Paris.\\
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -132,7 +326,24 @@ Then: I went out to play.\\
 \newpage
 
 % ============================================================
-\section{Exercise 4: Complete the Story}
+% MEDIUM SECTION
+% ============================================================
+
+\begin{center}
+\begin{tcolorbox}[colback=yellow!5!white, colframe=mediumyellow, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- MEDIUM EXERCISES ---}}\\[0.2cm]
+{\large\textit{Application \& Context}}\\[0.3cm]
+\textbf{Exercises 5-8} require applying the Past Perfect in context.\\[0.1cm]
+Focus on choosing between tenses and understanding nuances.
+\end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 5: Complete the Story (18 points)}
 
 \textit{Complete this short story using the past simple or past perfect form of the verbs in parentheses.}
 
@@ -144,14 +355,153 @@ I \_\_\_\_\_\_\_\_\_\_ (7. be) disappointed because I \_\_\_\_\_\_\_\_\_\_ (8. n
 
 Later that evening, I \_\_\_\_\_\_\_\_\_\_ (12. check) my email and \_\_\_\_\_\_\_\_\_\_ (13. find) a message from Mark. He \_\_\_\_\_\_\_\_\_\_ (14. send) it two weeks before, but I \_\_\_\_\_\_\_\_\_\_ (15. not / notice) it. In the email, he \_\_\_\_\_\_\_\_\_\_ (16. explain) that he \_\_\_\_\_\_\_\_\_\_ (17. get) a new job in another city and \_\_\_\_\_\_\_\_\_\_ (18. have) to move quickly.
 
-\vspace{1cm}
+\vspace{0.5cm}
+
+\begin{examtipbox}[Exam Tip: Narrative Tenses]
+In storytelling, use Past Perfect to show \textbf{background information} or \textbf{earlier events}:
+\begin{itemize}
+    \item Main narrative: Past Simple
+    \item Background/earlier: Past Perfect
+\end{itemize}
+Example: ``I was tired because I \textbf{had worked} all day.'' (The work happened before feeling tired)
+\end{examtipbox}
+
+\newpage
 
 % ============================================================
-\section{Exercise 5: Correct the Mistakes}
+\section{Exercise 6: Mixed Practice - Dialogues (16 points)}
+
+\textit{Complete the dialogues using past simple or past perfect.}
+
+\subsection*{Dialogue 1}
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{A:} Why were you so late to the meeting yesterday?
+    \item \textbf{B:} I \_\_\_\_\_\_\_\_\_\_ (miss) my alarm because I \_\_\_\_\_\_\_\_\_\_ (forget) to charge my phone the night before.
+    \item \textbf{A:} That's unfortunate. \_\_\_\_\_\_\_\_\_\_ (you / miss) anything important?
+    \item \textbf{B:} Yes, by the time I \_\_\_\_\_\_\_\_\_\_ (arrive), they \_\_\_\_\_\_\_\_\_\_ (already / make) all the important decisions.
+\end{itemize}
+
+\subsection*{Dialogue 2}
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{A:} How was your trip to Rome?
+    \item \textbf{B:} Amazing! I \_\_\_\_\_\_\_\_\_\_ (never / be) there before, so everything \_\_\_\_\_\_\_\_\_\_ (be) new to me.
+    \item \textbf{A:} \_\_\_\_\_\_\_\_\_\_ (you / visit) the Colosseum?
+    \item \textbf{B:} Of course! I \_\_\_\_\_\_\_\_\_\_ (see) pictures before, but seeing it in person \_\_\_\_\_\_\_\_\_\_ (be) incredible.
+\end{itemize}
+
+\subsection*{Dialogue 3}
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{A:} I \_\_\_\_\_\_\_\_\_\_ (hear) you got a new job. Congratulations!
+    \item \textbf{B:} Thanks! I \_\_\_\_\_\_\_\_\_\_ (apply) for it months ago and \_\_\_\_\_\_\_\_\_\_ (almost / give up) hope.
+    \item \textbf{A:} How long \_\_\_\_\_\_\_\_\_\_ (you / work) at your previous company?
+    \item \textbf{B:} I \_\_\_\_\_\_\_\_\_\_ (be) there for five years before I \_\_\_\_\_\_\_\_\_\_ (decide) to look for something new.
+\end{itemize}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 7: Reported Speech with Past Perfect (10 points)}
+
+\textit{Change the direct speech to reported speech using the past perfect.}
+
+\textbf{Example:}\\
+``I have finished my homework,'' said Tom.\\
+\textit{Tom said he had finished his homework.}
+
+\begin{enumerate}[label=\arabic*.]
+    \item ``I have never been to Japan,'' she said.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``We have already eaten dinner,'' they told me.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``I lost my keys yesterday,'' he admitted.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``She hasn't called me back,'' John complained.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``I've been working here for ten years,'' the manager mentioned.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``We saw the movie last week,'' they said.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``I didn't receive your email,'' she explained.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``The train has just left,'' the officer informed us.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``I broke my leg skiing,'' he told the doctor.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item ``They haven't arrived yet,'' the host said.\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\end{enumerate}
+
+\newpage
+
+% ============================================================
+\section{Exercise 8: Past Perfect vs Past Perfect Continuous (10 points)}
+
+\textit{Choose the best form: Past Perfect Simple or Past Perfect Continuous.}
+
+\begin{enumerate}[label=\arabic*.]
+    \item She was exhausted because she \_\_\_\_\_\_\_\_\_\_ (work) for 12 hours straight.
+    
+    \item By the time we arrived, they \_\_\_\_\_\_\_\_\_\_ (already / eat) all the pizza.
+    
+    \item His eyes were red because he \_\_\_\_\_\_\_\_\_\_ (cry).
+    
+    \item I \_\_\_\_\_\_\_\_\_\_ (read) the book three times before I finally understood it.
+    
+    \item They were wet because they \_\_\_\_\_\_\_\_\_\_ (swim) in the rain.
+    
+    \item She \_\_\_\_\_\_\_\_\_\_ (never / taste) sushi before that restaurant.
+    
+    \item He was out of breath because he \_\_\_\_\_\_\_\_\_\_ (run).
+    
+    \item I knew the area well because I \_\_\_\_\_\_\_\_\_\_ (live) there for many years.
+    
+    \item The ground was muddy because it \_\_\_\_\_\_\_\_\_\_ (rain) all night.
+    
+    \item By 2020, she \_\_\_\_\_\_\_\_\_\_ (visit) every country in Europe.
+\end{enumerate}
+
+\begin{tipbox}[When to Use Each Form]
+\textbf{Past Perfect Simple:} Completed actions, quantities, number of times\\
+\textit{I \textbf{had finished} five reports by noon.}
+
+\textbf{Past Perfect Continuous:} Duration, ongoing activity, visible result\\
+\textit{I was tired because I \textbf{had been working} all day.}
+\end{tipbox}
+
+\newpage
+
+% ============================================================
+% HARD SECTION
+% ============================================================
+
+\begin{center}
+\begin{tcolorbox}[colback=red!5!white, colframe=hardred, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- HARD EXERCISES ---}}\\[0.2cm]
+{\large\textit{Production \& Analysis}}\\[0.3cm]
+\textbf{Exercises 9-12} require producing sentences, correcting errors,\\[0.1cm]
+and translating between Portuguese and English.
+\end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 9: Correct the Mistakes (10 points)}
 
 \textit{Each sentence has one mistake with the past perfect or past simple. Find and correct it.}
 
-\begin{enumerate}[leftmargin=2cm]
+\begin{enumerate}[label=\arabic*.]
     \item When I got home, I realized I had forgot my keys at work. \\
     \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
@@ -183,32 +533,30 @@ Later that evening, I \_\_\_\_\_\_\_\_\_\_ (12. check) my email and \_\_\_\_\_\_
     \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \end{enumerate}
 
+\begin{pitfallbox}[Common Irregular Past Participles]
+Watch out for these commonly confused forms:
+\begin{multicols}{3}
+\begin{itemize}
+    \item forget → forgotten
+    \item eat → eaten
+    \item rise → risen
+    \item go → gone
+    \item see → seen
+    \item sleep → slept
+    \item escape → escaped
+    \item know → knew/known
+\end{itemize}
+\end{multicols}
+\end{pitfallbox}
+
 \newpage
 
 % ============================================================
-\section{Exercise 6: Questions with Past Perfect}
-
-\textit{Complete the questions using the past perfect.}
-
-\begin{enumerate}[leftmargin=2cm]
-    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (you / ever / visit) London before your trip last year?
-    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (she / finish) her homework before the teacher arrived?
-    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (they / already / eat) when you got to the restaurant?
-    \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (he / meet) her before the party?
-    \item Why \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (you / not / tell) me about the problem earlier?
-    \item How long \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (they / be) married before they had children?
-    \item What \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (happen) before the police arrived?
-    \item Where \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (she / work) before she joined our company?
-\end{enumerate}
-
-\vspace{1cm}
-
-% ============================================================
-\section{Exercise 7: Translation Practice}
+\section{Exercise 10: Translation Practice (8 points)}
 
 \textit{Translate these sentences into English using the past perfect.}
 
-\begin{enumerate}[leftmargin=2cm]
+\begin{enumerate}[label=\arabic*.]
     \item Quando cheguei ao aeroporto, o avião já tinha partido. \\
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
@@ -234,43 +582,442 @@ Later that evening, I \_\_\_\_\_\_\_\_\_\_ (12. check) my email and \_\_\_\_\_\_
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \end{enumerate}
 
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 11: Complex Sentences (8 points)}
+
+\textit{Complete these complex sentences with the correct tenses (Past Simple, Past Perfect, or Past Perfect Continuous).}
+
+\begin{enumerate}[label=\arabic*.]
+    \item By the time the rescue team \_\_\_\_\_\_\_\_\_\_ (arrive), the survivors \_\_\_\_\_\_\_\_\_\_ (wait) for three days and \_\_\_\_\_\_\_\_\_\_ (run out) of food.
+    
+    \item She \_\_\_\_\_\_\_\_\_\_ (not / realize) how much she \_\_\_\_\_\_\_\_\_\_ (miss) her hometown until she \_\_\_\_\_\_\_\_\_\_ (go back) to visit.
+    
+    \item The students \_\_\_\_\_\_\_\_\_\_ (study) all night, so they \_\_\_\_\_\_\_\_\_\_ (feel) exhausted when the exam \_\_\_\_\_\_\_\_\_\_ (start).
+    
+    \item After he \_\_\_\_\_\_\_\_\_\_ (work) at the company for twenty years, he finally \_\_\_\_\_\_\_\_\_\_ (get) the promotion he \_\_\_\_\_\_\_\_\_\_ (dream) about.
+\end{enumerate}
+
 \newpage
 
 % ============================================================
-\section{Exercise 8: Mixed Practice - Fill the Gaps}
+\section{Exercise 12: Third Conditional with Past Perfect (6 points)}
 
-\textit{Complete the dialogues using past simple or past perfect.}
+\textit{Complete these third conditional sentences using the past perfect.}
 
-\subsection*{Dialogue 1}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} Why were you so late to the meeting yesterday?
-    \item \textbf{B:} I \_\_\_\_\_\_\_\_\_\_ (miss) my alarm because I \_\_\_\_\_\_\_\_\_\_ (forget) to charge my phone the night before.
-    \item \textbf{A:} That's unfortunate. \_\_\_\_\_\_\_\_\_\_ (you / miss) anything important?
-    \item \textbf{B:} Yes, by the time I \_\_\_\_\_\_\_\_\_\_ (arrive), they \_\_\_\_\_\_\_\_\_\_ (already / make) all the important decisions.
-\end{itemize}
+\begin{enumerate}[label=\arabic*.]
+    \item If I \_\_\_\_\_\_\_\_\_\_ (know) about the traffic, I would have left earlier.
+    
+    \item She wouldn't have failed the exam if she \_\_\_\_\_\_\_\_\_\_ (study) harder.
+    
+    \item If they \_\_\_\_\_\_\_\_\_\_ (tell) us the truth, we wouldn't have been so angry.
+    
+    \item I would have called you if I \_\_\_\_\_\_\_\_\_\_ (not / lose) your number.
+    
+    \item If the weather \_\_\_\_\_\_\_\_\_\_ (be) better, we would have gone to the beach.
+    
+    \item He wouldn't have missed the flight if he \_\_\_\_\_\_\_\_\_\_ (leave) home earlier.
+\end{enumerate}
 
-\subsection*{Dialogue 2}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} How was your trip to Rome?
-    \item \textbf{B:} Amazing! I \_\_\_\_\_\_\_\_\_\_ (never / be) there before, so everything \_\_\_\_\_\_\_\_\_\_ (be) new to me.
-    \item \textbf{A:} \_\_\_\_\_\_\_\_\_\_ (you / visit) the Colosseum?
-    \item \textbf{B:} Of course! I \_\_\_\_\_\_\_\_\_\_ (see) pictures before, but seeing it in person \_\_\_\_\_\_\_\_\_\_ (be) incredible.
-\end{itemize}
+\begin{examtipbox}[Exam Tip: Third Conditional]
+The third conditional uses Past Perfect in the \textbf{if} clause:
+\begin{center}
+\textbf{If} + Past Perfect, would have + past participle
+\end{center}
+Use it to talk about \textbf{hypothetical past situations} — things that didn't happen.
+\end{examtipbox}
 
-\subsection*{Dialogue 3}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} I \_\_\_\_\_\_\_\_\_\_ (hear) you got a new job. Congratulations!
-    \item \textbf{B:} Thanks! I \_\_\_\_\_\_\_\_\_\_ (apply) for it months ago and \_\_\_\_\_\_\_\_\_\_ (almost / give up) hope.
-    \item \textbf{A:} How long \_\_\_\_\_\_\_\_\_\_ (you / work) at your previous company?
-    \item \textbf{B:} I \_\_\_\_\_\_\_\_\_\_ (be) there for five years before I \_\_\_\_\_\_\_\_\_\_ (decide) to look for something new.
-\end{itemize}
+\newpage
 
-\vspace{2cm}
+% ============================================================
+% REAL-LIFE & EXAM PRACTICE SECTION
+% ============================================================
 
 \begin{center}
-    \rule{0.5\textwidth}{0.4pt}\\
-    \textit{End of Exercises}\\
-    \textit{Check your answers with the answer key}
+\begin{tcolorbox}[colback=orange!5!white, colframe=examorange, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- REAL-LIFE \& EXAM PRACTICE ---}}\\[0.2cm]
+{\large\textit{Practical Usage \& Proficiency Exam Preparation}}\\[0.3cm]
+\textbf{Exercises 13-15} focus on real-world communication and exam skills.\\[0.1cm]
+Includes IELTS, Cambridge, and TOEFL practice formats.
 \end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 13: IELTS Writing Task 2 Practice (5 points)}
+
+\begin{ieltsbox}[IELTS Writing: Academic Register]
+In academic writing, Past Perfect helps establish \textbf{clear chronological relationships} between events. It's particularly useful when discussing research findings, historical developments, or cause-and-effect relationships.
+\end{ieltsbox}
+
+\vspace{0.3cm}
+
+\textit{Complete these academic-style sentences with the correct form of the verbs.}
+
+\begin{enumerate}[label=\arabic*.]
+    \item By the end of the 20th century, technology \_\_\_\_\_\_\_\_\_\_ (transform) the workplace in ways that previous generations \_\_\_\_\_\_\_\_\_\_ (never / imagine).
+    
+    \item The study found that participants who \_\_\_\_\_\_\_\_\_\_ (receive) the treatment \_\_\_\_\_\_\_\_\_\_ (show) significant improvement.
+    
+    \item Before the new policy \_\_\_\_\_\_\_\_\_\_ (be implemented), the government \_\_\_\_\_\_\_\_\_\_ (consult) with various stakeholders.
+    
+    \item The researchers \_\_\_\_\_\_\_\_\_\_ (discover) that the phenomenon \_\_\_\_\_\_\_\_\_\_ (occur) much earlier than previously thought.
+    
+    \item By the time the environmental regulations \_\_\_\_\_\_\_\_\_\_ (come) into effect, significant damage \_\_\_\_\_\_\_\_\_\_ (already / be done).
+\end{enumerate}
+
+\newpage
+
+% ============================================================
+\section{Exercise 14: Cambridge Use of English (8 points)}
+
+\begin{cambridgebox}[Cambridge: Key Word Transformation]
+In this type of exercise, you must rewrite a sentence using a given word, keeping the meaning the same. Past Perfect is often tested in sentences about sequence of events.
+\end{cambridgebox}
+
+\vspace{0.3cm}
+
+\textit{Complete the second sentence using the word given, so that it has a similar meaning to the first. Use between 2-5 words including the word given.}
+
+\begin{enumerate}[label=\arabic*.]
+    \item I hadn't seen John for five years, so I was surprised to meet him. \\
+    FOR\\
+    I was surprised to meet John because I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ five years.
+    
+    \item The film started before we arrived at the cinema.\\
+    ALREADY\\
+    When we arrived at the cinema, the film \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+    
+    \item She got the job because of her previous experience.\\
+    WORKED\\
+    She got the job because she \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ in the field before.
+    
+    \item Tom left just before I arrived.\\
+    JUST\\
+    When I arrived, Tom \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+    
+    \item I realized I didn't have my wallet only when I tried to pay.\\
+    FORGOTTEN\\
+    When I tried to pay, I realized I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ my wallet.
+    
+    \item It was the first time I had eaten Thai food.\\
+    NEVER\\
+    I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Thai food before.
+    
+    \item First he finished work, then he went to the gym.\\
+    AFTER\\
+    He went to the gym \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ work.
+    
+    \item We didn't realize the restaurant was closed until we got there.\\
+    ALREADY\\
+    When we got there, we realized the restaurant \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+\end{enumerate}
+
+\newpage
+
+% ============================================================
+\section{Exercise 15: TOEFL Integrated Skills (8 points)}
+
+\begin{toeflbox}[TOEFL: Reading \& Listening Integration]
+In TOEFL, you may need to understand Past Perfect in academic lectures and reading passages. It signals important time relationships in historical accounts and scientific explanations.
+\end{toeflbox}
+
+\vspace{0.3cm}
+
+\textit{Read the passage and answer the questions using Past Perfect where appropriate.}
+
+\vspace{0.3cm}
+
+\begin{center}
+\fbox{\begin{minipage}{0.9\textwidth}
+\textbf{The Discovery of Penicillin}
+
+Alexander Fleming discovered penicillin in 1928. Before this discovery, scientists knew that certain molds could kill bacteria, but no one successfully isolated the active compound. Fleming noticed that a mold contaminated one of his bacterial cultures and killed the bacteria around it. Earlier researchers observed similar phenomena but did not investigate further. Fleming's discovery changed medicine, but it took another decade before other scientists developed penicillin into a usable drug.
+\end{minipage}}
+\end{center}
+
+\vspace{0.5cm}
+
+\textbf{Questions:}
+
+\begin{enumerate}[label=\arabic*.]
+    \item What did scientists know before Fleming's discovery?\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item What happened before Fleming noticed the contaminated culture?\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item What had earlier researchers failed to do?\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item Rewrite this sentence using Past Perfect: ``Fleming discovered penicillin. Before this, no one isolated the compound.''\\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\textbf{Speaking Task:} Describe a significant discovery or invention. Explain what the situation was like before the discovery and how it changed things. Use Past Perfect to show the sequence of events.
+
+\begin{tcolorbox}[colback=gray!10, colframe=gray!50]
+\textit{Example beginning:} ``Before the internet was invented, people had communicated mainly through letters and telephone calls. They had never imagined being able to video call someone on the other side of the world...''
+\end{tcolorbox}
+
+\newpage
+
+% ============================================================
+% QUICK REFERENCE PAGES (TEARABLE)
+% ============================================================
+
+\pagestyle{empty}
+
+\begin{center}
+\rule{\textwidth}{0.5pt}\\[0.2cm]
+{\small\textit{{[CUT]} TEAR HERE — Quick Reference Card}}\\[0.2cm]
+\rule{\textwidth}{0.5pt}
+\end{center}
+
+\vspace{0.3cm}
+
+\begin{center}
+{\Huge\bfseries Quick Reference}\\[0.3cm]
+{\Large Past Perfect}\\[0.2cm]
+\rule{0.8\textwidth}{0.4pt}
+\end{center}
+
+\vspace{0.3cm}
+
+\begin{multicols}{2}
+
+\begin{tcolorbox}[colback=blue!5!white, colframe=blue!70!black, title=\textbf{FORM}]
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Positive} & had + past participle \\
+\hline
+\textbf{Negative} & had not (hadn't) + PP \\
+\hline
+\textbf{Question} & Had + subject + PP? \\
+\hline
+\end{tabular}
+
+\vspace{0.3cm}
+
+\textbf{Examples:}
+\begin{itemize}[leftmargin=0.5cm]
+    \item I \textbf{had finished} work.
+    \item She \textbf{hadn't eaten} yet.
+    \item \textbf{Had} they \textbf{arrived}?
+\end{itemize}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=green!5!white, colframe=easygreen, title=\textbf{ADVERB POSITION}]
+\textbf{already / just / never / ever}\\
+go \textbf{between} had and PP:
+\begin{itemize}[leftmargin=0.5cm]
+    \item had \textbf{already} left {[OK]}
+    \item had \textbf{never} seen {[OK]}
+    \item had \textbf{just} arrived {[OK]}
+\end{itemize}
+\end{tcolorbox}
+
+\columnbreak
+
+\begin{tcolorbox}[colback=yellow!5!white, colframe=mediumyellow, title=\textbf{MAIN USES}]
+\textbf{1. Action before another past action:}\\
+\textit{When I arrived, the film \textbf{had started}.}
+
+\textbf{2. Explaining past situations:}\\
+\textit{I was tired because I \textbf{hadn't slept}.}
+
+\textbf{3. Reported speech:}\\
+\textit{She said she \textbf{had seen} the movie.}
+
+\textbf{4. Third conditional:}\\
+\textit{If I \textbf{had known}, I would have helped.}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=orange!5!white, colframe=examorange, title=\textbf{TIME EXPRESSIONS}]
+\begin{itemize}[leftmargin=0.5cm]
+    \item by the time
+    \item before / after
+    \item when / until
+    \item already / just / never
+    \item for / since (with duration)
+\end{itemize}
+\end{tcolorbox}
+
+\end{multicols}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=blue!3!white, colframe=ieltsblue, title=\textbf{PAST PERFECT vs PAST SIMPLE}]
+\begin{tabular}{|p{7cm}|p{7cm}|}
+\hline
+\textbf{Past Simple} & \textbf{Past Perfect} \\
+\hline
+Single past event or chronological sequence & Earlier of two past events \\
+\textit{I arrived. I ate. I left.} & \textit{When I arrived, they \textbf{had} already \textbf{eaten}.} \\
+\hline
+\end{tabular}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=purple!5!white, colframe=toeflpurple, title=\textbf{PP SIMPLE vs PP CONTINUOUS}]
+\begin{tabular}{|p{7cm}|p{7cm}|}
+\hline
+\textbf{Past Perfect Simple} & \textbf{Past Perfect Continuous} \\
+\hline
+Completed action, result, quantity & Duration, activity, visible result \\
+\textit{I \textbf{had written} 5 emails.} & \textit{I was tired because I \textbf{had been writing} all day.} \\
+\hline
+\end{tabular}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=red!5!white, colframe=hardred, title=\textbf{{[!]} COMMON MISTAKES}]
+\begin{tabular}{ll}
+{[X]} \textit{had forgot} & {[OK]} \textit{had \textbf{forgotten}} \\
+{[X]} \textit{had ate} & {[OK]} \textit{had \textbf{eaten}} \\
+{[X]} \textit{had went} & {[OK]} \textit{had \textbf{gone}} \\
+{[X]} \textit{have finished (past context)} & {[OK]} \textit{\textbf{had} finished} \\
+\end{tabular}
+\end{tcolorbox}
+
+\newpage
+
+
+\begin{center}
+{\Large\bfseries Personal Notes}\\[0.3cm]
+\rule{0.8\textwidth}{0.4pt}
+\end{center}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}
 
 \end{document}

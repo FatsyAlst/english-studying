@@ -5,12 +5,18 @@
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{tcolorbox}
+\usepackage{soul}
+\usepackage{dashrule}
 
 % Header and footer
 \pagestyle{fancy}
 \fancyhf{}
 \setlength{\headheight}{15pt}
-\lhead{English Grammar Practice}
+\lhead{English Grammar in Use}
 \rhead{FOR/SINCE \& WHEN/HOW LONG}
 \cfoot{\thepage}
 
@@ -23,28 +29,196 @@
 {\large\bfseries\color{blue!50!black}}
 {\thesubsection}{1em}{}
 
+% Custom colors
+\definecolor{easygreen}{RGB}{34, 139, 34}
+\definecolor{mediumyellow}{RGB}{255, 165, 0}
+\definecolor{hardred}{RGB}{178, 34, 34}
+\definecolor{noteblue}{RGB}{0, 80, 160}
+\definecolor{tipbox}{RGB}{230, 247, 255}
+\definecolor{ieltsblue}{RGB}{0, 51, 102}
+\definecolor{cambridgered}{RGB}{163, 31, 52}
+\definecolor{toeflpurple}{RGB}{102, 51, 153}
+\definecolor{examorange}{RGB}{255, 102, 0}
+\definecolor{pitfallred}{RGB}{220, 53, 69}
+
+% Custom tcolorbox styles
+\newtcolorbox{grammarbox}[1][]{
+    colback=blue!5!white,
+    colframe=blue!70!black,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{tipbox}[1][]{
+    colback=tipbox,
+    colframe=noteblue,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{easybox}{
+    colback=green!5!white,
+    colframe=easygreen,
+    title={\textbf{EASY} — Recognition \& Basic Formation}
+}
+
+\newtcolorbox{mediumbox}{
+    colback=yellow!5!white,
+    colframe=mediumyellow,
+    title={\textbf{MEDIUM} — Application \& Context}
+}
+
+\newtcolorbox{hardbox}{
+    colback=red!5!white,
+    colframe=hardred,
+    title={\textbf{HARD} — Production \& Analysis}
+}
+
+% Exam-specific boxes
+\newtcolorbox{ieltsbox}[1][]{
+    colback=blue!3!white,
+    colframe=ieltsblue,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{cambridgebox}[1][]{
+    colback=red!3!white,
+    colframe=cambridgered,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{toeflbox}[1][]{
+    colback=purple!3!white,
+    colframe=toeflpurple,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{examtipbox}[1][]{
+    colback=orange!5!white,
+    colframe=examorange,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{pitfallbox}[1][]{
+    colback=red!5!white,
+    colframe=pitfallred,
+    fonttitle=\bfseries,
+    title=#1
+}
+
 \begin{document}
+
+% ============================================================
+% TITLE PAGE
+% ============================================================
 
 \begin{center}
     {\Huge\bfseries Grammar Practice Exercises}\\[0.5cm]
-    {\Large FOR and SINCE}\\
+    {\Large FOR and SINCE}\\[0.3cm]
     {\Large WHEN...? and HOW LONG...?}\\[0.5cm]
     \rule{\textwidth}{0.4pt}\\[0.3cm]
-    {\large Practice Set 1}\\[0.2cm]
+    {\large English Grammar in Use — Units 8-12}\\[0.2cm]
+    {\large 12 Exercises • 100+ Questions • With Exam Practice}\\[0.2cm]
     \today
 \end{center}
 
-\vspace{1cm}
+\vspace{0.3cm}
 
-\section*{Instructions}
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{
+\centering
+\textbf{{[NOTE]} Document Navigation}\\[0.2cm]
+\textit{Quick Reference Pages are located at the \textbf{end of this document} (tearable).}\\
+Includes grammar summary card and ruled pages for personal notes.
+}}
+\end{center}
 
-This practice set focuses on two key grammar topics:
+\vspace{0.3cm}
+
+% ============================================================
+% GRAMMAR SUMMARY BOX
+% ============================================================
+
+\begin{grammarbox}[Grammar Summary: FOR and SINCE]
+\textbf{FOR} = a \textbf{period of time} (duration)
+
+\vspace{0.2cm}
+
+\begin{tabular}{ll}
+\textit{for} & two hours, three days, six months, a long time, ages \\
+\end{tabular}
+
+\vspace{0.3cm}
+
+\textbf{SINCE} = a \textbf{point in time} (when something started)
+
+\vspace{0.2cm}
+
+\begin{tabular}{ll}
+\textit{since} & Monday, 2015, last summer, I was a child, breakfast \\
+\end{tabular}
+
+\vspace{0.3cm}
+
+\textbf{Main Uses:}
+\begin{enumerate}[leftmargin=1.5cm]
+    \item With \textbf{Present Perfect} to talk about actions from past to present:\\
+    \textit{``I have lived here for five years.'' / ``I have lived here since 2019.''}
+    
+    \item With \textbf{Present Perfect Continuous} for ongoing activities:\\
+    \textit{``She has been waiting for an hour.'' / ``She has been waiting since 3 o'clock.''}
+\end{enumerate}
+\end{grammarbox}
+
+\vspace{0.3cm}
+
+\begin{tipbox}[Tip: WHEN vs. HOW LONG]
 \begin{itemize}
-    \item Using \textbf{FOR} and \textbf{SINCE} with the present perfect
-    \item Using \textbf{WHEN...?} and \textbf{HOW LONG...?} questions
+    \item \textbf{WHEN...?} asks about a \textbf{specific point in time} → use \textbf{Past Simple}\\
+    \textit{``When did you arrive?'' — ``I arrived yesterday.''}
+    
+    \item \textbf{HOW LONG...?} asks about \textbf{duration} → use \textbf{Present Perfect}\\
+    \textit{``How long have you been here?'' — ``I've been here for two hours.''}
 \end{itemize}
+\end{tipbox}
 
-Complete all exercises and check your answers with the answer key.
+\vspace{0.5cm}
+
+% ============================================================
+% DIFFICULTY GUIDE
+% ============================================================
+
+\begin{center}
+\fbox{\parbox{0.95\textwidth}{
+\centering
+\textbf{Difficulty Progression Guide}\\[0.2cm]
+\textcolor{easygreen}{\textbf{EASY (Exercises 1-4):}} Recognition, basic formation, simple completion\\
+\textcolor{mediumyellow}{\textbf{MEDIUM (Exercises 5-7):}} Context application, choosing between options\\
+\textcolor{hardred}{\textbf{HARD (Exercises 8-9):}} Production, error correction, translation\\[0.2cm]
+\textcolor{examorange}{\textbf{EXAM PRACTICE (Exercises 10-12):}} IELTS, Cambridge, TOEFL
+}}
+\end{center}
+
+\newpage
+
+% ============================================================
+% EASY SECTION
+% ============================================================
+
+\begin{center}
+\begin{tcolorbox}[colback=green!5!white, colframe=easygreen, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- EASY EXERCISES ---}}\\[0.2cm]
+{\large\textit{Recognition \& Basic Formation}}\\[0.3cm]
+\textbf{Exercises 1-4} focus on recognizing when to use FOR, SINCE, WHEN, and HOW LONG.\\
+Complete these with 90\%+ accuracy before moving to Medium exercises.
+\end{center}
+\end{tcolorbox}
+\end{center}
 
 \vspace{0.5cm}
 
@@ -53,7 +227,9 @@ Complete all exercises and check your answers with the answer key.
 
 \textit{Complete the sentences with \textbf{for} or \textbf{since}.}
 
-\begin{enumerate}[leftmargin=2cm]
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
     \item I've been waiting \_\_\_\_\_\_\_\_\_\_ over an hour.
     \item She has lived in London \_\_\_\_\_\_\_\_\_\_ 2015.
     \item They haven't seen each other \_\_\_\_\_\_\_\_\_\_ last Christmas.
@@ -71,53 +247,67 @@ Complete all exercises and check your answers with the answer key.
     \item We've lived in this house \_\_\_\_\_\_\_\_\_\_ ages.
 \end{enumerate}
 
+\vspace{0.3cm}
+
+\begin{examtipbox}[{[TIP]} IELTS Tip — Common Time Expressions]
+Learn these common expressions for IELTS Writing Task 2:
+\begin{itemize}[leftmargin=1cm]
+    \item \textbf{FOR:} \textit{for decades, for many years, for a considerable period}
+    \item \textbf{SINCE:} \textit{since the beginning of the century, since the advent of technology}
+\end{itemize}
+\end{examtipbox}
+
 \newpage
 
 % ============================================================
 \section{Exercise 2: Complete the Sentences}
 
-\textit{Complete the sentences using the present perfect with \textbf{for} or \textbf{since} and the information in parentheses.}
+\textit{Complete the sentences using the present perfect with \textbf{for}, \textbf{since}, or \textbf{how long} and the information in parentheses.}
 
-\begin{enumerate}[leftmargin=2cm]
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
     \item (I / not see / Sarah / two weeks) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (They / live / in this apartment / 2020) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (How long / you / know / each other?) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (She / be / a teacher / ten years) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (I / not eat / meat / I was 18) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (We / wait / the bus / 30 minutes) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (He / not play / football / his accident) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (How long / she / work / in that company?) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (They / be / friends / they were children) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item (I / have / this laptop / last year) \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \end{enumerate}
 
-\vspace{1cm}
+\vspace{0.5cm}
 
 % ============================================================
 \section{Exercise 3: WHEN...? or HOW LONG...?}
 
 \textit{Choose the correct question word: \textbf{When} or \textbf{How long}.}
 
-\begin{enumerate}[leftmargin=2cm]
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
     \item \_\_\_\_\_\_\_\_\_\_ did you start learning English?
     \item \_\_\_\_\_\_\_\_\_\_ have you been learning English?
     \item \_\_\_\_\_\_\_\_\_\_ did they get married?
@@ -139,7 +329,9 @@ Complete all exercises and check your answers with the answer key.
 
 \textit{Write questions using \textbf{When...?} or \textbf{How long...?} for these answers.}
 
-\begin{enumerate}[leftmargin=2cm]
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
     \item \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_? \\
     I started my job three years ago.
     
@@ -171,51 +363,41 @@ Complete all exercises and check your answers with the answer key.
     The concert has been going on for two hours.
 \end{enumerate}
 
-\vspace{1cm}
+\vspace{0.3cm}
 
-% ============================================================
-\section{Exercise 5: Correct the Mistakes}
-
-\textit{Each sentence has one mistake. Find and correct it.}
-
-\begin{enumerate}[leftmargin=2cm]
-    \item I've been living here since three years. \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item She has worked in that office for 2018. \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item How long did you live in Japan? (He still lives there) \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item When have you been studying English? \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item I haven't seen her since two weeks. \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item They are married since 2010. \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item How long did she start working here? \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item I know him since we were at school together. \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item When did you have that car? (You still have it) \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    
-    \item He lives in London for five years. \\
-    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\end{enumerate}
+\begin{examtipbox}[{[TIP]} Cambridge Tip — Question Formation]
+In Cambridge exams (FCE/CAE), question formation is tested in the \textbf{Use of English} section.
+\begin{itemize}[leftmargin=1cm]
+    \item \textbf{When} questions → usually expect \textbf{Past Simple} answers
+    \item \textbf{How long} questions → usually expect \textbf{Present Perfect} answers
+\end{itemize}
+\end{examtipbox}
 
 \newpage
 
 % ============================================================
-\section{Exercise 6: Mixed Practice}
+% MEDIUM SECTION
+% ============================================================
 
-\textit{Complete the conversations with the correct form of the verb and \textbf{for} or \textbf{since}.}
+\begin{center}
+\begin{tcolorbox}[colback=yellow!5!white, colframe=mediumyellow, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- MEDIUM EXERCISES ---}}\\[0.2cm]
+{\large\textit{Application \& Context}}\\[0.3cm]
+\textbf{Exercises 5-7} require applying the grammar rules in conversations and mixed contexts.\\
+Complete with 85\%+ accuracy before moving to Hard exercises.
+\end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 5: Mixed Practice — Conversations}
+
+\textit{Complete the conversations with the correct form of the verb and \textbf{for}, \textbf{since}, \textbf{when}, or \textbf{how long}.}
+
+\vspace{0.3cm}
 
 \subsection*{Conversation 1}
 \begin{itemize}[label={}, leftmargin=1cm]
@@ -249,45 +431,617 @@ Complete all exercises and check your answers with the answer key.
     \item \textbf{B:} He's great! He \_\_\_\_\_\_\_\_\_\_ (have) a new job \_\_\_\_\_\_\_ last month.
 \end{itemize}
 
-\vspace{1cm}
+\newpage
 
 % ============================================================
-\section{Exercise 7: Translation Practice}
+\section{Exercise 6: Multiple Choice}
+
+\textit{Choose the correct option to complete each sentence.}
+
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
+    \item I've known Maria \_\_\_\_\_\_\_\_\_\_ we were at university together.
+    \begin{enumerate}[label=\Alph*)]
+        \item for
+        \item since
+        \item during
+        \item while
+    \end{enumerate}
+    
+    \item She has been working at this company \_\_\_\_\_\_\_\_\_\_ more than ten years.
+    \begin{enumerate}[label=\Alph*)]
+        \item since
+        \item for
+        \item from
+        \item during
+    \end{enumerate}
+    
+    \item \_\_\_\_\_\_\_\_\_\_ did you last go on vacation?
+    \begin{enumerate}[label=\Alph*)]
+        \item How long
+        \item How much time
+        \item When
+        \item For how long
+    \end{enumerate}
+    
+    \item We haven't had any rain \_\_\_\_\_\_\_\_\_\_ three weeks.
+    \begin{enumerate}[label=\Alph*)]
+        \item since
+        \item during
+        \item for
+        \item from
+    \end{enumerate}
+    
+    \item \_\_\_\_\_\_\_\_\_\_ have you been waiting for the bus?
+    \begin{enumerate}[label=\Alph*)]
+        \item Since when
+        \item How long
+        \item When
+        \item How much
+    \end{enumerate}
+    
+    \item They've lived in this apartment \_\_\_\_\_\_\_\_\_\_ 2018.
+    \begin{enumerate}[label=\Alph*)]
+        \item for
+        \item during
+        \item from
+        \item since
+    \end{enumerate}
+    
+    \item I haven't eaten anything \_\_\_\_\_\_\_\_\_\_ breakfast.
+    \begin{enumerate}[label=\Alph*)]
+        \item for
+        \item from
+        \item since
+        \item during
+    \end{enumerate}
+    
+    \item \_\_\_\_\_\_\_\_\_\_ did you start playing the guitar?
+    \begin{enumerate}[label=\Alph*)]
+        \item How long
+        \item For how long
+        \item When
+        \item Since when
+    \end{enumerate}
+\end{enumerate}
+
+\newpage
+
+% ============================================================
+\section{Exercise 7: Present Perfect Simple or Continuous?}
+
+\textit{Complete the sentences with the Present Perfect Simple or Present Perfect Continuous form of the verbs in parentheses. Use \textbf{for}, \textbf{since}, or \textbf{how long} where indicated.}
+
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
+    \item She \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (read) that book for three hours. She's still on chapter 5.
+    
+    \item He \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (read) three books this month.
+    
+    \item We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (wait) for the bus since 8 o'clock.
+    
+    \item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (wait) for this package for two weeks. It finally arrived today!
+    
+    \item They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (live) in this house for twenty years. They love it here.
+    
+    \item How many countries \_\_\_\_\_\_\_\_\_\_ you \_\_\_\_\_\_\_\_\_\_ (visit) in your life?
+    
+    \item How long \_\_\_\_\_\_\_\_\_\_ she \_\_\_\_\_\_\_\_\_\_ (learn) to drive?
+    
+    \item I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (try) to call you since this morning. Where have you been?
+    
+    \item She \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (try) three different restaurants this week.
+    
+    \item It \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (rain) since yesterday. I hope it stops soon.
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\begin{tipbox}[Tip: Simple vs. Continuous with FOR/SINCE]
+\begin{itemize}
+    \item \textbf{Present Perfect Continuous} = emphasizes the \textbf{duration/ongoing process}\\
+    \textit{``I've been reading for 3 hours.''} (still reading, focus on duration)
+    
+    \item \textbf{Present Perfect Simple} = emphasizes the \textbf{result/completion}\\
+    \textit{``I've read 3 books.''} (focus on quantity completed)
+\end{itemize}
+\end{tipbox}
+
+\newpage
+
+% ============================================================
+% HARD SECTION
+% ============================================================
+
+\begin{center}
+\begin{tcolorbox}[colback=red!5!white, colframe=hardred, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- HARD EXERCISES ---}}\\[0.2cm]
+{\large\textit{Production \& Analysis}}\\[0.3cm]
+\textbf{Exercises 8-9} require correcting errors and translating from Portuguese to English.\\
+These test your deeper understanding of the grammar rules.
+\end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 8: Correct the Mistakes}
+
+\textit{Each sentence has one mistake. Find and correct it.}
+
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
+    \item I've been living here since three years. \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item She has worked in that office for 2018. \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item How long did you live in Japan? (He still lives there) \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item When have you been studying English? \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item I haven't seen her since two weeks. \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item They are married since 2010. \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item How long did she start working here? \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item I know him since we were at school together. \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item When did you have that car? (You still have it) \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item He lives in London for five years. \\
+    \textit{Correction:} \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\begin{pitfallbox}[{[!]} Common Pitfalls]
+Watch out for these frequent errors:
+\begin{itemize}[leftmargin=1cm]
+    \item \textbf{{[X]}} \textit{since three years} → \textbf{{[OK]}} \textit{\textbf{for} three years}
+    \item \textbf{{[X]}} \textit{for 2018} → \textbf{{[OK]}} \textit{\textbf{since} 2018}
+    \item \textbf{{[X]}} \textit{I know him since...} → \textbf{{[OK]}} \textit{I \textbf{have known} him since...}
+    \item \textbf{{[X]}} \textit{They are married since...} → \textbf{{[OK]}} \textit{They \textbf{have been} married since...}
+\end{itemize}
+\end{pitfallbox}
+
+\newpage
+
+% ============================================================
+\section{Exercise 9: Translation Practice}
 
 \textit{Translate these sentences into English using \textbf{for}, \textbf{since}, and the present perfect.}
 
-\begin{enumerate}[leftmargin=2cm]
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
     \item Eu moro aqui há três anos. \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item Ela não me liga desde o mês passado. \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item Há quanto tempo você estuda inglês? \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item Eles estão casados desde 2018. \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item Quando você começou a trabalhar aqui? \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item Eu não como carne há anos. \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item Ele está esperando há mais de uma hora. \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
     \item Há quanto tempo você a conhece? \\
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \end{enumerate}
 
-\vspace{2cm}
+\vspace{0.3cm}
+
+\begin{examtipbox}[{[TIP]} Translation Strategy]
+In Portuguese, ``há'' can mean both ``for'' (duration) and ``ago'':
+\begin{itemize}[leftmargin=1cm]
+    \item \textit{``Eu moro aqui há 3 anos''} = I have lived here \textbf{for} 3 years (present perfect)
+    \item \textit{``Cheguei há 3 anos''} = I arrived 3 years \textbf{ago} (past simple)
+\end{itemize}
+\end{examtipbox}
+
+\newpage
+
+% ============================================================
+% EXAM PRACTICE SECTION
+% ============================================================
 
 \begin{center}
-    \rule{0.5\textwidth}{0.4pt}\\
-    \textit{End of Exercises}\\
-    \textit{Check your answers with the answer key}
+\begin{tcolorbox}[colback=orange!5!white, colframe=examorange, width=0.95\textwidth, arc=3mm, boxrule=1.5pt]
+\begin{center}
+{\Large\textbf{--- EXAM PRACTICE ---}}\\[0.2cm]
+{\large\textit{IELTS • Cambridge • TOEFL}}\\[0.3cm]
+\textbf{Exercises 10-12} simulate questions from international English exams.\\
+Practice these to prepare for standardized tests.
 \end{center}
+\end{tcolorbox}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 10: IELTS Writing Task 2 Practice}
+
+\begin{ieltsbox}[IELTS Writing Task 2 — Essay Excerpts]
+\textit{Complete the essay excerpts using FOR, SINCE, or appropriate time expressions with the present perfect.}
+\end{ieltsbox}
+
+\vspace{0.3cm}
+
+\textbf{Topic: Technology and Education}
+
+\vspace{0.2cm}
+
+\begin{enumerate}[label=\arabic*.]
+    \item Technology \_\_\_\_\_\_\_\_\_\_ (transform) the way students learn \_\_\_\_\_\_\_\_\_\_ the advent of personal computers in the 1980s.
+    
+    \item Online education \_\_\_\_\_\_\_\_\_\_ (grow) significantly \_\_\_\_\_\_\_\_\_\_ the past decade.
+    
+    \item Schools \_\_\_\_\_\_\_\_\_\_ (use) digital textbooks \_\_\_\_\_\_\_\_\_\_ several years now.
+    
+    \item \_\_\_\_\_\_\_\_\_\_ when \_\_\_\_\_\_\_\_\_\_ universities \_\_\_\_\_\_\_\_\_\_ (offer) fully online degree programs?
+    
+    \item The digital divide \_\_\_\_\_\_\_\_\_\_ (be) a concern \_\_\_\_\_\_\_\_\_\_ a considerable period of time.
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\begin{ieltsbox}[IELTS Band 7+ Vocabulary]
+Use these sophisticated expressions in your essays:
+\begin{itemize}[leftmargin=1cm]
+    \item \textit{``for a considerable period of time''} (formal: for a long time)
+    \item \textit{``since the turn of the century''} (since 2000)
+    \item \textit{``for the past few decades''} (for the last 20-30 years)
+    \item \textit{``since time immemorial''} (for a very long time — formal/literary)
+\end{itemize}
+\end{ieltsbox}
+
+\newpage
+
+% ============================================================
+\section{Exercise 11: Cambridge Use of English}
+
+\begin{cambridgebox}[Cambridge FCE/CAE — Key Word Transformation]
+\textit{Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. You must use between two and five words, including the word given.}
+\end{cambridgebox}
+
+\vspace{0.3cm}
+
+\begin{enumerate}[label=\arabic*.]
+    \item I started working here in 2019. \\
+    \textbf{SINCE} \\
+    I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 2019.
+    
+    \item The last time I saw her was in March. \\
+    \textbf{SINCE} \\
+    I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ March.
+    
+    \item We moved to this city five years ago. \\
+    \textbf{FOR} \\
+    We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ five years.
+    
+    \item She began studying French when she was 12. \\
+    \textbf{SINCE} \\
+    She \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ she was 12.
+    
+    \item They got married twenty years ago. \\
+    \textbf{BEEN} \\
+    They \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ twenty years.
+    
+    \item I last ate meat two years ago. \\
+    \textbf{FOR} \\
+    I \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ two years.
+    
+    \item When did you first meet John? \\
+    \textbf{LONG} \\
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ John?
+    
+    \item It's three years since we went on holiday. \\
+    \textbf{HAVEN'T} \\
+    We \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ three years.
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\begin{examtipbox}[{[TIP]} Key Word Transformation Strategy]
+Look for these common transformations:
+\begin{itemize}[leftmargin=1cm]
+    \item \textit{``I started... in 2019''} → \textit{``I have... since 2019''}
+    \item \textit{``The last time I... was...''} → \textit{``I haven't... since...''}
+    \item \textit{``...ago''} → \textit{``...for + period''}
+\end{itemize}
+\end{examtipbox}
+
+\newpage
+
+% ============================================================
+\section{Exercise 12: TOEFL Integrated Skills}
+
+\begin{toeflbox}[TOEFL iBT — Listening \& Speaking Integration]
+\textit{Read the passage and answer the questions using FOR, SINCE, WHEN, or HOW LONG appropriately.}
+\end{toeflbox}
+
+\vspace{0.3cm}
+
+\textbf{Passage:}
+
+\textit{Dr. Sarah Chen has been researching climate change at Stanford University since 2010. Before that, she worked at MIT for eight years. She started her career as a climate scientist in 1998, right after completing her PhD. Dr. Chen has published over 100 papers on the topic and has been warning about rising sea levels for the past fifteen years.}
+
+\vspace{0.3cm}
+
+\textbf{Questions:}
+
+\begin{enumerate}[label=\arabic*.]
+    \item \_\_\_\_\_\_\_\_\_\_ has Dr. Chen been at Stanford University?
+    
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item \_\_\_\_\_\_\_\_\_\_ did she work at MIT?
+    
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item \_\_\_\_\_\_\_\_\_\_ did she start her career as a climate scientist?
+    
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item \_\_\_\_\_\_\_\_\_\_ has she been a climate scientist? (calculate from 1998)
+    
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    
+    \item \_\_\_\_\_\_\_\_\_\_ has she been warning about rising sea levels?
+    
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\begin{toeflbox}[TOEFL Speaking Practice]
+\textit{Prepare a 45-second response answering: ``How long have you been studying English, and when did you start?''}
+
+Use both \textbf{WHEN} (for the starting point) and \textbf{FOR/SINCE} (for the duration) in your response.
+
+\vspace{0.3cm}
+
+\textbf{Your notes:}\\[0.15cm]
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\[0.15cm]
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\[0.15cm]
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\[0.15cm]
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\[0.15cm]
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\[0.15cm]
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\[0.15cm]
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\\[0.15cm]
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\end{toeflbox}
+
+\newpage
+
+% ============================================================
+% QUICK REFERENCE PAGES (TEARABLE)
+% ============================================================
+
+\pagestyle{empty}
+
+\begin{center}
+\hdashrule{\textwidth}{1pt}{2mm}\\[0.2cm]
+{\large\textit{--- Tearable Quick Reference Pages ---}}\\[0.2cm]
+\hdashrule{\textwidth}{1pt}{2mm}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{center}
+{\Large\bfseries Quick Reference Card}\\[0.3cm]
+{\large FOR / SINCE / WHEN / HOW LONG}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{tcolorbox}[colback=blue!5!white, colframe=blue!70!black, title=\textbf{{[GRAD]} FOR vs. SINCE}]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|p{7cm}|p{7cm}|}
+\hline
+\textbf{FOR} + period of time & \textbf{SINCE} + point in time \\
+\hline
+for two hours & since 9 o'clock \\
+for three days & since Monday \\
+for six months & since January \\
+for a long time & since 2015 \\
+for ages & since last summer \\
+for years & since I was a child \\
+\hline
+\end{tabular}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=green!5!white, colframe=easygreen, title=\textbf{{[GRAD]} WHEN vs. HOW LONG}]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|p{7cm}|p{7cm}|}
+\hline
+\textbf{WHEN...?} = specific time & \textbf{HOW LONG...?} = duration \\
+\hline
+When did you arrive? & How long have you been here? \\
+→ \textit{Past Simple} & → \textit{Present Perfect} \\
+\hline
+When did you start? & How long have you been working? \\
+→ \textit{I started in 2019.} & → \textit{I've been working for 5 years.} \\
+\hline
+\end{tabular}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=red!5!white, colframe=hardred, title=\textbf{{[!]} COMMON MISTAKES}]
+\begin{tabular}{ll}
+{[X]} \textit{since three years} & {[OK]} \textit{\textbf{for} three years} \\
+{[X]} \textit{for 2018} & {[OK]} \textit{\textbf{since} 2018} \\
+{[X]} \textit{I know him since...} & {[OK]} \textit{I \textbf{have known} him since...} \\
+{[X]} \textit{They are married since...} & {[OK]} \textit{They \textbf{have been} married since...} \\
+{[X]} \textit{How long did you start?} & {[OK]} \textit{\textbf{When} did you start?} \\
+\end{tabular}
+\end{tcolorbox}
+
+\vspace{0.3cm}
+
+\begin{tcolorbox}[colback=purple!5!white, colframe=toeflpurple, title=\textbf{Key Sentence Patterns}]
+\begin{itemize}
+    \item I have lived here \textbf{for} 5 years / \textbf{since} 2019.
+    \item She has been working \textbf{for} 3 hours / \textbf{since} 9 AM.
+    \item \textbf{When} did you start? → I started in 2019.
+    \item \textbf{How long} have you been here? → For 2 hours / Since 3 o'clock.
+\end{itemize}
+\end{tcolorbox}
+
+\newpage
+
+
+\begin{center}
+{\Large\bfseries Personal Notes}\\[0.3cm]
+\rule{0.8\textwidth}{0.4pt}
+\end{center}
+
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}\\[0.3cm]
+\noindent\rule{\textwidth}{0.4pt}
 
 \end{document}

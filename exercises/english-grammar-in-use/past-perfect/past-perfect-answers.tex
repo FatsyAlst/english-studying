@@ -5,304 +5,685 @@
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{tcolorbox}
 \usepackage[normalem]{ulem}
+\usepackage{colortbl}
 
 % Header and footer
 \pagestyle{fancy}
 \fancyhf{}
 \setlength{\headheight}{15pt}
-\lhead{English Grammar Practice}
-\rhead{ANSWER KEY}
+\lhead{Answer Key}
+\rhead{PAST PERFECT}
 \cfoot{\thepage}
 
 % Section formatting
 \titleformat{\section}
-{\Large\bfseries\color{green!70!black}}
+{\Large\bfseries\color{blue!70!black}}
 {\thesection}{1em}{}
 
 \titleformat{\subsection}
-{\large\bfseries\color{green!50!black}}
+{\large\bfseries\color{blue!50!black}}
 {\thesubsection}{1em}{}
+
+% Custom colors
+\definecolor{correct}{RGB}{0, 128, 0}
+\definecolor{noteblue}{RGB}{0, 80, 160}
+\definecolor{easygreen}{RGB}{34, 139, 34}
+\definecolor{mediumyellow}{RGB}{255, 165, 0}
+\definecolor{hardred}{RGB}{178, 34, 34}
+\definecolor{examblue}{RGB}{0, 51, 102}
+
+% Custom tcolorbox for answers
+\newtcolorbox{answerbox}[1][]{
+    colback=green!5!white,
+    colframe=correct,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{notebox}[1][]{
+    colback=blue!5!white,
+    colframe=noteblue,
+    fonttitle=\bfseries,
+    title=#1
+}
 
 \begin{document}
 
+% ============================================================
+% TITLE PAGE
+% ============================================================
+
 \begin{center}
     {\Huge\bfseries Answer Key}\\[0.5cm]
-    {\Large Past Perfect (I had done)}\\[0.5cm]
+    {\Large Past Perfect}\\[0.3cm]
+    {\large (I had done)}\\[0.5cm]
     \rule{\textwidth}{0.4pt}\\[0.3cm]
-    {\large Practice Set 1}\\[0.2cm]
+    {\large English Grammar in Use — Unit 15}\\[0.2cm]
+    {\large 15 Exercises • Complete Solutions with Explanations}\\[0.2cm]
+    {\large Includes Exam Practice: IELTS • Cambridge • TOEFL}\\[0.2cm]
     \today
 \end{center}
 
-\vspace{1cm}
-
-% ============================================================
-\section{Exercise 1: Complete with Past Perfect}
-
-\begin{enumerate}[leftmargin=2cm]
-    \item When I arrived at the party, Tom \textbf{\color{green!70!black}had already left}.
-    \item She didn't want to go to the cinema because she \textbf{\color{green!70!black}had already seen} the film.
-    \item By the time I got to the station, the train \textbf{\color{green!70!black}had already gone}.
-    \item I was very tired because I \textbf{\color{green!70!black}hadn't slept / had not slept} well the night before.
-    \item They \textbf{\color{green!70!black}had never met} before the conference.
-    \item When we arrived at the restaurant, they \textbf{\color{green!70!black}had given} our table to someone else.
-    \item I didn't recognize her because she \textbf{\color{green!70!black}had changed} so much.
-    \item He couldn't pay for the meal because he \textbf{\color{green!70!black}had forgotten} his wallet at home.
-    \item By 10 PM, I \textbf{\color{green!70!black}had finished} all my homework.
-    \item She told me she \textbf{\color{green!70!black}had been} to Paris three times before.
-    \item The streets were wet because it \textbf{\color{green!70!black}had rained / had been raining} all morning.
-    \item I \textbf{\color{green!70!black}had just got / gotten} home when the phone rang.
-    \item They \textbf{\color{green!70!black}had known} each other for years before they started dating.
-    \item When I checked my pocket, I realized I \textbf{\color{green!70!black}had lost} my keys.
-    \item The movie \textbf{\color{green!70!black}had already started} when we entered the cinema.
-\end{enumerate}
-
 \vspace{0.5cm}
-\textbf{\color{blue!70!black}Rule Reminder:}
-\begin{itemize}
-    \item Past Perfect = \textbf{had + past participle}
-    \item Use it when one past action happened \textbf{before} another past action
-    \item Common time expressions: \textit{already, just, never, before, by the time, when}
-\end{itemize}
-
-\newpage
 
 % ============================================================
-\section{Exercise 2: Past Simple or Past Perfect?}
-
-\begin{enumerate}[leftmargin=2cm]
-    \item When I \textbf{arrived}, everybody \textbf{had already started} eating.
-    \item She \textbf{was} very hungry because she \textbf{hadn't eaten / had not eaten} anything all day.
-    \item I \textbf{didn't recognize} him because he \textbf{had grown} a beard.
-    \item After he \textbf{had finished} his work, he \textbf{went} home.
-    \item When we \textbf{got} to the airport, we realized we \textbf{had forgotten} our passports.
-    \item She \textbf{told} me she \textbf{had never tried} sushi before.
-    \item I \textbf{felt} sick because I \textbf{had eaten} too much at dinner.
-    \item By the time the ambulance \textbf{arrived}, the man \textbf{had already died}.
-    \item He \textbf{was} late for work because he \textbf{had missed} his bus.
-    \item When I \textbf{turned on} the TV, the game \textbf{had already finished}.
-    \item She \textbf{passed} her exam because she \textbf{had studied} very hard.
-    \item After they \textbf{had had} dinner, they \textbf{watched} a movie.
-\end{enumerate}
-
-\vspace{0.5cm}
-\textbf{\color{blue!70!black}Key Point:}
-\begin{itemize}
-    \item Use \textbf{Past Simple} for the main event in the story timeline
-    \item Use \textbf{Past Perfect} for the action that happened \textbf{before} the main event
-    \item After ``after'' + past perfect, use past simple for the next action
-\end{itemize}
-
-\vspace{1cm}
-
+% SCORING SUMMARY
 % ============================================================
-\section{Exercise 3: Write Sentences Using Past Perfect}
 
-\begin{enumerate}[leftmargin=2cm]
-    \item \textbf{She moved to Paris after she had studied French for five years.}\\
-    (Also acceptable: Before she moved to Paris, she had studied French for five years.)
-    
-    \item \textbf{We went for a walk after the rain had stopped.}\\
-    (Also acceptable: After the rain had stopped, we went for a walk.)
-    
-    \item \textbf{He bought a car after he had saved enough money.}\\
-    (Also acceptable: After he had saved enough money, he bought a car.)
-    
-    \item \textbf{More guests arrived after they had eaten all the food.}\\
-    (Also acceptable: By the time more guests arrived, they had eaten all the food.)
-    
-    \item \textbf{I watched the movie after I had read the book.}\\
-    (Also acceptable: Before I watched the movie, I had read the book.)
-    
-    \item \textbf{We left the venue after the concert had ended.}\\
-    (Also acceptable: After the concert had ended, we left the venue.)
-\end{enumerate}
-
-\newpage
-
-% ============================================================
-\section{Exercise 4: Complete the Story}
-
-Last Saturday, I \textbf{(1) decided} to visit my old friend Mark. When I \textbf{(2) arrived} at his house, I \textbf{(3) discovered} that he \textbf{(4) had moved} to a new apartment. A neighbor \textbf{(5) told} me that Mark \textbf{(6) had left} two months earlier.
-
-I \textbf{(7) was} disappointed because I \textbf{(8) hadn't seen / had not seen} him for over a year, and I \textbf{(9) had really wanted / really wanted} to catch up. I \textbf{(10) tried} to call him, but he \textbf{(11) had changed} his phone number too.
-
-Later that evening, I \textbf{(12) checked} my email and \textbf{(13) found} a message from Mark. He \textbf{(14) had sent} it two weeks before, but I \textbf{(15) hadn't noticed / had not noticed} it. In the email, he \textbf{(16) explained} that he \textbf{(17) had got / gotten} a new job in another city and \textbf{(18) had had} to move quickly.
-
-\vspace{0.5cm}
-\textbf{\color{blue!70!black}Note:} The past perfect is used for events that happened before the main story timeline (Saturday). The past simple is used for the main events of the story.
-
-\vspace{1cm}
-
-% ============================================================
-\section{Exercise 5: Correct the Mistakes}
-
-\begin{enumerate}[leftmargin=2cm]
-    \item \sout{When I got home, I realized I had forgot my keys at work.} \\
-    \textit{Correction:} \textbf{When I got home, I realized I had forgotten my keys at work.}\\
-    \textit{Explanation:} The past participle of ``forget'' is ``forgotten'', not ``forgot''.
-    
-    \item \sout{She told me she has never been to Japan before.} \\
-    \textit{Correction:} \textbf{She told me she had never been to Japan before.}\\
-    \textit{Explanation:} Use past perfect (had been), not present perfect (has been), in reported speech about the past.
-    
-    \item \sout{After he had ate dinner, he went to bed.} \\
-    \textit{Correction:} \textbf{After he had eaten dinner, he went to bed.}\\
-    \textit{Explanation:} The past participle of ``eat'' is ``eaten'', not ``ate'' (which is past simple).
-    
-    \item \sout{I didn't knew that you had already left.} \\
-    \textit{Correction:} \textbf{I didn't know that you had already left.}\\
-    \textit{Explanation:} After ``didn't'', use the base form ``know'', not ``knew''.
-    
-    \item \sout{They have finished all the work before the boss arrived.} \\
-    \textit{Correction:} \textbf{They had finished all the work before the boss arrived.}\\
-    \textit{Explanation:} Use past perfect (had finished) to show an action before another past action.
-    
-    \item \sout{By the time I woke up, the sun had already rose.} \\
-    \textit{Correction:} \textbf{By the time I woke up, the sun had already risen.}\\
-    \textit{Explanation:} The past participle of ``rise'' is ``risen'', not ``rose'' (which is past simple).
-    
-    \item \sout{She was tired because she didn't slept well.} \\
-    \textit{Correction:} \textbf{She was tired because she hadn't slept well.}\\
-    \textit{Explanation:} Use past perfect negative (hadn't slept) for the earlier action. Also, after ``didn't'', use base form.
-    
-    \item \sout{When the police arrived, the thief had already escape.} \\
-    \textit{Correction:} \textbf{When the police arrived, the thief had already escaped.}\\
-    \textit{Explanation:} The past participle of ``escape'' is ``escaped''.
-    
-    \item \sout{I had went to that restaurant many times before it closed.} \\
-    \textit{Correction:} \textbf{I had been / gone to that restaurant many times before it closed.}\\
-    \textit{Explanation:} The past participle of ``go'' is ``gone'' or ``been'' (for places), not ``went''.
-    
-    \item \sout{He told me he had see the movie twice.} \\
-    \textit{Correction:} \textbf{He told me he had seen the movie twice.}\\
-    \textit{Explanation:} The past participle of ``see'' is ``seen'', not ``see''.
-\end{enumerate}
-
-\newpage
-
-% ============================================================
-\section{Exercise 6: Questions with Past Perfect}
-
-\begin{enumerate}[leftmargin=2cm]
-    \item \textbf{Had you ever visited} London before your trip last year?
-    \item \textbf{Had she finished} her homework before the teacher arrived?
-    \item \textbf{Had they already eaten} when you got to the restaurant?
-    \item \textbf{Had he met} her before the party?
-    \item Why \textbf{hadn't you told / had you not told} me about the problem earlier?
-    \item How long \textbf{had they been} married before they had children?
-    \item What \textbf{had happened} before the police arrived?
-    \item Where \textbf{had she worked} before she joined our company?
-\end{enumerate}
-
-\vspace{0.5cm}
-\textbf{\color{blue!70!black}Question Formation:}
-\begin{itemize}
-    \item Yes/No questions: \textbf{Had + subject + past participle...?}
-    \item Wh- questions: \textbf{Wh-word + had + subject + past participle...?}
-    \item Negative questions: \textbf{Hadn't + subject + past participle...?}
-\end{itemize}
-
-\vspace{1cm}
-
-% ============================================================
-\section{Exercise 7: Translation Practice}
-
-\begin{enumerate}[leftmargin=2cm]
-    \item Quando cheguei ao aeroporto, o avião já tinha partido. \\
-    \textbf{When I arrived at the airport, the plane had already left / departed.}
-    
-    \item Ela estava cansada porque tinha trabalhado o dia todo. \\
-    \textbf{She was tired because she had worked all day.}
-    
-    \item Eu nunca tinha visto um filme tão bom antes. \\
-    \textbf{I had never seen such a good movie / film before.}
-    
-    \item Eles já tinham jantado quando nós chegamos. \\
-    \textbf{They had already had dinner when we arrived.}
-    
-    \item Você já tinha estudado inglês antes de fazer o curso? \\
-    \textbf{Had you already studied English before taking the course?}
-    
-    \item Ele não sabia que ela tinha se mudado. \\
-    \textbf{He didn't know (that) she had moved.}
-    
-    \item Depois que ela tinha terminado o livro, ela assistiu ao filme. \\
-    \textbf{After she had finished the book, she watched the movie / film.}
-    
-    \item A festa já tinha acabado quando eu cheguei. \\
-    \textbf{The party had already ended / finished when I arrived.}
-\end{enumerate}
-
-\newpage
-
-% ============================================================
-\section{Exercise 8: Mixed Practice - Fill the Gaps}
-
-\subsection*{Dialogue 1}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} Why were you so late to the meeting yesterday?
-    \item \textbf{B:} I \textbf{missed} my alarm because I \textbf{had forgotten} to charge my phone the night before.
-    \item \textbf{A:} That's unfortunate. \textbf{Did you miss} anything important?
-    \item \textbf{B:} Yes, by the time I \textbf{arrived}, they \textbf{had already made} all the important decisions.
-\end{itemize}
-
-\subsection*{Dialogue 2}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} How was your trip to Rome?
-    \item \textbf{B:} Amazing! I \textbf{had never been} there before, so everything \textbf{was} new to me.
-    \item \textbf{A:} \textbf{Did you visit} the Colosseum?
-    \item \textbf{B:} Of course! I \textbf{had seen} pictures before, but seeing it in person \textbf{was} incredible.
-\end{itemize}
-
-\subsection*{Dialogue 3}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} I \textbf{heard} you got a new job. Congratulations!
-    \item \textbf{B:} Thanks! I \textbf{had applied} for it months ago and \textbf{had almost given up} hope.
-    \item \textbf{A:} How long \textbf{had you worked} at your previous company?
-    \item \textbf{B:} I \textbf{had been} there for five years before I \textbf{decided} to look for something new.
-\end{itemize}
-
-\vspace{2cm}
+\section*{Scoring Summary}
 
 \begin{center}
-    \rule{0.5\textwidth}{0.4pt}\\
-    \vspace{0.3cm}
-    {\Large\bfseries Key Grammar Points Summary}
-    \vspace{0.3cm}
+\begin{tabular}{|l|c|}
+\hline
+\textbf{Section} & \textbf{Total Points} \\
+\hline
+EASY (Exercises 1-4) & 41 points \\
+\hline
+MEDIUM (Exercises 5-8) & 54 points \\
+\hline
+HARD (Exercises 9-12) & 32 points \\
+\hline
+REAL-LIFE \& EXAM (Exercises 13-15) & 21 points \\
+\hline
+\textbf{GRAND TOTAL} & \textbf{148 points} \\
+\hline
+\end{tabular}
+\end{center}
+
+\newpage
+
+% ============================================================
+% EASY SECTION ANSWERS
+% ============================================================
+
+\begin{center}
+{\Large\textcolor{easygreen}{\textbf{— EASY EXERCISES —}}}
+\end{center}
+
+\vspace{0.3cm}
+
+% ============================================================
+\section{Exercise 1: Complete with Past Perfect (15 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item When I arrived at the party, Tom \textbf{\textcolor{correct}{had already left}}.
+    \item She didn't want to go to the cinema because she \textbf{\textcolor{correct}{had already seen}} the film.
+    \item By the time I got to the station, the train \textbf{\textcolor{correct}{had already gone}}.
+    \item I was very tired because I \textbf{\textcolor{correct}{hadn't slept / had not slept}} well the night before.
+    \item They \textbf{\textcolor{correct}{had never met}} before the conference.
+    \item When we arrived at the restaurant, they \textbf{\textcolor{correct}{had given}} our table to someone else.
+    \item I didn't recognize her because she \textbf{\textcolor{correct}{had changed}} so much.
+    \item He couldn't pay for the meal because he \textbf{\textcolor{correct}{had forgotten}} his wallet at home.
+    \item By 10 PM, I \textbf{\textcolor{correct}{had finished}} all my homework.
+    \item She told me she \textbf{\textcolor{correct}{had been}} to Paris three times before.
+    \item The streets were wet because it \textbf{\textcolor{correct}{had rained / had been raining}} all morning.
+    \item I \textbf{\textcolor{correct}{had just got / gotten}} home when the phone rang.
+    \item They \textbf{\textcolor{correct}{had known}} each other for years before they started dating.
+    \item When I checked my pocket, I realized I \textbf{\textcolor{correct}{had lost}} my keys.
+    \item The movie \textbf{\textcolor{correct}{had already started}} when we entered the cinema.
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 15 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 2: Past Simple or Past Perfect? (12 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item When I \textbf{\textcolor{correct}{arrived}}, everybody \textbf{\textcolor{correct}{had already started}} eating.
+    \item She \textbf{\textcolor{correct}{was}} very hungry because she \textbf{\textcolor{correct}{hadn't eaten}} anything all day.
+    \item I \textbf{\textcolor{correct}{didn't recognize}} him because he \textbf{\textcolor{correct}{had grown}} a beard.
+    \item After he \textbf{\textcolor{correct}{had finished / finished}} his work, he \textbf{\textcolor{correct}{went}} home.
+    \item When we \textbf{\textcolor{correct}{got}} to the airport, we realized we \textbf{\textcolor{correct}{had forgotten}} our passports.
+    \item She \textbf{\textcolor{correct}{told}} me she \textbf{\textcolor{correct}{had never tried}} sushi before.
+    \item I \textbf{\textcolor{correct}{felt}} sick because I \textbf{\textcolor{correct}{had eaten}} too much at dinner.
+    \item By the time the ambulance \textbf{\textcolor{correct}{arrived}}, the man \textbf{\textcolor{correct}{had already died}}.
+    \item He \textbf{\textcolor{correct}{was}} late for work because he \textbf{\textcolor{correct}{had missed}} his bus.
+    \item When I \textbf{\textcolor{correct}{turned on}} the TV, the game \textbf{\textcolor{correct}{had already finished}}.
+    \item She \textbf{\textcolor{correct}{passed}} her exam because she \textbf{\textcolor{correct}{had studied}} very hard.
+    \item After they \textbf{\textcolor{correct}{had had / had}} dinner, they \textbf{\textcolor{correct}{watched}} a movie.
+\end{enumerate}
+\end{answerbox}
+
+\begin{notebox}[Note on ``after'' and ``before'']
+When using \textbf{after} or \textbf{before}, both Past Simple and Past Perfect are acceptable because the time sequence is already clear from the conjunction itself.
+\end{notebox}
+
+\textbf{Scoring:} 1 point per correct answer (some have 2 blanks). Total: 12 points.
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 3: Questions with Past Perfect (8 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{Had you ever visited}} London before your trip last year?
+    \item \textbf{\textcolor{correct}{Had she finished}} her homework before the teacher arrived?
+    \item \textbf{\textcolor{correct}{Had they already eaten}} when you got to the restaurant?
+    \item \textbf{\textcolor{correct}{Had he met}} her before the party?
+    \item Why \textbf{\textcolor{correct}{hadn't you told}} me about the problem earlier?
+    \item How long \textbf{\textcolor{correct}{had they been}} married before they had children?
+    \item What \textbf{\textcolor{correct}{had happened}} before the police arrived?
+    \item Where \textbf{\textcolor{correct}{had she worked}} before she joined our company?
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 8 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 4: Write Sentences Using Past Perfect (6 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{She moved to Paris after she had studied French for five years.}} \\
+    \textit{(or: By the time she moved to Paris, she had studied French for five years.)}
+    
+    \item \textbf{\textcolor{correct}{We went for a walk after the rain had stopped.}} \\
+    \textit{(or: After the rain had stopped, we went for a walk.)}
+    
+    \item \textbf{\textcolor{correct}{He bought a car after he had saved enough money.}} \\
+    \textit{(or: After he had saved enough money, he bought a car.)}
+    
+    \item \textbf{\textcolor{correct}{More guests arrived after they had eaten all the food.}} \\
+    \textit{(or: By the time more guests arrived, they had eaten all the food.)}
+    
+    \item \textbf{\textcolor{correct}{I watched the movie after I had read the book.}} \\
+    \textit{(or: After I had read the book, I watched the movie.)}
+    
+    \item \textbf{\textcolor{correct}{We left the venue after the concert had ended.}} \\
+    \textit{(or: After the concert had ended, we left the venue.)}
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 6 points.
+
+\newpage
+
+% ============================================================
+% MEDIUM SECTION ANSWERS
+% ============================================================
+
+\begin{center}
+{\Large\textcolor{mediumyellow}{\textbf{— MEDIUM EXERCISES —}}}
+\end{center}
+
+\vspace{0.3cm}
+
+% ============================================================
+\section{Exercise 5: Complete the Story (18 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{decided}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{arrived}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{discovered}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{had moved}} (Past Perfect — earlier action)
+    \item \textbf{\textcolor{correct}{told}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{had left}} (Past Perfect — earlier action)
+    \item \textbf{\textcolor{correct}{was}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{hadn't seen / had not seen}} (Past Perfect — earlier situation)
+    \item \textbf{\textcolor{correct}{had really wanted}} (Past Perfect — earlier feeling)
+    \item \textbf{\textcolor{correct}{tried}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{had changed}} (Past Perfect — earlier action)
+    \item \textbf{\textcolor{correct}{checked}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{found}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{had sent}} (Past Perfect — earlier action)
+    \item \textbf{\textcolor{correct}{hadn't noticed / had not noticed}} (Past Perfect — earlier oversight)
+    \item \textbf{\textcolor{correct}{explained}} (Past Simple — main narrative)
+    \item \textbf{\textcolor{correct}{had got / had gotten}} (Past Perfect — earlier event)
+    \item \textbf{\textcolor{correct}{had had}} (Past Perfect — earlier necessity)
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 18 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 6: Mixed Practice - Dialogues (16 points)}
+
+\begin{answerbox}[Dialogue 1]
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{B:} I \textbf{\textcolor{correct}{missed}} my alarm because I \textbf{\textcolor{correct}{had forgotten}} to charge my phone the night before.
+    \item \textbf{A:} \textbf{\textcolor{correct}{Did you miss}} anything important?
+    \item \textbf{B:} Yes, by the time I \textbf{\textcolor{correct}{arrived}}, they \textbf{\textcolor{correct}{had already made}} all the important decisions.
+\end{itemize}
+\end{answerbox}
+
+\begin{answerbox}[Dialogue 2]
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{B:} Amazing! I \textbf{\textcolor{correct}{had never been}} there before, so everything \textbf{\textcolor{correct}{was}} new to me.
+    \item \textbf{A:} \textbf{\textcolor{correct}{Did you visit}} the Colosseum?
+    \item \textbf{B:} Of course! I \textbf{\textcolor{correct}{had seen}} pictures before, but seeing it in person \textbf{\textcolor{correct}{was}} incredible.
+\end{itemize}
+\end{answerbox}
+
+\begin{answerbox}[Dialogue 3]
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{A:} I \textbf{\textcolor{correct}{heard}} you got a new job. Congratulations!
+    \item \textbf{B:} Thanks! I \textbf{\textcolor{correct}{had applied}} for it months ago and \textbf{\textcolor{correct}{had almost given up}} hope.
+    \item \textbf{A:} How long \textbf{\textcolor{correct}{had you worked}} at your previous company?
+    \item \textbf{B:} I \textbf{\textcolor{correct}{had been}} there for five years before I \textbf{\textcolor{correct}{decided}} to look for something new.
+\end{itemize}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 16 points.
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 7: Reported Speech with Past Perfect (10 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{She said (that) she had never been to Japan.}}
+    
+    \item \textbf{\textcolor{correct}{They told me (that) they had already eaten dinner.}}
+    
+    \item \textbf{\textcolor{correct}{He admitted (that) he had lost his keys the day before / the previous day.}}
+    
+    \item \textbf{\textcolor{correct}{John complained (that) she hadn't called him back.}}
+    
+    \item \textbf{\textcolor{correct}{The manager mentioned (that) he had been working there for ten years.}}
+    
+    \item \textbf{\textcolor{correct}{They said (that) they had seen the movie the week before / the previous week.}}
+    
+    \item \textbf{\textcolor{correct}{She explained (that) she hadn't received my email.}}
+    
+    \item \textbf{\textcolor{correct}{The officer informed us (that) the train had just left.}}
+    
+    \item \textbf{\textcolor{correct}{He told the doctor (that) he had broken his leg skiing.}}
+    
+    \item \textbf{\textcolor{correct}{The host said (that) they hadn't arrived yet.}}
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 10 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 8: Past Perfect vs Past Perfect Continuous (10 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item She was exhausted because she \textbf{\textcolor{correct}{had been working}} for 12 hours straight. \\
+    \textit{(Continuous — emphasizes duration of activity)}
+    
+    \item By the time we arrived, they \textbf{\textcolor{correct}{had already eaten}} all the pizza. \\
+    \textit{(Simple — completed action, result)}
+    
+    \item His eyes were red because he \textbf{\textcolor{correct}{had been crying}}. \\
+    \textit{(Continuous — visible result of activity)}
+    
+    \item I \textbf{\textcolor{correct}{had read}} the book three times before I finally understood it. \\
+    \textit{(Simple — completed quantity)}
+    
+    \item They were wet because they \textbf{\textcolor{correct}{had been swimming}} in the rain. \\
+    \textit{(Continuous — visible result of activity)}
+    
+    \item She \textbf{\textcolor{correct}{had never tasted}} sushi before that restaurant. \\
+    \textit{(Simple — never + completed experience)}
+    
+    \item He was out of breath because he \textbf{\textcolor{correct}{had been running}}. \\
+    \textit{(Continuous — visible result of activity)}
+    
+    \item I knew the area well because I \textbf{\textcolor{correct}{had lived / had been living}} there for many years. \\
+    \textit{(Both acceptable with ``live'')}
+    
+    \item The ground was muddy because it \textbf{\textcolor{correct}{had been raining}} all night. \\
+    \textit{(Continuous — duration + visible result)}
+    
+    \item By 2020, she \textbf{\textcolor{correct}{had visited}} every country in Europe. \\
+    \textit{(Simple — completed achievement)}
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 10 points.
+
+\newpage
+
+% ============================================================
+% HARD SECTION ANSWERS
+% ============================================================
+
+\begin{center}
+{\Large\textcolor{hardred}{\textbf{— HARD EXERCISES —}}}
+\end{center}
+
+\vspace{0.3cm}
+
+% ============================================================
+\section{Exercise 9: Correct the Mistakes (10 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \sout{I had forgot my keys} \\
+    \textbf{\textcolor{correct}{I had forgotten my keys}} \\
+    \textit{Forgot → Forgotten (past participle)}
+    
+    \item \sout{she has never been to Japan} \\
+    \textbf{\textcolor{correct}{she had never been to Japan}} \\
+    \textit{Has → Had (backshift in reported speech)}
+    
+    \item \sout{he had ate dinner} \\
+    \textbf{\textcolor{correct}{he had eaten dinner}} \\
+    \textit{Ate → Eaten (past participle)}
+    
+    \item \sout{I didn't knew} \\
+    \textbf{\textcolor{correct}{I didn't know}} \\
+    \textit{Knew → Know (base form after did)}
+    
+    \item \sout{They have finished} \\
+    \textbf{\textcolor{correct}{They had finished}} \\
+    \textit{Have → Had (past perfect, not present perfect)}
+    
+    \item \sout{had already rose} \\
+    \textbf{\textcolor{correct}{had already risen}} \\
+    \textit{Rose → Risen (past participle)}
+    
+    \item \sout{she didn't slept well} \\
+    \textbf{\textcolor{correct}{she hadn't slept well}} \\
+    \textit{Didn't sleep → Hadn't slept (past perfect for reason)}
+    
+    \item \sout{had already escape} \\
+    \textbf{\textcolor{correct}{had already escaped}} \\
+    \textit{Escape → Escaped (past participle)}
+    
+    \item \sout{I had went} \\
+    \textbf{\textcolor{correct}{I had gone}} \\
+    \textit{Went → Gone (past participle)}
+    
+    \item \sout{he had see} \\
+    \textbf{\textcolor{correct}{he had seen}} \\
+    \textit{See → Seen (past participle)}
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 10 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 10: Translation Practice (8 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{When I arrived at the airport, the plane had already left/departed.}}
+    
+    \item \textbf{\textcolor{correct}{She was tired because she had worked / had been working all day.}}
+    
+    \item \textbf{\textcolor{correct}{I had never seen such a good film/movie before.}}
+    
+    \item \textbf{\textcolor{correct}{They had already had dinner when we arrived.}}
+    
+    \item \textbf{\textcolor{correct}{Had you already studied English before you took the course?}}
+    
+    \item \textbf{\textcolor{correct}{He didn't know (that) she had moved.}}
+    
+    \item \textbf{\textcolor{correct}{After she had finished the book, she watched the film/movie.}}
+    
+    \item \textbf{\textcolor{correct}{The party had already ended/finished when I arrived.}}
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 8 points.
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 11: Complex Sentences (8 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item By the time the rescue team \textbf{\textcolor{correct}{arrived}}, the survivors \textbf{\textcolor{correct}{had been waiting}} for three days and \textbf{\textcolor{correct}{had run out}} of food.
+    
+    \item She \textbf{\textcolor{correct}{didn't realize / hadn't realized}} how much she \textbf{\textcolor{correct}{had missed}} her hometown until she \textbf{\textcolor{correct}{went back}} to visit.
+    
+    \item The students \textbf{\textcolor{correct}{had studied / had been studying}} all night, so they \textbf{\textcolor{correct}{felt}} exhausted when the exam \textbf{\textcolor{correct}{started}}.
+    
+    \item After he \textbf{\textcolor{correct}{had worked / had been working}} at the company for twenty years, he finally \textbf{\textcolor{correct}{got}} the promotion he \textbf{\textcolor{correct}{had dreamed / had been dreaming}} about.
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct clause (approx. 2-3 per sentence). Total: 8 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 12: Third Conditional with Past Perfect (6 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item If I \textbf{\textcolor{correct}{had known}} about the traffic, I would have left earlier.
+    
+    \item She wouldn't have failed the exam if she \textbf{\textcolor{correct}{had studied}} harder.
+    
+    \item If they \textbf{\textcolor{correct}{had told}} us the truth, we wouldn't have been so angry.
+    
+    \item I would have called you if I \textbf{\textcolor{correct}{hadn't lost / had not lost}} your number.
+    
+    \item If the weather \textbf{\textcolor{correct}{had been}} better, we would have gone to the beach.
+    
+    \item He wouldn't have missed the flight if he \textbf{\textcolor{correct}{had left}} home earlier.
+\end{enumerate}
+\end{answerbox}
+
+\begin{notebox}[Third Conditional Structure]
+\begin{center}
+\textbf{If} + \textbf{Past Perfect}, + \textbf{would have} + past participle
+\end{center}
+Used for \textbf{hypothetical past situations} — things that didn't actually happen.
+\end{notebox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 6 points.
+
+\newpage
+
+% ============================================================
+% REAL-LIFE & EXAM SECTION ANSWERS
+% ============================================================
+
+\begin{center}
+{\Large\textcolor{blue!70!black}{\textbf{--- REAL-LIFE \& EXAM PRACTICE ---}}}
+\end{center}
+
+\vspace{0.3cm}
+
+% ============================================================
+\section{Exercise 13: IELTS Writing Task 2 Practice (5 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item By the end of the 20th century, technology \textbf{\textcolor{correct}{had transformed}} the workplace in ways that previous generations \textbf{\textcolor{correct}{had never imagined}}.
+    
+    \item The study found that participants who \textbf{\textcolor{correct}{had received}} the treatment \textbf{\textcolor{correct}{showed}} significant improvement.
+    
+    \item Before the new policy \textbf{\textcolor{correct}{was implemented}}, the government \textbf{\textcolor{correct}{had consulted}} with various stakeholders.
+    
+    \item The researchers \textbf{\textcolor{correct}{discovered}} that the phenomenon \textbf{\textcolor{correct}{had occurred}} much earlier than previously thought.
+    
+    \item By the time the environmental regulations \textbf{\textcolor{correct}{came}} into effect, significant damage \textbf{\textcolor{correct}{had already been done}}.
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct sentence. Total: 5 points.
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 14: Cambridge Use of English (8 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item I was surprised to meet John because I \textbf{\textcolor{correct}{hadn't seen him for}} five years. \\
+    \textit{(FOR — with duration "five years"; SINCE would need a point in time like "since 2019")}
+    
+    \item When we arrived at the cinema, the film \textbf{\textcolor{correct}{had already started}}. \\
+    \textit{(ALREADY — between had and past participle)}
+    
+    \item She got the job because she \textbf{\textcolor{correct}{had worked}} in the field before. \\
+    \textit{(WORKED — past participle of work)}
+    
+    \item When I arrived, Tom \textbf{\textcolor{correct}{had just left}}. \\
+    \textit{(JUST — between had and past participle)}
+    
+    \item When I tried to pay, I realized I \textbf{\textcolor{correct}{had forgotten}} my wallet. \\
+    \textit{(FORGOTTEN — past participle of forget)}
+    
+    \item I \textbf{\textcolor{correct}{had never eaten / tasted}} Thai food before. \\
+    \textit{(NEVER — between had and past participle)}
+    
+    \item He went to the gym \textbf{\textcolor{correct}{after he had finished}} work. \\
+    \textit{(AFTER — with past perfect)}
+    
+    \item When we got there, we realized the restaurant \textbf{\textcolor{correct}{had already closed}}. \\
+    \textit{(ALREADY — between had and past participle)}
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct transformation. Total: 8 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 15: TOEFL Integrated Skills (8 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{What did scientists know before Fleming's discovery?}\\
+    \textbf{\textcolor{correct}{Before Fleming's discovery, scientists had known that certain molds could kill bacteria, but no one had successfully isolated the active compound.}}
+    
+    \item \textbf{What happened before Fleming noticed the contaminated culture?}\\
+    \textbf{\textcolor{correct}{Before Fleming noticed the contaminated culture, a mold had contaminated one of his bacterial cultures. / Earlier researchers had observed similar phenomena but had not investigated further.}}
+    
+    \item \textbf{What had earlier researchers failed to do?}\\
+    \textbf{\textcolor{correct}{Earlier researchers had failed to investigate the phenomena further. / They had observed similar things but had not isolated the active compound.}}
+    
+    \item \textbf{Rewrite using Past Perfect:}\\
+    \textbf{\textcolor{correct}{Before Fleming discovered penicillin, no one had isolated the compound.}}\\
+    \textit{or: When Fleming discovered penicillin, no one had ever isolated the compound before.}
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 2 points per correct answer. Total: 8 points.
+
+\newpage
+
+% ============================================================
+% FINAL SCORING
+% ============================================================
+
+\begin{center}
+{\Large\bfseries Total Score Summary}\\[0.5cm]
+
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|p{8cm}|c|c|}
+\hline
+\textbf{Exercise} & \textbf{Points} & \textbf{Your Score} \\
+\hline
+\multicolumn{3}{|c|}{\cellcolor{green!20}\textbf{\textcolor{easygreen}{EASY SECTION}}} \\
+\hline
+1. Complete with Past Perfect & 15 & \\
+\hline
+2. Past Simple or Past Perfect? & 12 & \\
+\hline
+3. Questions with Past Perfect & 8 & \\
+\hline
+4. Write Sentences Using Past Perfect & 6 & \\
+\hline
+\textit{Easy Subtotal} & \textit{41} & \\
+\hline
+\multicolumn{3}{|c|}{\cellcolor{yellow!20}\textbf{\textcolor{mediumyellow}{MEDIUM SECTION}}} \\
+\hline
+5. Complete the Story & 18 & \\
+\hline
+6. Mixed Practice — Dialogues & 16 & \\
+\hline
+7. Reported Speech with Past Perfect & 10 & \\
+\hline
+8. Past Perfect vs Past Perfect Continuous & 10 & \\
+\hline
+\textit{Medium Subtotal} & \textit{54} & \\
+\hline
+\multicolumn{3}{|c|}{\cellcolor{red!20}\textbf{\textcolor{hardred}{HARD SECTION}}} \\
+\hline
+9. Correct the Mistakes & 10 & \\
+\hline
+10. Translation Practice & 8 & \\
+\hline
+11. Complex Sentences & 8 & \\
+\hline
+12. Third Conditional with Past Perfect & 6 & \\
+\hline
+\textit{Hard Subtotal} & \textit{32} & \\
+\hline
+\multicolumn{3}{|c|}{\cellcolor{blue!20}\textbf{\textcolor{blue!70!black}{REAL-LIFE \& EXAM}}} \\
+\hline
+13. IELTS Writing Task 2 Practice & 5 & \\
+\hline
+14. Cambridge Use of English & 8 & \\
+\hline
+15. TOEFL Integrated Skills & 8 & \\
+\hline
+\textit{Exam Subtotal} & \textit{21} & \\
+\hline
+\cellcolor{gray!20}\textbf{GRAND TOTAL} & \cellcolor{gray!20}\textbf{148} & \cellcolor{gray!20} \\
+\hline
+\end{tabular}
+\end{center}
+
+\newpage
+
+\begin{center}
+\rule{0.5\textwidth}{0.4pt}\\
+\vspace{0.3cm}
+{\Large\bfseries Key Grammar Points Summary}
+\vspace{0.3cm}
 \end{center}
 
 \subsection*{Past Perfect Formation}
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Positive} & had + past participle \\
+\hline
+\textbf{Negative} & had not (hadn't) + past participle \\
+\hline
+\textbf{Question} & Had + subject + past participle...? \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{Main Uses}
 \begin{itemize}
-    \item \textbf{Affirmative:} Subject + had + past participle\\
-    \textit{I had finished / She had gone / They had seen}
-    \item \textbf{Negative:} Subject + hadn't + past participle\\
-    \textit{I hadn't finished / She hadn't gone / They hadn't seen}
-    \item \textbf{Question:} Had + subject + past participle?\\
-    \textit{Had you finished? / Had she gone? / Had they seen?}
+    \item \textbf{Action before another past action:} \textit{When I arrived, the film had started.}
+    \item \textbf{Explaining past situations:} \textit{I was tired because I hadn't slept well.}
+    \item \textbf{Reported speech:} \textit{She said she had finished.}
+    \item \textbf{Third conditional:} \textit{If I had known, I would have helped.}
 \end{itemize}
 
-\subsection*{When to Use Past Perfect}
-\begin{itemize}
-    \item To show that one action happened \textbf{before} another action in the past
-    \item With time expressions like: \textit{before, after, by the time, when, already, just, never, until}
-    \item In reported speech when the original statement was in present perfect or past simple
-\end{itemize}
-
-\subsection*{Common Irregular Past Participles}
-\begin{itemize}
-    \item be → been, do → done, go → gone/been, see → seen
-    \item eat → eaten, forget → forgotten, give → given, take → taken
-    \item write → written, speak → spoken, break → broken, choose → chosen
-    \item rise → risen, fall → fallen, know → known, grow → grown
-\end{itemize}
+\subsection*{Common Time Markers}
+\textit{already, just, never, before, by the time, after, when, until}
 
 \vspace{1cm}
 
 \begin{center}
     \rule{0.5\textwidth}{0.4pt}\\
     \textit{Great job completing these exercises!}\\
-    \textit{Keep practicing to master the past perfect.}
+    \textit{Keep practicing to master the Past Perfect tense.}
 \end{center}
 
 \end{document}

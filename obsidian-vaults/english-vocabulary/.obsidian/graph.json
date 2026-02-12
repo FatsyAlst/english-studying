@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Dragon Ball Z",
+      "color": {
+        "a": 1,
+        "rgb": 16347926
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Dragon Ball\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15968631
+      }
+    },
+    {
+      "query": "file:Jujutsu Kaisen Modulo",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Jujutsu Kaisen Modulo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9689005
+      }
+    },
+    {
+      "query": "file:Peaky Blinders",
+      "color": {
+        "a": 1,
+        "rgb": 6514417
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Peaky Blinders\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10856691
+      }
+    },
+    {
+      "query": "file: F1",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "path:Vocabulary/F1  ",
+      "color": {
+        "a": 1,
+        "rgb": 15903659
+      }
+    },
+    {
+      "query": "tag:#blog",
+      "color": {
+        "a": 1,
+        "rgb": 14524637
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.738020833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.75,
+  "repelStrength": 12.0833333333333,
+  "linkStrength": 1,
+  "linkDistance": 282,
+  "scale": 0.1445433372573349,
+  "close": true
+}

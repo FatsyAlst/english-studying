@@ -1,0 +1,455 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage[most]{tcolorbox}
+\usepackage{soul}
+\usepackage{ulem}
+\usepackage{pifont}
+\usepackage{hyperref}
+\usepackage{longtable}
+
+% Colors
+\definecolor{navyblue}{HTML}{003366}
+\definecolor{correctgreen}{HTML}{28a745}
+\definecolor{errorred}{HTML}{dc3545}
+\definecolor{highlightyellow}{HTML}{fff3cd}
+\definecolor{lightgray}{HTML}{f8f9fa}
+
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headheight}{15pt}
+\lhead{\textcolor{navyblue}{Writing Practice Log}}
+\rhead{\textcolor{navyblue}{\today}}
+\cfoot{\thepage}
+
+% Section formatting
+\titleformat{\section}
+{\Large\bfseries\color{navyblue}}
+{\thesection}{1em}{}
+
+\titleformat{\subsection}
+{\large\bfseries\color{navyblue}}
+{\thesubsection}{1em}{}
+
+% Highlight commands for corrections
+\newcommand{\added}[1]{\textcolor{correctgreen}{\textbf{#1}}}
+\newcommand{\removed}[1]{\textcolor{errorred}{\sout{#1}}}
+\newcommand{\changed}[2]{\textcolor{errorred}{\sout{#1}} $\rightarrow$ \textcolor{correctgreen}{\textbf{#2}}}
+
+% Custom boxes
+\newtcolorbox{taskbox}[1][]{
+    enhanced,
+    colback=white,
+    colframe=navyblue,
+    colbacktitle=navyblue,
+    coltitle=white,
+    fonttitle=\bfseries,
+    title=#1,
+    breakable
+}
+
+\newtcolorbox{originalbox}{
+    colback=lightgray,
+    colframe=gray,
+    title={\textbf{Original Response}},
+    fonttitle=\bfseries,
+    breakable
+}
+
+\newtcolorbox{correctedbox}{
+    colback=green!5!white,
+    colframe=correctgreen,
+    title={\textbf{Corrected Version (Changes Highlighted)}},
+    fonttitle=\bfseries,
+    breakable
+}
+
+\newtcolorbox{modelbox}{
+    colback=blue!5!white,
+    colframe=navyblue,
+    title={\textbf{Model Paragraph (Band 8.5+)}},
+    fonttitle=\bfseries,
+    breakable
+}
+
+\begin{document}
+
+% ============================================================================
+% TITLE
+% ============================================================================
+
+\begin{center}
+{\Huge\bfseries\color{navyblue} Writing Practice Log}\\[0.5cm]
+{\large Personal Essay Evaluations \& Corrections}\\[0.3cm]
+\rule{\textwidth}{0.4pt}
+\end{center}
+
+\vspace{0.5cm}
+
+% ============================================================================
+% TASK 1 EXERCISES
+% ============================================================================
+
+\section*{Writing Task 1 Exercises}
+
+\subsection*{Exercise \#1: US Fish Imports (Table and Pie Charts)}
+
+\textbf{Date:} February 2, 2026 \hfill \textbf{Type:} Introduction Only \hfill \textbf{Time:} 5 minutes
+
+\vspace{0.3cm}
+
+\begin{taskbox}[Task Question]
+The table and charts below give information about the total cost and sources of fish imported to the US between 1988 and 2000.
+
+\vspace{0.3cm}
+\begin{center}
+\includegraphics[width=0.6\textwidth]{../../media/ielts-writing-samples/us-fish-imports-table-pie-charts.png}
+\end{center}
+\end{taskbox}
+
+\textbf{Instructions:} Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+%-----------------------------------------------------------------------------
+\subsection{Band Score Assessment — Introduction Paragraph Only}
+%-----------------------------------------------------------------------------
+
+\textbf{Note:} This exercise focused exclusively on writing and evaluating the introduction paragraph. The scores reflect the quality of the opening statement only, not a complete Task 1 response.
+
+\vspace{0.3cm}
+
+\begin{center}
+\begin{tabular}{|l|c|l|}
+\hline
+\textbf{Criteria} & \textbf{Score} & \textbf{Comments} \\
+\hline
+Task Achievement & 6.0 & Clear overview, covers key features \\
+\hline
+Coherence \& Cohesion & 6.0 & Well organized with good linking \\
+\hline
+Lexical Resource & 5.5 & Some awkward phrasing, repetitive \\
+\hline
+Grammar \& Accuracy & 6.0 & Generally accurate structures \\
+\hline
+\textbf{Overall Band} & \textbf{6.0} & \textbf{Solid foundation, needs refinement} \\
+\hline
+\end{tabular}
+\end{center}
+
+% ============================================================================
+% ORIGINAL INTRODUCTION PARAGRAPH
+% ============================================================================
+
+\subsection*{Original Introduction Paragraph}
+
+\begin{originalbox}
+While the table shows the aggregate amount of money spent with fish importation by the United States of America, in dollars, in 1988, 1992, and 2000, the three pie charts provide visual data in percentage about the main sources for these fish imports in the same years, which are China, Canada, and other countries represented as one category.
+\end{originalbox}
+
+% ============================================================================
+% CORRECTED VERSION WITH HIGHLIGHTS
+% ============================================================================
+
+\subsection*{Corrected Version (Changes Highlighted)}
+
+\begin{correctedbox}
+\changed{While the table shows the aggregate amount of money spent with fish importation by the United States of America, in dollars,}{The table shows the total expenditure of the US, in billions of dollars, on imported fish} in 1988, 1992\removed{,} and 2000, \changed{the three pie charts provide visual data in percentage about the main sources for these fish imports in the same years, which are China, Canada, and other countries represented as one category}{while the three pie charts illustrate the proportion of fish that was sourced from China, Canada and other countries in the same three years}.
+\end{correctedbox}
+
+% ============================================================================
+% CLEAN CORRECTED VERSION
+% ============================================================================
+
+\subsection*{Clean Corrected Version}
+
+\begin{correctedbox}
+The table shows the total expenditure of the US, in billions of dollars, on imported fish in 1988, 1992 and 2000, while the three pie charts illustrate the proportion of fish that was sourced from China, Canada and other countries in the same three years.
+\end{correctedbox}
+
+% ============================================================================
+% KEY CORRECTIONS TABLE
+% ============================================================================
+
+\subsection*{Key Corrections}
+
+\begin{center}
+\small
+\begin{longtable}{|p{0.45\textwidth}|p{0.45\textwidth}|}
+\hline
+\textbf{Original Error} & \textbf{Correction \& Explanation} \\
+\hline
+``aggregate amount of money spent with'' & ``total expenditure...on'' -- more concise and uses correct preposition \\
+\hline
+``United States of America'' & ``US'' -- standard abbreviation in academic writing \\
+\hline
+``in dollars'' & ``in billions of dollars'' -- specify the unit clearly from the table \\
+\hline
+``provide visual data in percentage'' & ``illustrate the proportion'' -- more precise and academic vocabulary \\
+\hline
+``other countries represented as one category'' & ``other countries'' -- unnecessary addition, overly wordy \\
+\hline
+Comma before ``and 2000'' & Remove comma -- not needed in simple list of three items \\
+\hline
+\end{longtable}
+\end{center}
+
+% ============================================================================
+% MODEL ANSWER
+% ============================================================================
+
+\begin{modelbox}
+\textbf{Model Introduction (Band 8.5+):}
+
+The table shows the total expenditure of the US, in billions of dollars, on imported fish, in 1988, 1992 and 2000, while the three pie charts illustrate the proportion of fish that was sourced from China, Canada and other countries in the same three years.
+
+\vspace{0.3cm}
+\textbf{Why this works:}
+\begin{itemize}[leftmargin=*]
+    \item Clear paraphrase without copying the question
+    \item Concise and precise vocabulary
+    \item Natural flow using ``while'' to connect data types
+    \item Specifies units and timeframe clearly
+\end{itemize}
+\end{modelbox}
+
+% ============================================================================
+% HOMEWORK
+% ============================================================================
+
+\subsection*{Homework}
+
+\begin{enumerate}
+    \item[\ding{111}] Practice using precise prepositions: ``spending ON imports'' not ``spending WITH importation''
+    \item[\ding{111}] Focus on concise expression: avoid unnecessary phrases like ``represented as one category''
+    \item[\ding{111}] Use academic vocabulary: ``expenditure, proportion, illustrate'' vs. informal alternatives
+\end{enumerate}
+
+\newpage
+
+% ============================================================================
+% TASK 2 EXERCISES
+% ============================================================================
+
+\section*{Writing Task 2 Exercises}
+
+\subsection*{Exercise \#1: Traditional Customs (Opinion Essay)}
+
+\textbf{Date:} February 2, 2026 \hfill \textbf{Type:} Opinion Essay \hfill \textbf{Time:} Untimed
+
+\vspace{0.3cm}
+
+\begin{taskbox}[Prompt]
+\textit{``Many customs and traditional ways of behavior are no longer relevant to modern life and not worth keeping. Do you agree or disagree?''}
+\end{taskbox}
+
+% ============================================================================
+% ORIGINAL RESPONSE
+% ============================================================================
+
+\begin{originalbox}
+Modern society tend to think that ancient knowledge in general is not functional for nowadays life. At first glance, many people agree based on the fact that most of this old content looks outdated, which makes it supposed to don't apply for most contexts of our life.
+
+However, we can deny this wrong assumption through a solid example that still work until the present: the stoicism philosophy, which is a ancient philosophy school of knowledge and thoughts that gives us teachings that seems to fit surprisingly contemporary routine.
+
+This philosophy, specifically, teaches about dealing with life on the basis of it is in our reach to change and act. By this logic, what is not in our reach to be altered is not supposed to disturb our peace of mind. At first glance, this mindset can be quite difficult to be embedded, but many people who did so relate they were able to get a more realistic view of things and life and, the most important, peace of mind in a modern society which usually cause distress on people's life.
+
+In conclusion, we can see through Stoicism that, in fact, many customs and traditional ways of behaviour and knowledge still worth to be studied and incorporated in actuality. This philosophy is one single proof of it.
+\end{originalbox}
+
+% ============================================================================
+% BAND SCORE BREAKDOWN
+% ============================================================================
+
+\subsection*{Band Score Breakdown}
+
+\begin{center}
+\begin{tabular}{|l|c|p{9cm}|}
+\hline
+\textbf{Criterion} & \textbf{Score} & \textbf{Justification} \\
+\hline
+Task Response & 5.5 & Clear position (disagree), but only ONE example used. Stoicism is a philosophy, not ``customs/traditions'' as specified in the prompt. Underdeveloped. \\
+\hline
+Coherence \& Cohesion & 5.5 & Basic structure present (intro, body, conclusion). Flow is sometimes abrupt; ``At first glance'' repeated twice. Limited linking devices. \\
+\hline
+Lexical Resource & 5.5 & Some academic vocabulary attempted (``embedded,'' ``contemporary''), but repetition (``philosophy'' ×4, ``peace of mind'' ×2). Unnatural choices (``actuality''). \\
+\hline
+Grammar Range \& Accuracy & 5.0 & Frequent errors: subject-verb agreement, incorrect infinitives, awkward phrasing. Limited complex structures. \\
+\hline
+\textbf{OVERALL} & \textbf{5.5} & \\
+\hline
+\end{tabular}
+\end{center}
+
+% ============================================================================
+% STRENGTHS & WEAKNESSES
+% ============================================================================
+
+\subsection*{Strengths}
+\begin{itemize}
+    \item[\ding{51}] Clear position maintained throughout (disagree with the statement)
+    \item[\ding{51}] Concrete example used (Stoicism) rather than staying purely abstract
+    \item[\ding{51}] Logical reasoning: explains WHY Stoicism is useful (focus on control → peace of mind)
+\end{itemize}
+
+\subsection*{Areas for Improvement}
+\begin{itemize}
+    \item[\ding{55}] \textbf{Task fulfillment:} Prompt asks about ``customs and traditional ways of behavior'' — Stoicism is a philosophy, not a custom. Need examples like cultural festivals, family traditions, or social practices.
+    \item[\ding{55}] \textbf{Grammatical accuracy:} Basic errors (``society tend,'' ``supposed to don't apply,'' ``still worth to be studied'') significantly impact the score.
+    \item[\ding{55}] \textbf{Idea development:} One example is insufficient. Need at least 2 distinct main ideas/paragraphs.
+\end{itemize}
+
+% ============================================================================
+% CORRECTED VERSION WITH HIGHLIGHTS
+% ============================================================================
+
+\subsection*{Corrected Version}
+
+\begin{correctedbox}
+Modern society \changed{tend}{tends} to think that ancient knowledge in general is not functional for \changed{nowadays life}{today's life}. At first glance, many people agree based on the fact that most of this old content looks outdated, which makes it \changed{supposed to don't apply}{seem inapplicable to} most contexts of our \changed{life}{lives}.
+
+However, we can \changed{deny}{refute} this \changed{wrong}{mistaken} assumption through a solid example that \changed{still work}{still works} \changed{until the present}{today}: \changed{the stoicism philosophy, which is a ancient philosophy school of knowledge and thoughts}{Stoicism, an ancient school of thought} that \changed{gives}{offers} us teachings that \changed{seems}{seem} to fit surprisingly \changed{contemporary routine}{well into contemporary life}.
+
+This philosophy\added{,} specifically\added{,} teaches \changed{about dealing with life on the basis of it is in our reach to change and act}{us to focus on what lies within our control}. By this logic, what is not \changed{in our reach to be altered}{within our power to change} \changed{is not supposed to}{should not} disturb our peace of mind. \changed{At first glance}{Initially}, this mindset can be quite difficult to \changed{be embedded}{adopt}, but many people who \changed{did so relate they were}{have done so report that they were} able to \changed{get}{gain} a more realistic view of \changed{things and life}{life} and, \changed{the most important}{most importantly}, peace of mind in a modern society \changed{which usually cause}{that often causes} distress \changed{on}{in} people's \changed{life}{lives}.
+
+In conclusion, we can see through Stoicism that\added{,} in fact\added{,} many customs and traditional ways of \changed{behaviour}{behavior} and knowledge \changed{still worth to be studied}{are still worth studying} and \changed{incorporated in actuality}{incorporating into our lives today}. This philosophy is \changed{one single proof}{just one example} of \changed{it}{this}.
+\end{correctedbox}
+
+% ============================================================================
+% CLEAN CORRECTED VERSION
+% ============================================================================
+
+\subsection*{Clean Corrected Version}
+
+\begin{tcolorbox}[colback=white, colframe=navyblue, breakable]
+Modern society tends to think that ancient knowledge in general is not functional for today's life. At first glance, many people agree based on the fact that most of this old content looks outdated, which makes it seem inapplicable to most contexts of our lives.
+
+However, we can refute this mistaken assumption through a solid example that still works today: Stoicism, an ancient school of thought that offers us teachings that seem to fit surprisingly well into contemporary life.
+
+This philosophy, specifically, teaches us to focus on what lies within our control. By this logic, what is not within our power to change should not disturb our peace of mind. Initially, this mindset can be quite difficult to adopt, but many people who have done so report that they were able to gain a more realistic view of life and, most importantly, peace of mind in a modern society that often causes distress in people's lives.
+
+In conclusion, we can see through Stoicism that, in fact, many customs and traditional ways of behavior and knowledge are still worth studying and incorporating into our lives today. This philosophy is just one example of this.
+\end{tcolorbox}
+
+% ============================================================================
+% KEY CORRECTIONS TABLE
+% ============================================================================
+
+\subsection*{Key Corrections Explained}
+
+\begin{center}
+\small
+\begin{tabular}{|c|p{4.5cm}|p{3cm}|p{4.5cm}|}
+\hline
+\textbf{\#} & \textbf{Original} & \textbf{Issue} & \textbf{Correction} \\
+\hline
+1 & society \textbf{tend} & Subject-verb agreement & society \textbf{tends} \\
+\hline
+2 & supposed to \textbf{don't apply} & Double negative / wrong infinitive & \textbf{seem inapplicable to} \\
+\hline
+3 & \textbf{a} ancient & Wrong article (vowel) & \textbf{an} ancient \\
+\hline
+4 & that still \textbf{work} & Subject-verb agreement & that still \textbf{works} \\
+\hline
+5 & teachings that \textbf{seems} & Subject-verb agreement & teachings that \textbf{seem} \\
+\hline
+6 & difficult to \textbf{be embedded} & Awkward passive & difficult to \textbf{adopt} \\
+\hline
+7 & who \textbf{did so relate} & Awkward tense/structure & who \textbf{have done so report} \\
+\hline
+8 & \textbf{the most important} & Missing adverb form & \textbf{most importantly} \\
+\hline
+9 & which usually \textbf{cause} & Subject-verb agreement & that often \textbf{causes} \\
+\hline
+10 & distress \textbf{on} people's & Wrong preposition & distress \textbf{in} people's \\
+\hline
+11 & still \textbf{worth to be studied} & Worth + gerund rule & \textbf{are still worth studying} \\
+\hline
+12 & \textbf{in actuality} & Unnatural / formal & \textbf{into our lives today} \\
+\hline
+\end{tabular}
+\end{center}
+
+% ============================================================================
+% MODEL PARAGRAPH
+% ============================================================================
+
+\subsection*{Model Paragraph (Band 8.5+ Rewrite)}
+
+\textit{Your weakest paragraph (Paragraph 3) rewritten at Band 8.5+ level:}
+
+\begin{modelbox}
+At its core, Stoicism teaches practitioners to distinguish between what lies within their control and what does not. According to this philosophy, we should direct our energy solely toward aspects of life we can influence, while accepting external circumstances with equanimity. Although this mindset may initially seem challenging to adopt, countless individuals who have embraced it report experiencing a more grounded perspective on life and, most importantly, a profound sense of inner peace—a valuable asset in today's fast-paced society, which frequently subjects people to overwhelming stress and anxiety.
+\end{modelbox}
+
+\textbf{Key improvements:}
+\begin{itemize}
+    \item ``At its core'' — sophisticated topic sentence opener
+    \item ``practitioners,'' ``equanimity,'' ``grounded perspective'' — advanced vocabulary
+    \item ``countless individuals who have embraced it'' — natural collocation
+    \item Complex sentence structures with embedded clauses
+    \item ``a valuable asset in today's fast-paced society'' — smooth connection to modern relevance
+\end{itemize}
+
+% ============================================================================
+% HOMEWORK
+% ============================================================================
+
+\subsection*{Homework}
+
+\begin{enumerate}
+    \item[\ding{111}] \textbf{Subject-Verb Agreement Drill:} Write 10 sentences using these nouns as subjects: \textit{society, government, the public, research, evidence, technology, education, the population, knowledge, information}. Remember: singular in British English.
+    
+    \item[\ding{111}] \textbf{Prompt Analysis Practice:} For the next 3 essay prompts, spend 5 minutes ONLY identifying: (a) the exact topic, (b) the task type, (c) 2-3 examples that DIRECTLY match the keywords.
+\end{enumerate}
+
+\vspace{1cm}
+\begin{center}
+\rule{0.5\textwidth}{0.4pt}\\[0.3cm]
+\textit{Keep practicing — a 5.5 can become a 6.5+ with focused study!}
+\end{center}
+
+\newpage
+
+%=============================================================================
+\section*{Template for Future Tasks}
+%=============================================================================
+
+\subsection*{Task Information}
+
+\textbf{Date:} \_\_\_\_\_\_\_ \hfill \textbf{Type:} \_\_\_\_\_\_\_ \hfill \textbf{Time:} \_\_\_\_\_\_\_
+
+\vspace{0.3cm}
+
+\begin{taskbox}[Prompt]
+[Task question here]
+\end{taskbox}
+
+\subsection*{Original Response}
+
+\begin{originalbox}
+[Original text here]
+\end{originalbox}
+
+\vspace{0.5cm}
+
+\subsection*{Corrected Version}
+
+\begin{correctedbox}
+[Corrected text with highlights here]
+\end{correctedbox}
+
+\vspace{0.5cm}
+
+\subsection*{Homework}
+
+\begin{enumerate}
+    \item[\ding{111}] 
+    \item[\ding{111}] 
+\end{enumerate}
+
+\end{document}

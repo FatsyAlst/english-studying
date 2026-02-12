@@ -1,0 +1,365 @@
+/* ═══════════════════════════════════════════════════════════════
+   English Vocabulary Vault — Custom CSS Snippet
+   Designed for Minimal theme with dark mode
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ─── Color Palette ───────────────────────────────────────────── */
+:root {
+    /* Vault accent */
+    --vocab-accent: #e09f3e;
+    --vocab-accent-rgb: 224, 159, 62;
+
+    /* Category colors */
+    --cat-anime: #f59e0b;
+    --cat-manga: #a855f7;
+    --cat-movie: #ef4444;
+    --cat-series: #3b82f6;
+    --cat-book: #22c55e;
+
+    /* Per-media colors */
+    --media-dragon-ball-z: #f97316;
+    --media-dragon-ball: #eab308;
+    --media-f1: #ef4444;
+    --media-peaky-blinders: #6366f1;
+    --media-jujutsu-kaisen: #22c55e;
+}
+
+/* ─── Hide Properties in Reading Mode ─────────────────────────── */
+body {
+    --metadata-display-reading: none; 
+}
+
+/* ─── Reading Width Control ───────────────────────────────────── */
+.markdown-reading-view .markdown-preview-sizer {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.markdown-source-view .cm-contentContainer {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+/* ─── Fix Background Darkening on Scroll ──────────────────────── */
+/* The Minimal theme (Dracula) sets --code-background and           */
+/* --background-primary-alt to a darker shade than the page bg.     */
+/* Obsidian wraps DataviewJS/Dataview/Chart code-fence outputs in   */
+/* containers that inherit this darker background. As you scroll,   */
+/* Obsidian's virtual-render engine mounts/unmounts these sections, */
+/* producing a visible darkening flicker. Fix: force every layer    */
+/* below the reading-view to be transparent / match page bg.        */
+
+/* 0. Unify background variables globally in dark mode */
+.theme-dark {
+    --code-background: var(--background-primary) !important;
+    --background-primary-alt: var(--background-primary) !important;
+}
+
+/* 1. Reading view root — force code-background to match page */
+.markdown-reading-view {
+    --code-background: var(--background-primary) !important;
+}
+
+/* 2. The preview-view wrapper itself */
+.markdown-reading-view .markdown-preview-view {
+    background: var(--background-primary) !important;
+    background-color: var(--background-primary) !important;
+}
+
+/* 2a. Pixel Banner override — the banner image sits at z-index:-1,
+   so the preview-view MUST be transparent or it covers the banner */
+.view-content.pixel-banner .markdown-reading-view .markdown-preview-view,
+.pixel-banner.markdown-preview-view {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* 3. All preview sections — transparent (catches virtual sections) */
+.markdown-reading-view .markdown-preview-section {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* 4. The sizer container (sometimes gets alt-bg from themes) */
+.markdown-reading-view .markdown-preview-sizer {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* 5. All block-language containers (DataviewJS, Dataview, chart…) */
+.markdown-reading-view [class*="block-language-"] {
+    background: transparent !important;
+    background-color: transparent !important;
+    backdrop-filter: none !important;
+}
+
+/* 6. Dataview result containers */
+.markdown-reading-view .dataview {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* 7. Chart plugin containers */
+.markdown-reading-view .obsidian-chart,
+.markdown-reading-view .block-language-chart,
+.markdown-reading-view canvas {
+    background: transparent !important;
+}
+
+/* 8. Code-block wrappers that can leak darker bg */
+.markdown-reading-view pre:has([class*="block-language-"]),
+.markdown-reading-view .el-pre,
+.markdown-reading-view .el-code {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* 9. Note Gallery plugin */
+.note-gallery,
+.block-language-note-gallery {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* 10. Live Preview code block previews (edit mode) */
+.cm-preview-code-block {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+/* ─── Custom Callout: Word Header ─────────────────────────────── */
+.callout[data-callout="word"] {
+  --callout-color: var(--vocab-accent-rgb);
+  --callout-icon: lucide-book-open;
+  background: rgba(var(--vocab-accent-rgb), 0.05);
+  border-left: 4px solid var(--vocab-accent);
+}
+
+.callout[data-callout="word"] .callout-title {
+  color: var(--vocab-accent);
+  font-size: 1.1em;
+}
+
+.callout[data-callout="word"] .callout-content {
+  font-size: 0.95em;
+  color: var(--text-muted);
+}
+
+/* ─── Custom Callout: Media ───────────────────────────────────── */
+.callout[data-callout="media"] {
+  --callout-color: 138, 180, 248;
+  --callout-icon: lucide-tv;
+  background: rgba(138, 180, 248, 0.05);
+  border-left: 4px solid rgb(138, 180, 248);
+}
+
+/* ─── Example Callout Enhancement ─────────────────────────────── */
+.callout[data-callout="example"] {
+  --callout-color: 120, 200, 140;
+  --callout-icon: lucide-quote;
+  background: rgba(120, 200, 140, 0.03);
+  border-left: 3px solid rgba(120, 200, 140, 0.5);
+}
+
+.callout[data-callout="example"] .callout-content li {
+  font-style: italic;
+  color: var(--text-normal);
+  margin-bottom: 4px;
+}
+
+/* ─── Vocabulary Note Styling ─────────────────────────────────── */
+
+/* Word title coloring */
+.mod-root .markdown-reading-view h1 {
+  color: var(--vocab-accent);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* Section headers (## Definition, ## Etymology, etc.) */
+.mod-root .markdown-reading-view h2 {
+  border-bottom: 1px solid rgba(var(--vocab-accent-rgb), 0.15);
+  padding-bottom: 6px;
+  margin-top: 1.5em;
+}
+
+/* Sense headers */
+.mod-root .markdown-reading-view h3 {
+  color: var(--text-normal);
+  font-size: 1.05em;
+}
+
+/* ─── Tables — Clean & Minimal ────────────────────────────────── */
+.markdown-reading-view table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.markdown-reading-view th {
+  background: rgba(var(--vocab-accent-rgb), 0.08);
+  color: var(--vocab-accent);
+  font-weight: 600;
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 2px solid rgba(var(--vocab-accent-rgb), 0.2);
+}
+
+.markdown-reading-view td {
+  padding: 6px 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.markdown-reading-view tr:hover td {
+  background: rgba(var(--vocab-accent-rgb), 0.03);
+}
+
+/* ─── Tags — Base Styling ─────────────────────────────────────── */
+.tag {
+  background: rgba(var(--vocab-accent-rgb), 0.1);
+  color: var(--vocab-accent);
+  border: 1px solid rgba(var(--vocab-accent-rgb), 0.2);
+  border-radius: 4px;
+  padding: 1px 6px;
+  font-size: 0.85em;
+}
+
+/* ─── Tags — Category Colors ─────────────────────────────────── */
+a.tag[href*="anime"]      { background: rgba(245,158,11,0.12); color: var(--cat-anime);  border-color: rgba(245,158,11,0.3); }
+a.tag[href*="manga"]      { background: rgba(168,85,247,0.12); color: var(--cat-manga);  border-color: rgba(168,85,247,0.3); }
+a.tag[href*="movie"]      { background: rgba(239,68,68,0.12);  color: var(--cat-movie);  border-color: rgba(239,68,68,0.3); }
+a.tag[href*="series"]     { background: rgba(59,130,246,0.12); color: var(--cat-series); border-color: rgba(59,130,246,0.3); }
+a.tag[href*="book"]       { background: rgba(34,197,94,0.12);  color: var(--cat-book);   border-color: rgba(34,197,94,0.3); }
+
+/* ─── Tags — Per-Media Colors ─────────────────────────────────── */
+a.tag[href*="dragon-ball-z"]   { background: rgba(249,115,22,0.12); color: var(--media-dragon-ball-z);   border-color: rgba(249,115,22,0.3); }
+a.tag[href*="dragon-ball"]:not([href*="dragon-ball-z"]) { background: rgba(234,179,8,0.12); color: var(--media-dragon-ball); border-color: rgba(234,179,8,0.3); }
+a.tag[href*="f1"]              { background: rgba(239,68,68,0.12);  color: var(--media-f1);              border-color: rgba(239,68,68,0.3); }
+a.tag[href*="peaky-blinders"]  { background: rgba(99,102,241,0.12); color: var(--media-peaky-blinders);  border-color: rgba(99,102,241,0.3); }
+a.tag[href*="jujutsu-kaisen"]  { background: rgba(34,197,94,0.12);  color: var(--media-jujutsu-kaisen);  border-color: rgba(34,197,94,0.3); }
+
+/* ─── Horizontal Rules ────────────────────────────────────────── */
+.markdown-reading-view hr {
+  border: none;
+  border-top: 1px solid rgba(var(--vocab-accent-rgb), 0.1);
+  margin: 1.5em 0;
+}
+
+/* ─── Homepage Specific ───────────────────────────────────────── */
+.homepage .markdown-reading-view h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+/* ─── Inline Code (pronunciation) ─────────────────────────────── */
+.markdown-reading-view code:not(pre code) {
+  background: rgba(var(--vocab-accent-rgb), 0.08);
+  color: var(--vocab-accent);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9em;
+}
+
+/* ─── Flashcard Section Visual Hint ───────────────────────────── */
+.markdown-reading-view h2:has(+ p > strong:first-child) {
+  margin-top: 2em;
+}
+
+/* ─── Media Cards - Movie Database Style ────────────────────── */
+/* Disable hover preview for media cards */
+.media-card[data-no-preview="true"] {
+  position: relative;
+}
+
+.media-card[data-no-preview="true"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.media-card:hover {
+  border-color: rgba(var(--vocab-accent-rgb), 0.4) !important;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.media-card:hover div:first-child img {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+/* ─── Dataview Tables ─────────────────────────────────────────── */
+.dataview.table-view-table th {
+  background: rgba(var(--vocab-accent-rgb), 0.08);
+  color: var(--vocab-accent);
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   Per-Media Page Accents (via cssclasses)
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Dragon Ball Z — orange accent */
+.dragon-ball-z .markdown-reading-view h1 { color: var(--media-dragon-ball-z); }
+.dragon-ball-z .markdown-reading-view h2 { border-bottom-color: rgba(249,115,22,0.2); }
+.dragon-ball-z .markdown-reading-view th,
+.dragon-ball-z .dataview.table-view-table th { color: var(--media-dragon-ball-z); background: rgba(249,115,22,0.08); }
+.dragon-ball-z .markdown-reading-view hr { border-top-color: rgba(249,115,22,0.15); }
+.dragon-ball-z .markdown-reading-view a.internal-link,
+.dragon-ball-z .markdown-reading-view .data-link-text { color: var(--media-dragon-ball-z); }
+.dragon-ball-z .markdown-reading-view a.internal-link:hover { color: #fb923c; }
+.dragon-ball-z .markdown-reading-view code:not(pre code) { background: rgba(249,115,22,0.08); color: var(--media-dragon-ball-z); }
+.dragon-ball-z .dataview.table-view-table a.internal-link { color: var(--media-dragon-ball-z); }
+
+/* F1 — red accent */
+.f1 .markdown-reading-view h1 { color: var(--media-f1); }
+.f1 .markdown-reading-view h2 { border-bottom-color: rgba(239,68,68,0.2); }
+.f1 .markdown-reading-view th,
+.f1 .dataview.table-view-table th { color: var(--media-f1); background: rgba(239,68,68,0.08); }
+.f1 .markdown-reading-view hr { border-top-color: rgba(239,68,68,0.15); }
+.f1 .markdown-reading-view a.internal-link,
+.f1 .markdown-reading-view .data-link-text { color: var(--media-f1); }
+.f1 .markdown-reading-view a.internal-link:hover { color: #f87171; }
+.f1 .markdown-reading-view code:not(pre code) { background: rgba(239,68,68,0.08); color: var(--media-f1); }
+.f1 .dataview.table-view-table a.internal-link { color: var(--media-f1); }
+
+/* Peaky Blinders — indigo accent */
+.peaky-blinders .markdown-reading-view h1 { color: var(--media-peaky-blinders); }
+.peaky-blinders .markdown-reading-view h2 { border-bottom-color: rgba(99,102,241,0.2); }
+.peaky-blinders .markdown-reading-view th,
+.peaky-blinders .dataview.table-view-table th { color: var(--media-peaky-blinders); background: rgba(99,102,241,0.08); }
+.peaky-blinders .markdown-reading-view hr { border-top-color: rgba(99,102,241,0.15); }
+.peaky-blinders .markdown-reading-view a.internal-link,
+.peaky-blinders .markdown-reading-view .data-link-text { color: var(--media-peaky-blinders); }
+.peaky-blinders .markdown-reading-view a.internal-link:hover { color: #818cf8; }
+.peaky-blinders .markdown-reading-view code:not(pre code) { background: rgba(99,102,241,0.08); color: var(--media-peaky-blinders); }
+.peaky-blinders .dataview.table-view-table a.internal-link { color: var(--media-peaky-blinders); }
+
+/* Jujutsu Kaisen — green accent */
+.jujutsu-kaisen .markdown-reading-view h1 { color: var(--media-jujutsu-kaisen); }
+.jujutsu-kaisen .markdown-reading-view h2 { border-bottom-color: rgba(34,197,94,0.2); }
+.jujutsu-kaisen .markdown-reading-view th,
+.jujutsu-kaisen .dataview.table-view-table th { color: var(--media-jujutsu-kaisen); background: rgba(34,197,94,0.08); }
+.jujutsu-kaisen .markdown-reading-view hr { border-top-color: rgba(34,197,94,0.15); }
+.jujutsu-kaisen .markdown-reading-view a.internal-link,
+.jujutsu-kaisen .markdown-reading-view .data-link-text { color: var(--media-jujutsu-kaisen); }
+.jujutsu-kaisen .markdown-reading-view a.internal-link:hover { color: #4ade80; }
+.jujutsu-kaisen .markdown-reading-view code:not(pre code) { background: rgba(34,197,94,0.08); color: var(--media-jujutsu-kaisen); }
+.jujutsu-kaisen .dataview.table-view-table a.internal-link { color: var(--media-jujutsu-kaisen); }
+
+/* Dragon Ball (Classic) — yellow accent */
+.dragon-ball .markdown-reading-view h1 { color: var(--media-dragon-ball); }
+.dragon-ball .markdown-reading-view h2 { border-bottom-color: rgba(234,179,8,0.2); }
+.dragon-ball .markdown-reading-view th,
+.dragon-ball .dataview.table-view-table th { color: var(--media-dragon-ball); background: rgba(234,179,8,0.08); }
+.dragon-ball .markdown-reading-view hr { border-top-color: rgba(234,179,8,0.15); }
+.dragon-ball .markdown-reading-view a.internal-link,
+.dragon-ball .markdown-reading-view .data-link-text { color: var(--media-dragon-ball); }
+.dragon-ball .markdown-reading-view a.internal-link:hover { color: #facc15; }
+.dragon-ball .markdown-reading-view code:not(pre code) { background: rgba(234,179,8,0.08); color: var(--media-dragon-ball); }
+.dragon-ball .dataview.table-view-table a.internal-link { color: var(--media-dragon-ball); }

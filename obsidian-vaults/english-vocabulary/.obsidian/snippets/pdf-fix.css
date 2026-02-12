@@ -1,0 +1,6 @@
+/* ─── PDF Fix for Dark Mode ───────────────────────────────────── */
+/* Prevents PDF embeds from being color-inverted in dark mode */
+.theme-dark .pdf-embed iframe,
+.theme-dark .pdf-container {
+    filter: none !important;
+}

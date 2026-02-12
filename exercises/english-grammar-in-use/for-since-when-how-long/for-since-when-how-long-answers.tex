@@ -5,14 +5,19 @@
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{tcolorbox}
 \usepackage[normalem]{ulem}
+\usepackage{colortbl}
 
 % Header and footer
 \pagestyle{fancy}
 \fancyhf{}
 \setlength{\headheight}{15pt}
-\lhead{English Grammar Practice}
-\rhead{ANSWER KEY}
+\lhead{Answer Key}
+\rhead{FOR/SINCE \& WHEN/HOW LONG}
 \cfoot{\thepage}
 
 % Section formatting
@@ -24,263 +29,612 @@
 {\large\bfseries\color{green!50!black}}
 {\thesubsection}{1em}{}
 
+% Custom colors
+\definecolor{correct}{RGB}{0, 128, 0}
+\definecolor{noteblue}{RGB}{0, 80, 160}
+\definecolor{easygreen}{RGB}{34, 139, 34}
+\definecolor{mediumyellow}{RGB}{255, 165, 0}
+\definecolor{hardred}{RGB}{178, 34, 34}
+\definecolor{examblue}{RGB}{0, 51, 102}
+
+% Custom tcolorbox for answers
+\newtcolorbox{answerbox}[1][]{
+    colback=green!5!white,
+    colframe=correct,
+    fonttitle=\bfseries,
+    title=#1
+}
+
+\newtcolorbox{notebox}[1][]{
+    colback=blue!5!white,
+    colframe=noteblue,
+    fonttitle=\bfseries,
+    title=#1
+}
+
 \begin{document}
+
+% ============================================================
+% TITLE PAGE
+% ============================================================
 
 \begin{center}
     {\Huge\bfseries Answer Key}\\[0.5cm]
-    {\Large FOR and SINCE}\\
+    {\Large FOR and SINCE}\\[0.3cm]
     {\Large WHEN...? and HOW LONG...?}\\[0.5cm]
     \rule{\textwidth}{0.4pt}\\[0.3cm]
-    {\large Practice Set 1}\\[0.2cm]
+    {\large English Grammar in Use — Units 8-12}\\[0.2cm]
+    {\large 12 Exercises • Complete Solutions with Explanations}\\[0.2cm]
+    {\large Includes Exam Practice: IELTS • Cambridge • TOEFL}\\[0.2cm]
     \today
 \end{center}
 
-\vspace{1cm}
+\vspace{0.5cm}
 
 % ============================================================
-\section{Exercise 1: Choose FOR or SINCE}
+% SCORING SUMMARY
+% ============================================================
 
-\begin{enumerate}[leftmargin=2cm]
-    \item I've been waiting \textbf{\color{green!70!black}for} over an hour.
-    \item She has lived in London \textbf{\color{green!70!black}since} 2015.
-    \item They haven't seen each other \textbf{\color{green!70!black}since} last Christmas.
-    \item We've known each other \textbf{\color{green!70!black}for} a very long time.
-    \item He has been working here \textbf{\color{green!70!black}since} he graduated from university.
-    \item I haven't eaten anything \textbf{\color{green!70!black}since} breakfast this morning.
-    \item She's been studying English \textbf{\color{green!70!black}for} three years.
-    \item They have been married \textbf{\color{green!70!black}since} 1998.
-    \item I haven't spoken to him \textbf{\color{green!70!black}since} last Monday.
-    \item We've had this car \textbf{\color{green!70!black}for} six months.
-    \item He hasn't visited his parents \textbf{\color{green!70!black}since} Easter.
-    \item I've been interested in photography \textbf{\color{green!70!black}since} I was a child.
-    \item They've been playing tennis \textbf{\color{green!70!black}for} two hours.
-    \item She hasn't called me \textbf{\color{green!70!black}since} her birthday.
-    \item We've lived in this house \textbf{\color{green!70!black}for} ages.
+\section*{Scoring Summary}
+
+\begin{center}
+\begin{tabular}{|l|c|}
+\hline
+\textbf{Section} & \textbf{Total Points} \\
+\hline
+EASY (Exercises 1-4) & 47 points \\
+\hline
+MEDIUM (Exercises 5-7) & 34 points \\
+\hline
+HARD (Exercises 8-9) & 18 points \\
+\hline
+EXAM PRACTICE (Exercises 10-12) & 21 points \\
+\hline
+\textbf{GRAND TOTAL} & \textbf{120 points} \\
+\hline
+\end{tabular}
+\end{center}
+
+\newpage
+
+% ============================================================
+% EASY SECTION ANSWERS
+% ============================================================
+
+\begin{center}
+{\Large\textcolor{easygreen}{\textbf{— EASY EXERCISES —}}}
+\end{center}
+
+\vspace{0.3cm}
+
+% ============================================================
+\section{Exercise 1: Choose FOR or SINCE (15 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item I've been waiting \textbf{\textcolor{correct}{for}} over an hour.
+    \item She has lived in London \textbf{\textcolor{correct}{since}} 2015.
+    \item They haven't seen each other \textbf{\textcolor{correct}{since}} last Christmas.
+    \item We've known each other \textbf{\textcolor{correct}{for}} a very long time.
+    \item He has been working here \textbf{\textcolor{correct}{since}} he graduated from university.
+    \item I haven't eaten anything \textbf{\textcolor{correct}{since}} breakfast this morning.
+    \item She's been studying English \textbf{\textcolor{correct}{for}} three years.
+    \item They have been married \textbf{\textcolor{correct}{since}} 1998.
+    \item I haven't spoken to him \textbf{\textcolor{correct}{since}} last Monday.
+    \item We've had this car \textbf{\textcolor{correct}{for}} six months.
+    \item He hasn't visited his parents \textbf{\textcolor{correct}{since}} Easter.
+    \item I've been interested in photography \textbf{\textcolor{correct}{since}} I was a child.
+    \item They've been playing tennis \textbf{\textcolor{correct}{for}} two hours.
+    \item She hasn't called me \textbf{\textcolor{correct}{since}} her birthday.
+    \item We've lived in this house \textbf{\textcolor{correct}{for}} ages.
 \end{enumerate}
+\end{answerbox}
 
-\vspace{0.5cm}
-\textbf{\color{blue!70!black}Rule Reminder:}
+\begin{notebox}[Rule Reminder]
 \begin{itemize}
     \item Use \textbf{FOR} with a period of time (for 3 years, for 2 hours, for ages)
     \item Use \textbf{SINCE} with a point in time (since 2020, since Monday, since I was a child)
 \end{itemize}
+\end{notebox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 15 points.
 
 \newpage
 
 % ============================================================
-\section{Exercise 2: Complete the Sentences}
+\section{Exercise 2: Complete the Sentences (10 points)}
 
-\begin{enumerate}[leftmargin=2cm]
-    \item I haven't seen Sarah for two weeks.
+\textit{Complete the sentences using the present perfect with \textbf{for}, \textbf{since}, or \textbf{how long} and the information in parentheses.}
+
+\vspace{0.3cm}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{I haven't seen Sarah for two weeks.}}
     
-    \item They have lived / been living in this apartment since 2020.
+    \item \textbf{\textcolor{correct}{They have lived / been living in this apartment since 2020.}}
     
-    \item How long have you known each other?
+    \item \textbf{\textcolor{correct}{How long have you known each other?}}
     
-    \item She has been a teacher for ten years.
+    \item \textbf{\textcolor{correct}{She has been a teacher for ten years.}}
     
-    \item I haven't eaten meat since I was 18.
+    \item \textbf{\textcolor{correct}{I haven't eaten meat since I was 18.}}
     
-    \item We have been waiting for the bus for 30 minutes.
+    \item \textbf{\textcolor{correct}{We have been waiting for the bus for 30 minutes.}}
     
-    \item He hasn't played football since his accident.
+    \item \textbf{\textcolor{correct}{He hasn't played football since his accident.}}
     
-    \item How long has she worked / been working in that company?
+    \item \textbf{\textcolor{correct}{How long has she worked / been working in that company?}}
     
-    \item They have been friends since they were children.
+    \item \textbf{\textcolor{correct}{They have been friends since they were children.}}
     
-    \item I have had this laptop since last year.
+    \item \textbf{\textcolor{correct}{I have had this laptop since last year.}}
 \end{enumerate}
+\end{answerbox}
+
+\begin{notebox}[Note]
+For verbs like \textit{live}, \textit{work}, and \textit{study}, both Present Perfect Simple (have lived) and Present Perfect Continuous (have been living) are correct with FOR/SINCE. The continuous form emphasizes the duration more.
+\end{notebox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 10 points.
 
 \vspace{0.5cm}
-\textbf{\color{blue!70!black}Note:} For verbs like \textit{live}, \textit{work}, and \textit{study}, both Present Perfect Simple (have lived) and Present Perfect Continuous (have been living) are correct with FOR/SINCE. The continuous form emphasizes the duration more.
-
-\vspace{1cm}
 
 % ============================================================
-\section{Exercise 3: WHEN...? or HOW LONG...?}
+\section{Exercise 3: WHEN...? or HOW LONG...? (12 points)}
 
-\begin{enumerate}[leftmargin=2cm]
-    \item \textbf{\color{green!70!black}When} did you start learning English?
-    \item \textbf{\color{green!70!black}How long} have you been learning English?
-    \item \textbf{\color{green!70!black}When} did they get married?
-    \item \textbf{\color{green!70!black}How long} have they been married?
-    \item \textbf{\color{green!70!black}When} did she arrive in Brazil?
-    \item \textbf{\color{green!70!black}How long} has she been in Brazil?
-    \item \textbf{\color{green!70!black}When} did you last see Tom?
-    \item \textbf{\color{green!70!black}How long} is it since you last saw Tom?
-    \item \textbf{\color{green!70!black}When} did the meeting begin?
-    \item \textbf{\color{green!70!black}How long} has the meeting been going on?
-    \item \textbf{\color{green!70!black}When} did he move to this city?
-    \item \textbf{\color{green!70!black}How long} has he lived in this city?
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{When}} did you start learning English?
+    \item \textbf{\textcolor{correct}{How long}} have you been learning English?
+    \item \textbf{\textcolor{correct}{When}} did they get married?
+    \item \textbf{\textcolor{correct}{How long}} have they been married?
+    \item \textbf{\textcolor{correct}{When}} did she arrive in Brazil?
+    \item \textbf{\textcolor{correct}{How long}} has she been in Brazil?
+    \item \textbf{\textcolor{correct}{When}} did you last see Tom?
+    \item \textbf{\textcolor{correct}{How long}} is it since you last saw Tom?
+    \item \textbf{\textcolor{correct}{When}} did the meeting begin?
+    \item \textbf{\textcolor{correct}{How long}} has the meeting been going on?
+    \item \textbf{\textcolor{correct}{When}} did he move to this city?
+    \item \textbf{\textcolor{correct}{How long}} has he lived in this city?
 \end{enumerate}
+\end{answerbox}
 
-\vspace{0.5cm}
-\textbf{\color{blue!70!black}Rule Reminder:}
+\begin{notebox}[Rule Reminder]
 \begin{itemize}
     \item Use \textbf{WHEN...?} to ask about a specific time in the past (past simple)
     \item Use \textbf{HOW LONG...?} to ask about a period of time (present perfect)
 \end{itemize}
+\end{notebox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 12 points.
 
 \newpage
 
 % ============================================================
-\section{Exercise 4: Write Questions}
+\section{Exercise 4: Write Questions (10 points)}
 
-\begin{enumerate}[leftmargin=2cm]
-    \item \textbf{When did you start your job?} \\
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{When did you start your job?}} \\
     I started my job three years ago.
     
-    \item \textbf{How long have you been working here?} \\
+    \item \textbf{\textcolor{correct}{How long have you been working here?}} \\
     I've been working here for three years.
     
-    \item \textbf{When did she move to Paris?} \\
+    \item \textbf{\textcolor{correct}{When did she move to Paris?}} \\
     She moved to Paris in 2019.
     
-    \item \textbf{How long has she been living in Paris? / How long has she lived in Paris?} \\
+    \item \textbf{\textcolor{correct}{How long has she been living in Paris? / How long has she lived in Paris?}} \\
     She has been living / lived in Paris since 2019.
     
-    \item \textbf{When did they buy their house?} \\
+    \item \textbf{\textcolor{correct}{When did they buy their house?}} \\
     They bought their house last summer.
     
-    \item \textbf{How long have they had their house?} \\
+    \item \textbf{\textcolor{correct}{How long have they had their house?}} \\
     They have had their house for about six months.
     
-    \item \textbf{When did you last see him?} \\
+    \item \textbf{\textcolor{correct}{When did you last see him?}} \\
     I last saw him two weeks ago.
     
-    \item \textbf{How long is it since you (last) saw him? / How long haven't you seen him?} \\
+    \item \textbf{\textcolor{correct}{How long is it since you (last) saw him? / How long haven't you seen him?}} \\
     I haven't seen him for two weeks.
     
-    \item \textbf{When did the concert start?} \\
+    \item \textbf{\textcolor{correct}{When did the concert start?}} \\
     The concert started at 8 PM.
     
-    \item \textbf{How long has the concert been going on?} \\
+    \item \textbf{\textcolor{correct}{How long has the concert been going on?}} \\
     The concert has been going on for two hours.
 \end{enumerate}
+\end{answerbox}
 
-\vspace{1cm}
+\textbf{Scoring:} 1 point per correct question. Total: 10 points.
+
+\newpage
 
 % ============================================================
-\section{Exercise 5: Correct the Mistakes}
+% MEDIUM SECTION ANSWERS
+% ============================================================
 
-\begin{enumerate}[leftmargin=2cm]
+\begin{center}
+{\Large\textcolor{mediumyellow}{\textbf{— MEDIUM EXERCISES —}}}
+\end{center}
+
+\vspace{0.3cm}
+
+% ============================================================
+\section{Exercise 5: Mixed Practice — Conversations (16 points)}
+
+\textit{Complete the conversations with the correct form of the verb and \textbf{for}, \textbf{since}, \textbf{when}, or \textbf{how long}.}
+
+\vspace{0.3cm}
+
+\begin{answerbox}[Conversation 1]
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{A:} How long \textbf{\textcolor{correct}{have you lived / been living}} in this neighborhood?
+    \item \textbf{B:} I \textbf{\textcolor{correct}{have lived / been living}} here \textbf{\textcolor{correct}{for}} about five years.
+    \item \textbf{A:} Do you like it here?
+    \item \textbf{B:} Yes, I do. I \textbf{\textcolor{correct}{have been}} very happy here \textbf{\textcolor{correct}{since}} I moved in.
+\end{itemize}
+\end{answerbox}
+
+\begin{answerbox}[Conversation 2]
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{A:} \textbf{\textcolor{correct}{Have you known}} Sarah long?
+    \item \textbf{B:} Yes, we \textbf{\textcolor{correct}{have been}} friends \textbf{\textcolor{correct}{since}} we were children.
+    \item \textbf{A:} That's nice. When \textbf{\textcolor{correct}{did you meet}} her?
+    \item \textbf{B:} We \textbf{\textcolor{correct}{met}} in elementary school in 2005.
+\end{itemize}
+\end{answerbox}
+
+\begin{answerbox}[Conversation 3]
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{A:} How long \textbf{\textcolor{correct}{has John worked / been working}} at the hospital?
+    \item \textbf{B:} He \textbf{\textcolor{correct}{has worked / been working}} there \textbf{\textcolor{correct}{for}} about ten years.
+    \item \textbf{A:} When \textbf{\textcolor{correct}{did he start}}?
+    \item \textbf{B:} I think he \textbf{\textcolor{correct}{started}} in 2015.
+\end{itemize}
+\end{answerbox}
+
+\begin{answerbox}[Conversation 4]
+\begin{itemize}[label={}, leftmargin=1cm]
+    \item \textbf{A:} I \textbf{\textcolor{correct}{haven't seen}} Mark \textbf{\textcolor{correct}{for}} ages. When \textbf{\textcolor{correct}{did you last see}} him?
+    \item \textbf{B:} I \textbf{\textcolor{correct}{saw}} him last week at the gym.
+    \item \textbf{A:} How is he?
+    \item \textbf{B:} He's great! He \textbf{\textcolor{correct}{has had}} a new job \textbf{\textcolor{correct}{since}} last month.
+\end{itemize}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 16 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 6: Multiple Choice (8 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item I've known Maria \_\_\_\_\_\_\_\_\_\_ we were at university together.\\
+    \textbf{\textcolor{correct}{B) since}} — ``we were at university'' is a point in time
+    
+    \item She has been working at this company \_\_\_\_\_\_\_\_\_\_ more than ten years.\\
+    \textbf{\textcolor{correct}{B) for}} — ``more than ten years'' is a period of time
+    
+    \item \_\_\_\_\_\_\_\_\_\_ did you last go on vacation?\\
+    \textbf{\textcolor{correct}{C) When}} — asking about a specific time in the past
+    
+    \item We haven't had any rain \_\_\_\_\_\_\_\_\_\_ three weeks.\\
+    \textbf{\textcolor{correct}{C) for}} — ``three weeks'' is a period of time
+    
+    \item \_\_\_\_\_\_\_\_\_\_ have you been waiting for the bus?\\
+    \textbf{\textcolor{correct}{B) How long}} — asking about duration with present perfect
+    
+    \item They've lived in this apartment \_\_\_\_\_\_\_\_\_\_ 2018.\\
+    \textbf{\textcolor{correct}{D) since}} — ``2018'' is a point in time
+    
+    \item I haven't eaten anything \_\_\_\_\_\_\_\_\_\_ breakfast.\\
+    \textbf{\textcolor{correct}{C) since}} — ``breakfast'' is a point in time
+    
+    \item \_\_\_\_\_\_\_\_\_\_ did you start playing the guitar?\\
+    \textbf{\textcolor{correct}{C) When}} — asking about the starting point (past simple)
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 8 points.
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 7: Present Perfect Simple or Continuous? (10 points)}
+
+\textit{Complete the sentences with the Present Perfect Simple or Present Perfect Continuous form of the verbs in parentheses. Use \textbf{for}, \textbf{since}, or \textbf{how long} where indicated.}
+
+\vspace{0.3cm}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item She \textbf{\textcolor{correct}{has been reading}} that book for three hours. (ongoing activity)
+    
+    \item He \textbf{\textcolor{correct}{has read}} three books this month. (completed quantity)
+    
+    \item We \textbf{\textcolor{correct}{have been waiting}} for the bus since 8 o'clock. (ongoing)
+    
+    \item I \textbf{\textcolor{correct}{had been waiting / have been waiting}} for this package for two weeks. It finally arrived today! (both acceptable)
+    
+    \item They \textbf{\textcolor{correct}{have lived / have been living}} in this house for twenty years. (both acceptable for live)
+    
+    \item How many countries \textbf{\textcolor{correct}{have}} you \textbf{\textcolor{correct}{visited}} in your life? (completed experiences)
+    
+    \item How long \textbf{\textcolor{correct}{has}} she \textbf{\textcolor{correct}{been learning}} to drive? (ongoing process)
+    
+    \item I \textbf{\textcolor{correct}{have been trying}} to call you since this morning. (repeated ongoing action)
+    
+    \item She \textbf{\textcolor{correct}{has tried}} three different restaurants this week. (completed quantity)
+    
+    \item It \textbf{\textcolor{correct}{has been raining}} since yesterday. (ongoing)
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 10 points.
+
+\newpage
+
+% ============================================================
+% HARD SECTION ANSWERS
+% ============================================================
+
+\begin{center}
+{\Large\textcolor{hardred}{\textbf{— HARD EXERCISES —}}}
+\end{center}
+
+\vspace{0.3cm}
+
+% ============================================================
+\section{Exercise 8: Correct the Mistakes (10 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
     \item \sout{I've been living here since three years.} \\
-    \textit{Correction:} \textbf{I've been living here for three years.} \\
+    \textit{Correction:} \textbf{\textcolor{correct}{I've been living here for three years.}} \\
     \textit{Explanation:} ``Three years'' is a period of time, so use ``for''.
     
     \item \sout{She has worked in that office for 2018.} \\
-    \textit{Correction:} \textbf{She has worked in that office since 2018.} \\
+    \textit{Correction:} \textbf{\textcolor{correct}{She has worked in that office since 2018.}} \\
     \textit{Explanation:} ``2018'' is a point in time, so use ``since''.
     
     \item \sout{How long did you live in Japan?} (He still lives there) \\
-    \textit{Correction:} \textbf{How long have you lived / been living in Japan?} \\
-    \textit{Explanation:} Use present perfect because he still lives there. Both simple and continuous forms are correct.
+    \textit{Correction:} \textbf{\textcolor{correct}{How long have you lived / been living in Japan?}} \\
+    \textit{Explanation:} Use present perfect because he still lives there.
     
     \item \sout{When have you been studying English?} \\
-    \textit{Correction:} \textbf{How long have you been studying English?} \\
+    \textit{Correction:} \textbf{\textcolor{correct}{How long have you been studying English?}} \\
     \textit{Explanation:} Use ``How long'' for duration, ``When'' for specific time.
     
     \item \sout{I haven't seen her since two weeks.} \\
-    \textit{Correction:} \textbf{I haven't seen her for two weeks.} \\
+    \textit{Correction:} \textbf{\textcolor{correct}{I haven't seen her for two weeks.}} \\
     \textit{Explanation:} ``Two weeks'' is a period of time, so use ``for''.
     
     \item \sout{They are married since 2010.} \\
-    \textit{Correction:} \textbf{They have been married since 2010.} \\
+    \textit{Correction:} \textbf{\textcolor{correct}{They have been married since 2010.}} \\
     \textit{Explanation:} Use present perfect with ``since'', not simple present.
     
     \item \sout{How long did she start working here?} \\
-    \textit{Correction:} \textbf{When did she start working here?} \\
-    \textit{Explanation:} Use ``When'' to ask about the starting point, not ``How long''.
+    \textit{Correction:} \textbf{\textcolor{correct}{When did she start working here?}} \\
+    \textit{Explanation:} Use ``When'' to ask about the starting point.
     
     \item \sout{I know him since we were at school together.} \\
-    \textit{Correction:} \textbf{I have known him since we were at school together.} \\
+    \textit{Correction:} \textbf{\textcolor{correct}{I have known him since we were at school together.}} \\
     \textit{Explanation:} Use present perfect with ``since'', not simple present.
     
     \item \sout{When did you have that car?} (You still have it) \\
-    \textit{Correction:} \textbf{How long have you had that car?} \\
+    \textit{Correction:} \textbf{\textcolor{correct}{How long have you had that car?}} \\
     \textit{Explanation:} Use present perfect and ``How long'' because you still have it.
     
     \item \sout{He lives in London for five years.} \\
-    \textit{Correction:} \textbf{He has lived / been living in London for five years.} \\
-    \textit{Explanation:} Use present perfect with ``for'' + period of time. Both simple and continuous forms are correct.
+    \textit{Correction:} \textbf{\textcolor{correct}{He has lived / been living in London for five years.}} \\
+    \textit{Explanation:} Use present perfect with ``for'' + period of time.
 \end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 10 points.
 
 \newpage
 
 % ============================================================
-\section{Exercise 6: Mixed Practice}
+\section{Exercise 9: Translation Practice (8 points)}
 
-\subsection*{Conversation 1}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} How long \textbf{have you lived / been living} in this neighborhood?
-    \item \textbf{B:} I \textbf{have lived / been living} here \textbf{for} about five years.
-    \item \textbf{A:} Do you like it here?
-    \item \textbf{B:} Yes, I do. I \textbf{have been} very happy here \textbf{since} I moved in.
-\end{itemize}
-
-\subsection*{Conversation 2}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} \textbf{Have you known} Sarah long?
-    \item \textbf{B:} Yes, we \textbf{have been} friends \textbf{since} we were children.
-    \item \textbf{A:} That's nice. When \textbf{did you meet} her?
-    \item \textbf{B:} We \textbf{met} in elementary school in 2005.
-\end{itemize}
-
-\subsection*{Conversation 3}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} How long \textbf{has John worked / been working} at the hospital?
-    \item \textbf{B:} He \textbf{has worked / been working} there \textbf{for} about ten years.
-    \item \textbf{A:} When \textbf{did he start}?
-    \item \textbf{B:} I think he \textbf{started} in 2015.
-\end{itemize}
-
-\subsection*{Conversation 4}
-\begin{itemize}[label={}, leftmargin=1cm]
-    \item \textbf{A:} I \textbf{haven't seen} Mark \textbf{for} ages. When \textbf{did you last see} him?
-    \item \textbf{B:} I \textbf{saw} him last week at the gym.
-    \item \textbf{A:} How is he?
-    \item \textbf{B:} He's great! He \textbf{has had} a new job \textbf{since} last month.
-\end{itemize}
-
-\vspace{1cm}
-
-% ============================================================
-\section{Exercise 7: Translation Practice}
-
-\begin{enumerate}[leftmargin=2cm]
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
     \item Eu moro aqui há três anos. \\
-    \textbf{I have lived / been living here for three years.}
+    \textbf{\textcolor{correct}{I have lived / been living here for three years.}}
     
     \item Ela não me liga desde o mês passado. \\
-    \textbf{She hasn't called me since last month.}
+    \textbf{\textcolor{correct}{She hasn't called me since last month.}}
     
     \item Há quanto tempo você estuda inglês? \\
-    \textbf{How long have you been studying English?}
+    \textbf{\textcolor{correct}{How long have you been studying English?}}
     
     \item Eles estão casados desde 2018. \\
-    \textbf{They have been married since 2018.}
+    \textbf{\textcolor{correct}{They have been married since 2018.}}
     
     \item Quando você começou a trabalhar aqui? \\
-    \textbf{When did you start working here?}
+    \textbf{\textcolor{correct}{When did you start working here?}}
     
     \item Eu não como carne há anos. \\
-    \textbf{I haven't eaten meat for years.}
+    \textbf{\textcolor{correct}{I haven't eaten meat for years.}}
     
     \item Ele está esperando há mais de uma hora. \\
-    \textbf{He has been waiting for more than an hour / for over an hour.}
+    \textbf{\textcolor{correct}{He has been waiting for more than an hour / for over an hour.}}
     
     \item Há quanto tempo você a conhece? \\
-    \textbf{How long have you known her?}
+    \textbf{\textcolor{correct}{How long have you known her?}}
 \end{enumerate}
+\end{answerbox}
 
-\vspace{2cm}
+\textbf{Scoring:} 1 point per correct answer. Total: 8 points.
+
+\newpage
+
+% ============================================================
+% EXAM PRACTICE ANSWERS
+% ============================================================
 
 \begin{center}
-    \rule{0.5\textwidth}{0.4pt}\\
-    \vspace{0.3cm}
-    {\Large\bfseries Key Grammar Points Summary}
-    \vspace{0.3cm}
+{\Large\textcolor{examblue}{\textbf{— EXAM PRACTICE —}}}
+\end{center}
+
+\vspace{0.3cm}
+
+% ============================================================
+\section{Exercise 10: IELTS Writing Task 2 Practice (5 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item Technology \textbf{\textcolor{correct}{has transformed}} the way students learn \textbf{\textcolor{correct}{since}} the advent of personal computers in the 1980s.
+    
+    \item Online education \textbf{\textcolor{correct}{has grown}} significantly \textbf{\textcolor{correct}{over / in}} the past decade.
+    
+    \item Schools \textbf{\textcolor{correct}{have been using}} digital textbooks \textbf{\textcolor{correct}{for}} several years now.
+    
+    \item \textbf{\textcolor{correct}{Since}} when \textbf{\textcolor{correct}{have}} universities \textbf{\textcolor{correct}{offered}} fully online degree programs?
+    
+    \item The digital divide \textbf{\textcolor{correct}{has been}} a concern \textbf{\textcolor{correct}{for}} a considerable period of time.
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct answer. Total: 5 points.
+
+\vspace{0.5cm}
+
+% ============================================================
+\section{Exercise 11: Cambridge Use of English (8 points)}
+
+\begin{answerbox}[Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item I started working here in 2019. \\
+    I \textbf{\textcolor{correct}{have been working here since}} 2019.
+    
+    \item The last time I saw her was in March. \\
+    I \textbf{\textcolor{correct}{haven't seen her since}} March.
+    
+    \item We moved to this city five years ago. \\
+    We \textbf{\textcolor{correct}{have lived in this city for}} five years.
+    
+    \item She began studying French when she was 12. \\
+    She \textbf{\textcolor{correct}{has been studying French since}} she was 12.
+    
+    \item They got married twenty years ago. \\
+    They \textbf{\textcolor{correct}{have been married for}} twenty years.
+    
+    \item I last ate meat two years ago. \\
+    I \textbf{\textcolor{correct}{haven't eaten meat for}} two years.
+    
+    \item When did you first meet John? \\
+    \textbf{\textcolor{correct}{How long have you known}} John?
+    
+    \item It's three years since we went on holiday. \\
+    We \textbf{\textcolor{correct}{haven't been on holiday for}} three years.
+\end{enumerate}
+\end{answerbox}
+
+\textbf{Scoring:} 1 point per correct transformation. Total: 8 points.
+
+\newpage
+
+% ============================================================
+\section{Exercise 12: TOEFL Integrated Skills (8 points)}
+
+\begin{answerbox}[Reading Comprehension Answers]
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{\textcolor{correct}{How long}} has Dr. Chen been at Stanford University?\\
+    \textbf{\textcolor{correct}{She has been at Stanford since 2010. / For over 14 years (as of 2024).}}
+    
+    \item \textbf{\textcolor{correct}{How long / For how long}} did she work at MIT?\\
+    \textbf{\textcolor{correct}{She worked at MIT for eight years.}}
+    
+    \item \textbf{\textcolor{correct}{When}} did she start her career as a climate scientist?\\
+    \textbf{\textcolor{correct}{She started her career in 1998.}}
+    
+    \item \textbf{\textcolor{correct}{How long}} has she been a climate scientist?\\
+    \textbf{\textcolor{correct}{She has been a climate scientist for over 25 years / since 1998.}}
+    
+    \item \textbf{\textcolor{correct}{How long}} has she been warning about rising sea levels?\\
+    \textbf{\textcolor{correct}{She has been warning about rising sea levels for the past fifteen years.}}
+\end{enumerate}
+\end{answerbox}
+
+\begin{notebox}[TOEFL Speaking Sample Response]
+``I started learning English when I was 10 years old, so I have been studying it for over 15 years now. I began with basic classes at school in 2008, and since then, I have been improving my skills through various methods. I have been taking more intensive courses since 2019, and for the past two years, I have been focusing specifically on academic English for my university studies.''
+\end{notebox}
+
+\textbf{Scoring:} 1 point per correct answer (questions 1-5). Speaking: 3 points for appropriate use of when/for/since. Total: 8 points.
+
+\newpage
+
+% ============================================================
+% FINAL SCORING
+% ============================================================
+
+\begin{center}
+{\Large\bfseries Total Score Summary}\\[0.5cm]
+
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|p{8cm}|c|c|}
+\hline
+\textbf{Exercise} & \textbf{Points} & \textbf{Your Score} \\
+\hline
+\multicolumn{3}{|c|}{\cellcolor{green!20}\textbf{\textcolor{easygreen}{EASY SECTION}}} \\
+\hline
+1. Choose FOR or SINCE & 15 & \\
+\hline
+2. Complete the Sentences & 10 & \\
+\hline
+3. WHEN or HOW LONG? & 12 & \\
+\hline
+4. Write Questions & 10 & \\
+\hline
+\textit{Easy Subtotal} & \textit{47} & \\
+\hline
+\multicolumn{3}{|c|}{\cellcolor{yellow!20}\textbf{\textcolor{mediumyellow}{MEDIUM SECTION}}} \\
+\hline
+5. Mixed Practice — Conversations & 16 & \\
+\hline
+6. Multiple Choice & 8 & \\
+\hline
+7. Present Perfect Simple or Continuous & 10 & \\
+\hline
+\textit{Medium Subtotal} & \textit{34} & \\
+\hline
+\multicolumn{3}{|c|}{\cellcolor{red!20}\textbf{\textcolor{hardred}{HARD SECTION}}} \\
+\hline
+8. Correct the Mistakes & 10 & \\
+\hline
+9. Translation Practice & 8 & \\
+\hline
+\textit{Hard Subtotal} & \textit{18} & \\
+\hline
+\multicolumn{3}{|c|}{\cellcolor{blue!20}\textbf{\textcolor{examblue}{EXAM PRACTICE}}} \\
+\hline
+10. IELTS Writing Task 2 Practice & 5 & \\
+\hline
+11. Cambridge Use of English & 8 & \\
+\hline
+12. TOEFL Integrated Skills & 8 & \\
+\hline
+\textit{Exam Subtotal} & \textit{21} & \\
+\hline
+\cellcolor{gray!20}\textbf{GRAND TOTAL} & \cellcolor{gray!20}\textbf{120} & \cellcolor{gray!20} \\
+\hline
+\end{tabular}
+\end{center}
+
+\newpage
+
+\begin{center}
+\rule{0.5\textwidth}{0.4pt}\\
+\vspace{0.3cm}
+{\Large\bfseries Key Grammar Points Summary}
+\vspace{0.3cm}
 \end{center}
 
 \subsection*{FOR vs SINCE}
@@ -299,7 +653,7 @@
 
 \subsection*{Verb Tenses}
 \begin{itemize}
-    \item \textbf{Present Perfect} (have/has + past participle) is used with FOR and SINCE when the action continues to the present or has a connection to the present
+    \item \textbf{Present Perfect} (have/has + past participle) is used with FOR and SINCE when the action continues to the present
     \item \textbf{Past Simple} is used with WHEN to talk about a finished time in the past
 \end{itemize}
 

@@ -1,0 +1,9 @@
+{
+  "types": {
+    "tags": "tags",
+    "category": "text",
+    "cover": "text",
+    "media": "text",
+    "created": "date"
+  }
+}

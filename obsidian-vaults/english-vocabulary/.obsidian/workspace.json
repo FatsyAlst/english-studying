@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "a1b5d293b4a3ff7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Vocabulary To-Do List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary To-Do List"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81e2a0e3c29d520e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0e5970c53b806b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b59d586215fa08de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2db94c037a957d1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47cbbeb68f2988cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5a972a04c1f912a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2686c113777b2c49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "24ae4802aa8f4278",
+    "type": "split",
+    "children": [
+      {
+        "id": "46193b74fa3b3c72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c85a4a986b8ef27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "decd8bfe4e0770c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "88212d266d936b91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "610f9b6c52ea1663",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ebe104d2b8f2f536",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8d0ad3b8996e96da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "homepage:Open homepage": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
+    }
+  },
+  "active": "b59d586215fa08de",
+  "lastOpenFiles": [
+    "Resources/Ingestion pending/jjk-modulo.txt",
+    "Resources/Ingestion pending",
+    "Homepage.md",
+    "Vocabulary/Dragon Ball Z/grudge.md",
+    "Vocabulary/Dragon Ball Z/Dragon Ball Z.md",
+    "Vocabulary/Dragon Ball Z/cunning.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/crystal-clear.md",
+    "Vocabulary/Dragon Ball Z/pay-through-the-nose.md",
+    "Vocabulary/Dragon Ball Z/plowing.md",
+    "Vocabulary/Dragon Ball Z/insidious.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/slack-off.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/good-for-nothing.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/wildfire.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/pull-off.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/barged.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/mangled.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/landlocked.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/on-the-matter.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/whim.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/grunt.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/racket.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/entrust.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/strive.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/stir-up.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/embargo.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/deterrent.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/surge.md",
+    "media/banners/jjk-modulo.jpg",
+    "media/covers/dragon-ball-cover.jpg",
+    "Vocabulary/Dragon Ball",
+    "media/banners/db.jpg",
+    "media/banners/dbz.jpg",
+    "Resources",
+    "Untitled.canvas",
+    "media/covers/f1-cover.jpg",
+    "media/covers/peaky-blinders-cover.jpg",
+    "media/covers/dragon-ball-z-cover.jpg",
+    "media/covers/jujutsu-kaisen-modulo-cover.jpg",
+    "media/covers",
+    "Vocabulary/Jujutsu Kaisen Modulo",
+    "Exercises/vocabulary-practice-1/vocabulary-exercises-1.pdf",
+    "media/banners/uncanny-cover.jpg",
+    "media/banners",
+    "Exercises/vocabulary-practice-1/vocabulary-answers-1.pdf",
+    "Exercises/vocabulary-practice-3/vocabulary-exercises-3.tex",
+    "Exercises/vocabulary-practice-3/vocabulary-exercises-3.synctex.gz"
+  ]
+}

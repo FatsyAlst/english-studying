@@ -1,0 +1,372 @@
+═══════════════════════════════════════════════════════════════════════
+
+## ETAPA 1: EXPLICAÇÃO NO ESTILO DICIONÁRIO DE OXFORD (INGLÊS)
+
+**Word:** Inbreeding
+
+**Type:** Noun
+
+**Pronunciation:** /ˈɪnbriːdɪŋ/ (IN-bree-ding)
+
+**Definition:** The interbreeding of closely related individuals especially to preserve and fix desirable characters of and to eliminate unfavorable characters from a stock. The production of offspring from the mating or breeding of individuals or organisms that are closely related genetically. This results in increased homozygosity and can lead to both beneficial trait preservation and harmful genetic effects.
+
+**Examples:**
+• The genetics of the Angel Island coyotes show a lot of inbreeding.
+• With the genomic data, conservationists could avoid issues that arise with inbreeding, like low fertility and weak immune systems.
+• When the population of a species dwindles, the remaining animals are forced to inbreed and the genetic pool shrinks.
+
+---
+
+🔹 **ETYMOLOGY:**
+
+Formed within English by compounding: "in-" (prefix meaning "within" or "into") + "breeding" (from the verb "breed"). The term emerged from the practice of selective breeding, particularly in agriculture and animal husbandry, where breeding within a limited gene pool became a deliberate practice.
+
+---
+
+🔹 **WORD FAMILY:**
+• **Noun:** inbreeding
+• **Verb:** inbreed / inbreeds / inbred / inbreeding
+• **Adjective:** inbred
+• **Related terms:** inbreeding depression, inbreeding coefficient, linebreeding
+• **Opposite:** outbreeding, outcrossing
+
+---
+
+🔹 **COMMON COLLOCATIONS:**
+
+**Adjectives describing inbreeding:**
+• high inbreeding, biparental inbreeding
+• severe inbreeding, excessive inbreeding
+• resultant inbreeding depression
+
+**Effects and consequences:**
+• inbreeding depression (reduced fitness)
+• inbreeding depression in wild populations
+• inbreeding within sublines
+
+**Verbs commonly used:**
+• forced to inbreed
+• suffer from inbreeding
+• increase inbreeding
+• prevent/avoid inbreeding
+• animals often do not avoid inbreeding
+
+**Common contexts:**
+• inbreeding rate, inbreeding coefficient
+• levels of inbreeding
+• threats from inbreeding
+
+---
+
+🔹 **USAGE NOTES:**
+
+**Two Main Contexts:**
+
+**1. Selective Breeding (Agriculture/Animal Husbandry):**
+• Inbreeding is a technique used in selective breeding.
+• In livestock breeding, breeders may use inbreeding when trying to establish a new and desirable trait in the stock.
+• Purpose: To "fix" desirable characteristics and create distinct family lines
+• Requires careful monitoring for undesirable traits
+
+**2. Conservation Biology/Population Genetics:**
+• In extreme cases, this usually leads to at least temporarily decreased biological fitness of a population (called inbreeding depression).
+• Occurs naturally in small, isolated populations
+• Generally viewed as problematic for wild populations
+
+**Inbreeding Depression:**
+Inbreeding depression is the reduced biological fitness caused by loss of genetic diversity as a result of inbreeding.
+
+This reduction of fitness occurs because inbreeding increases genetic similarity, which can amplify harmful genes and overall decreases diversity.
+
+Effects include:
+• High rate of neonatal mortality
+• Low fertility and weak immune systems
+• Congenital defects
+• Reduced survival rates
+
+**In Human Populations:**
+• By analogy, the term is used in human reproduction, but more commonly refers to the genetic disorders and other consequences that may arise from expression of deleterious recessive traits resulting from incestuous sexual relationships and consanguinity.
+• Offspring of biologically related persons are subject to the possible effects of inbreeding, such as congenital birth defects.
+• The chances of such disorders are increased when the biological parents are more closely related.
+
+**Genetic Mechanism:**
+• Inbreeding results in homozygosity which can increase the chances of offspring being affected by recessive traits.
+• Such pairings have a 25% probability of producing homozygous zygotes, resulting in offspring with two recessive alleles.
+• Because close relatives share a large fraction of their alleles, the probability that any such deleterious allele is inherited from the common ancestor through both parents is increased dramatically.
+
+**Benefits of Inbreeding:**
+• Inbreeding can result in purging of deleterious alleles from a population through purifying selection.
+• Increased homozygosity increases the probability of fixing beneficial alleles.
+• Used to reveal deleterious recessive alleles for elimination
+• Important tool in plant and animal breeding
+
+**In Plant Breeding:**
+• In plant breeding, inbred lines are used as stocks for the creation of hybrid lines to make use of the effects of heterosis.
+• Inbreeding in plants also occurs naturally in the form of self-pollination.
+
+**Related Concepts:**
+• **Linebreeding:** A milder form focusing on specific ancestors
+• **Outcrossing/Outbreeding:** Mating between unrelated individuals
+• **Heterosis (Hybrid Vigor):** The "mirror image" of inbreeding depression
+
+**Register:**
+• Neutral to formal
+• Technical/scientific term
+• Common in:
+  - Genetics and biology
+  - Conservation science
+  - Animal and plant breeding
+  - Medical genetics
+  - Evolutionary biology
+
+**Synonyms:**
+Consanguineous breeding, close breeding (in agriculture)
+
+**Antonyms:**
+Outbreeding, outcrossing, crossbreeding
+
+═══════════════════════════════════════════════════════════════════════
+
+## ETAPA 2: TRADUÇÃO E EXEMPLOS BILÍNGUES
+
+**Tradução para o Português:**
+
+**Endogamia, endocruzamento, consanguinidade, cruzamento consanguíneo**
+
+(A reprodução entre indivíduos geneticamente próximos ou aparentados, resultando em aumento da homozigose)
+
+**Termos relacionados:**
+- **"Inbreeding depression"** = Depressão endogâmica, depressão por endogamia
+- **"Inbred"** (adjetivo) = Endogâmico, consanguíneo
+
+---
+
+**Exemplos Bilíngues:**
+
+• The genetics of the Angel Island coyotes show a lot of inbreeding.
+  A genética dos coiotes da Ilha Angel mostra muita endogamia.
+
+• With the genomic data, conservationists could avoid issues that arise with inbreeding, like low fertility and weak immune systems.
+  Com os dados genômicos, conservacionistas poderiam evitar problemas que surgem da endogamia, como baixa fertilidade e sistemas imunológicos fracos.
+
+• When the population of a species dwindles, the remaining animals are forced to inbreed and the genetic pool shrinks.
+  Quando a população de uma espécie diminui, os animais restantes são forçados a cruzar entre si e o pool genético diminui.
+
+• The panther population suffered from inbreeding that caused numerous health problems.
+  A população de panteras sofreu de endogamia que causou inúmeros problemas de saúde.
+
+---
+
+**Inbreeding depression (depressão endogâmica):**
+
+• Inbreeding depression is the reduced biological fitness caused by loss of genetic diversity.
+  A depressão endogâmica é a redução da aptidão biológica causada pela perda de diversidade genética.
+
+• Small populations can suffer from inbreeding depression.
+  Populações pequenas podem sofrer de depressão endogâmica.
+
+• Higher proportions of stillborn offspring were born due to inbreeding depression.
+  Proporções mais altas de filhotes natimortos nasceram devido à depressão endogâmica.
+
+---
+
+**Contextos diversos:**
+
+• Inbreeding is a technique used in selective breeding.
+  A endogamia é uma técnica usada em reprodução seletiva.
+
+• In livestock breeding, breeders may use inbreeding when trying to establish a new trait.
+  Na criação de gado, criadores podem usar endogamia ao tentar estabelecer uma nova característica.
+
+• Offspring of biologically related persons are subject to the possible effects of inbreeding.
+  Descendentes de pessoas biologicamente relacionadas estão sujeitos aos possíveis efeitos da consanguinidade.
+
+• Inbreeding results in homozygosity which can increase the chances of offspring being affected by recessive traits.
+  A endogamia resulta em homozigose, que pode aumentar as chances de descendentes serem afetados por características recessivas.
+
+═══════════════════════════════════════════════════════════════════════
+
+## ETAPA 1: EXPLICAÇÃO NO ESTILO DICIONÁRIO DE OXFORD (INGLÊS)
+
+**Word:** Offed
+
+**Type:** Past Tense / Past Participle (derived from verb "off")
+
+**Pronunciation:** /ɒft/ (OFT) - UK  
+**Pronunciation:** /ɑːft/ (AHFT) - US
+
+**Definition:** Past simple and past participle of "off." To put to death deliberately. The slang usage of "off" as a verb meaning to kill or murder someone, typically in a violent or criminal context.
+
+**Examples:**
+• The hit man was rumored to have offed at least three people in the last year alone.
+• They offed him and dumped his body in the swamp.
+• Yo, Dre offed Craig last week.
+
+---
+
+🔹 **ROOT WORD:** Off (verb - slang)
+
+**Pronunciation:** /ɒf/ (OFF) - UK  
+**Pronunciation:** /ɑːf/ (AHF) - US
+
+**As a verb (slang):**
+To kill; slay.
+
+**Meaning:**
+To murder or kill someone, typically in a deliberate, violent, or criminal manner. This is an informal/slang usage distinct from the standard meanings of "off" as a preposition or adverb.
+
+**Examples:**
+• We're going to off some finks on Friday night.
+• The movie is about a gangster who gets power by offing his rivals.
+• Benito stole another of my bitches so I'm gonna off that mothercunter pimp!
+
+---
+
+🔹 **ETYMOLOGY:**
+
+The slang verb "off" (meaning to kill) is a shortened form of phrases like "to do away with" or "to finish off." The usage emerged in American criminal slang, particularly associated with organized crime and gangster culture. The exact origin date is uncertain, but it became established in American English slang by the mid-20th century.
+
+---
+
+🔹 **WORD FAMILY:**
+• **Verb:** off / offs / offed / offing
+• **Related slang terms:** bump off, knock off, rub out, do in, waste, whack, hit
+
+---
+
+🔹 **COMMON COLLOCATIONS:**
+
+**What/Who gets "offed":**
+• off someone (a person)
+• offed at least three people
+• offing his rivals
+
+**Context words:**
+• An Italian Mafia term used to describe murdering someone
+• gangster/hitman/mob context
+• criminal/underworld slang
+
+---
+
+🔹 **USAGE NOTES:**
+
+**Register and Context:**
+• **Slang** - highly informal
+• Slang. To take the life of (a person or persons) unlawfully
+• Associated with crime, gangs, organized crime, and violence
+• Common in:
+  - Crime fiction and thrillers
+  - Movies about gangsters, mafia, hitmen
+  - Urban/street slang
+  - True crime discussions
+
+**Tone and Connotation:**
+• Always refers to illegal/unlawful killing
+• Implies deliberate, premeditated murder
+• Often used in a casual or flippant way to describe serious violence
+• Can trivialize the act of murder when used casually
+
+**Cultural Context:**
+• Similar to other Mafioso terms such as whack or hit
+• Part of American criminal underworld vocabulary
+• Popularized through crime movies and TV shows
+• Sometimes used humorously or ironically in non-criminal contexts
+
+**Synonyms (all slang):**
+Bump off, do in, knock off, rub out, waste, wipe out, zap; whack, hit, ice, take out
+
+**More Formal Synonyms:**
+Destroy, finish (off), kill, liquidate, murder, slay; assassinate
+
+**Important Note:**
+• This is VERY informal and crude language
+• Should not be used in formal writing or polite conversation
+• Can be offensive due to the casual treatment of violence
+• Primarily used in fiction, entertainment, or when discussing criminal activities
+
+**Difference from Standard "Off":**
+The standard word "off" has many meanings as:
+- Preposition: "Get off the table"
+- Adverb: "The car drove off"
+- Adjective: "The lights are off"
+
+The slang verb "off" (to kill) is a completely separate usage that developed in criminal/underworld contexts.
+
+**Grammar:**
+• Transitive verb - requires an object
+• Regular conjugation: off / offs / offed / offing
+• ✓ "They offed him"
+• ✓ "He got offed"
+• ✓ "They're gonna off the witness"
+
+**Warning:**
+Due to its violent nature and slang origins, this usage should be avoided in:
+- Professional communication
+- Academic writing
+- Formal settings
+- Polite conversation
+
+It's appropriate in:
+- Crime fiction writing
+- Discussing movies/TV shows about crime
+- Informal discussions of crime stories
+- Entertainment contexts
+
+═══════════════════════════════════════════════════════════════════════
+
+## ETAPA 2: TRADUÇÃO E EXEMPLOS BILÍNGUES
+
+**Tradução para o Português:**
+
+**Matou, assassinou, eliminou, executou** (gíria/informal)
+
+(Passado do verbo "off" - matar ou assassinar alguém deliberadamente, geralmente em contexto criminal ou violento)
+
+**"Off" (verbo - gíria):** Matar, assassinar, eliminar, executar
+
+---
+
+**Exemplos Bilíngues:**
+
+• The hit man was rumored to have offed at least three people in the last year alone.
+  O pistoleiro tinha o rumor de ter matado pelo menos três pessoas apenas no último ano.
+
+• They offed him and dumped his body in the swamp.
+  Eles o mataram e jogaram seu corpo no pântano.
+
+• Yo, Dre offed Craig last week.
+  Cara, o Dre matou o Craig semana passada.
+
+• We're going to off some finks on Friday night.
+  Vamos eliminar alguns delatores na sexta à noite.
+
+• The movie is about a gangster who gets power by offing his rivals.
+  O filme é sobre um gangster que ganha poder assassinando seus rivais.
+
+---
+
+**Contextos adicionais:**
+
+• Gerald ratted to the cops, so the bikers offed him the very next day.
+  Gerald delatou para a polícia, então os motoqueiros o eliminaram no dia seguinte.
+
+• The show even found actors to portray characters who offed a Real Housewife.
+  O programa até encontrou atores para interpretar personagens que assassinaram uma Real Housewife.
+
+• Powell stars as a man offing his obscenely wealthy family.
+  Powell estrela como um homem assassinando sua família obscenamente rica.
+
+---
+
+**⚠️ AVISO IMPORTANTE:**
+
+Esta é uma gíria muito informal e crua associada ao mundo do crime. Deve ser evitada em:
+- Comunicação profissional
+- Escrita acadêmica
+- Conversas formais ou educadas
+
+É apropriada apenas em contextos de:
+- Ficção policial
+- Discussões sobre filmes/séries de crime
+- Contextos de entretenimento
+

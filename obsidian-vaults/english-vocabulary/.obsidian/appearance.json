@@ -1,0 +1,10 @@
+{
+  "accentColor": "#e09f3e",
+  "interfaceFontFamily": "JetBrains Mono",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "vocabulary-theme",
+    "pdf-fix"
+  ],
+  "baseFontSize": 16
+}

@@ -17,6 +17,21 @@
 # Keep only source .tex files and generated PDFs
 # (PDFs can be useful for quick reference without compilation)
 
+# PDF Books and Copyrighted Materials
+# Exclude entire folders containing copyrighted PDF books
+books-pdf/
+pdfs/
+private-books/
+copyrighted-materials/
+
+# Specific file patterns for copyrighted content
+*-grammar-in-use.pdf
+*-collocations-in-use.pdf
+*-vocabulary-in-use.pdf
+*-phrasal-verbs-in-use.pdf
+*-idioms-in-use.pdf
+*.cambridge.pdf
+
 # OS files
 .DS_Store
 Thumbs.db
