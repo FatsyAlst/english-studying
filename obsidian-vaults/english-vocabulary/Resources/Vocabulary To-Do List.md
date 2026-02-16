@@ -17,17 +17,6 @@ created: 2026-02-10
 ### Media
 
 [[Jujutsu Kaisen Modulo]]
-- slit
-- bereaved
-- tap (and "tap into")
-- cub
-- recon (short for "reconnaissance")
-- prelim (short for "preliminary")
-- landlord
-- carelessness
-- litmus
-- gauge
-- twist (and "twisting things")
 - "old geezer"
 - chump
 - strip (and "strip away")
@@ -333,6 +322,7 @@ created: 2026-02-10
 - saps
 - showmanship
 - itching
+- 
 
 ---
 

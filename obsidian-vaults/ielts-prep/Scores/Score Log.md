@@ -9,7 +9,7 @@ tags: [scores, tracking]
 
 | # | Date | Format | Listening | Reading | Writing | Speaking | Overall | Notes |
 |---|------|--------|-----------|---------|---------|----------|---------|-------|
-| 1 | 2026-02-11/12 | Online (British Council) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | First attempt. Awaiting results. |
+| 1 | 2026-02-11/12 | Online (British Council) | 8.5 | 8.5 | 7.5 | 7.5 | 8.0 | First attempt — CEFR C1. Target exceeded! ✅ |
 
 ## Official IELTS Attempts — General Training
 

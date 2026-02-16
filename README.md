@@ -62,6 +62,7 @@ This repository serves as:
 - **Starting Point:** B2 (Upper-Intermediate)
 - **Start Date:** Late 2025
 - **Goal:** Score 6.5-7.0 on IELTS for international program applications
+- **IELTS Result:** 🎉 **8.0 Overall (C1)** — Target exceeded on first attempt!
 - **Native Language:** Portuguese (PT-BR)
 
 ## 📚 Currently Studying
@@ -91,9 +92,9 @@ This repository serves as:
 
 > **Target Score:** 6.5 - 7.0 (Academic) | **Purpose:** International bachelor program applications
 
-| Date | Format | Listening | Reading | Writing | Speaking | Overall | Notes |
-|:----:|:------:|:---------:|:-------:|:-------:|:--------:|:-------:|:------|
-| Feb 11-12, 2026 | Online Academic Test (British Council) | ⏳ | ⏳ | ⏳ | ⏳ | ⏳ | First attempt. Awaiting results. |
+| Date | Format | Listening | Reading | Writing | Speaking | Overall | CEFR | Notes |
+|:----:|:------:|:---------:|:-------:|:-------:|:--------:|:-------:|:----:|:------|
+| Feb 11-12, 2026 | Online Academic Test (British Council) | **8.5** | **8.5** | **7.5** | **7.5** | **8.0** | **C1** | First attempt. Target exceeded! ✅ |
 
 </details>
 
@@ -242,17 +243,20 @@ My learning philosophy:
 - **English-First:** All materials, notes, and practice in English
 
 ## 📊 Current Skills Proficiency
-- 📖 **Reading:** C1 (Advanced)
-- ✍️ **Writing:** B2 (Upper-Intermediate)
-- 🎧 **Listening:** B2 (Upper-Intermediate)
-- 🗣️ **Speaking:** B1 (Intermediate)
+
+> Based on official IELTS Academic results (Feb 2026) — Overall Band: **8.0 (C1)**
+
+- 🎧 **Listening:** Band 8.5 — C1/C2 (Expert)
+- 📖 **Reading:** Band 8.5 — C1/C2 (Expert)
+- ✍️ **Writing:** Band 7.5 — C1 (Advanced)
+- 🗣️ **Speaking:** Band 7.5 — C1 (Advanced)
 
 ---
 
 ## ⚠️ Important Note
 
 **This repository is highly personal and individualized.** The content, structure, and study plan are tailored to:
-- My current English level (B2) as of late 2025
+- My English journey from B2 (late 2025) to C1 (Feb 2026, IELTS 8.0)
 - My specific goals (IELTS preparation, international applications)
 - My learning style and background
 - My timeline and priorities

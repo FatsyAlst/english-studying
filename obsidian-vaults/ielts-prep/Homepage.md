@@ -4,13 +4,23 @@ tags:
   - dashboard
 cssclasses:
   - wide
+banner: media/ielts.jpg
+banner-x: 52
+banner-y: 100
+banner-height: 490
+content-start: 451
+pixel-banner-flag-color: red-fade-dark
+icon-image: media/ielts.png
+icon-x: 68
+icon-y: 70
+icon-size: 60
 ---
 
 # IELTS Prep
 
 **Target score:** 6.5 - 7.0 (Academic)
 **Purpose:** International bachelor program applications
-**Current score:** ⏳ Awaiting results (Attempt #1)
+**Current score:** 🎉 **8.0 Overall (C1)** — Attempt #1
 
 ---
 
@@ -21,15 +31,15 @@ type: line
 labels: [Attempt 1]
 series:
   - title: Overall
-    data: [null]
+    data: [8.0]
   - title: Listening
-    data: [null]
+    data: [8.5]
   - title: Reading
-    data: [null]
+    data: [8.5]
   - title: Writing
-    data: [null]
+    data: [7.5]
   - title: Speaking
-    data: [null]
+    data: [7.5]
 tension: 0.2
 width: 90%
 labelColors: true
@@ -53,7 +63,7 @@ yMax: 9
     "labels": ["Listening", "Reading", "Writing", "Speaking"],
     "datasets": [{
       "label": "Attempt 1 (Band Score)",
-      "data": [0, 0, 0, 0],
+      "data": [8.5, 8.5, 7.5, 7.5],
       "backgroundColor": ["rgba(255,182,193,0.55)", "rgba(173,216,230,0.55)", "rgba(255,228,181,0.55)", "rgba(178,223,219,0.55)"],
       "borderColor": ["rgba(255,150,170,1)", "rgba(130,190,220,1)", "rgba(240,200,140,1)", "rgba(130,200,195,1)"],
       "borderWidth": 1
