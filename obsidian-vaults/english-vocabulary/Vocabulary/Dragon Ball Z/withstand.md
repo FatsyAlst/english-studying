@@ -27,6 +27,7 @@ From Old English "withstandan" - "with" (against) + "standan" (to stand). Litera
 > [!tip] Notes
 > - Past tense is "withstood" (irregular), not "withstanded."
 > - Similar to "endure" and "resist" but implies more active opposition or structural strength.
+> - 📺 Also seen in [[Jujutsu Kaisen Modulo]]
 
 ---
 **Tradução:** Resistir / Suportar / Aguentar

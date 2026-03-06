@@ -42,6 +42,7 @@ Mid-12c. Middle English scateren, variant of shateren (shatter); Norse influence
 > - Transitive/intransitive; synonym disperse (formal).
 > - Past: scattered.
 > - Not for people gathering (use gather).
+> - 📺 Also encountered in [[Jujutsu Kaisen Modulo]]
 
 ---
 **Tradução:** espalhar, dispersar, espalhar-se

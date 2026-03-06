@@ -69,6 +69,7 @@ Late 16th c., probably Scandinavian (Old Norse *snagi* 'clothes peg,' *snaga* 's
 > - Australian slang: also refers to a sausage.
 > - Verb sense of 'obtaining something' is common in American English.
 > - Can be used as both noun (problem/object) and verb (catch/obtain).
+> - 📺 Also seen in [[Jujutsu Kaisen Modulo]]
 
 ---
 **Tradução:** 1. (Substantivo, problema) Contratempo; imprevisto; obstáculo; pepino | 2. (Substantivo, projeção) Toco; farpa; gancho | 3. (Substantivo, AU) Salsicha | 4. (Verbo, rasgar) Enganchou; rasgou; pegou | 5. (Verbo, conseguir) Conseguiu; pegou; fisgou

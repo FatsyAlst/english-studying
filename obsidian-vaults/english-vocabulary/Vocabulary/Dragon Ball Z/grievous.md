@@ -38,7 +38,7 @@ Middle English: from Old French greveus, from Latin gravis 'heavy, grave' (via g
 ---
 > [!tip] Notes
 > - Formal adjective meaning very serious or extremely bad.
-> - Often used in legal contexts: 'grievous bodily harm' (GBH) - serious physical injury (UK law).
+> - Often used in legal contexts: 'grievous [[bodily]] harm' (GBH) - serious physical injury (UK law).
 > - Similar to 'grave' but more formal and emphasizes severity.
 
 ---

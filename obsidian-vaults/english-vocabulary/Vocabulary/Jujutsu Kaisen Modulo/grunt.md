@@ -58,6 +58,7 @@ From Old English *grunnettan* ("to grunt"), from Proto-Germanic *grunnatjaną*. 
 > - "Grunt work" = tedious, boring, necessary labor (very common phrase).
 > - Military slang: "grunt" = infantry soldier (popularised during the Vietnam War).
 > - Can express: disapproval, effort, acknowledgment, or reluctance to speak.
+> - 📺 Also seen in [[Dragon Ball Z]]
 
 ---
 ## 🇧🇷 Translation (Portuguese)
