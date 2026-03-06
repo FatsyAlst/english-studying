@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "c5774fec4bd2ead8",
+            "id": "8eaf4edef78458b4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Resources/Vocabulary To-Do List.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Vocabulary To-Do List"
             }
@@ -50,6 +52,7 @@
       {
         "id": "bf0e5970c53b806b",
         "type": "tabs",
+        "dimension": 64.38223938223938,
         "children": [
           {
             "id": "b59d586215fa08de",
@@ -94,15 +97,18 @@
         ]
       },
       {
-        "id": "5a972a04c1f912a3",
+        "id": "847d4b3852e4fc2b",
         "type": "tabs",
+        "dimension": 35.61776061776062,
         "children": [
           {
-            "id": "2686c113777b2c49",
+            "id": "eeefa56b9b7d9f40",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -227,53 +233,53 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "2686c113777b2c49",
+  "active": "eeefa56b9b7d9f40",
   "lastOpenFiles": [
     "Resources/Vocabulary To-Do List.md",
-    "Homepage.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/Jujutsu Kaisen Modulo.md",
-    "Vocabulary/Dragon Ball/Dragon Ball.md",
     "Vocabulary/Dragon Ball Z/Dragon Ball Z.md",
-    "Vocabulary/Dragon Ball Z/ambush.md",
-    "Vocabulary/Dragon Ball Z/insidious.md",
-    "Resources/Ingestion pending/jjk-modulo.txt",
-    "Resources/Ingestion pending",
-    "Vocabulary/Dragon Ball Z/grudge.md",
-    "Vocabulary/Dragon Ball Z/cunning.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/crystal-clear.md",
-    "Vocabulary/Dragon Ball Z/pay-through-the-nose.md",
-    "Vocabulary/Dragon Ball Z/plowing.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/slack-off.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/good-for-nothing.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/wildfire.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/pull-off.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/barged.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/mangled.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/landlocked.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/on-the-matter.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/whim.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/grunt.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/racket.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/entrust.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/strive.md",
-    "Vocabulary/Jujutsu Kaisen Modulo/stir-up.md",
+    "Homepage.md",
+    "Resources/Vocabulary Learning Prompt.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/inbreeding.md",
+    "Vocabulary/Jujutsu Kaisen Modulo/Jujutsu Kaisen Modulo.md",
+    "Resources/Vocabulary To-Do List.md.tmp.5.1772816932544",
+    "Vocabulary/Dragon Ball Z/tone.md",
+    "Vocabulary/Dragon Ball Z/tone.md.tmp.5.1772816901076",
+    "Vocabulary/Dragon Ball Z/tease.md",
+    "Vocabulary/Dragon Ball Z/tease.md.tmp.5.1772816892942",
+    "Vocabulary/Dragon Ball Z/cope.md",
+    "Vocabulary/Dragon Ball Z/cope.md.tmp.5.1772816890790",
+    "Vocabulary/Dragon Ball Z/smooch.md",
+    "Vocabulary/Dragon Ball Z/smooch.md.tmp.5.1772816885328",
+    "Vocabulary/Dragon Ball Z/lout.md",
+    "Vocabulary/Dragon Ball Z/lout.md.tmp.5.1772816884898",
+    "Vocabulary/Dragon Ball Z/meager.md",
+    "Vocabulary/Dragon Ball Z/meager.md.tmp.5.1772816879206",
+    "Vocabulary/Dragon Ball Z/meanie.md",
+    "Vocabulary/Dragon Ball Z/meanie.md.tmp.5.1772816878802",
+    "Vocabulary/Dragon Ball Z/rubbing.md",
+    "Vocabulary/Dragon Ball Z/rubbing.md.tmp.5.1772816873736",
+    "Vocabulary/Dragon Ball Z/awful.md",
+    "Vocabulary/Dragon Ball Z/awful.md.tmp.5.1772816873119",
+    "Vocabulary/Dragon Ball Z/gulp.md",
+    "Vocabulary/Dragon Ball Z/mutiny.md",
+    "Vocabulary/Dragon Ball Z/pummeled.md",
+    "Vocabulary/Dragon Ball Z/doughy.md",
+    "Vocabulary/Dragon Ball Z/blob.md",
+    "Vocabulary/Dragon Ball Z/henchman.md",
+    "Vocabulary/Dragon Ball Z/secluded.md",
+    "Vocabulary/Dragon Ball Z/impudent.md",
+    "Vocabulary/Dragon Ball Z/pep-talk.md",
+    "Vocabulary/Dragon Ball Z/idle-talk.md",
+    "Vocabulary/Dragon Ball Z/tapping-into.md",
     "media/banners/jjk-modulo.jpg",
     "media/covers/dragon-ball-cover.jpg",
-    "Vocabulary/Dragon Ball",
     "media/banners/db.jpg",
     "media/banners/dbz.jpg",
-    "Resources",
     "Untitled.canvas",
     "media/covers/f1-cover.jpg",
     "media/covers/peaky-blinders-cover.jpg",
     "media/covers/dragon-ball-z-cover.jpg",
     "media/covers/jujutsu-kaisen-modulo-cover.jpg",
-    "media/covers",
-    "Vocabulary/Jujutsu Kaisen Modulo",
-    "Exercises/vocabulary-practice-1/vocabulary-exercises-1.pdf",
-    "media/banners/uncanny-cover.jpg",
-    "media/banners",
-    "Exercises/vocabulary-practice-1/vocabulary-answers-1.pdf",
-    "Exercises/vocabulary-practice-3/vocabulary-exercises-3.tex"
+    "media/banners/uncanny-cover.jpg"
   ]
 }

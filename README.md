@@ -18,37 +18,6 @@
 
 ---
 
-## 📑 Table of Contents
-- [📚 English Studying Journey](#-english-studying-journey)
-    - [Made by a Brazilian 🇧🇷](#made-by-a-brazilian-)
-  - [📑 Table of Contents](#-table-of-contents)
-  - [🎯 About This Repository](#-about-this-repository)
-  - [🧑‍🎓 Starting Level](#-starting-level)
-  - [📚 Currently Studying](#-currently-studying)
-    - [📖 Book](#-book)
-  - [🎯 IELTS Journey](#-ielts-journey)
-  - [🛠️ Tools \& Resources](#️-tools--resources)
-    - [AI Assistants](#ai-assistants)
-    - [Traditional Resources](#traditional-resources)
-  - [📚 Book Study Plan](#-book-study-plan)
-    - [Phase 1: Foundation (Current)](#phase-1-foundation-current)
-    - [Phase 2: Building](#phase-2-building)
-    - [Phase 3: Advanced](#phase-3-advanced)
-  - [📖 Reading for Pleasure](#-reading-for-pleasure)
-    - [Currently Reading](#currently-reading)
-  - [🧠 Obsidian Vocabulary Vault](#-obsidian-vocabulary-vault)
-  - [🎓 Resources](#-resources)
-    - [Online Courses](#online-courses)
-      - [My Experience](#my-experience)
-  - [💡 Study Approach](#-study-approach)
-  - [📊 Current Skills Proficiency](#-current-skills-proficiency)
-  - [⚠️ Important Note](#️-important-note)
-  - [❓ Frequently Asked Questions](#-frequently-asked-questions)
-  - [🤝 Contributing](#-contributing)
-  - [📜 License](#-license)
-
----
-
 Welcome to my English learning repository! This is where I document my journey from B2 to advanced English proficiency, track my progress, and organize all the resources that help me along the way.
 
 ## 🎯 About This Repository
