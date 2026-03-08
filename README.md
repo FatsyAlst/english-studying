@@ -28,9 +28,10 @@ This repository serves as:
 
 - **Starting Point:** B2 (Upper-Intermediate)
 - **Start Date:** Late 2025
+
+## 🎯 Currently
 - **Goal:** Improve all fields — especially Writing and Speaking — to sound natural and fluent
 - **IELTS Result:** 🎉 **8.0 Overall (C1)** — Target exceeded on first attempt!
-- **Native Language:** Portuguese (PT-BR)
 
 ## 📚 Currently Studying
 
@@ -53,7 +54,7 @@ This repository serves as:
 
 <br>
 
-<details open>
+<details>
 
 <summary><b>Attempt #1</b></summary>
 
@@ -73,7 +74,7 @@ This repository serves as:
 I leverage AI tools to enhance my learning experience:
 
 - **GitHub Copilot** - Code-based English practice, technical documentation, and repository automation
-- **Claude** - Vocabulary research, writing feedback, and AI-powered assistance. Also powers the [automated daily vocabulary ingestion](./.github/workflows/daily-vocab.yml) — a GitHub Actions workflow that reads the vocabulary to-do list, researches each word via the Claude API, and commits new cards to the Obsidian vault every day
+- **Claude** - Vocabulary research, writing feedback, and AI-powered assistance. Also handles vocabulary ingestion into the Obsidian vault — when a sizeable list of new words has been collected in the to-do list, Claude researches each word and creates the vocabulary cards following the vault's format and structure
 
 ### Traditional Resources
 - 📚 Books (Cambridge English series and more)
