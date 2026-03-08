@@ -5,9 +5,7 @@
 ### Made by a Brazilian 🇧🇷
 
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
-[![Perplexity](https://img.shields.io/badge/Perplexity-20808d?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/FatsyAlst/english-studying?style=flat-square)
@@ -30,7 +28,7 @@ This repository serves as:
 
 - **Starting Point:** B2 (Upper-Intermediate)
 - **Start Date:** Late 2025
-- **Goal:** Score 6.5-7.0 on IELTS for international program applications
+- **Goal:** Improve all fields — especially Writing and Speaking — to sound natural and fluent
 - **IELTS Result:** 🎉 **8.0 Overall (C1)** — Target exceeded on first attempt!
 - **Native Language:** Portuguese (PT-BR)
 
@@ -72,11 +70,10 @@ This repository serves as:
 ## 🛠️ Tools & Resources
 
 ### AI Assistants
-I leverage various AI tools to enhance my learning experience:
+I leverage AI tools to enhance my learning experience:
 
-- **GitHub Copilot** - Code-based English practice and technical documentation
-- **Claude** - Vocabulary learning and AI-powered coding assistance
-- **Perplexity** - Research, answering questions and finding quality resources
+- **GitHub Copilot** - Code-based English practice, technical documentation, and repository automation
+- **Claude** - Vocabulary research, writing feedback, and AI-powered assistance. Also powers the [automated daily vocabulary ingestion](./.github/workflows/daily-vocab.yml) — a GitHub Actions workflow that reads the vocabulary to-do list, researches each word via the Claude API, and commits new cards to the Obsidian vault every day
 
 ### Traditional Resources
 - 📚 Books (Cambridge English series and more)
@@ -90,9 +87,9 @@ I leverage various AI tools to enhance my learning experience:
 
 ## 📚 Book Study Plan
 
-> **Last Updated:** February 12, 2026
+> **Last Updated:** March 2026
 
-Based on my current B2 level, I've created a structured learning path through the Cambridge English series and complementary materials.
+A structured learning path through the Cambridge English series and complementary materials, progressing from intermediate to advanced proficiency.
 
 ### Phase 1: Foundation (Current)
 *Building solid intermediate skills and expanding vocabulary.*
@@ -246,7 +243,7 @@ The Cambridge "English in Use" series is widely regarded as one of the best stru
 - Answer keys for independent learning
 - Proven track record with millions of learners worldwide
 
-I chose this progression based on my current B2 level and recommendations from language learning communities.
+I chose this progression based on recommendations from language learning communities and a well-established progression from intermediate to advanced.
 
 </details>
 
@@ -294,7 +291,7 @@ This repository is for educational purposes. All book materials referenced are c
 
 ---
 
-**Last Updated:** February 2026  
+**Last Updated:** March 2026  
 **Status:** 🚀 Active Learning
 
 <div align="center">
