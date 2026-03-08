@@ -38,7 +38,7 @@ Compound of *counter-* (from Latin *contra*, "against") + *measure* (from Latin 
 > - A compound noun — always one word or hyphenated (*countermeasure*), never two separate words.
 > - Common in military, cybersecurity, and public health contexts.
 > - Compare with [[deterrent]] — a *deterrent* **prevents** action through intimidation, while a *countermeasure* **responds to or neutralizes** an existing threat.
-> - Compare with [[ward-off]] — both involve defense, but *countermeasure* is more systematic and formal.
+> - Compare with [[ward off]] — both involve defense, but *countermeasure* is more systematic and formal.
 
 ---
 ## 🇧🇷 Translation (Portuguese)

@@ -304,12 +304,12 @@ For each extracted word/phrase:
 #### 3a. Check if it already exists in the vault
 
 Search ALL media folders (not just the current one) for a file matching the word name:
-- Normalize: lowercase, replace spaces with hyphens
-- Check for exact filename match (e.g., `breach.md`, `call-it-quits.md`)
+- Normalize: lowercase, preserve spaces (hyphens only when part of the word itself)
+- Check for exact filename match (e.g., `breach.md`, `call it quits.md`, `half-baked.md`)
 
 #### 3b. If the word is NEW — Create vocabulary card
 
-Create `Vocabulary/{Media Name}/{word-slug}.md` using this exact format:
+Create `Vocabulary/{Media Name}/{word name}.md` using this exact format (filename is the word lowercased with spaces preserved; hyphens only when the word itself contains one, e.g., `half-baked.md`):
 
 ```markdown
 ---
@@ -369,7 +369,7 @@ created: {YYYY-MM-DD}
 - Use `### Sense N` headers only for multiple meanings; for single-meaning words, just write the definition directly under `## 📖 Definition` with part of speech noted
 - The `> [!example]` and `> [!tip]` callouts are Obsidian callout syntax — preserve exactly
 - Date format for `created:` is always `YYYY-MM-DD`
-- Filename is the word lowercased with spaces/special chars replaced by hyphens: `call it quits` → `call-it-quits.md`
+- Filename is the word lowercased with spaces preserved: `call it quits` → `call it quits.md`. Hyphens are used ONLY when the word itself contains a hyphen (e.g., `half-baked` → `half-baked.md`)
 - If the input doesn't provide certain sections (etymology, collocations, etc.), fill them in using your linguistic knowledge
 - Only include Word Family rows for parts of speech that actually exist for the word
 
@@ -544,7 +544,7 @@ Each media has a paginated DataviewJS section under `## 📚 All Words by Media`
 | Element | Convention | Example |
 |---------|-----------|---------|
 | Folder | Title Case with spaces | `Dragon Ball Z` |
-| Card filename | lowercase, hyphenated | `call-it-quits.md` |
+| Card filename | lowercase, spaces preserved (hyphens only when part of the word) | `call it quits.md`, `half-baked.md` |
 | Media tag | lowercase, hyphenated | `dragon-ball-z` |
 | CSS class | lowercase, hyphenated | `dragon-ball-z` |
 | CSS variable | `--media-{name}` | `--media-dragon-ball-z` |
@@ -627,7 +627,7 @@ Before finishing a run, the agent should ask itself:
 4. **One card = one file** — never combine multiple words in a single file
 5. **Keep translations in Brazilian Portuguese** (PT-BR), not European Portuguese
 6. **Cross-reference note** goes inside the `> [!tip] Notes` callout, prefixed with 📺
-7. **For multi-word phrases** like "call it quits", the filename is `call-it-quits.md` but the display name in definitions can be natural
+7. **For multi-word phrases** like "call it quits", the filename is `call it quits.md` with spaces preserved. Hyphens are used ONLY when the word itself contains a hyphen (e.g., `half-baked.md`, `well-known.md`)
 8. **When enriching existing cards**, make a comment in the report about what was changed — transparency is key
 9. **Thematic tags are additive** — never remove existing tags, only add new ones that genuinely improve discoverability
 10. **Duplicate sense notes are informative** — they help recognize overlap but shouldn't discourage creating the card
