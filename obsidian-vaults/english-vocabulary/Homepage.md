@@ -92,237 +92,195 @@ for (const m of media) {
 ## 📊 Statistics
 
 ```dataviewjs
-const words = dv.pages('"Vocabulary"').where(p => p.media);
-const counts = {};
-for (const w of words) {
-    let m = w.media?.path ? w.media.path : String(w.media);
-    m = m.split("/").pop().replace(/\.md$/i, "").replace(/[\[\]]/g, "");
-    counts[m] = (counts[m] || 0) + 1;
+const root = dv.container;
+root.innerHTML = "";
+
+const allWords = dv.pages('"Vocabulary"').where(p => p.media);
+const media = dv.pages('"Vocabulary"')
+    .where(p => p.tags && p.tags.includes("media") && p.category)
+    .sort(p => p.file.name, 'asc');
+
+const mediaColors = {
+    "Dragon Ball Z": "#f97316", "Dragon Ball": "#eab308", "F1": "#ef4444",
+    "Peaky Blinders": "#6366f1", "Jujutsu Kaisen Modulo": "#22c55e"
+};
+const catIcons = { anime: "\uD83D\uDC32", manga: "\uD83D\uDCD6", movie: "\uD83C\uDFAC", series: "\uD83D\uDCFA", book: "\uD83D\uDCDA" };
+
+// Hero card
+const hero = root.createEl("div", { cls: "vocab-stat-hero" });
+hero.createEl("div", { text: String(allWords.length), cls: "stat-number" });
+hero.createEl("div", { text: "Words Learned", cls: "stat-label" });
+
+// Media mini-cards grid
+const grid = root.createEl("div", { cls: "vocab-stat-grid" });
+for (const m of media) {
+    const folder = m.file.folder;
+    const count = dv.pages(`"${folder}"`).where(p => p.media).length;
+    const color = mediaColors[m.file.name] || "#e09f3e";
+    const icon = catIcons[m.category] || "\uD83D\uDCDA";
+
+    const card = grid.createEl("div", { cls: "vocab-stat-card" });
+    card.style.borderLeft = `3px solid ${color}`;
+    card.createEl("div", { text: icon, cls: "stat-icon" });
+    card.createEl("div", { text: String(count), cls: "stat-number" });
+    card.style.setProperty("--stat-color", color);
+    card.querySelector(".stat-number").style.color = color;
+    card.createEl("div", { text: m.file.name, cls: "stat-label" });
+    card.onclick = () => app.workspace.openLinkText(m.file.path, "");
 }
-const headers = Object.keys(counts).sort();
-headers.push("Total");
-const values = headers.map(h => h === "Total" ? words.length : counts[h]);
-dv.table(headers, [values]);
 ```
 
 ---
 ## 🔤 Recent Words
 
 ```dataviewjs
+const root = dv.container;
+root.innerHTML = "";
+
+const mediaTags = ["dragon-ball-z", "dragon-ball", "f1", "peaky-blinders", "jujutsu-kaisen", "media"];
+const tagColors = {
+    emotion: "#c084fc", emotions: "#c084fc", action: "#f87171", combat: "#f87171",
+    slang: "#fb923c", informal: "#fb923c", formal: "#60a5fa", nature: "#4ade80",
+    food: "#facc15", body: "#f472b6", idiom: "#a78bfa", "phrasal-verb": "#38bdf8"
+};
+const defaultTagColor = "rgba(var(--vocab-accent-rgb), 0.7)";
+
 const words = dv.pages('"Vocabulary"')
     .where(p => p.media)
     .sort(p => p.file.ctime, 'desc')
     .limit(10);
 
-const rows = words.map(w => {
+const table = root.createEl("table", { cls: "dataview table-view-table" });
+const thead = table.createEl("thead");
+const hr = thead.createEl("tr");
+hr.createEl("th", { text: "Word" });
+hr.createEl("th", { text: "Source" });
+hr.createEl("th", { text: "Tags" });
+
+const tbody = table.createEl("tbody");
+for (const w of words) {
     let mediaName = w.media?.path ? w.media.path : String(w.media);
     mediaName = mediaName.split("/").pop().replace(/\.md$/i, "").replace(/[\[\]]/g, "");
-    return [w.file.link, `[[${mediaName}]]`];
-});
 
-dv.table(["Word", "Source"], rows);
+    const row = tbody.createEl("tr");
+
+    // Word link
+    const tdWord = row.createEl("td");
+    tdWord.createEl("a", {
+        text: w.file.name, cls: "internal-link",
+        attr: { "data-href": w.file.path, href: w.file.path }
+    });
+
+    // Source link
+    const tdSource = row.createEl("td");
+    const mediaPath = `Vocabulary/${mediaName}/${mediaName}`;
+    tdSource.createEl("a", {
+        text: mediaName, cls: "internal-link",
+        attr: { "data-href": mediaPath, href: mediaPath }
+    });
+
+    // Tags as pills
+    const tdTags = row.createEl("td");
+    const tags = (w.tags || []).filter(t => !mediaTags.includes(t));
+    for (const t of tags.slice(0, 3)) {
+        const pill = tdTags.createEl("span", { text: t, cls: "vocab-tag-pill" });
+        const c = tagColors[t] || defaultTagColor;
+        pill.style.cssText = `background:${c}20;color:${c};border-color:${c}30;`;
+    }
+}
 ```
 
 ---
-## 📝 All Words by Media
+## 📝 All Words
 
-### 🐉 Dragon Ball Z
 ```dataviewjs
-const PER_PAGE = 7;
-const allWords = dv.pages('"Vocabulary/Dragon Ball Z"')
+const root = dv.container;
+root.innerHTML = "";
+
+const allWords = dv.pages('"Vocabulary"')
     .where(p => p.media)
     .sort(p => p.file.name, 'asc');
-const total = allWords.length;
-const totalPages = Math.ceil(total / PER_PAGE);
-let page = 1;
 
-const wrapper = dv.el("div", "");
+// Group by first letter
+const groups = {};
+for (const w of allWords) {
+    const letter = w.file.name[0].toUpperCase();
+    if (!groups[letter]) groups[letter] = [];
+    groups[letter].push(w);
+}
+const letters = Object.keys(groups).sort();
+let activeFilter = null;
+let searchTerm = "";
+
+// Search input
+const search = root.createEl("input", {
+    type: "text",
+    placeholder: `Search ${allWords.length} words...`,
+    cls: "vocab-search"
+});
+
+// Letter bar
+const bar = root.createEl("div", { cls: "vocab-letter-bar" });
+const showAllBtn = bar.createEl("button", { text: "All", cls: "vocab-letter-btn show-all active" });
+const letterBtns = {};
+for (const L of letters) {
+    const btn = bar.createEl("button", { text: L, cls: "vocab-letter-btn" });
+    letterBtns[L] = btn;
+}
+
+// Sections container
+const sections = root.createEl("div");
 
 function render() {
-    wrapper.empty();
-    const start = (page - 1) * PER_PAGE;
-    const words = allWords.slice(start, start + PER_PAGE);
+    sections.innerHTML = "";
+    const term = searchTerm.toLowerCase();
 
-    const table = wrapper.createEl("table", { cls: "dataview table-view-table" });
-    const thead = table.createEl("thead");
-    const hr = thead.createEl("tr");
-    const th = hr.createEl("th");
-    th.createEl("span", { text: "Word (" + total + ")", cls: "dataview small-text" });
-    const tbody = table.createEl("tbody");
-    for (const w of words) {
-        const row = tbody.createEl("tr");
-        const td = row.createEl("td");
-        const a = td.createEl("a", {
-            text: w.file.name,
-            cls: "internal-link",
-            attr: { "data-href": w.file.path, href: w.file.path }
-        });
+    for (const L of letters) {
+        if (activeFilter && activeFilter !== L) continue;
+
+        const filtered = groups[L].filter(w =>
+            term === "" || w.file.name.toLowerCase().includes(term)
+        );
+        if (filtered.length === 0) continue;
+
+        const header = sections.createEl("div", { cls: "vocab-letter-header" });
+        header.createEl("span", { text: L });
+        header.createEl("span", { text: `${filtered.length} word${filtered.length !== 1 ? "s" : ""}`, cls: "letter-count" });
+
+        const grid = sections.createEl("div", { cls: "vocab-word-grid" });
+        for (const w of filtered) {
+            const chip = grid.createEl("a", {
+                text: w.file.name,
+                cls: "vocab-word-chip internal-link",
+                attr: { "data-href": w.file.path, href: w.file.path }
+            });
+        }
     }
 
-    if (totalPages > 1) {
-        const nav = wrapper.createEl("div");
-        nav.style.cssText = "display:flex;align-items:center;justify-content:center;gap:10px;margin-top:10px;";
-        const prev = nav.createEl("button", { text: "← Prev" });
-        prev.style.cssText = "padding:4px 12px;cursor:pointer;border:1px solid var(--background-modifier-border);background:var(--background-secondary);border-radius:4px;color:var(--text-normal);";
-        if (page <= 1) prev.disabled = true;
-        prev.onclick = () => { page--; render(); };
-        nav.createEl("span", { text: "Page " + page + " of " + totalPages }).style.cssText = "font-size:0.85em;color:var(--text-muted);min-width:90px;text-align:center;";
-        const next = nav.createEl("button", { text: "Next →" });
-        next.style.cssText = "padding:4px 12px;cursor:pointer;border:1px solid var(--background-modifier-border);background:var(--background-secondary);border-radius:4px;color:var(--text-normal);";
-        if (page >= totalPages) next.disabled = true;
-        next.onclick = () => { page++; render(); };
+    if (sections.childElementCount === 0) {
+        sections.createEl("p", { text: "No words match your search." }).style.cssText = "color:var(--text-muted);text-align:center;padding:20px;";
     }
 }
-render();
-```
 
-### 🏎️ F1
-```dataviewjs
-const PER_PAGE = 7;
-const allWords = dv.pages('"Vocabulary/F1"')
-    .where(p => p.media)
-    .sort(p => p.file.name, 'asc');
-const total = allWords.length;
-const totalPages = Math.ceil(total / PER_PAGE);
-let page = 1;
+// Events
+showAllBtn.onclick = () => {
+    activeFilter = null;
+    showAllBtn.classList.add("active");
+    Object.values(letterBtns).forEach(b => b.classList.remove("active"));
+    render();
+};
 
-const wrapper = dv.el("div", "");
-
-function render() {
-    wrapper.empty();
-    const start = (page - 1) * PER_PAGE;
-    const words = allWords.slice(start, start + PER_PAGE);
-
-    const table = wrapper.createEl("table", { cls: "dataview table-view-table" });
-    const thead = table.createEl("thead");
-    const hr = thead.createEl("tr");
-    const th = hr.createEl("th");
-    th.createEl("span", { text: "Word (" + total + ")", cls: "dataview small-text" });
-    const tbody = table.createEl("tbody");
-    for (const w of words) {
-        const row = tbody.createEl("tr");
-        const td = row.createEl("td");
-        const a = td.createEl("a", {
-            text: w.file.name,
-            cls: "internal-link",
-            attr: { "data-href": w.file.path, href: w.file.path }
-        });
-    }
-
-    if (totalPages > 1) {
-        const nav = wrapper.createEl("div");
-        nav.style.cssText = "display:flex;align-items:center;justify-content:center;gap:10px;margin-top:10px;";
-        const prev = nav.createEl("button", { text: "← Prev" });
-        prev.style.cssText = "padding:4px 12px;cursor:pointer;border:1px solid var(--background-modifier-border);background:var(--background-secondary);border-radius:4px;color:var(--text-normal);";
-        if (page <= 1) prev.disabled = true;
-        prev.onclick = () => { page--; render(); };
-        nav.createEl("span", { text: "Page " + page + " of " + totalPages }).style.cssText = "font-size:0.85em;color:var(--text-muted);min-width:90px;text-align:center;";
-        const next = nav.createEl("button", { text: "Next →" });
-        next.style.cssText = "padding:4px 12px;cursor:pointer;border:1px solid var(--background-modifier-border);background:var(--background-secondary);border-radius:4px;color:var(--text-normal);";
-        if (page >= totalPages) next.disabled = true;
-        next.onclick = () => { page++; render(); };
-    }
+for (const L of letters) {
+    letterBtns[L].onclick = () => {
+        activeFilter = (activeFilter === L) ? null : L;
+        showAllBtn.classList.toggle("active", !activeFilter);
+        Object.entries(letterBtns).forEach(([k, b]) => b.classList.toggle("active", k === activeFilter));
+        render();
+    };
 }
-render();
-```
 
-### 📗 Jujutsu Kaisen Modulo
-```dataviewjs
-const PER_PAGE = 7;
-const allWords = dv.pages('"Vocabulary/Jujutsu Kaisen Modulo"')
-    .where(p => p.media)
-    .sort(p => p.file.name, 'asc');
-const total = allWords.length;
-const totalPages = Math.ceil(total / PER_PAGE);
-let page = 1;
+search.addEventListener("input", () => { searchTerm = search.value; render(); });
 
-const wrapper = dv.el("div", "");
-
-function render() {
-    wrapper.empty();
-    const start = (page - 1) * PER_PAGE;
-    const words = allWords.slice(start, start + PER_PAGE);
-
-    const table = wrapper.createEl("table", { cls: "dataview table-view-table" });
-    const thead = table.createEl("thead");
-    const hr = thead.createEl("tr");
-    const th = hr.createEl("th");
-    th.createEl("span", { text: "Word (" + total + ")", cls: "dataview small-text" });
-    const tbody = table.createEl("tbody");
-    for (const w of words) {
-        const row = tbody.createEl("tr");
-        const td = row.createEl("td");
-        const a = td.createEl("a", {
-            text: w.file.name,
-            cls: "internal-link",
-            attr: { "data-href": w.file.path, href: w.file.path }
-        });
-    }
-
-    if (totalPages > 1) {
-        const nav = wrapper.createEl("div");
-        nav.style.cssText = "display:flex;align-items:center;justify-content:center;gap:10px;margin-top:10px;";
-        const prev = nav.createEl("button", { text: "← Prev" });
-        prev.style.cssText = "padding:4px 12px;cursor:pointer;border:1px solid var(--background-modifier-border);background:var(--background-secondary);border-radius:4px;color:var(--text-normal);";
-        if (page <= 1) prev.disabled = true;
-        prev.onclick = () => { page--; render(); };
-        nav.createEl("span", { text: "Page " + page + " of " + totalPages }).style.cssText = "font-size:0.85em;color:var(--text-muted);min-width:90px;text-align:center;";
-        const next = nav.createEl("button", { text: "Next →" });
-        next.style.cssText = "padding:4px 12px;cursor:pointer;border:1px solid var(--background-modifier-border);background:var(--background-secondary);border-radius:4px;color:var(--text-normal);";
-        if (page >= totalPages) next.disabled = true;
-        next.onclick = () => { page++; render(); };
-    }
-}
-render();
-```
-
-### 🎩 Peaky Blinders
-```dataviewjs
-const PER_PAGE = 7;
-const allWords = dv.pages('"Vocabulary/Peaky Blinders"')
-    .where(p => p.media)
-    .sort(p => p.file.name, 'asc');
-const total = allWords.length;
-const totalPages = Math.ceil(total / PER_PAGE);
-let page = 1;
-
-const wrapper = dv.el("div", "");
-
-function render() {
-    wrapper.empty();
-    const start = (page - 1) * PER_PAGE;
-    const words = allWords.slice(start, start + PER_PAGE);
-
-    const table = wrapper.createEl("table", { cls: "dataview table-view-table" });
-    const thead = table.createEl("thead");
-    const hr = thead.createEl("tr");
-    const th = hr.createEl("th");
-    th.createEl("span", { text: "Word (" + total + ")", cls: "dataview small-text" });
-    const tbody = table.createEl("tbody");
-    for (const w of words) {
-        const row = tbody.createEl("tr");
-        const td = row.createEl("td");
-        const a = td.createEl("a", {
-            text: w.file.name,
-            cls: "internal-link",
-            attr: { "data-href": w.file.path, href: w.file.path }
-        });
-    }
-
-    if (totalPages > 1) {
-        const nav = wrapper.createEl("div");
-        nav.style.cssText = "display:flex;align-items:center;justify-content:center;gap:10px;margin-top:10px;";
-        const prev = nav.createEl("button", { text: "← Prev" });
-        prev.style.cssText = "padding:4px 12px;cursor:pointer;border:1px solid var(--background-modifier-border);background:var(--background-secondary);border-radius:4px;color:var(--text-normal);";
-        if (page <= 1) prev.disabled = true;
-        prev.onclick = () => { page--; render(); };
-        nav.createEl("span", { text: "Page " + page + " of " + totalPages }).style.cssText = "font-size:0.85em;color:var(--text-muted);min-width:90px;text-align:center;";
-        const next = nav.createEl("button", { text: "Next →" });
-        next.style.cssText = "padding:4px 12px;cursor:pointer;border:1px solid var(--background-modifier-border);background:var(--background-secondary);border-radius:4px;color:var(--text-normal);";
-        if (page >= totalPages) next.disabled = true;
-        next.onclick = () => { page++; render(); };
-    }
-}
 render();
 ```
 
@@ -387,17 +345,53 @@ if (posts.length === 0) {
 ---
 ## 📋 Practice Sets
 
-| Practice Set | Exercises                      | Answer Sheet                 |
-| :----------- | :----------------------------- | :--------------------------- |
-| **Set 1**    | [[vocabulary-exercises-1.pdf]] | [[vocabulary-answers-1.pdf]] |
-| **Set 2**    | [[vocabulary-exercises-2.pdf]] | [[vocabulary-answers-2.pdf]] |
-| **Set 3**    | [[vocabulary-exercises-3.pdf]] | [[vocabulary-answers-3.pdf]] |
+```dataviewjs
+const root = dv.container;
+root.innerHTML = "";
+
+const sets = [
+    { num: 1, exercises: "vocabulary-exercises-1.pdf", answers: "vocabulary-answers-1.pdf" },
+    { num: 2, exercises: "vocabulary-exercises-2.pdf", answers: "vocabulary-answers-2.pdf" },
+    { num: 3, exercises: "vocabulary-exercises-3.pdf", answers: "vocabulary-answers-3.pdf" }
+];
+
+const grid = root.createEl("div", { cls: "vocab-practice-grid" });
+for (const s of sets) {
+    const card = grid.createEl("div", { cls: "vocab-practice-card" });
+    card.createEl("div", { text: `Set ${s.num}`, cls: "card-title" });
+    const links = card.createEl("div", { cls: "card-links" });
+    const ex = links.createEl("a", {
+        text: "Exercises", cls: "card-link internal-link",
+        attr: { "data-href": s.exercises, href: s.exercises }
+    });
+    const ans = links.createEl("a", {
+        text: "Answers", cls: "card-link internal-link",
+        attr: { "data-href": s.answers, href: s.answers }
+    });
+}
+```
 
 ---
 ## 📚 Resources
 
-- 📝 [[Vocabulary To-Do List]] — Track words you want to learn next
-- 🤖 [[Vocabulary Learning Prompt]] — AI prompt for deep vocabulary exploration
+```dataviewjs
+const root = dv.container;
+root.innerHTML = "";
+
+const resources = [
+    { icon: "\uD83D\uDCDD", title: "Vocabulary To-Do List", desc: "Track words you want to learn next", path: "Resources/Vocabulary To-Do List" },
+    { icon: "\uD83E\uDD16", title: "Vocabulary Learning Prompt", desc: "AI prompt for deep vocabulary exploration", path: "Resources/Vocabulary Learning Prompt" }
+];
+
+const grid = root.createEl("div", { cls: "vocab-resource-grid" });
+for (const r of resources) {
+    const card = grid.createEl("div", { cls: "vocab-resource-card" });
+    card.createEl("div", { text: r.icon, cls: "resource-icon" });
+    card.createEl("div", { text: r.title, cls: "resource-title" });
+    card.createEl("div", { text: r.desc, cls: "resource-desc" });
+    card.onclick = () => app.workspace.openLinkText(r.path, "");
+}
+```
 
 ---
 > [!quote] Philosophy

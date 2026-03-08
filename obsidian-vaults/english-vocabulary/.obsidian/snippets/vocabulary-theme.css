@@ -363,3 +363,364 @@ a.tag[href*="jujutsu-kaisen"]  { background: rgba(34,197,94,0.12);  color: var(-
 .dragon-ball .markdown-reading-view a.internal-link:hover { color: #facc15; }
 .dragon-ball .markdown-reading-view code:not(pre code) { background: rgba(234,179,8,0.08); color: var(--media-dragon-ball); }
 .dragon-ball .dataview.table-view-table a.internal-link { color: var(--media-dragon-ball); }
+
+/* ═══════════════════════════════════════════════════════════════
+   UI Components — Statistics, Word Grid, Filters
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ─── Stat Cards ─────────────────────────────────────────────── */
+.vocab-stat-hero {
+    background: linear-gradient(135deg, rgba(var(--vocab-accent-rgb), 0.15), rgba(var(--vocab-accent-rgb), 0.05));
+    border: 1px solid rgba(var(--vocab-accent-rgb), 0.2);
+    border-radius: 12px;
+    padding: 24px 20px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.vocab-stat-hero .stat-number {
+    font-size: 3em;
+    font-weight: 800;
+    color: var(--vocab-accent);
+    line-height: 1.1;
+}
+
+.vocab-stat-hero .stat-label {
+    font-size: 0.9em;
+    color: var(--text-muted);
+    margin-top: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.vocab-stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.vocab-stat-card {
+    border-radius: 10px;
+    padding: 14px 12px;
+    text-align: center;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.vocab-stat-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.vocab-stat-card .stat-icon {
+    font-size: 1.4em;
+    margin-bottom: 4px;
+}
+
+.vocab-stat-card .stat-number {
+    font-size: 1.6em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.vocab-stat-card .stat-label {
+    font-size: 0.75em;
+    color: var(--text-muted);
+    margin-top: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* ─── Dashboard Strip (Media Pages) ─────────────────────────── */
+.vocab-dash-strip {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+}
+
+.vocab-dash-badge {
+    flex: 1;
+    min-width: 100px;
+    border-radius: 10px;
+    padding: 12px 16px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    text-align: center;
+}
+
+.vocab-dash-badge .badge-number {
+    font-size: 1.8em;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.vocab-dash-badge .badge-label {
+    font-size: 0.75em;
+    color: var(--text-muted);
+    margin-top: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+/* ─── Word Chips & Grid ──────────────────────────────────────── */
+.vocab-word-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.vocab-word-chip {
+    display: inline-block;
+    padding: 5px 14px;
+    border-radius: 20px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    font-size: 0.88em;
+    color: var(--text-normal);
+    cursor: pointer;
+    transition: all 0.15s ease;
+    text-decoration: none;
+}
+
+.vocab-word-chip:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    border-color: rgba(var(--vocab-accent-rgb), 0.4);
+    color: var(--vocab-accent);
+}
+
+/* ─── Letter Filter Buttons ──────────────────────────────────── */
+.vocab-letter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 14px;
+    align-items: center;
+}
+
+.vocab-letter-btn {
+    width: 30px;
+    height: 30px;
+    border-radius: 6px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    font-size: 0.78em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.vocab-letter-btn:hover {
+    background: rgba(var(--vocab-accent-rgb), 0.1);
+    color: var(--vocab-accent);
+    border-color: rgba(var(--vocab-accent-rgb), 0.3);
+}
+
+.vocab-letter-btn.active {
+    background: var(--vocab-accent);
+    color: var(--background-primary);
+    border-color: var(--vocab-accent);
+    font-weight: 700;
+}
+
+.vocab-letter-btn.show-all {
+    width: auto;
+    padding: 0 10px;
+    font-size: 0.72em;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+/* ─── Search Input ───────────────────────────────────────────── */
+.vocab-search {
+    width: 100%;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    font-size: 0.9em;
+    margin-bottom: 12px;
+    outline: none;
+    transition: border-color 0.2s ease;
+}
+
+.vocab-search:focus {
+    border-color: rgba(var(--vocab-accent-rgb), 0.5);
+    box-shadow: 0 0 0 2px rgba(var(--vocab-accent-rgb), 0.1);
+}
+
+.vocab-search::placeholder {
+    color: var(--text-faint);
+}
+
+/* ─── Letter Section Headers ─────────────────────────────────── */
+.vocab-letter-header {
+    font-size: 0.85em;
+    font-weight: 700;
+    color: var(--vocab-accent);
+    margin: 18px 0 8px 0;
+    padding-bottom: 4px;
+    border-bottom: 1px solid rgba(var(--vocab-accent-rgb), 0.12);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.vocab-letter-header .letter-count {
+    font-size: 0.85em;
+    font-weight: 400;
+    color: var(--text-faint);
+}
+
+/* ─── Tag Pills (Recent Words) ───────────────────────────────── */
+.vocab-tag-pill {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 0.72em;
+    font-weight: 500;
+    margin-right: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* ─── Practice Set Cards ─────────────────────────────────────── */
+.vocab-practice-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+    margin: 8px 0;
+}
+
+.vocab-practice-card {
+    border-radius: 10px;
+    padding: 18px 16px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.vocab-practice-card:hover {
+    border-color: rgba(var(--vocab-accent-rgb), 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.vocab-practice-card .card-title {
+    font-weight: 700;
+    font-size: 1em;
+    color: var(--vocab-accent);
+    margin-bottom: 12px;
+}
+
+.vocab-practice-card .card-links {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+.vocab-practice-card .card-link {
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-size: 0.8em;
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-normal);
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.vocab-practice-card .card-link:hover {
+    background: rgba(var(--vocab-accent-rgb), 0.1);
+    border-color: rgba(var(--vocab-accent-rgb), 0.3);
+    color: var(--vocab-accent);
+}
+
+/* ─── Resource Cards ─────────────────────────────────────────── */
+.vocab-resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 12px;
+    margin: 8px 0;
+}
+
+.vocab-resource-card {
+    border-radius: 10px;
+    padding: 16px 18px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    transition: all 0.2s ease;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.vocab-resource-card:hover {
+    border-color: rgba(var(--vocab-accent-rgb), 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.vocab-resource-card .resource-icon {
+    font-size: 1.2em;
+    margin-bottom: 6px;
+}
+
+.vocab-resource-card .resource-title {
+    font-weight: 600;
+    font-size: 0.95em;
+    color: var(--text-normal);
+}
+
+.vocab-resource-card .resource-desc {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    margin-top: 4px;
+}
+
+/* ─── Per-Media Word Chip Accent Colors ──────────────────────── */
+.dragon-ball-z .vocab-word-chip:hover { border-color: var(--media-dragon-ball-z); color: var(--media-dragon-ball-z); }
+.dragon-ball-z .vocab-letter-header { color: var(--media-dragon-ball-z); border-bottom-color: rgba(249,115,22,0.12); }
+.dragon-ball-z .vocab-letter-btn.active { background: var(--media-dragon-ball-z); }
+.dragon-ball-z .vocab-letter-btn:hover { background: rgba(249,115,22,0.1); color: var(--media-dragon-ball-z); border-color: rgba(249,115,22,0.3); }
+.dragon-ball-z .vocab-search:focus { border-color: rgba(249,115,22,0.5); box-shadow: 0 0 0 2px rgba(249,115,22,0.1); }
+.dragon-ball-z .vocab-dash-badge .badge-number { color: var(--media-dragon-ball-z); }
+
+.jujutsu-kaisen .vocab-word-chip:hover { border-color: var(--media-jujutsu-kaisen); color: var(--media-jujutsu-kaisen); }
+.jujutsu-kaisen .vocab-letter-header { color: var(--media-jujutsu-kaisen); border-bottom-color: rgba(34,197,94,0.12); }
+.jujutsu-kaisen .vocab-letter-btn.active { background: var(--media-jujutsu-kaisen); }
+.jujutsu-kaisen .vocab-letter-btn:hover { background: rgba(34,197,94,0.1); color: var(--media-jujutsu-kaisen); border-color: rgba(34,197,94,0.3); }
+.jujutsu-kaisen .vocab-search:focus { border-color: rgba(34,197,94,0.5); box-shadow: 0 0 0 2px rgba(34,197,94,0.1); }
+.jujutsu-kaisen .vocab-dash-badge .badge-number { color: var(--media-jujutsu-kaisen); }
+
+.f1 .vocab-word-chip:hover { border-color: var(--media-f1); color: var(--media-f1); }
+.f1 .vocab-letter-header { color: var(--media-f1); border-bottom-color: rgba(239,68,68,0.12); }
+.f1 .vocab-letter-btn.active { background: var(--media-f1); }
+.f1 .vocab-letter-btn:hover { background: rgba(239,68,68,0.1); color: var(--media-f1); border-color: rgba(239,68,68,0.3); }
+.f1 .vocab-search:focus { border-color: rgba(239,68,68,0.5); box-shadow: 0 0 0 2px rgba(239,68,68,0.1); }
+.f1 .vocab-dash-badge .badge-number { color: var(--media-f1); }
+
+.peaky-blinders .vocab-word-chip:hover { border-color: var(--media-peaky-blinders); color: var(--media-peaky-blinders); }
+.peaky-blinders .vocab-letter-header { color: var(--media-peaky-blinders); border-bottom-color: rgba(99,102,241,0.12); }
+.peaky-blinders .vocab-letter-btn.active { background: var(--media-peaky-blinders); }
+.peaky-blinders .vocab-letter-btn:hover { background: rgba(99,102,241,0.1); color: var(--media-peaky-blinders); border-color: rgba(99,102,241,0.3); }
+.peaky-blinders .vocab-search:focus { border-color: rgba(99,102,241,0.5); box-shadow: 0 0 0 2px rgba(99,102,241,0.1); }
+.peaky-blinders .vocab-dash-badge .badge-number { color: var(--media-peaky-blinders); }
+
+.dragon-ball .vocab-word-chip:hover { border-color: var(--media-dragon-ball); color: var(--media-dragon-ball); }
+.dragon-ball .vocab-letter-header { color: var(--media-dragon-ball); border-bottom-color: rgba(234,179,8,0.12); }
+.dragon-ball .vocab-letter-btn.active { background: var(--media-dragon-ball); }
+.dragon-ball .vocab-letter-btn:hover { background: rgba(234,179,8,0.1); color: var(--media-dragon-ball); border-color: rgba(234,179,8,0.3); }
+.dragon-ball .vocab-search:focus { border-color: rgba(234,179,8,0.5); box-shadow: 0 0 0 2px rgba(234,179,8,0.1); }
+.dragon-ball .vocab-dash-badge .badge-number { color: var(--media-dragon-ball); }
