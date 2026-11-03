@@ -48,12 +48,14 @@ Formed from prefix *mis-* ('wrong, badly') + *fit* ('to be suitable'). First use
 > - For objects: describes items that don't fit properly in size, shape, or type.
 
 ---
-**Tradução:** 1. (Substantivo, pessoa) Desajustado; deslocado; fora do lugar; 'peixe fora d’água' | 2. (Substantivo, coisa) Peça que não serve; roupa fora de medida; peça que não encaixa
 
-| English | Portuguese |
-|---------|------------|
-| I always felt like a misfit at school. | Eu sempre me senti um desajustado na escola. |
-| The club became a safe place for creative misfits. | O clube se tornou um lugar seguro para desajustados criativos. |
-| The jacket was a misfit, too tight in the shoulders. | A jaqueta era uma peça que não servia, apertada demais nos ombros. |
-| The movie is about a group of teenage misfits who form a band. | O filme é sobre um grupo de adolescentes desajustados que formam uma banda. |
-| The factory sells misfits at a discount. | A fábrica vende peças defeituosas com desconto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, pessoa) Desajustado; deslocado; fora do lugar; 'peixe fora d’água' | 2. (Substantivo, coisa) Peça que não serve; roupa fora de medida; peça que não encaixa
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I always felt like a misfit at school. | Eu sempre me senti um desajustado na escola. |
+> | The club became a safe place for creative misfits. | O clube se tornou um lugar seguro para desajustados criativos. |
+> | The jacket was a misfit, too tight in the shoulders. | A jaqueta era uma peça que não servia, apertada demais nos ombros. |
+> | The movie is about a group of teenage misfits who form a band. | O filme é sobre um grupo de adolescentes desajustados que formam uma banda. |
+> | The factory sells misfits at a discount. | A fábrica vende peças defeituosas com desconto. |

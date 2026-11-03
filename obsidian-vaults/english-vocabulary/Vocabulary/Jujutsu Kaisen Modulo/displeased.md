@@ -45,10 +45,11 @@ From "dis-" (opposite of) + "pleased" (from Latin "placere," to please). The pre
 > - Related noun: "displeasure" (feeling of being displeased).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Descontente / Desgostoso / Insatisfeito
 
-| English | Portuguese |
-|---------|------------|
-| He was displeased with the result. | Ele estava descontente com o resultado. |
-| The master looked displeased at the behavior. | O mestre parecia descontente com o comportamento. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Descontente / Desgostoso / Insatisfeito
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He was displeased with the result. | Ele estava descontente com o resultado. |
+> | The master looked displeased at the behavior. | O mestre parecia descontente com o comportamento. |

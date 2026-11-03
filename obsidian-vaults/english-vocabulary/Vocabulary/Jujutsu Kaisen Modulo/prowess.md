@@ -42,10 +42,11 @@ From Old French "prouesse," from "prou" (advantage, profit), ultimately from Lat
 > - Emphasizes exceptional skill rather than just competence.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Destreza / Habilidade Excepcional / Proeza
 
-| English | Portuguese |
-|---------|------------|
-| His prowess in swordsmanship is legendary. | Sua destreza com a espada é lendária. |
-| She showed incredible prowess in her performance. | Ela demonstrou destreza incrível em seu desempenho. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Destreza / Habilidade Excepcional / Proeza
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His prowess in swordsmanship is legendary. | Sua destreza com a espada é lendária. |
+> | She showed incredible prowess in her performance. | Ela demonstrou destreza incrível em seu desempenho. |

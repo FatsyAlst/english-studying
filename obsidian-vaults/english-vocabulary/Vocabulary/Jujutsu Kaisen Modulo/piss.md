@@ -74,13 +74,14 @@ From Middle English *pissen*, from Old French *pissier*, possibly imitative in o
 > - Context determines whether it's crude humor or genuine vulgarism
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Mijar, irritar, desrespeitar
 
-| English | Portuguese |
-|---------|------------|
-| piss off | irritar muito, encher o saco de |
-| pissed off | irritado, furioso |
-| piss around | perder tempo, mexericar |
-| piss over someone | desrespeitar alguém |
-| piss-poor quality | qualidade péssima |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Mijar, irritar, desrespeitar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | piss off | irritar muito, encher o saco de |
+> | pissed off | irritado, furioso |
+> | piss around | perder tempo, mexericar |
+> | piss over someone | desrespeitar alguém |
+> | piss-poor quality | qualidade péssima |

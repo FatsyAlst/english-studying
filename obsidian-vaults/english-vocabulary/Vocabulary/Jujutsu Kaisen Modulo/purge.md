@@ -65,12 +65,13 @@ From Latin *purgare* (to cleanse), from *purus* (pure) + *agere* (to make). The 
 > - Can be transitive (with an object) or intransitive (standalone action)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Purgar, eliminar, purificar, limpeza
 
-| English | Portuguese |
-|---------|------------|
-| purge records | eliminar registros |
-| data purge | limpeza de dados |
-| political purge | expurgo político |
-| purge the body | purificar o corpo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Purgar, eliminar, purificar, limpeza
+>
+> | English | Portuguese |
+> |---------|------------|
+> | purge records | eliminar registros |
+> | data purge | limpeza de dados |
+> | political purge | expurgo político |
+> | purge the body | purificar o corpo |

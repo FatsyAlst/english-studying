@@ -45,10 +45,12 @@ Late 14th c.: forebodung 'prophecy, omen,' from fore- 'before' + bodung 'announc
 > - Synonyms: ominous, portentous, premonitory.
 
 ---
-**Tradução:** Noun: pressentimento (ruim), agouro, mau presságio, presságio funesto. Adjective: de mau agouro, ominoso, ameaçador.
 
-| English | Portuguese |
-|---------|------------|
-| She had a sense of foreboding that the news would be bad. | Ela teve um pressentimento de que a notícia seria ruim. |
-| The letter filled him with foreboding. | A carta o encheu de mau presságio/agouro. |
-| A foreboding feeling that something was wrong. | Um sentimento de mau agouro de que algo estava errado. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Noun: pressentimento (ruim), agouro, mau presságio, presságio funesto. Adjective: de mau agouro, ominoso, ameaçador.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She had a sense of foreboding that the news would be bad. | Ela teve um pressentimento de que a notícia seria ruim. |
+> | The letter filled him with foreboding. | A carta o encheu de mau presságio/agouro. |
+> | A foreboding feeling that something was wrong. | Um sentimento de mau agouro de que algo estava errado. |

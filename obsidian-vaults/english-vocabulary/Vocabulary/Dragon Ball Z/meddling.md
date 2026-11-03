@@ -57,9 +57,11 @@ From Middle English medlen "to mix, mingle," from Old French medler, ultimately 
 > - Avoid confusing with "medal" (award).
 
 ---
-**Tradução:** Intromissão / Intrometido(a)
 
-| English | Portuguese |
-|---------|------------|
-| The bill has great potential for unnecessary bureaucratic meddling. | O projeto tem grande potencial para intromissão burocrática desnecessária. |
-| He's such a meddling neighbor, always prying into everyone's business. | Ele é um vizinho tão intrometido, sempre bisbilhotando os assuntos de todos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Intromissão / Intrometido(a)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The bill has great potential for unnecessary bureaucratic meddling. | O projeto tem grande potencial para intromissão burocrática desnecessária. |
+> | He's such a meddling neighbor, always prying into everyone's business. | Ele é um vizinho tão intrometido, sempre bisbilhotando os assuntos de todos. |

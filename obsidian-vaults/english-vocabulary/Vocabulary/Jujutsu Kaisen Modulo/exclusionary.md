@@ -44,11 +44,12 @@ Earliest known use in the 1810s, from Jeremy Bentham (1817). From noun *exclusio
 > - Formal register; common in academic, legal, policy, and social justice contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** excludente, discriminatório/a, segregacionista
 
-| English | Portuguese |
-|---------|------------|
-| He believes that private schools are elitist and exclusionary. | Ele acredita que escolas particulares são elitistas e excludentes. |
-| Exclusionary policies must be addressed to create a fair workplace. | Políticas excludentes devem ser abordadas para criar um ambiente de trabalho justo. |
-| Making the game inclusive allows anyone to join in. | Tornar o jogo inclusivo permite que qualquer pessoa participe. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** excludente, discriminatório/a, segregacionista
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He believes that private schools are elitist and exclusionary. | Ele acredita que escolas particulares são elitistas e excludentes. |
+> | Exclusionary policies must be addressed to create a fair workplace. | Políticas excludentes devem ser abordadas para criar um ambiente de trabalho justo. |
+> | Making the game inclusive allows anyone to join in. | Tornar o jogo inclusivo permite que qualquer pessoa participe. |

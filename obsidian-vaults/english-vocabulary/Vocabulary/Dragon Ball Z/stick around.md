@@ -45,10 +45,12 @@ From early 1900s slang; 'stick' has long meant 'cling' or 'remain attached' (sin
 > - Often implies staying beyond the main event or while waiting.
 
 ---
-**Tradução:** Ficar por aí / Ficar por perto / Permanecer / Não ir embora (por um tempo)
 
-| English | Portuguese |
-|---------|------------|
-| Stick around after the meeting; we need to discuss the next steps. | Fica por aí depois da reunião; precisamos discutir os próximos passos. |
-| You go ahead – I'll stick around until Candice shows up. | Vai na frente – eu fico por aqui até a Candice chegar. |
-| Everyone thought he would quit, but he's still sticking around. | Todo mundo achou que ele ia sair, mas ele ainda está por aí. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Ficar por aí / Ficar por perto / Permanecer / Não ir embora (por um tempo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Stick around after the meeting; we need to discuss the next steps. | Fica por aí depois da reunião; precisamos discutir os próximos passos. |
+> | You go ahead – I'll stick around until Candice shows up. | Vai na frente – eu fico por aqui até a Candice chegar. |
+> | Everyone thought he would quit, but he's still sticking around. | Todo mundo achou que ele ia sair, mas ele ainda está por aí. |

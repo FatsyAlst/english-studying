@@ -53,10 +53,11 @@ From Old French "captif," from Latin "captivus" meaning "captured, prisoner," fr
 > - "Captive audience" is a common phrase meaning people who cannot leave or avoid listening.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Cativo / Prisioneiro / Confinado
 
-| English | Portuguese |
-|---------|------------|
-| The captive was released after negotiations. | O cativo foi libertado após negociações. |
-| We held him captive in the castle. | Nós o mantivemos prisioneiro no castelo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Cativo / Prisioneiro / Confinado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The captive was released after negotiations. | O cativo foi libertado após negociações. |
+> | We held him captive in the castle. | Nós o mantivemos prisioneiro no castelo. |

@@ -67,12 +67,13 @@ From Old English *spel* (story, speech), from Proto-Germanic *spellaz*. The magi
 > - British English: "spelt" (past tense); American English: "spelled" (more common).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** feitiço, encanto; soletrar; período de tempo
 
-| English | Portuguese |
-|---------|------------|
-| The witch cast a spell on the castle. | A bruxa lançou um feitiço sobre o castelo. |
-| How do you spell "bureaucracy"? | Como você soletra "burocracia"? |
-| She fell under his spell. | Ela caiu sob seu encanto. |
-| A cold spell lasted all winter. | Um período de frio durou todo o inverno. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** feitiço, encanto; soletrar; período de tempo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The witch cast a spell on the castle. | A bruxa lançou um feitiço sobre o castelo. |
+> | How do you spell "bureaucracy"? | Como você soletra "burocracia"? |
+> | She fell under his spell. | Ela caiu sob seu encanto. |
+> | A cold spell lasted all winter. | Um período de frio durou todo o inverno. |

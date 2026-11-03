@@ -45,12 +45,13 @@ Idiom combining literal "bite off" (to remove by biting) with "chew" to create t
 > - Can be used in past tense "bit off"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** tentar algo acima de suas capacidades, se meter em encrenca
 
-| English | Portuguese |
-|---------|------------|
-| bite off more than one can chew | tentar fazer mais do que consegue |
-| overcommit | se comprometer demais |
-| in over one's head | meter-se em encrenca |
-| too ambitious | muito ambicioso |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** tentar algo acima de suas capacidades, se meter em encrenca
+>
+> | English | Portuguese |
+> |---------|------------|
+> | bite off more than one can chew | tentar fazer mais do que consegue |
+> | overcommit | se comprometer demais |
+> | in over one's head | meter-se em encrenca |
+> | too ambitious | muito ambicioso |

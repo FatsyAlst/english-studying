@@ -30,21 +30,23 @@ For effective vocabulary acquisition, aim for:
 
 > 💡 **Pro tip:** If you love philosophy, try modern authors like Ryan Holiday who write about Stoicism in accessible, contemporary English. Save the ancient texts for when you're at C1+ level!
 
+> ✅ **Update (2026):** That's what I did. Once I reached C1 (IELTS 8.0), I went back to Stoicism and finished *Meditations*. Now I'm reading *Meditations: The Annotated Edition*, which comes with a full introduction and notes.
+
 ---
 
 ## 📚 My Reading List
 
 ### Currently Reading
 
-| Cover | Title | Author | Status | Started | Progress |
-|-------|-------|--------|--------|---------|----------|
-| <img src="../media/covers/long-way-round.jpg" width="80"/> | **Long Way Round: Chasing Shadows Across the World** | Ewan McGregor & Charley Boorman | 🔄 Reading | Jan 2026 | Just started |
+| Cover | Title | Author | Genre |
+|-------|-------|--------|-------|
+| <img src="../media/covers/meditations-annotated.jpg" width="80"/> | **Meditations: The Annotated Edition** | Marcus Aurelius (translated by Robin Waterfield) | Philosophy / Stoicism |
 
 ### Completed
 
-| Cover | Title | Author | Finished | Rating | Vocabulary Learned |
-|-------|-------|--------|----------|--------|-------------------|
-| — | *None yet* | — | — | — | — |
+| Cover | Title | Author | Genre |
+|-------|-------|--------|-------|
+| <img src="../media/covers/meditations-macmillan.jpg" width="80"/> | **Meditations** (Macmillan Collector's Library) | Marcus Aurelius (translated by A. S. L. Farquharson) | Philosophy / Stoicism |
 
 ---
 
@@ -60,4 +62,4 @@ For effective vocabulary acquisition, aim for:
 
 ---
 
-**Last Updated:** January 2026
+**Last Updated:** November 2026

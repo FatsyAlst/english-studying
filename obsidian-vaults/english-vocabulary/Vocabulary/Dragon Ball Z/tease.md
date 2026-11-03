@@ -64,13 +64,14 @@ From Old English *tæsan* (to pull, pluck, card wool), from Germanic root. The m
 > - Common in interpersonal dynamics, especially among peers
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** provocar; zombar; brincadeira; tentar; seduzir
 
-| English | Portuguese |
-|---------|------------|
-| to tease | provocar; zombar; brincar |
-| tease about | gozar sobre; brincar sobre |
-| playful teasing | brincadeira amigável |
-| tease someone mercilessly | provocar desapiedadamente |
-| a tease | uma pessoa provocadora |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** provocar; zombar; brincadeira; tentar; seduzir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | to tease | provocar; zombar; brincar |
+> | tease about | gozar sobre; brincar sobre |
+> | playful teasing | brincadeira amigável |
+> | tease someone mercilessly | provocar desapiedadamente |
+> | a tease | uma pessoa provocadora |

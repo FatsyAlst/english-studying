@@ -40,10 +40,11 @@ The expression has been in use since at least the 19th century. Some attribute i
 > - Often preceded by *"so"* or *"anyway"*: *"So, long story short..."*
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** resumindo, encurtando a história, pra encurtar, longa história curta
 
-| English | Portuguese |
-|---------|------------|
-| Long story short, we missed the flight. | Resumindo, perdemos o voo. |
-| To make a long story short, they broke up. | Pra encurtar a história, eles terminaram. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** resumindo, encurtando a história, pra encurtar, longa história curta
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Long story short, we missed the flight. | Resumindo, perdemos o voo. |
+> | To make a long story short, they broke up. | Pra encurtar a história, eles terminaram. |

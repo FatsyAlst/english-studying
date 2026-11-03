@@ -46,11 +46,12 @@ From "en-" (prefix meaning to put into or cover with) + "snare" (trap). "Snare" 
 > - Common in fantasy, adventure, and dramatic narratives.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** aprisionar, prender em armadilha, enlaçar; enganar
 
-| English | Portuguese |
-|---------|------------|
-| The hunter ensnared the rabbit in a trap. | O caçador prendeu o coelho em uma armadilha. |
-| Be careful not to be ensnared by their false promises. | Cuidado para não ser enganado por suas promessas falsas. |
-| Evil forces tried to ensnare the hero. | Forças malignas tentaram aprisioná-lo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** aprisionar, prender em armadilha, enlaçar; enganar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The hunter ensnared the rabbit in a trap. | O caçador prendeu o coelho em uma armadilha. |
+> | Be careful not to be ensnared by their false promises. | Cuidado para não ser enganado por suas promessas falsas. |
+> | Evil forces tried to ensnare the hero. | Forças malignas tentaram aprisioná-lo. |

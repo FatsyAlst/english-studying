@@ -65,13 +65,14 @@ From Old French *poursuite* (pursuit, prosecution), from *poursuivre* (to pursue
 > - Plural "pursuits" is common when discussing multiple hobbies or activities
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Perseguição, busca, persecução, atividade, objetivo
 
-| English | Portuguese |
-|---------|------------|
-| in pursuit of | em busca de, na perseguição de |
-| police pursuit | perseguição policial |
-| in hot pursuit | em perseguição acirrada |
-| artistic pursuits | perseguições artísticas |
-| pursuit of happiness | busca da felicidade |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Perseguição, busca, persecução, atividade, objetivo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | in pursuit of | em busca de, na perseguição de |
+> | police pursuit | perseguição policial |
+> | in hot pursuit | em perseguição acirrada |
+> | artistic pursuits | perseguições artísticas |
+> | pursuit of happiness | busca da felicidade |

@@ -51,13 +51,14 @@ From "mere" (only, simple), derived from Latin *merus* (pure, unmixed). The "-ly
 > - Synonyms: only, simply, just, merely, no more than
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Apenas, simplesmente, somente, nada mais que
 
-| English | Portuguese |
-|---------|------------|
-| merely | apenas, simplesmente |
-| merely a | apenas um/uma |
-| merely stating | apenas afirmando |
-| not merely | não apenas, não somente |
-| merely chance | simples acaso |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Apenas, simplesmente, somente, nada mais que
+>
+> | English | Portuguese |
+> |---------|------------|
+> | merely | apenas, simplesmente |
+> | merely a | apenas um/uma |
+> | merely stating | apenas afirmando |
+> | not merely | não apenas, não somente |
+> | merely chance | simples acaso |

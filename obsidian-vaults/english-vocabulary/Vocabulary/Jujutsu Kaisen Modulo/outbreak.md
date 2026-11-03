@@ -46,11 +46,12 @@ From **"out"** + **"break"** — something breaking out suddenly and often viole
 > - Very common in news media and reporting.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** surto, irrupção, deflagração, eclosão
 
-| English | Portuguese |
-|---------|------------|
-| An outbreak of typhoid occurred in the region. | Um surto de tifo ocorreu na região. |
-| Health officials are working to contain the outbreak. | Autoridades de saúde estão trabalhando para conter o surto. |
-| At the outbreak of war, he enlisted as a private. | Na deflagração da guerra, ele se alistou como soldado raso. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** surto, irrupção, deflagração, eclosão
+>
+> | English | Portuguese |
+> |---------|------------|
+> | An outbreak of typhoid occurred in the region. | Um surto de tifo ocorreu na região. |
+> | Health officials are working to contain the outbreak. | Autoridades de saúde estão trabalhando para conter o surto. |
+> | At the outbreak of war, he enlisted as a private. | Na deflagração da guerra, ele se alistou como soldado raso. |

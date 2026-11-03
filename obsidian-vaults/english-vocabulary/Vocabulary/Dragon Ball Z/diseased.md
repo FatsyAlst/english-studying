@@ -46,11 +46,12 @@ From "dis-" (prefix indicating negation or bad condition) + "ease" (state of bei
 > - Negative connotation in both literal and figurative uses.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** doente, infectado, afligido por doença
 
-| English | Portuguese |
-|---------|------------|
-| The diseased plants had to be removed. | As plantas doentes tiveram que ser removidas. |
-| He had a diseased heart. | Ele tinha um coração doente. |
-| The country's diseased government needed reform. | O governo corrompido do país precisava de reforma. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** doente, infectado, afligido por doença
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The diseased plants had to be removed. | As plantas doentes tiveram que ser removidas. |
+> | He had a diseased heart. | Ele tinha um coração doente. |
+> | The country's diseased government needed reform. | O governo corrompido do país precisava de reforma. |

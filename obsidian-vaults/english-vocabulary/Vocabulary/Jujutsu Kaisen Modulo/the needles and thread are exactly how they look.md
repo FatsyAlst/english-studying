@@ -44,10 +44,11 @@ This appears to be an idiomatic or metaphorical expression, possibly anime-speci
 > - Contrasts with things that have multiple meanings or hidden depths
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** As agulhas e linhas são exatamente como parecem; sem segundas intenções
 
-| English | Portuguese |
-|---------|------------|
-| The needles and thread are exactly how they look. | As agulhas e linhas são exatamente como parecem. |
-| There's no hidden meaning here; the needles and thread are exactly how they look. | Não há significado oculto; as agulhas e linhas são exatamente como parecem. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** As agulhas e linhas são exatamente como parecem; sem segundas intenções
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The needles and thread are exactly how they look. | As agulhas e linhas são exatamente como parecem. |
+> | There's no hidden meaning here; the needles and thread are exactly how they look. | Não há significado oculto; as agulhas e linhas são exatamente como parecem. |

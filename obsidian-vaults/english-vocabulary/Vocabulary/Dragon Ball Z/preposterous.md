@@ -42,10 +42,12 @@ Mid-16th century, from Latin *praeposterus* 'reversed, absurd' (*prae* 'before' 
 > - Similar: absurd, ridiculous, ludicrous; opposite: reasonable, sensible, logical.
 
 ---
-**Tradução:** Absurdo, ridículo, disparatado, despropositado, grotesco
 
-| English | Portuguese |
-|---------|------------|
-| The very idea is preposterous! | A ideia em si é absurda/totalmente disparatada! |
-| These claims are absolutely preposterous. | Essas alegações são absolutamente absurdas/ridículas. |
-| It's preposterous to suggest that everything was her fault. | É absurdo/despropositado sugerir que tudo foi culpa dela. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Absurdo, ridículo, disparatado, despropositado, grotesco
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The very idea is preposterous! | A ideia em si é absurda/totalmente disparatada! |
+> | These claims are absolutely preposterous. | Essas alegações são absolutamente absurdas/ridículas. |
+> | It's preposterous to suggest that everything was her fault. | É absurdo/despropositado sugerir que tudo foi culpa dela. |

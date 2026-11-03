@@ -56,16 +56,18 @@ From Dutch *gulpen*, possibly imitative in origin, suggesting the sound of swall
 > - Common in action contexts to show emotion (fear, urgency)
 > - Can describe physical action or emotional reaction
 > - Sometimes carries onomatopoetic quality
+> - ⚠️ Similar meaning in [[chug]] (from [[Dragon Ball Z]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Engolir, gole, deglutir
 
-| English | Portuguese |
-|---------|------------|
-| gulp | engolir, gole |
-| gulp nervously | engolir nervosamente |
-| gulp down | engolir rapidamente |
-| gulp of water | gole de água |
-| audible gulp | engolida audível |
-| gulped | engolido |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Engolir, gole, deglutir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | gulp | engolir, gole |
+> | gulp nervously | engolir nervosamente |
+> | gulp down | engolir rapidamente |
+> | gulp of water | gole de água |
+> | audible gulp | engolida audível |
+> | gulped | engolido |

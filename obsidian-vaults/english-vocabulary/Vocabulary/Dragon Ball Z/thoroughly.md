@@ -47,12 +47,13 @@ From Old English *thuruh* (through) + *-ly* (forming adverbs). Originally meant 
 > - Often suggests methodical and careful approach
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** minuciosamente, completamente, a fundo
 
-| English | Portuguese |
-|---------|------------|
-| thoroughly | minuciosamente |
-| completely | completamente |
-| carefully | cuidadosamente |
-| in detail | em detalhes |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** minuciosamente, completamente, a fundo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | thoroughly | minuciosamente |
+> | completely | completamente |
+> | carefully | cuidadosamente |
+> | in detail | em detalhes |

@@ -1,4 +1,5 @@
 {
   "minimal-style@@h1-weight": 600,
-  "minimal-style@@zoom-off": true
+  "minimal-style@@zoom-off": true,
+  "minimal-style@@pdf-invert-dark": false
 }

@@ -50,13 +50,14 @@ From Old English *specca* or *speccan*, related to Middle Low German *spec* and 
 > - Creates vivid imagery through the implied tininess
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Partícula, ponta, mancha minúscula, grão
 
-| English | Portuguese |
-|---------|------------|
-| speck | partícula, ponta, mancha |
-| speck of dust | grão de poeira |
-| speck of blood | pinta de sangue |
-| mere speck | simples partícula |
-| not a speck | nem um grão |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Partícula, ponta, mancha minúscula, grão
+>
+> | English | Portuguese |
+> |---------|------------|
+> | speck | partícula, ponta, mancha |
+> | speck of dust | grão de poeira |
+> | speck of blood | pinta de sangue |
+> | mere speck | simples partícula |
+> | not a speck | nem um grão |

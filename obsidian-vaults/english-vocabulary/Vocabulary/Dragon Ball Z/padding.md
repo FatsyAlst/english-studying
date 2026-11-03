@@ -53,12 +53,13 @@ From "pad" (a cushion, soft mass), possibly from Middle Dutch "padde" or Romany 
 > - Often used in compound terms (shoulder padding, padding material)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** acolchoado, enchimento, almofada, preenchimento
 
-| English | Portuguese |
-|---------|------------|
-| padding | acolchoado, enchimento |
-| protective padding | acolchoado protetor |
-| foam padding | espuma de preenchimento |
-| unnecessary padding | preenchimento desnecessário |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** acolchoado, enchimento, almofada, preenchimento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | padding | acolchoado, enchimento |
+> | protective padding | acolchoado protetor |
+> | foam padding | espuma de preenchimento |
+> | unnecessary padding | preenchimento desnecessário |

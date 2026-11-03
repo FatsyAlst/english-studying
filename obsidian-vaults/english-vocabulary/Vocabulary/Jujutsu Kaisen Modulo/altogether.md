@@ -43,10 +43,11 @@ From "all together," which evolved into a single adverb "altogether." The word "
 > - Adds emphasis to the totality or completeness of something.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Completamente / Totalmente / Absolutamente
 
-| English | Portuguese |
-|---------|------------|
-| The strategy changed altogether. | A estratégia mudou completamente. |
-| They are altogether different people. | Eles são pessoas absolutamente diferentes. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Completamente / Totalmente / Absolutamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The strategy changed altogether. | A estratégia mudou completamente. |
+> | They are altogether different people. | Eles são pessoas absolutamente diferentes. |

@@ -45,12 +45,13 @@ A person who yells or shouts; someone who speaks in a loud, forceful manner.
 > - Common in informal speech
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** gritador, aquele que grita
 
-| English | Portuguese |
-|---------|------------|
-| yeller | gritador |
-| natural yeller | gritador natural |
-| loud yeller | gritador barulhento |
-| he is a yeller | ele é um gritador |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** gritador, aquele que grita
+>
+> | English | Portuguese |
+> |---------|------------|
+> | yeller | gritador |
+> | natural yeller | gritador natural |
+> | loud yeller | gritador barulhento |
+> | he is a yeller | ele é um gritador |

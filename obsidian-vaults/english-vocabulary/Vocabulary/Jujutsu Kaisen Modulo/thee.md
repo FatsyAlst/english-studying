@@ -45,11 +45,12 @@ From Old English *thē*, the accusative and dative case of *thū* ("thou"). Trac
 > - In Shakespeare's time, *thou/thee* was used **downward** (superior to inferior) or between intimates; *you* was the polite/formal form. Using *thou* to a social superior was rude.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** te, a ti, a você (pronome arcaico de segunda pessoa, caso oblíquo)
 
-| English | Portuguese |
-|---------|------------|
-| Shall I compare thee to a summer's day? | Devo comparar-te a um dia de verão? |
-| We beseech thee, O Lord. | Nós te imploramos, Senhor. |
-| With this ring, I thee wed. | Com este anel, eu te desposo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** te, a ti, a você (pronome arcaico de segunda pessoa, caso oblíquo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Shall I compare thee to a summer's day? | Devo comparar-te a um dia de verão? |
+> | We beseech thee, O Lord. | Nós te imploramos, Senhor. |
+> | With this ring, I thee wed. | Com este anel, eu te desposo. |

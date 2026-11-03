@@ -47,12 +47,13 @@ Origin uncertain, but possibly from Scandinavian sources. First recorded use in 
 > - More common in British English
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Se mexer de forma irritada, se debater, se mover com frustração
 
-| English | Portuguese |
-|---------|------------|
-| flounce | se mover com irritação |
-| move angrily | se mover com raiva |
-| storm around | sair pisando duro |
-| move restlessly | se mover inquietamente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Se mexer de forma irritada, se debater, se mover com frustração
+>
+> | English | Portuguese |
+> |---------|------------|
+> | flounce | se mover com irritação |
+> | move angrily | se mover com raiva |
+> | storm around | sair pisando duro |
+> | move restlessly | se mover inquietamente |

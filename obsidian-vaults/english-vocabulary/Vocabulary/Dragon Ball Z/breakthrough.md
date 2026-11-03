@@ -55,12 +55,13 @@ From *break* + *through*, a compound formed in the early 20th century. Originall
 > - Can function as both noun and verb
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** avanço significativo, descoberta revolucionária, inovação
 
-| English | Portuguese |
-|---------|------------|
-| breakthrough | avanço significativo |
-| major breakthrough | grande avanço |
-| to breakthrough | conseguir um avanço |
-| scientific breakthrough | descoberta científica |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** avanço significativo, descoberta revolucionária, inovação
+>
+> | English | Portuguese |
+> |---------|------------|
+> | breakthrough | avanço significativo |
+> | major breakthrough | grande avanço |
+> | to breakthrough | conseguir um avanço |
+> | scientific breakthrough | descoberta científica |

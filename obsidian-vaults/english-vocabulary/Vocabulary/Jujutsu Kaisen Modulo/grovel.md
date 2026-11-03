@@ -45,11 +45,12 @@ From Middle English *gruflen*, possibly from Old Norse *grúfa* (to grovel), rel
 > - Common in combat/power hierarchy scenarios
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Rastejar, rebaixar-se, suplicar humilhadamente
 
-| English | Portuguese |
-|---------|------------|
-| to grovel | rastejar, rebaixar-se |
-| groveling | rastejante, humilhante |
-| on hands and knees | de quatro, rastejando |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Rastejar, rebaixar-se, suplicar humilhadamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | to grovel | rastejar, rebaixar-se |
+> | groveling | rastejante, humilhante |
+> | on hands and knees | de quatro, rastejando |

@@ -49,12 +49,13 @@ From *un-* (not) + *dying* (ceasing to live), + *-ly* (adverb suffix). The adjec
 > - Formal and somewhat archaic in tone
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Eternamente, imortal, perpetuamente
 
-| English | Portuguese |
-|---|---|
-| undyingly | eternamente, imortal |
-| undyingly loyal | eternamente leal |
-| undyingly devoted | perpetuamente dedicado |
-| undyingly remember | lembrar eternamente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Eternamente, imortal, perpetuamente
+>
+> | English | Portuguese |
+> |---|---|
+> | undyingly | eternamente, imortal |
+> | undyingly loyal | eternamente leal |
+> | undyingly devoted | perpetuamente dedicado |
+> | undyingly remember | lembrar eternamente |

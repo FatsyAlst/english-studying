@@ -52,10 +52,11 @@ From Middle English "crumblen," possibly from Old English "cruma" (crumb), influ
 > - Common in both action scenes (structural destruction) and emotional narratives (collapse of character state).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Desmoronar / Ruir / Desintegrar
 
-| English | Portuguese |
-|---------|------------|
-| The structure crumbled under the impact. | A estrutura desmoronou sob o impacto. |
-| His willpower crumbled. | Sua força de vontade desmoronou. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Desmoronar / Ruir / Desintegrar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The structure crumbled under the impact. | A estrutura desmoronou sob o impacto. |
+> | His willpower crumbled. | Sua força de vontade desmoronou. |

@@ -63,11 +63,12 @@ Old English *stingan* 'to prick, pierce'; Proto-Germanic *stinganan*. Related to
 > - Adjective: "stinging" describes sharp pain or harsh criticism.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Verbo, ferroada) Picou; picada | 2. (Verbo, dor aguda) Arder; queimar; doer agudamente | 3. (Verbo, emocional) Ferir; ofender; magoar
 
-| English | Portuguese |
-|---------|------------|
-| The bee stung him on the arm. | A abelha o picou no braço. |
-| The cold air stung her face. | O ar frio ardeu em seu rosto. |
-| The criticism stung her pride. | A crítica feriu seu orgulho. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, ferroada) Picou; picada | 2. (Verbo, dor aguda) Arder; queimar; doer agudamente | 3. (Verbo, emocional) Ferir; ofender; magoar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The bee stung him on the arm. | A abelha o picou no braço. |
+> | The cold air stung her face. | O ar frio ardeu em seu rosto. |
+> | The criticism stung her pride. | A crítica feriu seu orgulho. |

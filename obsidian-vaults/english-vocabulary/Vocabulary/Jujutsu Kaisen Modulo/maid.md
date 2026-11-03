@@ -43,10 +43,11 @@ From Middle English "maide," short form of "maiden," from Old English "magaden,"
 > - Distinct from "maiden" (archaic for young woman) though etymologically related.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Empregada Doméstica / Criada / Arrumadeira
 
-| English | Portuguese |
-|---------|------------|
-| The maid prepared the bedroom. | A empregada doméstica preparou o quarto. |
-| She worked as a maid in the palace. | Ela trabalhou como criada no palácio. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Empregada Doméstica / Criada / Arrumadeira
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The maid prepared the bedroom. | A empregada doméstica preparou o quarto. |
+> | She worked as a maid in the palace. | Ela trabalhou como criada no palácio. |

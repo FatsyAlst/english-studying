@@ -64,13 +64,14 @@ From Old French *poser*, from Latin *pausare* (to rest, stop). The sense of "to 
 > - Synonyms: position, stance, attitude, present, constitute, represent
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** posição; atitude; pose; colocar; constituir; apresentar
 
-| English | Portuguese |
-|---------|------------|
-| to pose for a photo | posar para uma foto |
-| pose a threat | constituir uma ameaça |
-| strike a pose | assumir uma pose |
-| to pose as | passar-se por; se disfarçar de |
-| heroic pose | pose heróica |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** posição; atitude; pose; colocar; constituir; apresentar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | to pose for a photo | posar para uma foto |
+> | pose a threat | constituir uma ameaça |
+> | strike a pose | assumir uma pose |
+> | to pose as | passar-se por; se disfarçar de |
+> | heroic pose | pose heróica |

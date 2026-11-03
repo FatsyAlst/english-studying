@@ -56,10 +56,12 @@ Late Middle English: Variant of obsolete *grutch* 'complain, murmur, grumble,' f
 > - Not synonymous with 'grievance' (complaint).
 
 ---
-**Tradução:** Rancor, ressentimento, mágoa, inimizade, ojeriza (noun); Invejar, guardar rancor, fazer com má vontade, poupar (verb)
 
-| English | Portuguese |
-|---------|------------|
-| I bear him no grudge. | Eu não guardo rancor dele. |
-| She has harboured a grudge against me for years. | Ela nutre um rancor contra mim há anos. |
-| I grudge having to pay so much tax. | Eu lamento / faço com má vontade ter que pagar tanto imposto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Rancor, ressentimento, mágoa, inimizade, ojeriza (noun); Invejar, guardar rancor, fazer com má vontade, poupar (verb)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I bear him no grudge. | Eu não guardo rancor dele. |
+> | She has harboured a grudge against me for years. | Ela nutre um rancor contra mim há anos. |
+> | I grudge having to pay so much tax. | Eu lamento / faço com má vontade ter que pagar tanto imposto. |

@@ -47,11 +47,12 @@ From Old English "lytel," related to Old Germanic roots. The phrase "a little" h
 > - Very common in everyday English conversation and writing
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Um pouco de, uma pequena quantidade de
 
-| English | Portuguese |
-|---------|------------|
-| A little of this will help. | Um pouco disso vai ajudar. |
-| I have a little of time left. | Tenho um pouco de tempo sobrado. |
-| Just a little of sugar, please. | Apenas um pouco de açúcar, por favor. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Um pouco de, uma pequena quantidade de
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A little of this will help. | Um pouco disso vai ajudar. |
+> | I have a little of time left. | Tenho um pouco de tempo sobrado. |
+> | Just a little of sugar, please. | Apenas um pouco de açúcar, por favor. |

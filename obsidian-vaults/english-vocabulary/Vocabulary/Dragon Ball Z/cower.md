@@ -45,11 +45,12 @@ From Middle English *curen*, from Old Norse *kúra* (to crouch, squat). Related 
 > - Common in dramatic, tense, or action contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** encolher-se de medo, agachar-se assustado
 
-| English | Portuguese |
-|---------|------------|
-| The dog cowered in the corner during the thunderstorm. | O cão se encolheu no canto durante a tempestade. |
-| She cowered before the angry mob. | Ela se encolheu diante da multidão furiosa. |
-| Don't cower; face your fears. | Não se encolha; enfrente seus medos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** encolher-se de medo, agachar-se assustado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The dog cowered in the corner during the thunderstorm. | O cão se encolheu no canto durante a tempestade. |
+> | She cowered before the angry mob. | Ela se encolheu diante da multidão furiosa. |
+> | Don't cower; face your fears. | Não se encolha; enfrente seus medos. |

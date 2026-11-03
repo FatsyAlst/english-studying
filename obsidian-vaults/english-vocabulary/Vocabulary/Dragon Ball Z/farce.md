@@ -42,14 +42,16 @@ From French "farce," from Latin "farcia" (to stuff). Originally referred to a ty
 > - Implies something is ridiculous and unworthy of respect
 > - Often used critically or sarcastically
 > - Can describe an event, situation, or institution
+> - 📺 Also encountered in [[Dragon Ball Super]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** farsa, absurdo
 
-| English | Portuguese |
-|---------|------------|
-| farce | farsa |
-| complete farce | farsa completa |
-| farcical | farsesco |
-| make a farce of | fazer uma farsa de |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** farsa, absurdo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | farce | farsa |
+> | complete farce | farsa completa |
+> | farcical | farsesco |
+> | make a farce of | fazer uma farsa de |

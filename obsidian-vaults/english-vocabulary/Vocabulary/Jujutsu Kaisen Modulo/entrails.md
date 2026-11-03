@@ -51,14 +51,15 @@ From Old French *entrailles*, derived from Medieval Latin *intranea*, from Latin
 > - Related to augury (reading entrails for prophecy in ancient Rome)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Entranhas, órgãos internos, vísceras, intestinos
 
-| English | Portuguese |
-|---------|------------|
-| entrails | entranhas, vísceras |
-| spill entrails | derramar entranhas |
-| exposed entrails | entranhas expostas |
-| read entrails | ler entranhas |
-| internal organs | órgãos internos |
-| intestines | intestinos |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Entranhas, órgãos internos, vísceras, intestinos
+>
+> | English | Portuguese |
+> |---------|------------|
+> | entrails | entranhas, vísceras |
+> | spill entrails | derramar entranhas |
+> | exposed entrails | entranhas expostas |
+> | read entrails | ler entranhas |
+> | internal organs | órgãos internos |
+> | intestines | intestinos |

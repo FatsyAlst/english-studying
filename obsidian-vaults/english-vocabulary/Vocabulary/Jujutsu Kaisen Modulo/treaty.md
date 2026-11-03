@@ -53,11 +53,12 @@ From Middle English *tretee*, from Anglo-French *treté*, from Latin *tractatus*
 > - Common in history, politics, and law contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** tratado
 
-| English | Portuguese |
-|---------|------------|
-| The two countries signed a peace treaty. | Os dois países assinaram um tratado de paz. |
-| The treaty was designed to reduce nuclear weapons. | O tratado foi elaborado para reduzir as armas nucleares. |
-| The government decided to withdraw from the treaty. | O governo decidiu se retirar do tratado. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** tratado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The two countries signed a peace treaty. | Os dois países assinaram um tratado de paz. |
+> | The treaty was designed to reduce nuclear weapons. | O tratado foi elaborado para reduzir as armas nucleares. |
+> | The government decided to withdraw from the treaty. | O governo decidiu se retirar do tratado. |

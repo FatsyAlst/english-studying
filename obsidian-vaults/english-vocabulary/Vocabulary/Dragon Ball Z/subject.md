@@ -84,14 +84,15 @@ From Latin "subjectus" meaning "thrown under" or "placed beneath," from "sub-" (
 > - "Sensitive subject" indicates a topic that might cause offense
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** assunto, sujeito, matéria, submeter
 
-| English | Portuguese |
-|---------|------------|
-| subject | assunto |
-| subject matter | matéria, tema |
-| school subject | disciplina escolar |
-| grammar subject | sujeito (gramatical) |
-| subject to | sujeito a, se puder |
-| subject someone to | submeter alguém a |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** assunto, sujeito, matéria, submeter
+>
+> | English | Portuguese |
+> |---------|------------|
+> | subject | assunto |
+> | subject matter | matéria, tema |
+> | school subject | disciplina escolar |
+> | grammar subject | sujeito (gramatical) |
+> | subject to | sujeito a, se puder |
+> | subject someone to | submeter alguém a |

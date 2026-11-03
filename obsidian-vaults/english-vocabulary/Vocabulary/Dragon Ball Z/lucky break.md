@@ -36,10 +36,12 @@ Attested from 1884 (billiards 'lucky shot'); 1872 as 'fortunate breakdown.' From
 > - Ellipsis of 'break' as in 'big break.'
 
 ---
-**Tradução:** Golpe de sorte, sorte grande, acaso feliz, oportunidade inesperada.
 
-| English | Portuguese |
-|---------|------------|
-| Getting that job offer after months of unemployment was a real lucky break. | Conseguir aquela oferta de emprego após meses de desemprego foi um golpe de sorte. |
-| She got her lucky break when she appeared on television at 17. | Ela teve seu acaso feliz ao aparecer na TV aos 17. |
-| We had a lucky break when an anonymous source tipped us off. | Tivemos uma sorte grande quando uma fonte anônima nos deu a dica. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Golpe de sorte, sorte grande, acaso feliz, oportunidade inesperada.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Getting that job offer after months of unemployment was a real lucky break. | Conseguir aquela oferta de emprego após meses de desemprego foi um golpe de sorte. |
+> | She got her lucky break when she appeared on television at 17. | Ela teve seu acaso feliz ao aparecer na TV aos 17. |
+> | We had a lucky break when an anonymous source tipped us off. | Tivemos uma sorte grande quando uma fonte anônima nos deu a dica. |

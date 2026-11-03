@@ -48,12 +48,14 @@ From Old English *nǀmel* 'quick to seize or comprehend,' related to *niman* 'to
 > - Comparative: nimbler; superlative: nimblest.
 
 ---
-**Tradução:** 1. (Adjetivo, físico) Ágil; ligeiro; desembaraçado | 2. (Adjetivo, mental) Esperto; perspicaz; ágil (mente)
 
-| English | Portuguese |
-|---------|------------|
-| You need nimble fingers for that job. | Você precisa de dedos ágeis para esse trabalho. |
-| She was extremely nimble on her feet. | Ela era extremamente ligeira nos pés. |
-| The company has been outsmarted by more nimble competitors. | A empresa foi superada por concorrentes mais espertos. |
-| As a comedian, she has a quick ear and a nimble mind. | Como comediante, ela tem um ouvido aguçado e uma mente ágil. |
-| The dancer's nimble movements impressed the audience. | Os movimentos ágeis da dançarina impressionaram o público. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Adjetivo, físico) Ágil; ligeiro; desembaraçado | 2. (Adjetivo, mental) Esperto; perspicaz; ágil (mente)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | You need nimble fingers for that job. | Você precisa de dedos ágeis para esse trabalho. |
+> | She was extremely nimble on her feet. | Ela era extremamente ligeira nos pés. |
+> | The company has been outsmarted by more nimble competitors. | A empresa foi superada por concorrentes mais espertos. |
+> | As a comedian, she has a quick ear and a nimble mind. | Como comediante, ela tem um ouvido aguçado e uma mente ágil. |
+> | The dancer's nimble movements impressed the audience. | Os movimentos ágeis da dançarina impressionaram o público. |

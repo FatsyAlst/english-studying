@@ -44,10 +44,11 @@ From the idea of data or measurements being so extreme that they go beyond the r
 > - Common in anime/manga dialogue and informal character descriptions.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Fora dos Gráficos / Extremamente Alto / Excepcional
 
-| English | Portuguese |
-|---------|------------|
-| His strength is off the charts. | Sua força é extremamente alta / está fora dos gráficos. |
-| That move was off the charts! | Esse movimento foi excepcional! |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Fora dos Gráficos / Extremamente Alto / Excepcional
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His strength is off the charts. | Sua força é extremamente alta / está fora dos gráficos. |
+> | That move was off the charts! | Esse movimento foi excepcional! |

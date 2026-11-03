@@ -48,12 +48,14 @@ Early 15th c., blend of Latin *diminuere* 'make smaller' (*de-* 'completely' + *
 > - Common phrase: 'diminishing returns' (decreasing benefit from continued effort).
 
 ---
-**Tradução:** 1. (Verbo, reduzir) Diminuir; reduzir; minguar; declinar | 2. (Verbo, desvalorizar) Diminuir; menosprezar; reduzir a importância
 
-| English | Portuguese |
-|---------|------------|
-| The world's resources are rapidly diminishing. | Os recursos do mundo estão diminuindo rapidamente. |
-| His influence has diminished with time. | Sua influência diminuiu com o tempo. |
-| I don't want to diminish her achievements. | Não quero diminuir suas conquistas. |
-| Nothing could diminish the importance of their contribution. | Nada poderia diminuir a importância de sua contribuição. |
-| The new law diminished their chances of winning. | A nova lei diminuiu suas chances de vencer. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, reduzir) Diminuir; reduzir; minguar; declinar | 2. (Verbo, desvalorizar) Diminuir; menosprezar; reduzir a importância
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The world's resources are rapidly diminishing. | Os recursos do mundo estão diminuindo rapidamente. |
+> | His influence has diminished with time. | Sua influência diminuiu com o tempo. |
+> | I don't want to diminish her achievements. | Não quero diminuir suas conquistas. |
+> | Nothing could diminish the importance of their contribution. | Nada poderia diminuir a importância de sua contribuição. |
+> | The new law diminished their chances of winning. | A nova lei diminuiu suas chances de vencer. |

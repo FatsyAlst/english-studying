@@ -72,11 +72,12 @@ Late 15th century, from Old French *sourgeon*; the verb partly from Old French s
 > - "Surge protector" = device that protects electronics from power surges.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** surto, aumento súbito, onda (substantivo); disparar, avançar rapidamente, irromper (verbo)
 
-| English | Portuguese |
-|---------|------------|
-| There has been a surge in house prices recently. | Houve um aumento súbito nos preços de imóveis recentemente. |
-| She felt a sudden surge of anger. | Ela sentiu uma onda súbita de raiva. |
-| Share prices surged. | Os preços das ações dispararam. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** surto, aumento súbito, onda (substantivo); disparar, avançar rapidamente, irromper (verbo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | There has been a surge in house prices recently. | Houve um aumento súbito nos preços de imóveis recentemente. |
+> | She felt a sudden surge of anger. | Ela sentiu uma onda súbita de raiva. |
+> | Share prices surged. | Os preços das ações dispararam. |

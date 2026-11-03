@@ -49,13 +49,14 @@ From Spanish *cucaracha*, a word of unclear origin but possibly from a Taino (Ca
 > - Can be used in Jujutsu Kaisen metaphorically for undesirable creatures
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Baratas, baratas (plural)
 
-| English | Portuguese |
-|---------|------------|
-| roaches | baratas |
-| cockroach | barata |
-| roach infestation | infestação de baratas |
-| roach trap | armadilha para baratas |
-| roach killer | inseticida contra baratas |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Baratas, baratas (plural)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | roaches | baratas |
+> | cockroach | barata |
+> | roach infestation | infestação de baratas |
+> | roach trap | armadilha para baratas |
+> | roach killer | inseticida contra baratas |

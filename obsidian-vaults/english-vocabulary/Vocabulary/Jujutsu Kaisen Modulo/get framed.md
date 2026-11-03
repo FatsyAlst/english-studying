@@ -50,12 +50,13 @@ To be falsely accused or incriminated for a crime or wrongdoing that one did not
 > - Related to concepts of injustice and conspiracy
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** ser incriminado injustamente, ser armado
 
-| English | Portuguese |
-|---------|------------|
-| get framed for murder | ser incriminado injustamente por assassinato |
-| get framed for theft | ser armado para roubo |
-| falsely framed | injustamente incriminado |
-| frame someone | incriminar alguém injustamente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** ser incriminado injustamente, ser armado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | get framed for murder | ser incriminado injustamente por assassinato |
+> | get framed for theft | ser armado para roubo |
+> | falsely framed | injustamente incriminado |
+> | frame someone | incriminar alguém injustamente |

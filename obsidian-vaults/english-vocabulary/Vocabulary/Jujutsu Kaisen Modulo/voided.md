@@ -44,10 +44,11 @@ From Old French "voide," from Latin "vocivus" meaning "empty." Related to "vacuo
 > - "Void" as a noun can also mean empty space.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Anulado / Nulo / Cancelado
 
-| English | Portuguese |
-|---------|------------|
-| The contract was voided by the court. | O contrato foi anulado pelo tribunal. |
-| His technique was voided by the counter-attack. | Sua técnica foi anulada pelo contra-ataque. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Anulado / Nulo / Cancelado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The contract was voided by the court. | O contrato foi anulado pelo tribunal. |
+> | His technique was voided by the counter-attack. | Sua técnica foi anulada pelo contra-ataque. |

@@ -24,9 +24,11 @@ Old English fāh "hostile" and gefā "enemy," from West Germanic; related to "fe
 > - No BrE/AmE split.
 
 ---
-**Tradução:** Inimigo / Adversário
 
-| English | Portuguese |
-|---------|------------|
-| The hero vanquished his greatest foe in battle. | O herói venceu seu maior inimigo na batalha. |
-| The two nations united against a common foe. | As duas nações se uniram contra um inimigo comum. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Inimigo / Adversário
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The hero vanquished his greatest foe in battle. | O herói venceu seu maior inimigo na batalha. |
+> | The two nations united against a common foe. | As duas nações se uniram contra um inimigo comum. |

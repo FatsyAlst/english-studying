@@ -48,12 +48,13 @@ From Latin *calamitas*, possibly related to *calamus* (reed, stalk) or indicatin
 > - Synonym: catastrophe, disaster, tragedy
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Calamidade, desastre, tragédia, desventura
 
-| English | Portuguese |
-|---------|------------|
-| calamity | calamidade, desastre |
-| natural calamity | calamidade natural |
-| avert calamity | evitar calamidade |
-| calamitous | calamitoso, desastroso |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Calamidade, desastre, tragédia, desventura
+>
+> | English | Portuguese |
+> |---------|------------|
+> | calamity | calamidade, desastre |
+> | natural calamity | calamidade natural |
+> | avert calamity | evitar calamidade |
+> | calamitous | calamitoso, desastroso |

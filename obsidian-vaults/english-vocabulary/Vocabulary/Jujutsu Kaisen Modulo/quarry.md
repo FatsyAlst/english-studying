@@ -56,12 +56,13 @@ Sense 1 comes from Old French "carriere" (open pit), from Latin "carraria" (road
 > - Often appears in place names (e.g., "the old quarry road")
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** pedreira, parque de extração; presa, caça
 
-| English | Portuguese |
-|---------|------------|
-| stone quarry | pedreira de pedra |
-| granite quarry | pedreira de granito |
-| quarry work | trabalho em pedreira |
-| hunt one's quarry | perseguir sua presa |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** pedreira, parque de extração; presa, caça
+>
+> | English | Portuguese |
+> |---------|------------|
+> | stone quarry | pedreira de pedra |
+> | granite quarry | pedreira de granito |
+> | quarry work | trabalho em pedreira |
+> | hunt one's quarry | perseguir sua presa |

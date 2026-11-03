@@ -42,13 +42,15 @@ Origin is uncertain, but the term dates back to the 19th century in informal Eng
 > - Common in spoken English and informal writing
 > - Can also refer to the head in slang usage
 > - "Chump change" is a common idiom meaning a negligible amount of money
+> - ⚠️ Similar meaning in [[schmuck]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Tolo, ingênuo, idiota
 
-| English | Portuguese |
-|---------|------------|
-| Don't be a chump. | Não seja um tolo. |
-| He's a complete chump. | Ele é um ingênuo total. |
-| Only a chump would fall for that. | Apenas um idiota cairia nisso. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Tolo, ingênuo, idiota
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Don't be a chump. | Não seja um tolo. |
+> | He's a complete chump. | Ele é um ingênuo total. |
+> | Only a chump would fall for that. | Apenas um idiota cairia nisso. |

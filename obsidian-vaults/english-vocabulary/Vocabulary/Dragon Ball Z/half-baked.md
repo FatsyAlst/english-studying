@@ -31,9 +31,11 @@ From baking metaphors; "half-baked" originated in the 1600s literally for underc
 > - No major BrE/AmE differences.
 
 ---
-**Tradução:** Mal planejado / Totalmente desenvolvido
 
-| English | Portuguese |
-|---------|------------|
-| Your startup idea sounds half-baked; you haven't considered the costs. | Sua ideia de startup parece mal planejada; você não considerou os custos. |
-| Once the plan is fully baked, we'll launch next week. | Assim que o plano estiver totalmente desenvolvido, lançaremos na próxima semana. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Mal planejado / Totalmente desenvolvido
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Your startup idea sounds half-baked; you haven't considered the costs. | Sua ideia de startup parece mal planejada; você não considerou os custos. |
+> | Once the plan is fully baked, we'll launch next week. | Assim que o plano estiver totalmente desenvolvido, lançaremos na próxima semana. |

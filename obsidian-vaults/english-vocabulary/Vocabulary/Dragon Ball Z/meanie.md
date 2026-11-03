@@ -49,13 +49,14 @@ From "mean" (unkind, malicious) + "-ie" (diminutive or informal suffix). Develop
 > - Often used in a lighthearted or exaggerated way
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** miserável; vilão; pessoa má; malandro
 
-| English | Portuguese |
-|---------|------------|
-| meanie | miserável; vilão; pessoa má |
-| you meanie! | seu miserável! |
-| big meanie | vilão grande |
-| be a meanie | ser miserável |
-| meanness | maldade; crueldade |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** miserável; vilão; pessoa má; malandro
+>
+> | English | Portuguese |
+> |---------|------------|
+> | meanie | miserável; vilão; pessoa má |
+> | you meanie! | seu miserável! |
+> | big meanie | vilão grande |
+> | be a meanie | ser miserável |
+> | meanness | maldade; crueldade |

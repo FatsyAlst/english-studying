@@ -45,12 +45,13 @@ From *egg* + *roll*. The name derives from the cylindrical shape and the egg-bas
 > - Frequently served with dipping sauces
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Rolinho primavera, rolinhos de ovo
 
-| English | Portuguese |
-|---|---|
-| egg roll | rolinho primavera |
-| fried appetizer | apertitivo frito |
-| cabbage filling | recheio de repolho |
-| crispy | crocante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Rolinho primavera, rolinhos de ovo
+>
+> | English | Portuguese |
+> |---|---|
+> | egg roll | rolinho primavera |
+> | fried appetizer | apertitivo frito |
+> | cabbage filling | recheio de repolho |
+> | crispy | crocante |

@@ -65,12 +65,13 @@ A breakdown or failure; also a humorous situation or something funny.
 > - Can be transitive (make someone crack up) or intransitive (crack up)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Gargalhar, morrer de rir, entrar em colapso
 
-| English | Portuguese |
-|---------|------------|
-| crack up | gargalhar/morrer de rir |
-| crack up laughing | desatar a rir |
-| crack up (mentally) | entrar em colapso |
-| crack-up | quebra/falha |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Gargalhar, morrer de rir, entrar em colapso
+>
+> | English | Portuguese |
+> |---------|------------|
+> | crack up | gargalhar/morrer de rir |
+> | crack up laughing | desatar a rir |
+> | crack up (mentally) | entrar em colapso |
+> | crack-up | quebra/falha |

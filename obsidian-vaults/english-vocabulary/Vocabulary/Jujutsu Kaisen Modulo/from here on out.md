@@ -40,11 +40,12 @@ From this time forward; from this moment continuing into the future indefinitely
 > - Always written as four separate words.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** daqui em diante, de agora em diante, a partir de agora, doravante
 
-| English | Portuguese |
-|---------|------------|
-| From here on out, I'll make sure to double check my work. | A partir de agora, vou me certificar de verificar meu trabalho. |
-| Things get tougher from here on out. | As coisas ficam mais difíceis daqui em diante. |
-| I'm going to make better grades from here on out. | Vou tirar notas melhores a partir de agora. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** daqui em diante, de agora em diante, a partir de agora, doravante
+>
+> | English | Portuguese |
+> |---------|------------|
+> | From here on out, I'll make sure to double check my work. | A partir de agora, vou me certificar de verificar meu trabalho. |
+> | Things get tougher from here on out. | As coisas ficam mais difíceis daqui em diante. |
+> | I'm going to make better grades from here on out. | Vou tirar notas melhores a partir de agora. |

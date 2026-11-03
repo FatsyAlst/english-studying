@@ -59,14 +59,15 @@ From Old French *decre*, from Latin *decretum* (something decided), past partici
 > - Formal, ceremonial register
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Decreto, ordenança, édito; decretar, ordenar
 
-| English | Portuguese |
-|---------|------------|
-| decree | decreto, édito |
-| issue a decree | emitir um decreto |
-| by decree | por decreto |
-| royal decree | decreto real |
-| to decree | decretar, ordenar |
-| decreed | decretado, ordenado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Decreto, ordenança, édito; decretar, ordenar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | decree | decreto, édito |
+> | issue a decree | emitir um decreto |
+> | by decree | por decreto |
+> | royal decree | decreto real |
+> | to decree | decretar, ordenar |
+> | decreed | decretado, ordenado |

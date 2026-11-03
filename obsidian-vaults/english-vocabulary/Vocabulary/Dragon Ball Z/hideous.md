@@ -36,10 +36,12 @@ Middle English (c.1300): from Old French hidos/hideus (earlier hisdos), from hid
 > - Often exaggerated for emphasis.
 
 ---
-**Tradução:** horrendo, hediondo, horrendo, repugnante, feio (extremo)
 
-| English | Portuguese |
-|---------|------------|
-| Their new colour scheme is hideous! | O novo esquema de cores é horrendo! |
-| She was wearing a hideous yellow dress. | Ela estava usando um vestido amarelo hediondo. |
-| A hideous crime shocked the nation. | Um crime repugnante chocou a nação. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** horrendo, hediondo, horrendo, repugnante, feio (extremo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Their new colour scheme is hideous! | O novo esquema de cores é horrendo! |
+> | She was wearing a hideous yellow dress. | Ela estava usando um vestido amarelo hediondo. |
+> | A hideous crime shocked the nation. | Um crime repugnante chocou a nação. |

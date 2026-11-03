@@ -39,10 +39,12 @@ Middle English savourie from Old French savore 'tasty, flavorsome' (past partici
 > - Not to be confused with 'savory' the herb (Satureja hortensis).
 
 ---
-**Tradução:** Salgado, salgado (não doce), saboroso (salgado).
 
-| English | Portuguese |
-|---------|------------|
-| Savory snacks like cheese and nuts. | Petiscos salgados como queijo e nozes. |
-| I prefer savory breakfasts to sweet ones. | Prefiro cafés da manhã salgados a doces. |
-| A savory dish of roast chicken. | Um prato salgado de frango assado. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Salgado, salgado (não doce), saboroso (salgado).
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Savory snacks like cheese and nuts. | Petiscos salgados como queijo e nozes. |
+> | I prefer savory breakfasts to sweet ones. | Prefiro cafés da manhã salgados a doces. |
+> | A savory dish of roast chicken. | Um prato salgado de frango assado. |

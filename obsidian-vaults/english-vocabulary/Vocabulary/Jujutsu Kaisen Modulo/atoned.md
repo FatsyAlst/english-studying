@@ -43,11 +43,12 @@ One of English's most transparent etymologies — *atone* is a contraction of th
 > - **"Atone" vs. "make amends":** Both involve reparation, but *atone* carries more moral and spiritual gravity.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** expiar, reparar, se redimir de
 
-| English | Portuguese |
-|---------|------------|
-| He atoned for his crime by dedicating his life to helping others. | Ele expiou seu crime dedicando a vida a ajudar os outros. |
-| She wished to atone for her past sins. | Ela desejava expiar seus pecados do passado. |
-| No kindness can atone for a betrayal of trust. | Nenhuma bondade pode reparar uma traição de confiança. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** expiar, reparar, se redimir de
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He atoned for his crime by dedicating his life to helping others. | Ele expiou seu crime dedicando a vida a ajudar os outros. |
+> | She wished to atone for her past sins. | Ela desejava expiar seus pecados do passado. |
+> | No kindness can atone for a betrayal of trust. | Nenhuma bondade pode reparar uma traição de confiança. |

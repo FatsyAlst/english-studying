@@ -64,12 +64,13 @@ From Old French *a side* (to the side), meaning "on/to the side." Developed from
 > - In informal speech, "aside" often softens a comment: "Aside from that, how was it?"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** De lado, afastado, separadamente; comentário feito à parte
 
-| English | Portuguese |
-|---------|------------|
-| set aside | separar, reservar |
-| step aside | sair do caminho, afastar-se |
-| aside from | além de, exceto por |
-| an aside | um comentário feito à parte |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** De lado, afastado, separadamente; comentário feito à parte
+>
+> | English | Portuguese |
+> |---------|------------|
+> | set aside | separar, reservar |
+> | step aside | sair do caminho, afastar-se |
+> | aside from | além de, exceto por |
+> | an aside | um comentário feito à parte |

@@ -48,13 +48,14 @@ To keep something or someone at bay means to prevent it from coming close; to ho
 > - Frequently used in action scenes and dramatic narratives
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** manter afastado; manter sob controle; manter à distância; conter
 
-| English | Portuguese |
-|---------|------------|
-| keep at bay | manter afastado; conter |
-| hold at bay | manter à distância |
-| keep the enemy at bay | manter o inimigo afastado |
-| keep fears at bay | manter o medo afastado |
-| keep danger at bay | conter o perigo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** manter afastado; manter sob controle; manter à distância; conter
+>
+> | English | Portuguese |
+> |---------|------------|
+> | keep at bay | manter afastado; conter |
+> | hold at bay | manter à distância |
+> | keep the enemy at bay | manter o inimigo afastado |
+> | keep fears at bay | manter o medo afastado |
+> | keep danger at bay | conter o perigo |

@@ -79,12 +79,14 @@ Verb from Old French *estreindre* 'bind tightly,' from Latin *stringere* 'draw t
 > - Verb 'strain' for cooking (filtering) is very common in recipes.
 
 ---
-**Tradução:** 1. (Substantivo) Tensão; esforço; estresse; pressão | 2. Variante; linhagem; cepa (vírus/planta) | 3. (Verbo) Forçar; torcer; entortar (músculo) | 4. Esforçar-se; tensionar; fazer esforço | 5. Coar; peneirar; filtrar
 
-| English | Portuguese |
-|---------|------------|
-| The bridge couldn't withstand the strain of the heavy load. | A ponte não resistiu à tensão da carga pesada. |
-| She strained her back lifting the box. | Ela torceu as costas ao levantar a caixa. |
-| Strain the pasta before adding the sauce. | Coe o macarrão antes de adicionar o molho. |
-| He strained to hear the distant voice. | Ele se esforçou para ouvir a voz distante. |
-| The long hours put a strain on their marriage. | As longas horas colocaram uma pressão no casamento deles. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo) Tensão; esforço; estresse; pressão | 2. Variante; linhagem; cepa (vírus/planta) | 3. (Verbo) Forçar; torcer; entortar (músculo) | 4. Esforçar-se; tensionar; fazer esforço | 5. Coar; peneirar; filtrar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The bridge couldn't withstand the strain of the heavy load. | A ponte não resistiu à tensão da carga pesada. |
+> | She strained her back lifting the box. | Ela torceu as costas ao levantar a caixa. |
+> | Strain the pasta before adding the sauce. | Coe o macarrão antes de adicionar o molho. |
+> | He strained to hear the distant voice. | Ele se esforçou para ouvir a voz distante. |
+> | The long hours put a strain on their marriage. | As longas horas colocaram uma pressão no casamento deles. |

@@ -42,10 +42,12 @@ Late 16th century (originally Scots): un- 'not' + canny ('safe, prudent, knowing
 > - Related concept: 'uncanny valley' – when something looks almost human but feels eerie/creepy (robots, dolls).
 
 ---
-**Tradução:** Estranho, esquisito, misterioso, sobrenatural, inexplicável (esp. de forma inquietante).
 
-| English | Portuguese |
-|---------|------------|
-| I had an uncanny feeling I was being watched. | Eu tive um pressentimento esquisito de que estava sendo observado. |
-| It was uncanny, almost as if she knew what I was thinking. | Era inexplicável/esquisito, quase como se ela soubesse o que eu estava pensando. |
-| She bore an uncanny resemblance to my aunt. | Ela tinha uma semelhança estranha/sobrenatural com minha tia. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Estranho, esquisito, misterioso, sobrenatural, inexplicável (esp. de forma inquietante).
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I had an uncanny feeling I was being watched. | Eu tive um pressentimento esquisito de que estava sendo observado. |
+> | It was uncanny, almost as if she knew what I was thinking. | Era inexplicável/esquisito, quase como se ela soubesse o que eu estava pensando. |
+> | She bore an uncanny resemblance to my aunt. | Ela tinha uma semelhança estranha/sobrenatural com minha tia. |

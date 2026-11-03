@@ -44,10 +44,11 @@ From Old French "conveyer," from "con-" (with) + "voie" (way, road). Originally 
 > - In narrative contexts, often used to describe expressing emotions or meanings through action or appearance.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Transmitir / Expressar / Comunicar
 
-| English | Portuguese |
-|---------|------------|
-| His eyes conveyed determination. | Seus olhos transmitiam determinação. |
-| The artwork conveys a sense of power. | A obra de arte expressa um sentido de poder. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Transmitir / Expressar / Comunicar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His eyes conveyed determination. | Seus olhos transmitiam determinação. |
+> | The artwork conveys a sense of power. | A obra de arte expressa um sentido de poder. |

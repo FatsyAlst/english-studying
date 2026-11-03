@@ -50,12 +50,13 @@ From "over" (beyond, excessive) + "-ly" (adverbial suffix). The prefix "over-" h
 > - Can appear before adjectives (overly cautious) or adverbs (overly carefully)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Excessivamente, demais, mais do que o necessário
 
-| English | Portuguese |
-|---------|------------|
-| overly cautious | excessivamente cauteloso |
-| overly complicated | excessivamente complicado |
-| overly critical | demasiado crítico |
-| overly concerned | demasiado preocupado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Excessivamente, demais, mais do que o necessário
+>
+> | English | Portuguese |
+> |---------|------------|
+> | overly cautious | excessivamente cauteloso |
+> | overly complicated | excessivamente complicado |
+> | overly critical | demasiado crítico |
+> | overly concerned | demasiado preocupado |

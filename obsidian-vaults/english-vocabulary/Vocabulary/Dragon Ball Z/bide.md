@@ -44,10 +44,11 @@ From Old English *bīdan*, from Proto-Germanic *bīdaną*. Related to German *be
 > - Primarily found in formal literature, fantasy, or historical contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** esperar, aguardar; permanecer, ficar (arcaico)
 
-| English | Portuguese |
-|---------|------------|
-| Bide your time until the right moment comes. | Aguarde seu tempo até o momento certo chegar. |
-| He would bide here until morning. | Ele ficaria aqui até de manhã. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** esperar, aguardar; permanecer, ficar (arcaico)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Bide your time until the right moment comes. | Aguarde seu tempo até o momento certo chegar. |
+> | He would bide here until morning. | Ele ficaria aqui até de manhã. |

@@ -43,10 +43,11 @@ From Middle English *strecchen* (to stretch), combined with the agent suffix *-e
 > - Common in medical, military, and rescue contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** maca (equipamento hospitalar)
 
-| English | Portuguese |
-|---------|------------|
-| The paramedics arrived with a stretcher to transport the injured man. | Os paramédicos chegaram com uma maca para transportar o homem ferido. |
-| They carried the wounded soldier on a stretcher to the hospital. | Carregaram o soldado ferido em uma maca para o hospital. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** maca (equipamento hospitalar)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The paramedics arrived with a stretcher to transport the injured man. | Os paramédicos chegaram com uma maca para transportar o homem ferido. |
+> | They carried the wounded soldier on a stretcher to the hospital. | Carregaram o soldado ferido em uma maca para o hospital. |

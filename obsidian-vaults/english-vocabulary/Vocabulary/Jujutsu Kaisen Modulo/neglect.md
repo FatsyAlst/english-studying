@@ -67,13 +67,14 @@ From Latin *neglegere* (to disregard), from *neg-* (not) + *legere* (to pick up,
 > - "Willful neglect" or "criminal neglect" have legal implications
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Negligenciar, descurar, negligência, abandono
 
-| English | Portuguese |
-|---------|------------|
-| neglect your health | negligenciar sua saúde |
-| neglect to do something | deixar de fazer algo |
-| years of neglect | anos de abandono |
-| child neglect | negligência infantil |
-| neglectful behavior | comportamento negligente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Negligenciar, descurar, negligência, abandono
+>
+> | English | Portuguese |
+> |---------|------------|
+> | neglect your health | negligenciar sua saúde |
+> | neglect to do something | deixar de fazer algo |
+> | years of neglect | anos de abandono |
+> | child neglect | negligência infantil |
+> | neglectful behavior | comportamento negligente |

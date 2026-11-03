@@ -40,11 +40,12 @@ Information or a fact that is widely known or understood by most people; somethi
 > - Formal enough for academic and professional writing.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** É conhecimento comum; é de conhecimento geral; é sabido de todos
 
-| English | Portuguese |
-|---------|------------|
-| That it's dangerous to drink and drive is already common knowledge. | Que é perigoso beber e dirigir é de conhecimento comum. |
-| The risks of smoking are already common knowledge to most people. | Os riscos do fumo já são de conhecimento geral para a maioria. |
-| The benefits of exercise are already common knowledge these days. | Os benefícios do exercício já são conhecimento comum nos dias de hoje. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** É conhecimento comum; é de conhecimento geral; é sabido de todos
+>
+> | English | Portuguese |
+> |---------|------------|
+> | That it's dangerous to drink and drive is already common knowledge. | Que é perigoso beber e dirigir é de conhecimento comum. |
+> | The risks of smoking are already common knowledge to most people. | Os riscos do fumo já são de conhecimento geral para a maioria. |
+> | The benefits of exercise are already common knowledge these days. | Os benefícios do exercício já são conhecimento comum nos dias de hoje. |

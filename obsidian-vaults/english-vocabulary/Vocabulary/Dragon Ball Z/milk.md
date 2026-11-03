@@ -55,12 +55,13 @@ From Old English "meolc" or "milc," from Proto-Germanic "*meluks," possibly rela
 > - The verb form "milk" implies extracting or exploiting
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** leite, extrair, explorar
 
-| English | Portuguese |
-|---------|------------|
-| milk (noun) | leite |
-| milk (verb) | ordenhar, extrair, explorar |
-| fresh milk | leite fresco |
-| milk the system | explorar o sistema |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** leite, extrair, explorar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | milk (noun) | leite |
+> | milk (verb) | ordenhar, extrair, explorar |
+> | fresh milk | leite fresco |
+> | milk the system | explorar o sistema |

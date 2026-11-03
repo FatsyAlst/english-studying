@@ -71,12 +71,13 @@ From Old English "weax" and Germanic origins (similar to German "Wachs", Dutch "
 > - The moon "waxes" (grows) and "wanes" (shrinks)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Cera, encerar, falar extensamente
 
-| English | Portuguese |
-|---------|------------|
-| wax (noun) | cera |
-| wax (verb) | encerar |
-| wax poetic | falar eloquentemente |
-| wax and wane | crescer e diminuir |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Cera, encerar, falar extensamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | wax (noun) | cera |
+> | wax (verb) | encerar |
+> | wax poetic | falar eloquentemente |
+> | wax and wane | crescer e diminuir |

@@ -48,11 +48,12 @@ From "public" (Latin *publicus* 'of the people') + "-ize" (suffix forming verbs)
 > - Can be used positively (announce good news) or negatively (expose wrongdoing).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Publicizar; divulgar; anunciar; promover; tornar público
 
-| English | Portuguese |
-|---------|------------|
-| The company publicized the new product launch. | A empresa publicizou o lançamento do novo produto. |
-| They publicized the event through social media. | Eles divulgaram o evento através das redes sociais. |
-| She publicized her findings in a press release. | Ela anunciou suas descobertas em um comunicado à imprensa. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Publicizar; divulgar; anunciar; promover; tornar público
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The company publicized the new product launch. | A empresa publicizou o lançamento do novo produto. |
+> | They publicized the event through social media. | Eles divulgaram o evento através das redes sociais. |
+> | She publicized her findings in a press release. | Ela anunciou suas descobertas em um comunicado à imprensa. |

@@ -43,12 +43,13 @@ From Latin *intermissio*, from *intermittere* meaning "to break off" or "to inte
 > - Distinguished from "break" which may be shorter and less formal
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** intervalo, pausa
 
-| English | Portuguese |
-|---------|------------|
-| intermission | intervalo |
-| pause | pausa |
-| break | intervalo |
-| rest | descanso |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** intervalo, pausa
+>
+> | English | Portuguese |
+> |---------|------------|
+> | intermission | intervalo |
+> | pause | pausa |
+> | break | intervalo |
+> | rest | descanso |

@@ -45,10 +45,11 @@ From *careless* + *-ness*. The adjective *careless* dates from Old English *carl
 > - The original Old English meaning was actually positive (carefree), which survives in the word *carefree*.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** descuido, negligência, falta de atenção, desleixo
 
-| English | Portuguese |
-|---------|------------|
-| His carelessness caused the accident. | O descuido dele causou o acidente. |
-| The report was full of errors due to sheer carelessness. | O relatório estava cheio de erros por puro desleixo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** descuido, negligência, falta de atenção, desleixo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His carelessness caused the accident. | O descuido dele causou o acidente. |
+> | The report was full of errors due to sheer carelessness. | O relatório estava cheio de erros por puro desleixo. |

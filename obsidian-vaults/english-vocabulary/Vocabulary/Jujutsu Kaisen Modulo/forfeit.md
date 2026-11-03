@@ -59,13 +59,14 @@ From Old French *forfait* (wrong, crime), derived from *forfaire* (to do wrong),
 > - Stronger than "lose" because it implies rule-breaking
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Perder, desistir, renunciar; multa, penalidade
 
-| English | Portuguese |
-|---------|------------|
-| forfeit | perder, renunciar |
-| forfeit rights | perder direitos |
-| forfeit the match | perder por desistência |
-| forfeit | multa, penalidade |
-| forfeited | perdido, renunciado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Perder, desistir, renunciar; multa, penalidade
+>
+> | English | Portuguese |
+> |---------|------------|
+> | forfeit | perder, renunciar |
+> | forfeit rights | perder direitos |
+> | forfeit the match | perder por desistência |
+> | forfeit | multa, penalidade |
+> | forfeited | perdido, renunciado |

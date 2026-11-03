@@ -58,11 +58,12 @@ From the real-world practice/trope of wearing aluminum foil hats, popularized in
 > - Common online, rare in formal writing.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** chapéu de papel alumínio (literal); conspiracionista paranoico / maluco conspiracionista (figurativo)
 
-| English | Portuguese |
-|---------|------------|
-| I'm not some tinfoil hat who thinks the moon landing was fake. | Eu não sou um maluco conspiracionista que acha que a ida à Lua foi falsa. |
-| That sounds like a tinfoil-hat conspiracy theory. | Isso parece teoria da conspiração nível chapéu de papel alumínio. |
-| He joked he needed a tinfoil hat to block signals. | Ele brincou que precisava de um chapéu de papel alumínio para bloquear os sinais. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** chapéu de papel alumínio (literal); conspiracionista paranoico / maluco conspiracionista (figurativo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I'm not some tinfoil hat who thinks the moon landing was fake. | Eu não sou um maluco conspiracionista que acha que a ida à Lua foi falsa. |
+> | That sounds like a tinfoil-hat conspiracy theory. | Isso parece teoria da conspiração nível chapéu de papel alumínio. |
+> | He joked he needed a tinfoil hat to block signals. | Ele brincou que precisava de um chapéu de papel alumínio para bloquear os sinais. |

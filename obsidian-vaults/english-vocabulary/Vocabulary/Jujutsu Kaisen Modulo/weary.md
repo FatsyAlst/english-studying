@@ -52,14 +52,15 @@ From Old English *werig*, related to Old Saxon *worig* (confused, drunk) and Old
 > - Suggests a deeper, more lasting tiredness
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Cansado, esgotado, fatigado, de saco cheio
 
-| English | Portuguese |
-|---------|------------|
-| weary | cansado, esgotado |
-| weary of | cansado de, de saco cheio |
-| weary smile | sorriso cansado |
-| weary traveler | viajante cansado |
-| grow weary | ficar cansado |
-| weariness | cansaço, fadiga |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Cansado, esgotado, fatigado, de saco cheio
+>
+> | English | Portuguese |
+> |---------|------------|
+> | weary | cansado, esgotado |
+> | weary of | cansado de, de saco cheio |
+> | weary smile | sorriso cansado |
+> | weary traveler | viajante cansado |
+> | grow weary | ficar cansado |
+> | weariness | cansaço, fadiga |

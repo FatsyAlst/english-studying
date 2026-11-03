@@ -46,12 +46,13 @@ From "sicken" (to make ill), derived from Old English "seoc" and Old Norse "sjú
 > - Often used with intensifiers like "absolutely" or "utterly"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** repugnante, asqueroso, nauseante
 
-| English | Portuguese |
-|---------|------------|
-| sickening | repugnante, asqueroso |
-| sickening smell | cheiro nauseante |
-| absolutely sickening | absolutamente repugnante |
-| sickeningly | de forma repugnante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** repugnante, asqueroso, nauseante
+>
+> | English | Portuguese |
+> |---------|------------|
+> | sickening | repugnante, asqueroso |
+> | sickening smell | cheiro nauseante |
+> | absolutely sickening | absolutamente repugnante |
+> | sickeningly | de forma repugnante |

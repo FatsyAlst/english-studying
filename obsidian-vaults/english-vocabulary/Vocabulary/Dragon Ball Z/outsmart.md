@@ -41,19 +41,20 @@ Compound of "out-" (surpass) and "smart" (clever, shrewd). Became common in earl
 ## 💡 Usage Notes
 > [!tip] Notes
 > - Emphasizes intelligence and cunning over physical strength
-> - Often contrasts with brute force
+> - Often contrasts with [[brute]] force
 > - Can be used in competitive, strategic contexts
 > - Similar to "outwit" but slightly less formal
 > - Common in sports and competitive situations
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** vencer pela inteligência, ludibriar, enganar
 
-| English | Portuguese |
-|---------|------------|
-| outsmart | vencer pela inteligência |
-| outsmart opponent | enganar o oponente |
-| outsmarted | ludibriado |
-| manage to outsmart | conseguir enganar |
-| outsmarting rival | enganando o rival |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** vencer pela inteligência, ludibriar, enganar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | outsmart | vencer pela inteligência |
+> | outsmart opponent | enganar o oponente |
+> | outsmarted | ludibriado |
+> | manage to outsmart | conseguir enganar |
+> | outsmarting rival | enganando o rival |

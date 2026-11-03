@@ -36,10 +36,12 @@ Full of people moving about in a busy way.
 > - Similar: busy (general), lively (energy-focused).
 
 ---
-**Tradução:** movimentado, agitado, animado, cheio de movimento
 
-| English | Portuguese |
-|---------|------------|
-| A bustling city full of energy. | Uma cidade movimentada cheia de energia. |
-| The market was bustling with life. | O mercado estava agitado com vida. |
-| Bustling streets during rush hour. | Ruas animadas na hora do rush. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** movimentado, agitado, animado, cheio de movimento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A bustling city full of energy. | Uma cidade movimentada cheia de energia. |
+> | The market was bustling with life. | O mercado estava agitado com vida. |
+> | Bustling streets during rush hour. | Ruas animadas na hora do rush. |

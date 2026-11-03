@@ -48,11 +48,12 @@ From Middle English "rubel," from Old French "ruble," possibly from Latin "rubeu
 > - Used in both literal and figurative contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Escombros, entulho, destroços
 
-| English | Portuguese |
-|---------|------------|
-| The city was in rubble. | A cidade estava em escombros. |
-| Workers cleared the rubble. | Os trabalhadores limparam o entulho. |
-| Survivors pulled people from the rubble. | Sobreviventes puxaram pessoas dos escombros. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Escombros, entulho, destroços
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The city was in rubble. | A cidade estava em escombros. |
+> | Workers cleared the rubble. | Os trabalhadores limparam o entulho. |
+> | Survivors pulled people from the rubble. | Sobreviventes puxaram pessoas dos escombros. |

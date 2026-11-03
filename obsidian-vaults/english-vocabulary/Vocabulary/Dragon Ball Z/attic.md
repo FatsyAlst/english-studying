@@ -39,10 +39,11 @@ From late 17th century French *attique*, from Latin *Atticus* ("relating to Athe
 > - Frequently used as a modifier before other nouns: *attic room, attic space, attic window*.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** sótão
 
-| English | Portuguese |
-|---------|------------|
-| We stored all the old furniture in the attic. | Guardamos todos os móveis velhos no sótão. |
-| She climbed up to the attic to find her grandmother's old letters. | Ela subiu ao sótão para encontrar as cartas antigas da avó. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** sótão
+>
+> | English | Portuguese |
+> |---------|------------|
+> | We stored all the old furniture in the attic. | Guardamos todos os móveis velhos no sótão. |
+> | She climbed up to the attic to find her grandmother's old letters. | Ela subiu ao sótão para encontrar as cartas antigas da avó. |

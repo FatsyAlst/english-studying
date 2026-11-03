@@ -53,12 +53,13 @@ From Old English "biddan," meaning to ask or command. The "-ing" form creates th
 > - In Sense 2, it often implies obedience or servitude
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** lance, oferta, ordem, comando
 
-| English | Portuguese |
-|---------|------------|
-| bidding (auction) | lance, oferta |
-| bidding war | guerra de lances |
-| do someone's bidding | fazer a vontade de alguém |
-| at your bidding | por sua ordem |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** lance, oferta, ordem, comando
+>
+> | English | Portuguese |
+> |---------|------------|
+> | bidding (auction) | lance, oferta |
+> | bidding war | guerra de lances |
+> | do someone's bidding | fazer a vontade de alguém |
+> | at your bidding | por sua ordem |

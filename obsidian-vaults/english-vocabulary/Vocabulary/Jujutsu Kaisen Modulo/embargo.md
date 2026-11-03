@@ -58,11 +58,12 @@ Early 17th century, from Spanish *embargar* ("arrest"), based on Latin *in-* ("i
 > - Formal register; common in political, diplomatic, and media contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** embargo, bloqueio comercial (substantivo); embargar, bloquear (verbo)
 
-| English | Portuguese |
-|---------|------------|
-| The government placed an embargo on arms shipments. | O governo impôs um embargo sobre o envio de armas. |
-| We should lift the embargo and open up trade. | Devemos suspender o embargo e abrir o comércio. |
-| The report is embargoed until Friday. | O relatório está embargado até sexta-feira. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** embargo, bloqueio comercial (substantivo); embargar, bloquear (verbo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The government placed an embargo on arms shipments. | O governo impôs um embargo sobre o envio de armas. |
+> | We should lift the embargo and open up trade. | Devemos suspender o embargo e abrir o comércio. |
+> | The report is embargoed until Friday. | O relatório está embargado até sexta-feira. |

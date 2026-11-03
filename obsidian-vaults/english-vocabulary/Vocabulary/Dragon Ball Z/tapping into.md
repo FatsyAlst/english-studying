@@ -49,13 +49,14 @@ To tap into something means to connect to or draw upon a resource, supply, or so
 > - Frequently used in character development and action narratives
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** acessar; tirar proveito de; explorar; canalizar; aproveitar
 
-| English | Portuguese |
-|---------|------------|
-| tap into power | acessar poder |
-| tap into resources | explorar recursos |
-| tap into potential | aproveitar o potencial |
-| tap into knowledge | utilizar conhecimento |
-| tap into inner strength | canalizar força interior |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** acessar; tirar proveito de; explorar; canalizar; aproveitar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tap into power | acessar poder |
+> | tap into resources | explorar recursos |
+> | tap into potential | aproveitar o potencial |
+> | tap into knowledge | utilizar conhecimento |
+> | tap into inner strength | canalizar força interior |

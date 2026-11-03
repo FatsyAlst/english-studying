@@ -48,12 +48,13 @@ From Old French *commencer*, from Latin *com-* (together) + *initiāre* (to begi
 > - "Commencement" (noun) refers to a graduation ceremony or formal beginning
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Começar, iniciar, dar início a
 
-| English | Portuguese |
-|---|---|
-| commence | começar, iniciar |
-| commence a battle | iniciar uma batalha |
-| commencement | início, cerimônia de formatura |
-| formally commence | iniciar formalmente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Começar, iniciar, dar início a
+>
+> | English | Portuguese |
+> |---|---|
+> | commence | começar, iniciar |
+> | commence a battle | iniciar uma batalha |
+> | commencement | início, cerimônia de formatura |
+> | formally commence | iniciar formalmente |

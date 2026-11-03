@@ -45,11 +45,12 @@ From Old Norse *þvert* (across, athwart), meaning "across" or "in opposition to
 > - Frequently appears in fantasy, crime, and action storytelling.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** frustrar, impedir, bloquear
 
-| English | Portuguese |
-|---------|------------|
-| The hero thwarted the villain's evil plans. | O herói frustra os planos malignos do vilão. |
-| Bad weather thwarted our travel plans. | O mau tempo impediu nossos planos de viagem. |
-| His attempts to escape were thwarted by the guards. | Suas tentativas de fuga foram bloqueadas pelos guardas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** frustrar, impedir, bloquear
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The hero thwarted the villain's evil plans. | O herói frustra os planos malignos do vilão. |
+> | Bad weather thwarted our travel plans. | O mau tempo impediu nossos planos de viagem. |
+> | His attempts to escape were thwarted by the guards. | Suas tentativas de fuga foram bloqueadas pelos guardas. |

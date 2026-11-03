@@ -50,13 +50,14 @@ From *showman* (one who presents shows or spectacles) + *-ship* (state or condit
 > - Emphasizes audience engagement and impact
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Teatralidade, virtuosismo de apresentação, espetacularidade
 
-| English | Portuguese |
-|---------|------------|
-| showmanship | teatralidade, virtuosismo |
-| impressive showmanship | teatralidade impressionante |
-| pure showmanship | pura teatralidade |
-| display showmanship | exibir teatralidade |
-| theatrical showmanship | dramaticidade teatral |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Teatralidade, virtuosismo de apresentação, espetacularidade
+>
+> | English | Portuguese |
+> |---------|------------|
+> | showmanship | teatralidade, virtuosismo |
+> | impressive showmanship | teatralidade impressionante |
+> | pure showmanship | pura teatralidade |
+> | display showmanship | exibir teatralidade |
+> | theatrical showmanship | dramaticidade teatral |

@@ -55,12 +55,13 @@ From Old English "utweard," from "ut" (out) plus "-weard" (direction). Related t
 > - "Outward" or "outwards" for direction (sense 1)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** para fora, exterior, aparente
 
-| English | Portuguese |
-|---------|------------|
-| outward | para fora, exterior |
-| outward appearance | aparência exterior |
-| outwardly | aparentemente |
-| outward bound | rumo ao exterior |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** para fora, exterior, aparente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | outward | para fora, exterior |
+> | outward appearance | aparência exterior |
+> | outwardly | aparentemente |
+> | outward bound | rumo ao exterior |

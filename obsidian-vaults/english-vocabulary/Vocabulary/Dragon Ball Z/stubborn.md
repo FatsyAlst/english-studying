@@ -40,9 +40,11 @@ Difficult to get rid of, remove, or deal with.
 > - Synonym: obstinate (more formal).
 
 ---
-**Tradução:** 1. Teimoso / Obstinado / Cabeça-dura | 2. Persistente / Difícil de remover
 
-| English | Portuguese |
-|---------|------------|
-| He was too stubborn to admit that he was wrong. | Ele era teimoso demais para admitir que estava errado. |
-| That's a stubborn stain — it won't come out. | Essa é uma mancha persistente — não sai. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. Teimoso / Obstinado / Cabeça-dura | 2. Persistente / Difícil de remover
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He was too stubborn to admit that he was wrong. | Ele era teimoso demais para admitir que estava errado. |
+> | That's a stubborn stain — it won't come out. | Essa é uma mancha persistente — não sai. |

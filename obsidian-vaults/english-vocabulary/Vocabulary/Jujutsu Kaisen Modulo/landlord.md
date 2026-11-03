@@ -50,11 +50,12 @@ From Middle English, compound of *land* + *lord* (from Old English *hlāford*, "
 > - A *slumlord* is a derogatory term for a landlord who neglects their properties, especially in low-income areas.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** senhorio, proprietário (de imóvel alugado), dono (de pub/pousada)
 
-| English | Portuguese |
-|---------|------------|
-| The landlord increased the rent by 10%. | O proprietário aumentou o aluguel em 10%. |
-| She reported the leaky roof to her landlord. | Ela relatou o telhado com vazamento ao senhorio. |
-| The pub's landlord has run the place for thirty years. | O dono do pub administra o local há trinta anos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** senhorio, proprietário (de imóvel alugado), dono (de pub/pousada)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The landlord increased the rent by 10%. | O proprietário aumentou o aluguel em 10%. |
+> | She reported the leaky roof to her landlord. | Ela relatou o telhado com vazamento ao senhorio. |
+> | The pub's landlord has run the place for thirty years. | O dono do pub administra o local há trinta anos. |

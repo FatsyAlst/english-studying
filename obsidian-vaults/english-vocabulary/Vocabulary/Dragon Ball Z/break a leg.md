@@ -47,12 +47,13 @@ Origin is uncertain and debated. Theories include: (1) theater superstition that
 > - Shows support and confidence in someone's success
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Boa sorte, vá em frente
 
-| English | Portuguese |
-|---------|------------|
-| break a leg | boa sorte |
-| break a leg! | vai em frente! |
-| good luck | boa sorte |
-| you can do it! | você consegue! |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Boa sorte, vá em frente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | break a leg | boa sorte |
+> | break a leg! | vai em frente! |
+> | good luck | boa sorte |
+> | you can do it! | você consegue! |

@@ -47,12 +47,13 @@ From Greek *chronios* meaning "longtime" or "of long standing," from *chronos* "
 > - Synonyms: accomplice, associate, buddy, pal (though "crony" is more critical)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** capanga, comparsa, aliado político
 
-| English | Portuguese |
-|---------|------------|
-| crony | comparsa, capanga |
-| cronies | comparsas, cabangas |
-| cronyism | nepotismo político |
-| old crony | antigo comparsa |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** capanga, comparsa, aliado político
+>
+> | English | Portuguese |
+> |---------|------------|
+> | crony | comparsa, capanga |
+> | cronies | comparsas, cabangas |
+> | cronyism | nepotismo político |
+> | old crony | antigo comparsa |

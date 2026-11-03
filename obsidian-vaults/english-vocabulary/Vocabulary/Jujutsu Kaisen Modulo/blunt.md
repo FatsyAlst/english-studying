@@ -65,11 +65,12 @@ From Old Norse "bluntr" meaning "dull" or "obtuse." The term entered Middle Engl
 > - In communication contexts, often implies rudeness or lack of tact
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Rombo, sem ponta; franco, direto; embotar
 
-| English | Portuguese |
-|---------|------------|
-| The knife is blunt. | A faca é romba. |
-| He gave a blunt answer. | Ele deu uma resposta franqueza. |
-| Don't blunt your pencil. | Não embote seu lápis. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Rombo, sem ponta; franco, direto; embotar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The knife is blunt. | A faca é romba. |
+> | He gave a blunt answer. | Ele deu uma resposta franqueza. |
+> | Don't blunt your pencil. | Não embote seu lápis. |

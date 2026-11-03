@@ -47,12 +47,13 @@ From *cut* (to sever, release) + *loose* (not restrained, free). The phrase sugg
 > - Often followed by "with" when describing the manner of action
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Soltar-se, agir sem restrição, desabafar
 
-| English | Portuguese |
-|---|---|
-| cut loose | soltar-se, agir sem contenção |
-| cut loose from | libertar-se de |
-| cut loose and fight | lutar sem restrição |
-| finally cut loose | finalmente se liberar |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Soltar-se, agir sem restrição, desabafar
+>
+> | English | Portuguese |
+> |---|---|
+> | cut loose | soltar-se, agir sem contenção |
+> | cut loose from | libertar-se de |
+> | cut loose and fight | lutar sem restrição |
+> | finally cut loose | finalmente se liberar |

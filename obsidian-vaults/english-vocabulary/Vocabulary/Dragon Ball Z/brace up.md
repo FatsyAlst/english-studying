@@ -45,12 +45,13 @@ To prepare oneself mentally or physically for something difficult; to gather cou
 > - Can be reflexive or transitive
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** se preparar, se armar de coragem
 
-| English | Portuguese |
-|---------|------------|
-| brace up | se preparar |
-| brace up for | se preparar para |
-| brace up courage | se armar de coragem |
-| mentally brace up | se preparar mentalmente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** se preparar, se armar de coragem
+>
+> | English | Portuguese |
+> |---------|------------|
+> | brace up | se preparar |
+> | brace up for | se preparar para |
+> | brace up courage | se armar de coragem |
+> | mentally brace up | se preparar mentalmente |

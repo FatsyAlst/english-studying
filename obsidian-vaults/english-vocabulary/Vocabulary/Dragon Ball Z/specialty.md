@@ -46,12 +46,13 @@ From Medieval Latin "specialitas," derived from Latin "specialis" (individual, p
 > - More common in American English than "specialism" (British)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** especialidade, espe, ramo
 
-| English | Portuguese |
-|---------|------------|
-| specialty | especialidade |
-| area of specialty | área de especialidade |
-| medical specialty | especialidade médica |
-| specialty store | loja especializada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** especialidade, espe, ramo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | specialty | especialidade |
+> | area of specialty | área de especialidade |
+> | medical specialty | especialidade médica |
+> | specialty store | loja especializada |

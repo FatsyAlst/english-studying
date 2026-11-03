@@ -48,13 +48,14 @@ From British slang *duke* (from Cockney rhyming slang "Duke of Yorks" for "forks
 > - Often implies evenly matched opponents
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** boxeando, lutando, trocando socos
 
-| English | Portuguese |
-|---------|------------|
-| duking | boxeando |
-| duking it out | trocando socos |
-| to duke | lutar à socos |
-| duke it out | se enfrentar |
-| fighting with fists | lutando com os punhos |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** boxeando, lutando, trocando socos
+>
+> | English | Portuguese |
+> |---------|------------|
+> | duking | boxeando |
+> | duking it out | trocando socos |
+> | to duke | lutar à socos |
+> | duke it out | se enfrentar |
+> | fighting with fists | lutando com os punhos |

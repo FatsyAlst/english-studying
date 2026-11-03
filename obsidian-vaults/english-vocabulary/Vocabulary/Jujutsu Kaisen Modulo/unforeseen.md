@@ -49,13 +49,14 @@ From "un-" (not) + "foresee" (to see beforehand), derived from Old English *fore
 > - Opposite: anticipated, expected, foreseen, planned
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Imprevisto, inesperado, não previsto
 
-| English | Portuguese |
-|---------|------------|
-| unforeseen | imprevisto, inesperado |
-| unforeseen circumstances | circunstâncias imprevistas |
-| unforeseen consequences | consequências inesperadas |
-| unforeseen obstacles | obstáculos imprevistos |
-| due to unforeseen... | devido a circunstâncias imprevistas |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Imprevisto, inesperado, não previsto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | unforeseen | imprevisto, inesperado |
+> | unforeseen circumstances | circunstâncias imprevistas |
+> | unforeseen consequences | consequências inesperadas |
+> | unforeseen obstacles | obstáculos imprevistos |
+> | due to unforeseen... | devido a circunstâncias imprevistas |

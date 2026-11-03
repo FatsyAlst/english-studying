@@ -69,10 +69,12 @@ Late Middle English: Via French from Latin *divertere*, from *di-* 'aside' + *ve
 > - British/American similar, but AmE stresses /ɪ/ in some dialects.
 
 ---
-**Tradução:** Desviar (direction/attention/traffic), Redirecionar/Transferir (funds/resources), Distrair/Entreter (attention/people)
 
-| English | Portuguese |
-|---------|------------|
-| Northbound traffic will have to be diverted onto minor roads. | O tráfego em direção ao norte terá que ser desviado para estradas secundárias. |
-| More of the budget was diverted into promotions. | Mais do orçamento foi transferido/redirecionado para promoções. |
-| The war diverted people's attention away from the economic situation. | A guerra desviou a atenção das pessoas da situação econômica. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Desviar (direction/attention/traffic), Redirecionar/Transferir (funds/resources), Distrair/Entreter (attention/people)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Northbound traffic will have to be diverted onto minor roads. | O tráfego em direção ao norte terá que ser desviado para estradas secundárias. |
+> | More of the budget was diverted into promotions. | Mais do orçamento foi transferido/redirecionado para promoções. |
+> | The war diverted people's attention away from the economic situation. | A guerra desviou a atenção das pessoas da situação econômica. |

@@ -48,11 +48,12 @@ From the 1500s; originates from Greek *krýstallos* ("ice"). "Clear as crystal" 
 > - Neutral to informal register; suitable for professional, academic, and casual contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** cristalino/a, claríssimo/a, completamente claro/a, perfeitamente claro/a
 
-| English | Portuguese |
-|---------|------------|
-| She made it crystal clear that she was in charge. | Ela deixou cristalino que ela estava no comando. |
-| The mountain lake was crystal clear. | O lago da montanha estava cristalino. |
-| You've got to make your intentions crystal clear. | Você precisa deixar suas intenções completamente claras. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** cristalino/a, claríssimo/a, completamente claro/a, perfeitamente claro/a
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She made it crystal clear that she was in charge. | Ela deixou cristalino que ela estava no comando. |
+> | The mountain lake was crystal clear. | O lago da montanha estava cristalino. |
+> | You've got to make your intentions crystal clear. | Você precisa deixar suas intenções completamente claras. |

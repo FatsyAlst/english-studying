@@ -37,9 +37,11 @@ To treat someone with excessive care, attention, or luxury; to spoil or indulge 
 > - It can also be positive/neutral when talking about comfort or self-care ("pamper yourself").
 
 ---
-**Tradução:** Mimado / Paparicado
 
-| English | Portuguese |
-|---------|------------|
-| He’s a pampered kid who never had to do chores. | Ele é um garoto mimado que nunca precisou fazer tarefas de casa. |
-| After the marathon, she pampered herself with a hot bath. | Depois da maratona, ela se paparicou com um banho quente. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Mimado / Paparicado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He’s a pampered kid who never had to do chores. | Ele é um garoto mimado que nunca precisou fazer tarefas de casa. |
+> | After the marathon, she pampered herself with a hot bath. | Depois da maratona, ela se paparicou com um banho quente. |

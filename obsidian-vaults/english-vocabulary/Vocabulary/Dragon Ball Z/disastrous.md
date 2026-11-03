@@ -48,13 +48,14 @@ From French *désastreux*, from *désastre* (disaster), from Italian *disastro*,
 > - Describes results, outcomes, or decisions with major negative impacts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** desastroso, catastrófico, calamitoso
 
-| English | Portuguese |
-|---------|------------|
-| disastrous | desastroso |
-| disastrously | desastrosamente |
-| disaster | desastre |
-| disastrous consequences | consequências desastrosas |
-| disastrous failure | fracasso desastroso |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** desastroso, catastrófico, calamitoso
+>
+> | English | Portuguese |
+> |---------|------------|
+> | disastrous | desastroso |
+> | disastrously | desastrosamente |
+> | disaster | desastre |
+> | disastrous consequences | consequências desastrosas |
+> | disastrous failure | fracasso desastroso |

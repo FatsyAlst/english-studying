@@ -47,13 +47,14 @@ From Old English "rihte," related to "right" meaning straight, correct, or just.
 > - Emphasizes accuracy or correctness
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** corretamente, adequadamente, apropriadamente
 
-| English | Portuguese |
-|---------|------------|
-| rightly | corretamente |
-| rightly said | bem dito |
-| rightly remembered | bem lembrado |
-| if I rightly remember | se me lembro corretamente |
-| rightly or wrongly | correto ou incorreto |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** corretamente, adequadamente, apropriadamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | rightly | corretamente |
+> | rightly said | bem dito |
+> | rightly remembered | bem lembrado |
+> | if I rightly remember | se me lembro corretamente |
+> | rightly or wrongly | correto ou incorreto |

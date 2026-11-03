@@ -66,11 +66,13 @@ Earlier seise (legal term), from Middle English seisen 'put in possession of,' f
 > - Often implies force or urgency.
 
 ---
-**Tradução:** Agarrar, segurar com força (arm, object); tomar, tomar o controle, capturar, prender (city, person); apreender, confiscar (drugs, weapons, goods); aproveitar, agarrar (chance, opportunity).
 
-| English | Portuguese |
-|---------|------------|
-| She seized his arm. | Ela agarrou o braço dele. |
-| A large quantity of drugs was seized during the raid. | Uma grande quantidade de drogas foi apreendida durante a operação. |
-| Rebels seized the capital. | Rebeldes tomaram/capturaram a capital. |
-| She seized the opportunity to travel. | Ela agarrou/aproveitou a oportunidade de viajar. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Agarrar, segurar com força (arm, object); tomar, tomar o controle, capturar, prender (city, person); apreender, confiscar (drugs, weapons, goods); aproveitar, agarrar (chance, opportunity).
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She seized his arm. | Ela agarrou o braço dele. |
+> | A large quantity of drugs was seized during the raid. | Uma grande quantidade de drogas foi apreendida durante a operação. |
+> | Rebels seized the capital. | Rebeldes tomaram/capturaram a capital. |
+> | She seized the opportunity to travel. | Ela agarrou/aproveitou a oportunidade de viajar. |

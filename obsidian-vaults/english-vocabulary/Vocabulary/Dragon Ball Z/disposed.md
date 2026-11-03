@@ -55,12 +55,13 @@ From Old French *disposer*, from Latin *disponere* (to arrange, distribute). Rel
 > - Synonyms: inclined, willing, prone, apt, ready
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** disposto; inclinado; propenso; arranjado
 
-| English | Portuguese |
-|---------|------------|
-| disposed to | disposto a; inclinado a |
-| well-disposed | bem-intencionado; bem-disposto |
-| ill-disposed | mal-intencionado; malvado |
-| disposed toward | propenso a; inclinado para |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** disposto; inclinado; propenso; arranjado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | disposed to | disposto a; inclinado a |
+> | well-disposed | bem-intencionado; bem-disposto |
+> | ill-disposed | mal-intencionado; malvado |
+> | disposed toward | propenso a; inclinado para |

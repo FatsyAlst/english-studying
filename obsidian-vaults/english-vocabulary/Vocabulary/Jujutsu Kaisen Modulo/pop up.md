@@ -51,11 +51,12 @@ From *pop* (Middle English *poppen*, imitative of a short, sharp sound or moveme
 > - Very informal and conversational; suits casual writing and speech.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** aparecer (de repente), surgir, pipocar (verbo); temporário, efêmero (adjetivo)
 
-| English | Portuguese |
-|---------|------------|
-| New coffee shops keep popping up all over the city. | Novas cafeterias não param de surgir por toda a cidade. |
-| A warning message popped up on my screen. | Uma mensagem de alerta apareceu na minha tela. |
-| There's a pop-up restaurant on the corner. | Tem um restaurante temporário na esquina. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** aparecer (de repente), surgir, pipocar (verbo); temporário, efêmero (adjetivo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | New coffee shops keep popping up all over the city. | Novas cafeterias não param de surgir por toda a cidade. |
+> | A warning message popped up on my screen. | Uma mensagem de alerta apareceu na minha tela. |
+> | There's a pop-up restaurant on the corner. | Tem um restaurante temporário na esquina. |

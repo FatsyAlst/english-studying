@@ -66,12 +66,13 @@ Compound of "steam" + "roller". Steam-powered rolling machines for road construc
 > - Often has negative connotations when used of people (not respecting opposition)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Rolo compressor, esmagar, força irresistível
 
-| English | Portuguese |
-|---------|------------|
-| steamroller (noun) | rolo compressor |
-| steamroll (verb) | esmagar/atropelar |
-| steamrolled | esmagado/atropelado |
-| be a steamroller | ser uma força irresistível |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Rolo compressor, esmagar, força irresistível
+>
+> | English | Portuguese |
+> |---------|------------|
+> | steamroller (noun) | rolo compressor |
+> | steamroll (verb) | esmagar/atropelar |
+> | steamrolled | esmagado/atropelado |
+> | be a steamroller | ser uma força irresistível |

@@ -45,11 +45,12 @@ From Old French *feble*, from Latin *flebilis* ("lamentable, mournful"), related
 > - Adverb form: "feebly" (e.g., "he feebly protested").
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** fraco, débil, enfraquecido
 
-| English | Portuguese |
-|---------|------------|
-| The old man's voice was feeble and tired. | A voz do velho era fraca e cansada. |
-| After the illness, she was feeble for weeks. | Depois da doença, ela ficou fraca por semanas. |
-| He made a feeble attempt to lift the heavy box. | Ele fez uma tentativa fraca de levantar a caixa pesada. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** fraco, débil, enfraquecido
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The old man's voice was feeble and tired. | A voz do velho era fraca e cansada. |
+> | After the illness, she was feeble for weeks. | Depois da doença, ela ficou fraca por semanas. |
+> | He made a feeble attempt to lift the heavy box. | Ele fez uma tentativa fraca de levantar a caixa pesada. |

@@ -53,11 +53,12 @@ From French "détour", from Old French "deturner" (to turn away), composed of "d
 > - "Scenic detour" suggests a pleasant diversion
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** desvio, volta
 
-| English | Portuguese |
-|---------|------------|
-| take a detour | fazer um desvio |
-| forced detour | desvio forçado |
-| scenic detour | volta cênica |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** desvio, volta
+>
+> | English | Portuguese |
+> |---------|------------|
+> | take a detour | fazer um desvio |
+> | forced detour | desvio forçado |
+> | scenic detour | volta cênica |

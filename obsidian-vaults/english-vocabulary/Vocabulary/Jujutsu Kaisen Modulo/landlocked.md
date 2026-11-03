@@ -54,11 +54,12 @@ Earliest known use in the early 1600s (Richard Hawkins, 1622). Compound of *land
 > - Antonyms: coastal, maritime.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** sem litoral, sem saída para o mar, mediterrâneo/a (geográfico); confinado/a a água doce (biologia)
 
-| English | Portuguese |
-|---------|------------|
-| Switzerland is completely landlocked. | A Suíça é completamente sem litoral. |
-| Afghanistan is a landlocked country. | O Afeganistão é um país sem litoral. |
-| Bolivia and Paraguay are the only two landlocked countries in the Western Hemisphere. | Bolívia e Paraguai são os únicos dois países sem litoral no Hemisfério Ocidental. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** sem litoral, sem saída para o mar, mediterrâneo/a (geográfico); confinado/a a água doce (biologia)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Switzerland is completely landlocked. | A Suíça é completamente sem litoral. |
+> | Afghanistan is a landlocked country. | O Afeganistão é um país sem litoral. |
+> | Bolivia and Paraguay are the only two landlocked countries in the Western Hemisphere. | Bolívia e Paraguai são os únicos dois países sem litoral no Hemisfério Ocidental. |

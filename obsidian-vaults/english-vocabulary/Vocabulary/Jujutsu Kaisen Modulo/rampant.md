@@ -44,11 +44,12 @@ From Old French "rampant" (climbing, rearing), from Latin "rampere" (to climb). 
 > - More formal/literary than "widespread" or "prevalent"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** desenfreado, descontrolado, galopante
 
-| English | Portuguese |
-|---------|------------|
-| rampant corruption | corrupção desenfreada |
-| rampant growth | crescimento galopante |
-| rampant disease | doença desenfreada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** desenfreado, descontrolado, galopante
+>
+> | English | Portuguese |
+> |---------|------------|
+> | rampant corruption | corrupção desenfreada |
+> | rampant growth | crescimento galopante |
+> | rampant disease | doença desenfreada |

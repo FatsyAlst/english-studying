@@ -36,10 +36,12 @@ Middle English (also 'pungent, sour'): from Old French aigre 'keen', from Latin 
 > - Synonyms: enthusiastic, keen, avid; antonyms: indifferent.
 
 ---
-**Tradução:** ansioso, ávido, desejoso, impaciente
 
-| English | Portuguese |
-|---------|------------|
-| Everyone in the class seemed eager to learn. | Todos na classe pareciam ansiosos para aprender. |
-| She is eager for her parents' approval. | Ela está ávida pela aprovação dos pais. |
-| Eager crowds outside the stadium. | Multidões desejosas fora do estádio. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** ansioso, ávido, desejoso, impaciente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Everyone in the class seemed eager to learn. | Todos na classe pareciam ansiosos para aprender. |
+> | She is eager for her parents' approval. | Ela está ávida pela aprovação dos pais. |
+> | Eager crowds outside the stadium. | Multidões desejosas fora do estádio. |

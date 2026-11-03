@@ -44,13 +44,15 @@ From "shoo" (to drive away or urge forward) + "in". Originated in American Engli
 > - Used in sports, competitions, and predictions
 > - Indicates near-certainty, not absolute certainty
 > - Common variant misspelling: "shoe-in" (incorrect)
+> - ⚠️ Similar meaning in [[cinch]] (from [[Dragon Ball Z]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Vencedor garantido, certeza, favorito
 
-| English | Portuguese |
-|---------|------------|
-| shoo-in | vencedor garantido |
-| guaranteed winner | vencedor certo |
-| sure thing | coisa certa |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Vencedor garantido, certeza, favorito
+>
+> | English | Portuguese |
+> |---------|------------|
+> | shoo-in | vencedor garantido |
+> | guaranteed winner | vencedor certo |
+> | sure thing | coisa certa |

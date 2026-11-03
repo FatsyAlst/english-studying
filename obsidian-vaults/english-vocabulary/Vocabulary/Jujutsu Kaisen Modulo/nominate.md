@@ -49,13 +49,14 @@ From Latin *nominatus* (named), derived from *nomen* (name). The term originally
 > - Often the first step toward election or selection
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Nomear, indicar, propor para um cargo
 
-| English | Portuguese |
-|---------|------------|
-| to nominate | nomear, indicar, propor |
-| nominate for | indicar para, nomear para |
-| nominee | nomeado, candidato |
-| nomination | nomeação, indicação |
-| nominate as leader | indicar como líder |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Nomear, indicar, propor para um cargo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | to nominate | nomear, indicar, propor |
+> | nominate for | indicar para, nomear para |
+> | nominee | nomeado, candidato |
+> | nomination | nomeação, indicação |
+> | nominate as leader | indicar como líder |

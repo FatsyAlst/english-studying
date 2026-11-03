@@ -51,11 +51,12 @@ From Latin **"auctio"** meaning *an increase*, referring to the increasing bids 
 > - **"Auction off"** is a common phrasal verb meaning to sell items at auction, often to get rid of them.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** leilão (noun); leiloar (verb)
 
-| English | Portuguese |
-|---------|------------|
-| The painting will be sold at auction. | A pintura será vendida em leilão. |
-| The artwork is being auctioned to benefit UNICEF. | A obra de arte está sendo leiloada em benefício da UNICEF. |
-| A classic Rolls-Royce fetched £25,000 at auction. | Um Rolls-Royce clássico alcançou £25.000 em leilão. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** leilão (noun); leiloar (verb)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The painting will be sold at auction. | A pintura será vendida em leilão. |
+> | The artwork is being auctioned to benefit UNICEF. | A obra de arte está sendo leiloada em benefício da UNICEF. |
+> | A classic Rolls-Royce fetched £25,000 at auction. | Um Rolls-Royce clássico alcançou £25.000 em leilão. |

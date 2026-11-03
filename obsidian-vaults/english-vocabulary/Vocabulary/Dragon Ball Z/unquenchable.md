@@ -37,10 +37,12 @@ Late 14th c.: un- ('not') + quench ('extinguish') + -able. Originally literal (f
 > - Similar: insatiable, unappeasable.
 
 ---
-**Tradução:** Insaciável, inextinguível, que não se apaga.
 
-| English | Portuguese |
-|---------|------------|
-| He had an unquenchable thirst for knowledge. | Ele tinha uma sede insaciável de conhecimento. |
-| An unquenchable desire for adventure. | Um desejo insaciável por aventura. |
-| Unquenchable optimism. | Otimismo insaciável. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Insaciável, inextinguível, que não se apaga.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He had an unquenchable thirst for knowledge. | Ele tinha uma sede insaciável de conhecimento. |
+> | An unquenchable desire for adventure. | Um desejo insaciável por aventura. |
+> | Unquenchable optimism. | Otimismo insaciável. |

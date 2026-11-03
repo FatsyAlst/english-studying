@@ -49,10 +49,12 @@ Verb: mid-16th c., possibly from Low German/Dutch (lōmen 'move slowly'; compare
 > - Idiom: 'loom large' = seem very important or threatening.
 
 ---
-**Tradução:** Verb (appear): surgir, avizinhar-se, agigantar-se, pairar, ameaçar. Verb (threaten): ameaçar, avolumar-se, pairar no horizonte. Noun (machine): tear, tecelagem.
 
-| English | Portuguese |
-|---------|------------|
-| A dark shape loomed up ahead of us. | Uma forma escura surgiu/agigantou-se à nossa frente. |
-| There was a crisis looming. | Havia uma crise se avizinhando/ameaçando. |
-| The prospect of war loomed large. | A perspectiva de guerra pairava de forma ameaçadora. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Verb (appear): surgir, avizinhar-se, agigantar-se, pairar, ameaçar. Verb (threaten): ameaçar, avolumar-se, pairar no horizonte. Noun (machine): tear, tecelagem.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A dark shape loomed up ahead of us. | Uma forma escura surgiu/agigantou-se à nossa frente. |
+> | There was a crisis looming. | Havia uma crise se avizinhando/ameaçando. |
+> | The prospect of war loomed large. | A perspectiva de guerra pairava de forma ameaçadora. |

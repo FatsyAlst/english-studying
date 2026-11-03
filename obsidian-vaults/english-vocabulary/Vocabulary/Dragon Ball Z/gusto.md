@@ -42,11 +42,12 @@ From Spanish "gusto," meaning taste or pleasure, derived from Latin "gustus."
 > - Conveys enjoyment alongside effort
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** entusiasmo, vigor
 
-| English | Portuguese |
-|---------|------------|
-| with gusto | com entusiasmo |
-| great gusto | grande entusiasmo |
-| pursue with gusto | perseguir com vigor |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** entusiasmo, vigor
+>
+> | English | Portuguese |
+> |---------|------------|
+> | with gusto | com entusiasmo |
+> | great gusto | grande entusiasmo |
+> | pursue with gusto | perseguir com vigor |

@@ -17,6 +17,7 @@ Short trips or tasks to accomplish specific purposes, typically to buy something
 > - Gohan helps with household errands
 > - She's out running errands this afternoon
 > - They sent him on some dangerous errands
+> - Can you run an errand for me while you're in town?
 
 ---
 ## 🌳 Word Family
@@ -47,14 +48,16 @@ From Old Norse "ørendi" meaning message or business. Passed through Middle Engl
 > - Typically refers to routine, short-term tasks
 > - Common in daily life and household contexts
 > - "Errand boy" refers to a young person sent on tasks
+> - 📺 Also encountered in [[Dragon Ball GT]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Recados, tarefas, afazeres
 
-| English | Portuguese |
-|---------|------------|
-| errands | recados/afazeres |
-| run errands | fazer recados |
-| do errands | cumprir tarefas |
-| quick errand | recado rápido |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Recados, tarefas, afazeres
+>
+> | English | Portuguese |
+> |---------|------------|
+> | errands | recados/afazeres |
+> | run errands | fazer recados |
+> | do errands | cumprir tarefas |
+> | quick errand | recado rápido |

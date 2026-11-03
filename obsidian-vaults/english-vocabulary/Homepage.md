@@ -5,283 +5,98 @@
 
 ---
 
-## 🎬 Media Sources
-
-```dataviewjs
-const media = dv.pages('"Vocabulary"')
-    .where(p => p.tags && p.tags.includes("media") && p.category)
-    .sort(p => p.file.name, 'asc');
-
-// Clear any default content and set grid on the dataview container itself
-const root = dv.container;
-root.innerHTML = "";
-root.style.cssText = "display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;padding:8px 0;";
-
-for (const m of media) {
-    const folder = m.file.folder;
-    const wordCount = dv.pages(`"${folder}"`)
-        .where(p => p.media).length;
-
-    const card = document.createElement("div");
-    card.className = "media-card";
-    const mediaColors = {
-        "Dragon Ball Z": "#f97316", "F1": "#ef4444",
-        "Peaky Blinders": "#6366f1", "Jujutsu Kaisen Modulo": "#22c55e"
-    };
-    const mediaColor = mediaColors[m.file.name] || "#e09f3e";
-    card.style.cssText = `display:flex;flex-direction:column;border-radius:8px;overflow:hidden;border:1px solid var(--background-modifier-border);background:var(--background-secondary);text-decoration:none;transition:all 0.2s ease;cursor:pointer;--card-accent:${mediaColor};`;
-    
-    card.addEventListener("mouseenter", () => { card.style.borderColor = mediaColor; card.style.transform = "translateY(-3px)"; card.style.boxShadow = `0 8px 24px rgba(0,0,0,0.2)`; });
-    card.addEventListener("mouseleave", () => { card.style.borderColor = "var(--background-modifier-border)"; card.style.transform = "none"; card.style.boxShadow = "none"; });
-    
-    // Navigate on click
-    card.addEventListener("click", () => {
-        app.workspace.openLinkText(m.file.path, "");
-    });
-
-    // Cover image
-    const imgWrap = document.createElement("div");
-    imgWrap.style.cssText = "width:100%;aspect-ratio:2/3;background:var(--background-secondary-alt);display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;";
-
-    if (m.cover && m.cover !== "") {
-        const img = document.createElement("img");
-        img.src = app.vault.adapter.getResourcePath(m.cover);
-        img.style.cssText = "width:100%;height:100%;object-fit:cover;";
-        imgWrap.appendChild(img);
-    } else {
-        const placeholder = document.createElement("div");
-        placeholder.style.cssText = "font-size:3em;opacity:0.3;";
-        const icons = { anime: "🐉", movie: "🎬", series: "📺", manga: "📖" };
-        placeholder.textContent = icons[m.category] || "📚";
-        imgWrap.appendChild(placeholder);
-    }
-
-    // Category badge
-    const catColors = {
-        anime: "#f59e0b", manga: "#a855f7", movie: "#ef4444",
-        series: "#3b82f6", book: "#22c55e"
-    };
-    const badgeColor = catColors[m.category] || "#e09f3e";
-    const badge = document.createElement("span");
-    badge.textContent = (m.category || "media").toUpperCase();
-    badge.style.cssText = `position:absolute;top:8px;right:8px;background:${badgeColor};color:#fff;font-size:0.65em;font-weight:700;padding:2px 8px;border-radius:4px;letter-spacing:0.05em;`;
-    imgWrap.appendChild(badge);
-
-    card.appendChild(imgWrap);
-
-    // Info area
-    const info = document.createElement("div");
-    info.style.cssText = "padding:10px 12px;";
-
-    const title = document.createElement("div");
-    title.textContent = m.file.name;
-    title.style.cssText = "font-weight:600;font-size:0.95em;color:var(--text-normal);margin-bottom:4px;";
-    info.appendChild(title);
-
-    const count = document.createElement("div");
-    count.textContent = wordCount + (wordCount === 1 ? " word" : " words");
-    count.style.cssText = "font-size:0.8em;color:var(--text-muted);";
-    info.appendChild(count);
-
-    card.appendChild(info);
-    root.appendChild(card);
-}
-```
-
----
-## 📊 Statistics
+## Media Sources
 
 ```dataviewjs
 const root = dv.container;
 root.innerHTML = "";
 
-const allWords = dv.pages('"Vocabulary"').where(p => p.media);
-const media = dv.pages('"Vocabulary"')
-    .where(p => p.tags && p.tags.includes("media") && p.category)
-    .sort(p => p.file.name, 'asc');
-
-const mediaColors = {
-    "Dragon Ball Z": "#f97316", "Dragon Ball": "#eab308", "F1": "#ef4444",
-    "Peaky Blinders": "#6366f1", "Jujutsu Kaisen Modulo": "#22c55e"
+// created date (falls back to file creation time), as ISO yyyy-mm-dd
+const dateOf = p => {
+    const c = p.created ?? p.file.ctime;
+    if (!c) return "";
+    return c.toISODate ? c.toISODate() : String(c).slice(0, 10);
 };
-const catIcons = { anime: "\uD83D\uDC32", manga: "\uD83D\uDCD6", movie: "\uD83C\uDFAC", series: "\uD83D\uDCFA", book: "\uD83D\uDCDA" };
 
-// Hero card
-const hero = root.createEl("div", { cls: "vocab-stat-hero" });
-hero.createEl("div", { text: String(allWords.length), cls: "stat-number" });
-hero.createEl("div", { text: "Words Learned", cls: "stat-label" });
-
-// Media mini-cards grid
-const grid = root.createEl("div", { cls: "vocab-stat-grid" });
-for (const m of media) {
-    const folder = m.file.folder;
-    const count = dv.pages(`"${folder}"`).where(p => p.media).length;
-    const color = mediaColors[m.file.name] || "#e09f3e";
-    const icon = catIcons[m.category] || "\uD83D\uDCDA";
-
-    const card = grid.createEl("div", { cls: "vocab-stat-card" });
-    card.style.borderLeft = `3px solid ${color}`;
-    card.createEl("div", { text: icon, cls: "stat-icon" });
-    card.createEl("div", { text: String(count), cls: "stat-number" });
-    card.style.setProperty("--stat-color", color);
-    card.querySelector(".stat-number").style.color = color;
-    card.createEl("div", { text: m.file.name, cls: "stat-label" });
-    card.onclick = () => app.workspace.openLinkText(m.file.path, "");
+// Fail loudly if the CSS snippet is off, instead of silently showing an unstyled page
+if (!getComputedStyle(document.body).getPropertyValue("--vocab-ui").trim()) {
+    root.createEl("div", { text: 'Snippet "vocabulary-theme" is not enabled (Settings > Appearance > CSS snippets).', cls: "vocab-warn" })
+        .style.cssText = "border:1px solid currentColor;padding:6px 10px;margin-bottom:8px;font-size:.85em;";
 }
-```
 
----
-## 🔤 Recent Words
+const all = dv.pages('"Vocabulary"');
+const words = all.where(p => p.media);
+const sources = all
+    .where(p => (p.tags ?? []).includes("media") && p.category)
+    .sort(p => p.file.name, "asc");
 
-```dataviewjs
-const root = dv.container;
-root.innerHTML = "";
+// Words per media: same scope as before (the media folder and its subfolders)
+const countFor = folder => words.where(w => w.file.folder === folder || w.file.folder.startsWith(folder + "/")).length;
 
-const mediaTags = ["dragon-ball-z", "dragon-ball", "f1", "peaky-blinders", "jujutsu-kaisen", "media"];
-const tagColors = {
-    emotion: "#c084fc", emotions: "#c084fc", action: "#f87171", combat: "#f87171",
-    slang: "#fb923c", informal: "#fb923c", formal: "#60a5fa", nature: "#4ade80",
-    food: "#facc15", body: "#f472b6", idiom: "#a78bfa", "phrasal-verb": "#38bdf8"
-};
-const defaultTagColor = "rgba(var(--vocab-accent-rgb), 0.7)";
-
-const words = dv.pages('"Vocabulary"')
-    .where(p => p.media)
-    .sort(p => p.file.ctime, 'desc')
-    .limit(10);
-
-const table = root.createEl("table", { cls: "dataview table-view-table" });
-const thead = table.createEl("thead");
-const hr = thead.createEl("tr");
-hr.createEl("th", { text: "Word" });
-hr.createEl("th", { text: "Source" });
-hr.createEl("th", { text: "Tags" });
-
-const tbody = table.createEl("tbody");
-for (const w of words) {
-    let mediaName = w.media?.path ? w.media.path : String(w.media);
-    mediaName = mediaName.split("/").pop().replace(/\.md$/i, "").replace(/[\[\]]/g, "");
-
-    const row = tbody.createEl("tr");
-
-    // Word link
-    const tdWord = row.createEl("td");
-    tdWord.createEl("a", {
-        text: w.file.name, cls: "internal-link",
-        attr: { "data-href": w.file.path, href: w.file.path }
-    });
-
-    // Source link
-    const tdSource = row.createEl("td");
-    const mediaPath = `Vocabulary/${mediaName}/${mediaName}`;
-    tdSource.createEl("a", {
-        text: mediaName, cls: "internal-link",
-        attr: { "data-href": mediaPath, href: mediaPath }
-    });
-
-    // Tags as pills
-    const tdTags = row.createEl("td");
-    const tags = (w.tags || []).filter(t => !mediaTags.includes(t));
-    for (const t of tags.slice(0, 3)) {
-        const pill = tdTags.createEl("span", { text: t, cls: "vocab-tag-pill" });
-        const c = tagColors[t] || defaultTagColor;
-        pill.style.cssText = `background:${c}20;color:${c};border-color:${c}30;`;
-    }
-}
-```
-
----
-## 📝 All Words
-
-```dataviewjs
-const root = dv.container;
-root.innerHTML = "";
-
-const allWords = dv.pages('"Vocabulary"')
-    .where(p => p.media)
-    .sort(p => p.file.name, 'asc');
-
-// Group by first letter
-const groups = {};
-for (const w of allWords) {
-    const letter = w.file.name[0].toUpperCase();
-    if (!groups[letter]) groups[letter] = [];
-    groups[letter].push(w);
-}
-const letters = Object.keys(groups).sort();
-let activeFilter = null;
-let searchTerm = "";
-
-// Search input
-const search = root.createEl("input", {
-    type: "text",
-    placeholder: `Search ${allWords.length} words...`,
-    cls: "vocab-search"
+// One quiet summary line (replaces the Statistics section)
+const now = new Date();
+const ym = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}`;
+const thisMonth = words.where(w => dateOf(w).startsWith(ym)).length;
+root.createEl("div", {
+    cls: "vocab-summary",
+    text: `${words.length} words \u00B7 ${sources.length} sources \u00B7 ${thisMonth} this month`
 });
 
-// Letter bar
-const bar = root.createEl("div", { cls: "vocab-letter-bar" });
-const showAllBtn = bar.createEl("button", { text: "All", cls: "vocab-letter-btn show-all active" });
-const letterBtns = {};
-for (const L of letters) {
-    const btn = bar.createEl("button", { text: L, cls: "vocab-letter-btn" });
-    letterBtns[L] = btn;
+if (sources.length === 0) {
+    root.createEl("p", { text: "No media pages found (need tags: media and a category).", cls: "vocab-hint" });
 }
 
-// Sections container
-const sections = root.createEl("div");
+// Same emoji placeholders as the original gallery (unicode escapes: dragon, film, TV, book, seedling for "personal", books)
+const icons = { anime: "\uD83D\uDC09", movie: "\uD83C\uDFAC", series: "\uD83D\uDCFA", manga: "\uD83D\uDCD6", personal: "\uD83C\uDF31" };
 
-function render() {
-    sections.innerHTML = "";
-    const term = searchTerm.toLowerCase();
+const grid = root.createEl("div", { cls: "media-grid" });
+for (const m of sources) {
+    const n = countFor(m.file.folder);
+    const open = (newTab) => app.workspace.openLinkText(m.file.path, "", newTab);
 
-    for (const L of letters) {
-        if (activeFilter && activeFilter !== L) continue;
+    const card = grid.createEl("div", {
+        cls: "media-card",
+        attr: { role: "link", tabindex: "0", "aria-label": `${m.file.name}, ${n} words` }
+    });
+    card.addEventListener("click", e => open(e.ctrlKey || e.metaKey));
+    card.addEventListener("keydown", e => {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(false); }
+    });
 
-        const filtered = groups[L].filter(w =>
-            term === "" || w.file.name.toLowerCase().includes(term)
-        );
-        if (filtered.length === 0) continue;
-
-        const header = sections.createEl("div", { cls: "vocab-letter-header" });
-        header.createEl("span", { text: L });
-        header.createEl("span", { text: `${filtered.length} word${filtered.length !== 1 ? "s" : ""}`, cls: "letter-count" });
-
-        const grid = sections.createEl("div", { cls: "vocab-word-grid" });
-        for (const w of filtered) {
-            const chip = grid.createEl("a", {
-                text: w.file.name,
-                cls: "vocab-word-chip internal-link",
-                attr: { "data-href": w.file.path, href: w.file.path }
-            });
-        }
+    // Cover
+    const cover = card.createEl("div", { cls: "media-cover" });
+    const placeholder = () => cover.createEl("div", { cls: "media-placeholder", text: icons[m.category] || "\uD83D\uDCDA" });
+    const coverPath = typeof m.cover === "string" ? m.cover : m.cover?.path;
+    const coverFile = coverPath ? app.vault.getAbstractFileByPath(coverPath) : null;
+    const src = coverFile
+        ? app.vault.getResourcePath(coverFile)
+        : (coverPath ? app.vault.adapter.getResourcePath(coverPath) : null);
+    if (src) {
+        const img = cover.createEl("img", { attr: { src, alt: "", loading: "lazy", draggable: "false" } });
+        img.style.pointerEvents = "none";   // clicks go to the card, so Obsidian image zoom never opens
+        img.addEventListener("error", () => { img.remove(); placeholder(); });
+    } else {
+        placeholder();
     }
 
-    if (sections.childElementCount === 0) {
-        sections.createEl("p", { text: "No words match your search." }).style.cssText = "color:var(--text-muted);text-align:center;padding:20px;";
-    }
+    // The one standard badge (styled in the snippet; same for every category)
+    cover.createEl("span", { cls: "media-badge", text: String(m.category ?? "media").toUpperCase() });
+
+    // Title + count
+    const info = card.createEl("div", { cls: "media-info" });
+    info.createEl("div", { cls: "media-title", text: m.file.name });
+    info.createEl("div", { cls: "media-count", text: n + (n === 1 ? " word" : " words") });
 }
+```
 
-// Events
-showAllBtn.onclick = () => {
-    activeFilter = null;
-    showAllBtn.classList.add("active");
-    Object.values(letterBtns).forEach(b => b.classList.remove("active"));
-    render();
-};
+## Words
 
-for (const L of letters) {
-    letterBtns[L].onclick = () => {
-        activeFilter = (activeFilter === L) ? null : L;
-        showAllBtn.classList.toggle("active", !activeFilter);
-        Object.entries(letterBtns).forEach(([k, b]) => b.classList.toggle("active", k === activeFilter));
-        render();
-    };
-}
-
-search.addEventListener("input", () => { searchTerm = search.value; render(); });
-
-render();
+```dataviewjs
+await dv.view("Views/vocab-explorer", {
+    words: dv.pages('"Vocabulary"').where(p => p.media).array(),
+    key: "home",
+    mode: "home"
+});
 ```
 
 ---
@@ -343,32 +158,110 @@ if (posts.length === 0) {
 ```
 
 ---
-## 📋 Practice Sets
+## 💡 Vocabulary Insights
 
 ```dataviewjs
+const catColors = {
+    comparison: "#c084fc",
+    grammar: "#38bdf8",
+    "phrasal-verbs": "#fb923c",
+    "fixed-expressions": "#4ade80",
+    nuances: "#f472b6",
+    patterns: "#facc15"
+};
+
+const posts = dv.pages('"Vocabulary Insights"')
+    .where(p => p.tags && p.tags.includes("insight"))
+    .sort(p => p.publishedAt, 'desc');
+
 const root = dv.container;
 root.innerHTML = "";
 
-const sets = [
-    { num: 1, exercises: "vocabulary-exercises-1.pdf", answers: "vocabulary-answers-1.pdf" },
-    { num: 2, exercises: "vocabulary-exercises-2.pdf", answers: "vocabulary-answers-2.pdf" },
-    { num: 3, exercises: "vocabulary-exercises-3.pdf", answers: "vocabulary-answers-3.pdf" }
-];
+for (const post of posts) {
+    const cat = post.category || "insight";
+    const catColor = catColors[cat] || "#c084fc";
 
-const grid = root.createEl("div", { cls: "vocab-practice-grid" });
-for (const s of sets) {
-    const card = grid.createEl("div", { cls: "vocab-practice-card" });
-    card.createEl("div", { text: `Set ${s.num}`, cls: "card-title" });
-    const links = card.createEl("div", { cls: "card-links" });
-    const ex = links.createEl("a", {
-        text: "Exercises", cls: "card-link internal-link",
-        attr: { "data-href": s.exercises, href: s.exercises }
+    const card = root.createEl("div", { cls: "vocab-insight-card" });
+    card.style.borderLeftColor = catColor;
+    card.style.background = `${catColor}08`;
+
+    // Top row: category pill + date
+    const top = card.createEl("div");
+    top.style.cssText = "display:flex;align-items:center;gap:8px;margin-bottom:10px;flex-wrap:wrap;";
+
+    const pill = top.createEl("span", { text: cat });
+    pill.style.cssText = `background:${catColor}22;color:${catColor};padding:2px 10px;border-radius:10px;font-size:0.72em;font-weight:600;text-transform:uppercase;letter-spacing:0.04em;border:1px solid ${catColor}33;`;
+
+    const date = post.publishedAt
+        ? new Date(post.publishedAt.toString()).toLocaleDateString('pt-BR', { day:'2-digit', month:'2-digit', year:'numeric' })
+        : '';
+    if (date) {
+        top.createEl("span", { text: date }).style.cssText = "font-size:0.78em;color:var(--text-faint);";
+    }
+
+    // Title
+    const titleEl = card.createEl("a", {
+        text: post.title || post.file.name,
+        cls: "internal-link",
+        attr: { "data-href": post.file.path, href: post.file.path }
     });
-    const ans = links.createEl("a", {
-        text: "Answers", cls: "card-link internal-link",
-        attr: { "data-href": s.answers, href: s.answers }
-    });
+    titleEl.style.cssText = "font-size:1.15em;font-weight:700;color:var(--text-normal);text-decoration:none;display:block;margin-bottom:6px;";
+
+    // Summary
+    if (post.summary) {
+        const sum = card.createEl("p", { text: post.summary });
+        sum.style.cssText = "color:var(--text-muted);font-size:0.88em;margin:0 0 10px 0;line-height:1.5;font-style:italic;";
+    }
+
+    // Related words as small chips
+    if (post.relatedWords && post.relatedWords.length > 0) {
+        const chipRow = card.createEl("div");
+        chipRow.style.cssText = "display:flex;flex-wrap:wrap;gap:6px;";
+        for (const rw of post.relatedWords) {
+            let wordName = rw.path ? rw.path.split("/").pop() : String(rw).replace(/[\[\]]/g, "");
+            wordName = wordName.replace(/\.md$/i, "");
+            const chip = chipRow.createEl("a", {
+                text: wordName,
+                cls: "internal-link",
+                attr: { "data-href": wordName, href: wordName }
+            });
+            chip.style.cssText = `display:inline-block;padding:2px 10px;border-radius:12px;font-size:0.75em;background:${catColor}15;color:${catColor};border:1px solid ${catColor}25;text-decoration:none;`;
+        }
+    }
+
+    // Clickable whole card
+    card.onclick = (e) => {
+        if (e.target.tagName !== 'A') {
+            const link = card.querySelector('a.internal-link');
+            if (link) link.click();
+        }
+    };
+
+    // Hover uses category color
+    card.onmouseenter = () => { card.style.borderColor = catColor; card.style.transform = "translateY(-2px)"; card.style.boxShadow = "0 6px 20px rgba(0,0,0,0.15)"; };
+    card.onmouseleave = () => { card.style.borderColor = "var(--background-modifier-border)"; card.style.borderLeftColor = catColor; card.style.transform = "none"; card.style.boxShadow = "none"; };
 }
+
+if (posts.length === 0) {
+    root.createEl("p", { text: "No vocabulary insights yet." }).style.color = "var(--text-muted)";
+}
+```
+
+---
+## 📋 Exercises
+
+```dataviewjs
+await dv.view("Views/exercise-sets", {
+    folder: "Exercises",
+    // Optional: a line in your own words per set (folder name: text).
+    // A set without one shows the intro sentence from its own .tex file.
+    about: {
+        "vocabulary-practice-1": "The first review: every word learned up to then, from Dragon Ball Z, F1 and Peaky Blinders.",
+        "vocabulary-practice-2": "The 16 new Dragon Ball Z words that came after Set 1, with exercises going from easy to hard.",
+        "vocabulary-practice-3": "The 40 Dragon Ball Z words added after Set 2, plus 5 words from Sets 1–2 brought back for spaced repetition.",
+        "vocabulary-practice-4": "A comeback review after seven months away: the words worth keeping from the whole vault (meanings, forgotten senses, phrasal verbs, idioms, register and British English), in three sessions."
+    }
+});
 ```
 
 ---

@@ -63,11 +63,12 @@ From "patch" (a piece of material used to cover a hole). Extended metaphorically
 > - "Patch things up" is a very common expression specifically for repairing relationships.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** remendar/consertar (physical); tratar ferimentos (medical); fazer as pazes (relationship); dar um jeito provisório (temporary)
 
-| English | Portuguese |
-|---------|------------|
-| They managed to patch up the roof before the storm. | Eles conseguiram remendar o telhado antes da tempestade. |
-| I think you should try to patch things up. | Acho que você deveria tentar fazer as pazes. |
-| The nurse patched him up after the fight. | A enfermeira cuidou dos ferimentos dele depois da briga. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** remendar/consertar (physical); tratar ferimentos (medical); fazer as pazes (relationship); dar um jeito provisório (temporary)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | They managed to patch up the roof before the storm. | Eles conseguiram remendar o telhado antes da tempestade. |
+> | I think you should try to patch things up. | Acho que você deveria tentar fazer as pazes. |
+> | The nurse patched him up after the fight. | A enfermeira cuidou dos ferimentos dele depois da briga. |

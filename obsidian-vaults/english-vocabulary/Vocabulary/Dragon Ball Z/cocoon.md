@@ -56,13 +56,14 @@ From French *cocon*, possibly from Old French *coque* meaning "eggshell" or "she
 > - Common in fantasy and science fiction for protective barriers
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** casulo, envoltório protetor
 
-| English | Portuguese |
-|---------|------------|
-| cocoon | casulo |
-| silkworm cocoon | casulo da sericicultura |
-| protective cocoon | casulo protetor |
-| to cocoon | envolver, proteger |
-| emerge from cocoon | sair do casulo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** casulo, envoltório protetor
+>
+> | English | Portuguese |
+> |---------|------------|
+> | cocoon | casulo |
+> | silkworm cocoon | casulo da sericicultura |
+> | protective cocoon | casulo protetor |
+> | to cocoon | envolver, proteger |
+> | emerge from cocoon | sair do casulo |

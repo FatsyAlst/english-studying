@@ -51,14 +51,15 @@ From Latin *obliviosus* (forgetful), derived from *oblivio* (forgetting), compos
 > - Common in narrative/storytelling contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Inconsciente, desatento, alheio, ignorante
 
-| English | Portuguese |
-|---------|------------|
-| oblivious | inconsciente, desatento |
-| oblivious to | alheio a, inconsciente de |
-| oblivious of danger | inconsciente do perigo |
-| remain oblivious | permanecer alheio |
-| blissfully oblivious | felizmente inconsciente |
-| obliviousness | inconciência, desatenção |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Inconsciente, desatento, alheio, ignorante
+>
+> | English | Portuguese |
+> |---------|------------|
+> | oblivious | inconsciente, desatento |
+> | oblivious to | alheio a, inconsciente de |
+> | oblivious of danger | inconsciente do perigo |
+> | remain oblivious | permanecer alheio |
+> | blissfully oblivious | felizmente inconsciente |
+> | obliviousness | inconciência, desatenção |

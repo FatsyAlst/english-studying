@@ -49,12 +49,13 @@ To excuse someone from something unpleasant; to refrain from something (criticis
 > - Frequently used in dialogue when annoyed
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Me poupe, não me conte, me poupem os detalhes
 
-| English | Portuguese |
-|---------|------------|
-| spare me | me poupe |
-| spare me the details | poupe-me os detalhes |
-| spare me | deixa eu em paz |
-| spare me (complaints) | poupe-me as reclamações |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Me poupe, não me conte, me poupem os detalhes
+>
+> | English | Portuguese |
+> |---------|------------|
+> | spare me | me poupe |
+> | spare me the details | poupe-me os detalhes |
+> | spare me | deixa eu em paz |
+> | spare me (complaints) | poupe-me as reclamações |

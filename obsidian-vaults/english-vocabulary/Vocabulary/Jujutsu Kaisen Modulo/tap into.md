@@ -46,12 +46,14 @@ From *tap* (Old English *tæppa*, a stopper for a cask) combined with *into*. Th
 > - Highly versatile: works with abstract concepts (emotions, potential) and concrete ones (markets, databases).
 > - Very common in business language: *"tap into new markets," "tap into demand."*
 > - The surveillance meaning (wiretapping) comes from physically connecting to a telephone wire.
+> - 📺 Also encountered in [[Mushoku Tensei]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** acessar, aproveitar, explorar, recorrer a
 
-| English | Portuguese |
-|---------|------------|
-| She tapped into her inner strength to overcome the challenge. | Ela acessou sua força interior para superar o desafio. |
-| Companies are eager to tap into new markets overseas. | As empresas estão ansiosas para explorar novos mercados no exterior. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** acessar, aproveitar, explorar, recorrer a
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She tapped into her inner strength to overcome the challenge. | Ela acessou sua força interior para superar o desafio. |
+> | Companies are eager to tap into new markets overseas. | As empresas estão ansiosas para explorar novos mercados no exterior. |

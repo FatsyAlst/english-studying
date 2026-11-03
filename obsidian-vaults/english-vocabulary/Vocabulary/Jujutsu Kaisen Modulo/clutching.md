@@ -47,13 +47,15 @@ From Old English "clyccan," meaning to grip or clench. Related to Old Germanic r
 > - "Clutching at" means trying to hold on to something, often figuratively
 > - As a noun, "clutch" refers to a tight grip or a group of things held together
 > - Common in descriptive writing and narrative
+> - ⚠️ Similar meaning in [[cling]] (from [[Dragon Ball Super]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Agarrar, segurar firmemente, apertar
 
-| English | Portuguese |
-|---------|------------|
-| She was clutching her bag. | Ela estava agarrando sua bolsa. |
-| He clutched at the rope. | Ele agarrou-se na corda. |
-| The child clutched the toy. | A criança apertou o brinquedo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Agarrar, segurar firmemente, apertar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She was clutching her bag. | Ela estava agarrando sua bolsa. |
+> | He clutched at the rope. | Ele agarrou-se na corda. |
+> | The child clutched the toy. | A criança apertou o brinquedo. |

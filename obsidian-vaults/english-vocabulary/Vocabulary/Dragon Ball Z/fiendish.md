@@ -47,10 +47,12 @@ Cruel and unpleasant; extremely evil or wicked.
 > - Similar: diabolical, devilish, infernal.
 
 ---
-**Tradução:** Diabólico, infernal, demoníaco, cruel (cruelty); diabólico, infernal (difficulty).
 
-| English | Portuguese |
-|---------|------------|
-| A fiendish act of cruelty. | Um ato diabólico de crueldade. |
-| A puzzle of fiendish complexity. | Um quebra-cabeça de complexidade diabólica/infernal. |
-| Shrieks of fiendish laughter. | Gritos de riso demoníaco/infernal. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Diabólico, infernal, demoníaco, cruel (cruelty); diabólico, infernal (difficulty).
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A fiendish act of cruelty. | Um ato diabólico de crueldade. |
+> | A puzzle of fiendish complexity. | Um quebra-cabeça de complexidade diabólica/infernal. |
+> | Shrieks of fiendish laughter. | Gritos de riso demoníaco/infernal. |

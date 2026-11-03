@@ -8,14 +8,21 @@ tags:
 created: 2026-03-06
 ---
 ## 📖 Definition
-*Phrasal Verb* (High Frequency)
-
+### Sense 1 — *Phrasal Verb* (High Frequency)
 To accept a challenge or responsibility; to engage in combat or conflict with someone; to employ or hire someone.
 
 > [!example] Examples
 > - Goku was ready to take on any opponent in the tournament.
 > - He decided to take on the role of team leader.
 > - The company will take on new employees next month.
+
+### Sense 2 — *phrasal verb* (Common)
+To begin to have a particular quality, appearance or meaning.
+
+> [!example] Examples
+> - The city takes on a festive look in December.
+> - His voice took on a serious tone.
+> - The word has taken on a new meaning online.
 
 ---
 ## 🌳 Word Family
@@ -33,6 +40,7 @@ To accept a challenge or responsibility; to engage in combat or conflict with so
 - take on an opponent
 - take on new employees
 - ready to take on
+- take on a new meaning / look / tone
 
 ---
 ## 📜 Etymology
@@ -45,14 +53,17 @@ From Old English *tacan* (to take) + *on*. The phrasal verb developed from the c
 > - Common in action/sports contexts meaning to fight or compete
 > - Also used in professional/employment contexts
 > - Often implies confidence or courage
+> - 📺 Also encountered in [[Dr. Stone]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Enfrentar, aceitar, contratar
 
-| English | Portuguese |
-|---|---|
-| take on a challenge | enfrentar um desafio |
-| take on an opponent | enfrentar um adversário |
-| take on responsibility | aceitar responsabilidade |
-| take on employees | contratar funcionários |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Enfrentar, aceitar, contratar
+>
+> | English | Portuguese |
+> |---|---|
+> | take on a challenge | enfrentar um desafio |
+> | take on an opponent | enfrentar um adversário |
+> | take on responsibility | aceitar responsabilidade |
+> | take on employees | contratar funcionários |
+> | His voice took on a serious tone. | A voz dele assumiu um tom sério. |

@@ -74,11 +74,12 @@ From the verb "close" (to shut) combined with the adverb "up" (completely). The 
 > - "Close up" (emotionally) is the opposite of "open up."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** fechar/trancar (place); cicatrizar (wound); se fechar emocionalmente; close/plano fechado (cinema)
 
-| English | Portuguese |
-|---------|------------|
-| The store closes up at 8 p.m. | A loja fecha às 8 da noite. |
-| He closed up whenever someone mentioned his family. | Ele se fechava sempre que alguém mencionava a família. |
-| The director used a close-up of her face. | O diretor usou um close do rosto dela. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** fechar/trancar (place); cicatrizar (wound); se fechar emocionalmente; close/plano fechado (cinema)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The store closes up at 8 p.m. | A loja fecha às 8 da noite. |
+> | He closed up whenever someone mentioned his family. | Ele se fechava sempre que alguém mencionava a família. |
+> | The director used a close-up of her face. | O diretor usou um close do rosto dela. |

@@ -50,13 +50,14 @@ From Middle English *blabbe*, possibly from Old Norse *blabr* or imitative in or
 > - Can describe various substances (liquid, gel, matter)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Massa, bola, aglomerado informe, bolota
 
-| English | Portuguese |
-|---------|------------|
-| blob | massa informe, bola |
-| blob of energy | aglomerado de energia |
-| gelatinous blob | massa gelatinosa |
-| blob creature | criatura em forma de massa |
-| shapeless blob | massa informe |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Massa, bola, aglomerado informe, bolota
+>
+> | English | Portuguese |
+> |---------|------------|
+> | blob | massa informe, bola |
+> | blob of energy | aglomerado de energia |
+> | gelatinous blob | massa gelatinosa |
+> | blob creature | criatura em forma de massa |
+> | shapeless blob | massa informe |

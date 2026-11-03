@@ -53,11 +53,12 @@ From Old French "cage", from Latin "cavea" (hollow place, cavity), related to "c
 > - "Golden cage" refers to a comfortable but restricting situation
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** gaiola, jaula, confinamento
 
-| English | Portuguese |
-|---------|------------|
-| bird cage | gaiola de pássaro |
-| to cage someone | confinar alguém |
-| golden cage | gaiola de ouro |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** gaiola, jaula, confinamento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | bird cage | gaiola de pássaro |
+> | to cage someone | confinar alguém |
+> | golden cage | gaiola de ouro |

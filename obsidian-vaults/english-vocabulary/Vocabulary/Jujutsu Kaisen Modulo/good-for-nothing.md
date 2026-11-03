@@ -49,11 +49,12 @@ Earliest known use in the early 1600s (OED, 1611). Originally "good for nought" 
 > - Related expressions: "ne'er-do-well" (old-fashioned), "no-good" (shorter equivalent).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** imprestável, inútil, vagabundo/a (adjetivo/substantivo)
 
-| English | Portuguese |
-|---------|------------|
-| Her good-for-nothing husband didn't even show up. | O marido imprestável dela nem apareceu. |
-| She told him he was a lazy good-for-nothing. | Ela disse que ele era um preguiçoso imprestável. |
-| A bunch of lazy good-for-nothings. | Um bando de vagabundos preguiçosos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** imprestável, inútil, vagabundo/a (adjetivo/substantivo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Her good-for-nothing husband didn't even show up. | O marido imprestável dela nem apareceu. |
+> | She told him he was a lazy good-for-nothing. | Ela disse que ele era um preguiçoso imprestável. |
+> | A bunch of lazy good-for-nothings. | Um bando de vagabundos preguiçosos. |

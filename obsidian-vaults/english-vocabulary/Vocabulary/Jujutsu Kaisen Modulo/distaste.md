@@ -45,10 +45,11 @@ From "dis-" (not, opposite of) + "taste." Literally "bad taste," extended to mea
 > - "Distasteful" is the common adjective form.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Desgosto / Aversão / Desaprovação
 
-| English | Portuguese |
-|---------|------------|
-| He showed his distaste for the proposal. | Ele mostrou seu desgosto pela proposta. |
-| She had a distaste for dishonesty. | Ela tinha aversão à desonestidade. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Desgosto / Aversão / Desaprovação
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He showed his distaste for the proposal. | Ele mostrou seu desgosto pela proposta. |
+> | She had a distaste for dishonesty. | Ela tinha aversão à desonestidade. |

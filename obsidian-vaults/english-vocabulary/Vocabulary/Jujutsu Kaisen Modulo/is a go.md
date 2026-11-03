@@ -40,11 +40,12 @@ From NASA/aerospace terminology in the 1960s, where "go" meant a system was read
 > - Implies official approval or readiness to proceed.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Está aprovado; é um go; está confirmado; está funcionando
 
-| English | Portuguese |
-|---------|------------|
-| The project is a go—we start next Monday. | O projeto foi aprovado—começamos na próxima segunda. |
-| Is the launch a go, or do we need to reschedule? | O lançamento está confirmado, ou precisamos remarcar? |
-| The concert is a go despite the rain forecast. | O show está confirmado apesar da previsão de chuva. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Está aprovado; é um go; está confirmado; está funcionando
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The project is a go—we start next Monday. | O projeto foi aprovado—começamos na próxima segunda. |
+> | Is the launch a go, or do we need to reschedule? | O lançamento está confirmado, ou precisamos remarcar? |
+> | The concert is a go despite the rain forecast. | O show está confirmado apesar da previsão de chuva. |

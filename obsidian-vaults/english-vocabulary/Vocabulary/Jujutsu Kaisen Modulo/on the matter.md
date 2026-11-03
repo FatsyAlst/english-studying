@@ -41,11 +41,12 @@ Combines the preposition "on" ("concerning") with "matter" (from Latin *materia*
 > - Assumes a previously mentioned topic — readers must know what "the matter" refers to.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** sobre o assunto, sobre a questão, a respeito do assunto, quanto a isso
 
-| English | Portuguese |
-|---------|------------|
-| I have made a decision on the matter. | Tomei uma decisão sobre o assunto. |
-| Both have firm opinions on the matter. | Ambos têm opiniões firmes sobre a questão. |
-| She refused to comment on the matter. | Ela se recusou a comentar sobre o assunto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** sobre o assunto, sobre a questão, a respeito do assunto, quanto a isso
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I have made a decision on the matter. | Tomei uma decisão sobre o assunto. |
+> | Both have firm opinions on the matter. | Ambos têm opiniões firmes sobre a questão. |
+> | She refused to comment on the matter. | Ela se recusou a comentar sobre o assunto. |

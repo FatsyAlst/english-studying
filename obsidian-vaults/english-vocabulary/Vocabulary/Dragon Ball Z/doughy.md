@@ -49,13 +49,14 @@ From "dough" + "-y" (suffix forming adjectives meaning "having the quality of").
 > - Common in character descriptions to suggest weakness or unpreparedness
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** macio; pálido; sem definição; mofado; pastoso
 
-| English | Portuguese |
-|---------|------------|
-| doughy face | rosto pálido/macio |
-| doughy body | corpo mofado/sem definição |
-| doughy appearance | aparência pálida |
-| doughy texture | textura mole/pastosa |
-| soft and doughy | mole e pastoso |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** macio; pálido; sem definição; mofado; pastoso
+>
+> | English | Portuguese |
+> |---------|------------|
+> | doughy face | rosto pálido/macio |
+> | doughy body | corpo mofado/sem definição |
+> | doughy appearance | aparência pálida |
+> | doughy texture | textura mole/pastosa |
+> | soft and doughy | mole e pastoso |

@@ -50,13 +50,14 @@ From the metaphorical use of plant roots (which stabilize plants to a location) 
 > - Commonly used when discussing immigration or relocation
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Estabelecer-se, lançar raízes, fixar-se em um lugar
 
-| English | Portuguese |
-|---------|------------|
-| put down roots | lançar raízes, estabelecer-se |
-| put down roots in | fixar-se em |
-| finally put down roots | finalmente lançar raízes |
-| deep roots | raízes profundas |
-| uproot (opposite) | arrancar raízes |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Estabelecer-se, lançar raízes, fixar-se em um lugar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | put down roots | lançar raízes, estabelecer-se |
+> | put down roots in | fixar-se em |
+> | finally put down roots | finalmente lançar raízes |
+> | deep roots | raízes profundas |
+> | uproot (opposite) | arrancar raízes |

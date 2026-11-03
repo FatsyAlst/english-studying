@@ -48,14 +48,15 @@ From French *fanfare*, of uncertain origin but possibly from Spanish *fanfarria*
 > - Implies something impressive or attention-grabbing
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Fanfarra, cerimônia, celebração, publicidade
 
-| English | Portuguese |
-|---------|------------|
-| fanfare | fanfarra |
-| with fanfare | com fanfarra |
-| great fanfare | grande fanfarra |
-| fanfare and celebration | fanfarra e celebração |
-| trumpet fanfare | fanfarra de trompete |
-| amid fanfare | em meio a fanfarras |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Fanfarra, cerimônia, celebração, publicidade
+>
+> | English | Portuguese |
+> |---------|------------|
+> | fanfare | fanfarra |
+> | with fanfare | com fanfarra |
+> | great fanfare | grande fanfarra |
+> | fanfare and celebration | fanfarra e celebração |
+> | trumpet fanfare | fanfarra de trompete |
+> | amid fanfare | em meio a fanfarras |

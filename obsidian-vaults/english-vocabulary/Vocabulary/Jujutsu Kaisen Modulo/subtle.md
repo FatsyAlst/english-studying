@@ -65,11 +65,12 @@ From Latin "subtilis" meaning fine, thin, delicate. The word has retained its se
 > - Subtle = not obvious + requires sensitivity to notice.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** sutil, delicado, discreto, quase imperceptível; velado (negative)
 
-| English | Portuguese |
-|---------|------------|
-| There was a subtle change in his tone. | Houve uma mudança sutil no tom de voz dele. |
-| There is a subtle form of discrimination. | Há uma forma sutil de discriminação. |
-| He has a very subtle sense of humor. | Ele tem um senso de humor muito sutil. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** sutil, delicado, discreto, quase imperceptível; velado (negative)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | There was a subtle change in his tone. | Houve uma mudança sutil no tom de voz dele. |
+> | There is a subtle form of discrimination. | Há uma forma sutil de discriminação. |
+> | He has a very subtle sense of humor. | Ele tem um senso de humor muito sutil. |

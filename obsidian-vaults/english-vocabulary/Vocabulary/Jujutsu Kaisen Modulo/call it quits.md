@@ -57,11 +57,12 @@ To stop trying; to accept failure; to give up.
 > - More neutral than "give up."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** dar por encerrado, parar por aqui (S1); terminar, colocar um ponto final (S2); desistir (S3)
 
-| English | Portuguese |
-|---------|------------|
-| After three hours of studying, I decided to call it quits. | Depois de três horas estudando, resolvi parar por aqui. |
-| After ten years of marriage, they called it quits. | Depois de dez anos de casamento, eles decidiram colocar um ponto final. |
-| I've tried fixing this computer all day; I'm calling it quits. | Passei o dia tentando consertar esse computador; vou desistir. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** dar por encerrado, parar por aqui (S1); terminar, colocar um ponto final (S2); desistir (S3)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | After three hours of studying, I decided to call it quits. | Depois de três horas estudando, resolvi parar por aqui. |
+> | After ten years of marriage, they called it quits. | Depois de dez anos de casamento, eles decidiram colocar um ponto final. |
+> | I've tried fixing this computer all day; I'm calling it quits. | Passei o dia tentando consertar esse computador; vou desistir. |

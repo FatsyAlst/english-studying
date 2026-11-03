@@ -61,11 +61,12 @@ From Old English "rotian," related to Old Norse "rotinn" meaning "rotten." The G
 > - Used in both literal and figurative contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Apodrecer, deteriorar; desaparecer completamente
 
-| English | Portuguese |
-|---------|------------|
-| The fruit is beginning to rot. | A fruta está começando a apodrecer. |
-| The wood rotted away. | A madeira apodreceu completamente. |
-| Don't let yourself rot away. | Não deixe você mesmo apodrecer no vazio. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Apodrecer, deteriorar; desaparecer completamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The fruit is beginning to rot. | A fruta está começando a apodrecer. |
+> | The wood rotted away. | A madeira apodreceu completamente. |
+> | Don't let yourself rot away. | Não deixe você mesmo apodrecer no vazio. |

@@ -44,10 +44,11 @@ From Old English "lettan" (to let, hinder) and "los" (loose, free). The phrase c
 > - "Let loose" and "let go" are similar but distinct—"let loose" emphasizes unleashing while "let go" emphasizes releasing grip.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Soltar / Liberar / Desencadear
 
-| English | Portuguese |
-|---------|------------|
-| He let loose a powerful attack. | Ele desencadeou um ataque poderoso. |
-| She finally let loose her true feelings. | Ela finalmente soltou seus verdadeiros sentimentos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Soltar / Liberar / Desencadear
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He let loose a powerful attack. | Ele desencadeou um ataque poderoso. |
+> | She finally let loose her true feelings. | Ela finalmente soltou seus verdadeiros sentimentos. |

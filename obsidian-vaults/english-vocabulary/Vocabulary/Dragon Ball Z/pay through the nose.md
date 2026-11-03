@@ -20,9 +20,11 @@ To pay an excessively high price for something; to overpay.
 > - Origin note: The idiom is recorded in English for centuries, but the exact origin is uncertain.
 
 ---
-**Tradução:** Pagar caro demais / Pagar os olhos da cara
 
-| English | Portuguese |
-|---------|------------|
-| We paid through the nose for last-minute tickets. | Pagamos caro demais por ingressos de última hora. |
-| If you buy it at the airport, you’ll pay through the nose. | Se você comprar no aeroporto, vai pagar os olhos da cara. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Pagar caro demais / Pagar os olhos da cara
+>
+> | English | Portuguese |
+> |---------|------------|
+> | We paid through the nose for last-minute tickets. | Pagamos caro demais por ingressos de última hora. |
+> | If you buy it at the airport, you’ll pay through the nose. | Se você comprar no aeroporto, vai pagar os olhos da cara. |

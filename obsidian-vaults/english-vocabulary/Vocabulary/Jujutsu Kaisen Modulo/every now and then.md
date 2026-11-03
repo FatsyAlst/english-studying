@@ -40,10 +40,11 @@ A compound temporal expression from Old English elements. *Now* and *then* repre
 > - Variants: *every now and again*, *now and then*, *every once in a while* — all interchangeable.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** de vez em quando, às vezes, ocasionalmente
 
-| English | Portuguese |
-|---------|------------|
-| I still think about her every now and then. | Eu ainda penso nela de vez em quando. |
-| Every now and then, he'd stop and look around. | De vez em quando, ele parava e olhava ao redor. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** de vez em quando, às vezes, ocasionalmente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I still think about her every now and then. | Eu ainda penso nela de vez em quando. |
+> | Every now and then, he'd stop and look around. | De vez em quando, ele parava e olhava ao redor. |

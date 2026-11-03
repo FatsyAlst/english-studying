@@ -56,11 +56,12 @@ From Middle English "outrightly," meaning "straight out" or "directly." The term
 > - Common in expressing strong negation or denial
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Completamente, totalmente, francamente; franco, absoluto
 
-| English | Portuguese |
-|---------|------------|
-| He outright refused. | Ele recusou completamente. |
-| That's an outright lie. | Isso é uma mentira absoluta. |
-| I asked her outright. | Perguntei francamente. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Completamente, totalmente, francamente; franco, absoluto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He outright refused. | Ele recusou completamente. |
+> | That's an outright lie. | Isso é uma mentira absoluta. |
+> | I asked her outright. | Perguntei francamente. |

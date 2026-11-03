@@ -44,10 +44,11 @@ From Latin "evocare" - "e-" (out) + "vocare" (to call). Literally "to call out."
 > - "Evocative" is the common adjective form used to describe something that evokes.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Evocar / Despertar / Provocar
 
-| English | Portuguese |
-|---------|------------|
-| The scent evokes childhood memories. | O aroma desperta memórias da infância. |
-| This story evokes strong emotions. | Esta história evoca emoções fortes. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Evocar / Despertar / Provocar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The scent evokes childhood memories. | O aroma desperta memórias da infância. |
+> | This story evokes strong emotions. | Esta história evoca emoções fortes. |

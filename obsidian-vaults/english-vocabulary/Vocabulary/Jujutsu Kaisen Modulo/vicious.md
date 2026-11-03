@@ -68,11 +68,12 @@ From Middle English, via Old French *vicios* from Latin *vitiosus* "faulty, defe
 > - Often used in crime reporting, animal behaviour, and personal attacks.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** cruel, violento, brutal, feroz; maldoso (speech); fortíssimo (informal)
 
-| English | Portuguese |
-|---------|------------|
-| The dog suddenly became vicious. | O cachorro ficou feroz e atacou. |
-| She received vicious comments on social media. | Ela recebeu comentários cruéis nas redes sociais. |
-| She woke up with a vicious headache. | Ela acordou com uma dor de cabeça fortíssima. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** cruel, violento, brutal, feroz; maldoso (speech); fortíssimo (informal)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The dog suddenly became vicious. | O cachorro ficou feroz e atacou. |
+> | She received vicious comments on social media. | Ela recebeu comentários cruéis nas redes sociais. |
+> | She woke up with a vicious headache. | Ela acordou com uma dor de cabeça fortíssima. |

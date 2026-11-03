@@ -50,10 +50,11 @@ From *a-* (prefix, "of") + *kin* (Old English *cynn*, "family, race, kind"), fro
 > - Compare with [[resemblance]] (Dragon Ball Z) — *resemblance* is a noun describing likeness, while *akin* is an adjective describing similarity.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** semelhante a, parecido com, análogo a; aparentado (por sangue)
 
-| English | Portuguese |
-|---------|------------|
-| What he felt was akin to despair. | O que ele sentia era semelhante ao desespero. |
-| The two languages are closely akin. | As duas línguas são intimamente aparentadas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** semelhante a, parecido com, análogo a; aparentado (por sangue)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | What he felt was akin to despair. | O que ele sentia era semelhante ao desespero. |
+> | The two languages are closely akin. | As duas línguas são intimamente aparentadas. |

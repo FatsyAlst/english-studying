@@ -35,10 +35,12 @@ Safe and sound goes back at least to Middle English; sound was used with the sen
 > - Safe focuses on being out of danger; sound keeps its older meaning of healthy, whole, undamaged, so together they reinforce the idea of complete wellbeing.
 
 ---
-**Tradução:** são e salvo; em segurança; ileso / sem nenhum dano.
 
-| English | Portuguese |
-|---------|------------|
-| After the long flight, she texted her parents to say she had arrived safe and sound. | Depois do longo voo, ela mandou uma mensagem para os pais dizendo que tinha chegado sã e salva. |
-| The rescue team brought all the hikers back safe and sound. | A equipe de resgate trouxe todos os trilheiros de volta sãos e salvos. |
-| Despite the storm, all the passengers reached the island safe and sound. | Apesar da tempestade, todos os passageiros chegaram à ilha sãos e salvos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** são e salvo; em segurança; ileso / sem nenhum dano.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | After the long flight, she texted her parents to say she had arrived safe and sound. | Depois do longo voo, ela mandou uma mensagem para os pais dizendo que tinha chegado sã e salva. |
+> | The rescue team brought all the hikers back safe and sound. | A equipe de resgate trouxe todos os trilheiros de volta sãos e salvos. |
+> | Despite the storm, all the passengers reached the island safe and sound. | Apesar da tempestade, todos os passageiros chegaram à ilha sãos e salvos. |

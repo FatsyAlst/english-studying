@@ -54,11 +54,12 @@ From Old Norse "berrr" (bare), related to "bare". Entered Middle English through
 > - Evokes imagery of emptiness and lifelessness
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** árido, desolado, estéril, baldio
 
-| English | Portuguese |
-|---------|------------|
-| barren land | terra árida |
-| barren desert | deserto árido |
-| barren landscape | paisagem desolada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** árido, desolado, estéril, baldio
+>
+> | English | Portuguese |
+> |---------|------------|
+> | barren land | terra árida |
+> | barren desert | deserto árido |
+> | barren landscape | paisagem desolada |

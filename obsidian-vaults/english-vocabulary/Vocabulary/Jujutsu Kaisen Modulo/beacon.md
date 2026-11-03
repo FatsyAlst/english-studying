@@ -51,13 +51,15 @@ From Old English *beacen* 'sign, signal'; possibly related to *beacnan* 'to sign
 > - Often used in inspirational or formal contexts.
 > - Common phrases: "beacon of hope," "beacon of light," "guiding beacon."
 > - Formal register; more common in literary or formal writing.
+> - 📺 Also seen in [[My Hero Academia Vigilantes]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Substantivo, luz) Farol; baliza; sinal luminoso | 2. (Substantivo, inspiração) Símbolo de esperança; exemplo; guia
 
-| English | Portuguese |
-|---------|------------|
-| The lighthouse beacon guided ships to safety. | O farol guiou os navios com segurança. |
-| Science is a beacon of hope for the future. | A ciência é um símbolo de esperança para o futuro. |
-| She was a beacon of strength during the crisis. | Ela foi um exemplo de força durante a crise. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, luz) Farol; baliza; sinal luminoso | 2. (Substantivo, inspiração) Símbolo de esperança; exemplo; guia
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The lighthouse beacon guided ships to safety. | O farol guiou os navios com segurança. |
+> | Science is a beacon of hope for the future. | A ciência é um símbolo de esperança para o futuro. |
+> | She was a beacon of strength during the crisis. | Ela foi um exemplo de força durante a crise. |

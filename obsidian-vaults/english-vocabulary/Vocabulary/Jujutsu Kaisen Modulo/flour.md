@@ -55,11 +55,12 @@ From Old French *flor* 'flower,' metaphorically 'the finest part' (flour being t
 > - "Floury" means covered with or containing flour.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Substantivo) Farinha | 2. (Verbo) Polvilhar com farinha; enfarinhar
 
-| English | Portuguese |
-|---------|------------|
-| Mix the flour with sugar and eggs. | Misture a farinha com açúcar e ovos. |
-| She needs two cups of flour for the recipe. | Ela precisa de duas xícaras de farinha para a receita. |
-| Flour your hands so the dough won't stick. | Polvilhe suas mãos com farinha para a massa não grudar. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo) Farinha | 2. (Verbo) Polvilhar com farinha; enfarinhar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Mix the flour with sugar and eggs. | Misture a farinha com açúcar e ovos. |
+> | She needs two cups of flour for the recipe. | Ela precisa de duas xícaras de farinha para a receita. |
+> | Flour your hands so the dough won't stick. | Polvilhe suas mãos com farinha para a massa não grudar. |

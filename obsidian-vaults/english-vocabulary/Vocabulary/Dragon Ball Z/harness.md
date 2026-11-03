@@ -69,10 +69,12 @@ From Old French *harneis* (12th c.) meaning 'military equipment, armor, fittings
 > - Figurative sense commonly used in business and environmental contexts.
 
 ---
-**Tradução:** Arreio / Cinto de segurança / Sistema de correias / Aproveitar / Canalizar / Controlar e usar
 
-| English | Portuguese |
-|---------|------------|
-| The farmer adjusted the harness on the horse before plowing. | O fazendeiro ajustou o arreio no cavalo antes de arar. |
-| We need to harness solar energy to combat climate change. | Precisamos aproveitar a energia solar para combater as mudanças climáticas. |
-| The dam harnesses the river's power to generate electricity. | A barragem canaliza o poder do rio para gerar eletricidade. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Arreio / Cinto de segurança / Sistema de correias / Aproveitar / Canalizar / Controlar e usar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The farmer adjusted the harness on the horse before plowing. | O fazendeiro ajustou o arreio no cavalo antes de arar. |
+> | We need to harness solar energy to combat climate change. | Precisamos aproveitar a energia solar para combater as mudanças climáticas. |
+> | The dam harnesses the river's power to generate electricity. | A barragem canaliza o poder do rio para gerar eletricidade. |

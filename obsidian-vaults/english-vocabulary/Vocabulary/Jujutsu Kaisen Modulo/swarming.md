@@ -62,11 +62,12 @@ Old English *swearm* 'a crowd, multitude'; Proto-Germanic *swarmaz*. Originally 
 > - Can suggest disorder, chaos, or aggressive behavior.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Verbo, multidão) Enxamear; movimentar-se em massa; invadir | 2. (Verbo, estar cheio) Estar cheio de; transbordar de | 3. (Substantivo, grupo) Enxame; multidão; aglomerado
 
-| English | Portuguese |
-|---------|------------|
-| Bees swarmed around the hive. | As abelhas enxameavam ao redor da colmeia. |
-| The beach was swarming with tourists. | A praia estava cheia de turistas. |
-| A swarm of locusts devastated the crops. | Um enxame de gafanhotos devastou as colheitas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, multidão) Enxamear; movimentar-se em massa; invadir | 2. (Verbo, estar cheio) Estar cheio de; transbordar de | 3. (Substantivo, grupo) Enxame; multidão; aglomerado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Bees swarmed around the hive. | As abelhas enxameavam ao redor da colmeia. |
+> | The beach was swarming with tourists. | A praia estava cheia de turistas. |
+> | A swarm of locusts devastated the crops. | Um enxame de gafanhotos devastou as colheitas. |

@@ -60,10 +60,12 @@ From 'stack' (pile, Old Norse *stakkr*); phrasal 'stack up' from poker imagery (
 > - Originally from poker imagery (comparing chip stacks), early 20th century.
 
 ---
-**Tradução:** Se equiparar a; se sair em comparação; acumular; não fazer sentido
 
-| English | Portuguese |
-|---------|------------|
-| How does the new model stack up against previous versions? | Como o novo modelo se compara às versões anteriores? |
-| Cars quickly stacked up behind the bus. | Os carros rapidamente formaram fila atrás do ônibus. |
-| That explanation just doesn't stack up. | Essa explicação simplesmente não faz sentido. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Se equiparar a; se sair em comparação; acumular; não fazer sentido
+>
+> | English | Portuguese |
+> |---------|------------|
+> | How does the new model stack up against previous versions? | Como o novo modelo se compara às versões anteriores? |
+> | Cars quickly stacked up behind the bus. | Os carros rapidamente formaram fila atrás do ônibus. |
+> | That explanation just doesn't stack up. | Essa explicação simplesmente não faz sentido. |

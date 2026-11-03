@@ -63,11 +63,12 @@ From Old English *styrian* ("to be in motion, agitate"). Phrasal verb "stir up" 
 > - "Stir up a hornets' nest" = create a situation that will cause trouble among many people.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** provocar, causar confusão, instigar (problemas); despertar, evocar (memórias); levantar (poeira)
 
-| English | Portuguese |
-|---------|------------|
-| He always manages to stir up trouble. | Ele sempre consegue provocar problemas. |
-| Going back there stirred up a lot of memories. | Voltar lá despertou muitas lembranças. |
-| The wind stirred up a lot of dust. | O vento levantou muita poeira. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** provocar, causar confusão, instigar (problemas); despertar, evocar (memórias); levantar (poeira)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He always manages to stir up trouble. | Ele sempre consegue provocar problemas. |
+> | Going back there stirred up a lot of memories. | Voltar lá despertou muitas lembranças. |
+> | The wind stirred up a lot of dust. | O vento levantou muita poeira. |

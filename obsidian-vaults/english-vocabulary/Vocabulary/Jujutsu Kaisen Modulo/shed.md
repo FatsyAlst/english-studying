@@ -65,14 +65,15 @@ The verb comes from Old English "sceadan" (to divide, separate). The noun "shed"
 > - "Shed tears" is a poetic way of saying "to cry"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** perder (peles, folhas), descartar; galpão, cabana
 
-| English | Portuguese |
-|---------|------------|
-| shed skin | trocar de pele |
-| shed fur | perder pelos |
-| shed leaves | perder folhas |
-| shed light on | esclarecer |
-| tool shed | galpão de ferramentas |
-| garden shed | cabana de jardim |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** perder (peles, folhas), descartar; galpão, cabana
+>
+> | English | Portuguese |
+> |---------|------------|
+> | shed skin | trocar de pele |
+> | shed fur | perder pelos |
+> | shed leaves | perder folhas |
+> | shed light on | esclarecer |
+> | tool shed | galpão de ferramentas |
+> | garden shed | cabana de jardim |

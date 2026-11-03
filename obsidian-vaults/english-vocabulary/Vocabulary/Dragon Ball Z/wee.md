@@ -62,12 +62,14 @@ Adjective from Middle English *wey/weȳe* 'small amount/quantity,' from Old Engl
 > - The adjective sense is widespread in Scottish, Northern Irish, and Northern English dialects.
 
 ---
-**Tradução:** 1. (Adjetivo) Pequeno; minúsculo; pouquinho (carinhoso, escocês) | 2. Madrugada; altas horas da manhã | 3. (Substantivo, infantil) Xixi; aliviar a bexiga | 4. (Verbo) Xixi; fazer xixi; mijar (infantil)
 
-| English | Portuguese |
-|---------|------------|
-| Just a wee drop of milk in my tea, please. | Só um pouquinho de leite no meu chá, por favor. |
-| We danced into the wee hours of the morning. | Dançamos até altas horas da madrugada. |
-| I need a wee before we go. | Preciso fazer xixi antes de irmos. |
-| She's just a wee lass with a big smile. | Ela é só uma menina pequena com um sorriso grande. |
-| I woke up in the wee hours with a start. | Acordei de madrugada com um susto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Adjetivo) Pequeno; minúsculo; pouquinho (carinhoso, escocês) | 2. Madrugada; altas horas da manhã | 3. (Substantivo, infantil) Xixi; aliviar a bexiga | 4. (Verbo) Xixi; fazer xixi; mijar (infantil)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Just a wee drop of milk in my tea, please. | Só um pouquinho de leite no meu chá, por favor. |
+> | We danced into the wee hours of the morning. | Dançamos até altas horas da madrugada. |
+> | I need a wee before we go. | Preciso fazer xixi antes de irmos. |
+> | She's just a wee lass with a big smile. | Ela é só uma menina pequena com um sorriso grande. |
+> | I woke up in the wee hours with a start. | Acordei de madrugada com um susto. |

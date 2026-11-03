@@ -45,11 +45,12 @@ From Middle English *shateren*, possibly imitative in origin or related to Old E
 > - Common in metaphorical contexts about emotions, relationships, or abstract concepts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Quebrar, esfacelar, esmigalhar
 
-| English | Portuguese |
-|---------|------------|
-| The window shattered | A janela quebrou em pedaços |
-| shatter dreams | destruir sonhos |
-| shattered glass | vidro estilhaçado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Quebrar, esfacelar, esmigalhar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The window shattered | A janela quebrou em pedaços |
+> | shatter dreams | destruir sonhos |
+> | shattered glass | vidro estilhaçado |

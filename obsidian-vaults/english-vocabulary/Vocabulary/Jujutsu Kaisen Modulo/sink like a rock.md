@@ -39,11 +39,12 @@ Simile comparing the rapid sinking motion of a stone/rock in water to rapid decl
 > - Similar idioms: "drop like a fly," "fall like dominoes," "go down in flames."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Afundar como uma pedra; descer rapidamente; fracassar dramaticamente
 
-| English | Portuguese |
-|---------|------------|
-| The stocks sank like a rock after the bad news. | As ações desabaram como uma pedra após as más notícias. |
-| If he steps off the pier, he'll sink like a rock—he can't swim. | Se ele pular do cais, vai afundar como uma pedra—ele não sabe nadar. |
-| The company's reputation sank like a rock. | A reputação da empresa desabou como uma pedra. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Afundar como uma pedra; descer rapidamente; fracassar dramaticamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The stocks sank like a rock after the bad news. | As ações desabaram como uma pedra após as más notícias. |
+> | If he steps off the pier, he'll sink like a rock—he can't swim. | Se ele pular do cais, vai afundar como uma pedra—ele não sabe nadar. |
+> | The company's reputation sank like a rock. | A reputação da empresa desabou como uma pedra. |

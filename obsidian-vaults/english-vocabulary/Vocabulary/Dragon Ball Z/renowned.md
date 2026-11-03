@@ -48,13 +48,14 @@ From Old French "renomee," meaning "fame" or "reputation," derived from "renomer
 > - More formal than "famous"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** renomado, famoso, célebre
 
-| English | Portuguese |
-|---------|------------|
-| renowned | renomado |
-| renowned for | renomado por |
-| renowned martial artist | artista marcial renomado |
-| internationally renowned | internacionalmente renomado |
-| highly renowned | muito renomado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** renomado, famoso, célebre
+>
+> | English | Portuguese |
+> |---------|------------|
+> | renowned | renomado |
+> | renowned for | renomado por |
+> | renowned martial artist | artista marcial renomado |
+> | internationally renowned | internacionalmente renomado |
+> | highly renowned | muito renomado |

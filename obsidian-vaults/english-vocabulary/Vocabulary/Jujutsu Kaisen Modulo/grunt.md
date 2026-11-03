@@ -59,13 +59,15 @@ From Old English *grunnettan* ("to grunt"), from Proto-Germanic *grunnatjaną*. 
 > - Military slang: "grunt" = infantry soldier (popularised during the Vietnam War).
 > - Can express: disapproval, effort, acknowledgment, or reluctance to speak.
 > - 📺 Also seen in [[Dragon Ball Z]]
+> - 📺 Also encountered in [[Dr. Stone]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** grunhir, resmungar (verbo); grunhido, resmungo (substantivo); trabalhador braçal, soldado raso (gíria)
 
-| English | Portuguese |
-|---------|------------|
-| "Too tired," he grunted and sat down. | "Cansado demais," ele resmungou e sentou-se. |
-| The only conversation I get from my teenagers is a few grunts. | A única conversa dos meus adolescentes são alguns resmungos. |
-| When the seed list is complete, the grunt work truly begins. | Quando a lista inicial estiver completa, o trabalho pesado começa. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** grunhir, resmungar (verbo); grunhido, resmungo (substantivo); trabalhador braçal, soldado raso (gíria)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | "Too tired," he grunted and sat down. | "Cansado demais," ele resmungou e sentou-se. |
+> | The only conversation I get from my teenagers is a few grunts. | A única conversa dos meus adolescentes são alguns resmungos. |
+> | When the seed list is complete, the grunt work truly begins. | Quando a lista inicial estiver completa, o trabalho pesado começa. |

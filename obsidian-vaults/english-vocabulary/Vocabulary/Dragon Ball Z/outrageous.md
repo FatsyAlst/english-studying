@@ -55,10 +55,12 @@ Late Middle English: From Old French *outrageus*, from *outrage* 'excess,' based
 > - Similar to 'shocking/scandalous' but emphasizes excess.
 
 ---
-**Tradução:** Ultrajante, escandaloso, revoltante (moral shock); extravagante, exorbitante (excessive/bold)
 
-| English | Portuguese |
-|---------|------------|
-| 'That's outrageous!' he protested. | "Isso é ultrajante!", ele protestou. |
-| These prices are just outrageous. | Esses preços são simplesmente exorbitantes/ultrajantes. |
-| She says the most outrageous things sometimes. | Ela diz as coisas mais extravagantes às vezes. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Ultrajante, escandaloso, revoltante (moral shock); extravagante, exorbitante (excessive/bold)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | 'That's outrageous!' he protested. | "Isso é ultrajante!", ele protestou. |
+> | These prices are just outrageous. | Esses preços são simplesmente exorbitantes/ultrajantes. |
+> | She says the most outrageous things sometimes. | Ela diz as coisas mais extravagantes às vezes. |

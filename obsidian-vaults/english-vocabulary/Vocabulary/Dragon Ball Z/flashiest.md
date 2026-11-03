@@ -46,14 +46,17 @@ From *flash* + superlative suffix *-iest*. "Flash" originates from Middle Englis
 > - Can be positive (impressive, bold) or negative (overly showy)
 > - Common in contexts describing fighters, performers, or display
 > - Sometimes carries connotation of superficiality
+> - Base form *flashy* (as seen in Mushoku Tensei): *a flashy car*, *a flashy play*, *flashy clothes*.
+> - 📺 Also encountered in [[Mushoku Tensei]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Mais vistoso, mais exuberante, mais chamativo
 
-| English | Portuguese |
-|---------|------------|
-| flashiest | mais vistoso, mais exuberante |
-| flashiest fighter | o lutador mais vistoso |
-| flashiest move | o movimento mais espetacular |
-| flashiest display | a exibição mais chamativa |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Mais vistoso, mais exuberante, mais chamativo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | flashiest | mais vistoso, mais exuberante |
+> | flashiest fighter | o lutador mais vistoso |
+> | flashiest move | o movimento mais espetacular |
+> | flashiest display | a exibição mais chamativa |

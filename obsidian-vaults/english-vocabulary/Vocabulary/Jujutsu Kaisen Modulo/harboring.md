@@ -44,10 +44,11 @@ From Old English "herebeorh," from "here" (army) + "beorh" (shelter). Originally
 > - More formal/literary than "holding" or "keeping."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Alimentar / Guardar / Abrigar
 
-| English | Portuguese |
-|---------|------------|
-| She was harboring doubts about the mission. | Ela alimentava dúvidas sobre a missão. |
-| He harbored a secret resentment. | Ele guardava um ressentimento secreto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Alimentar / Guardar / Abrigar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She was harboring doubts about the mission. | Ela alimentava dúvidas sobre a missão. |
+> | He harbored a secret resentment. | Ele guardava um ressentimento secreto. |

@@ -45,12 +45,13 @@ Possibly from Middle English or dialect, possibly related to Old English "flinci
 > - Can be used figuratively (flinch from responsibility)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** recuar, encolher, estremecer
 
-| English | Portuguese |
-|---------|------------|
-| flinch | recuar, encolher |
-| flinch at | encolher diante de |
-| flinch from | desviar-se de |
-| not flinch | não recuar |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** recuar, encolher, estremecer
+>
+> | English | Portuguese |
+> |---------|------------|
+> | flinch | recuar, encolher |
+> | flinch at | encolher diante de |
+> | flinch from | desviar-se de |
+> | not flinch | não recuar |

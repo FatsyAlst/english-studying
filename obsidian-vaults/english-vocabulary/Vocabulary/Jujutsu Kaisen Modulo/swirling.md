@@ -47,13 +47,15 @@ From Middle English "swirlen," of uncertain origin, possibly from Old English or
 > - Can describe movement of people, objects, liquids, or intangible things
 > - "Swirling" as adjective often creates atmospheric or dynamic descriptions
 > - Common in literature, poetry, and visual descriptions
+> - ⚠️ Similar meaning in [[whirl]] (from [[Dragon Ball Z]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Rodar, girar, turbilhonar; movimento em espiral
 
-| English | Portuguese |
-|---------|------------|
-| The water is swirling. | A água está rodando. |
-| The fog was swirling around. | A névoa estava turbilhonando. |
-| Her skirt was swirling as she danced. | Sua saia estava rodando enquanto dançava. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Rodar, girar, turbilhonar; movimento em espiral
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The water is swirling. | A água está rodando. |
+> | The fog was swirling around. | A névoa estava turbilhonando. |
+> | Her skirt was swirling as she danced. | Sua saia estava rodando enquanto dançava. |

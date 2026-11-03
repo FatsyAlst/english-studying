@@ -58,13 +58,14 @@ From Middle English *lumpe*, of uncertain origin. Possibly related to Old Norse 
 > - Common in informal speech
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Nódulo, massa, aglomerado, aceitar
 
-| English | Portuguese |
-|---------|------------|
-| lump | nódulo, massa, aglomerado |
-| lump of energy | aglomerado de energia |
-| lump it | aceitar, engolir seco |
-| lumped together | agrupados juntos |
-| lumpy | com nódulos, irregular |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Nódulo, massa, aglomerado, aceitar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | lump | nódulo, massa, aglomerado |
+> | lump of energy | aglomerado de energia |
+> | lump it | aceitar, engolir seco |
+> | lumped together | agrupados juntos |
+> | lumpy | com nódulos, irregular |

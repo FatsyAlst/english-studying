@@ -46,11 +46,12 @@ From Middle English "bickren," possibly from Old Norse "bikkja" meaning to chatt
 > - Present participle form often used to describe ongoing behavior
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Discutir, brigar (por coisas triviais), guerrilha verbal
 
-| English | Portuguese |
-|---------|------------|
-| They were bickering about money. | Eles estavam brigando sobre dinheiro. |
-| Stop bickering! | Parem de discutir! |
-| The constant bickering annoyed everyone. | A constante briga irritava a todos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Discutir, brigar (por coisas triviais), guerrilha verbal
+>
+> | English | Portuguese |
+> |---------|------------|
+> | They were bickering about money. | Eles estavam brigando sobre dinheiro. |
+> | Stop bickering! | Parem de discutir! |
+> | The constant bickering annoyed everyone. | A constante briga irritava a todos. |

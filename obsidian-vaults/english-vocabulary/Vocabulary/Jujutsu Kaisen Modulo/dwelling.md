@@ -45,11 +45,12 @@ From Old English *dwellan* (to lead astray, delay), later developed the sense of
 > - Can refer to any type of residence, from luxurious to humble
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Moradia, habitação, residência, casa
 
-| English | Portuguese |
-|---------|------------|
-| dwelling place | lugar de moradia |
-| human dwellings | habitações humanas |
-| modest dwelling | moradia modesta |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Moradia, habitação, residência, casa
+>
+> | English | Portuguese |
+> |---------|------------|
+> | dwelling place | lugar de moradia |
+> | human dwellings | habitações humanas |
+> | modest dwelling | moradia modesta |

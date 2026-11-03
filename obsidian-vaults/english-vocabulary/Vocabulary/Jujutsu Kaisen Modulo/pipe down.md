@@ -45,12 +45,13 @@ From "pipe" (to make a shrill sound) + "down" (to reduce or stop). Originally na
 > - Less harsh than "shut up" but more direct than "please be quiet"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Ficar quieto, calar-se, fazer silêncio, parar de falar
 
-| English | Portuguese |
-|---------|------------|
-| pipe down | ficar quieto, calar-se |
-| tell someone to pipe down | pedir para alguém ficar quieto |
-| pipe down and listen | ficar quieto e escutar |
-| piped down | ficou quieto, calou-se |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Ficar quieto, calar-se, fazer silêncio, parar de falar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | pipe down | ficar quieto, calar-se |
+> | tell someone to pipe down | pedir para alguém ficar quieto |
+> | pipe down and listen | ficar quieto e escutar |
+> | piped down | ficou quieto, calou-se |

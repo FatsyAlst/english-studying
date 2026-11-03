@@ -55,11 +55,12 @@ From Scandinavian origins, possibly from Old Norse *tossa* or Norwegian *tøse*.
 > - More casual than "throw"; suggests lighter, more informal movement.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** lançar, jogar, arremessar; mover-se inquietamente
 
-| English | Portuguese |
-|---------|------------|
-| He tossed the ball to his friend. | Ele jogou a bola para seu amigo. |
-| The patient tossed and turned all night. | O paciente se mexia inquietamente a noite toda. |
-| Coin toss will decide who goes first. | O lançamento de moeda decidirá quem vai primeiro. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** lançar, jogar, arremessar; mover-se inquietamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He tossed the ball to his friend. | Ele jogou a bola para seu amigo. |
+> | The patient tossed and turned all night. | O paciente se mexia inquietamente a noite toda. |
+> | Coin toss will decide who goes first. | O lançamento de moeda decidirá quem vai primeiro. |

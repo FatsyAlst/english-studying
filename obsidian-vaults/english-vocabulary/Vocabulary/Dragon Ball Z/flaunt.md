@@ -53,10 +53,12 @@ First recorded around 1560s meaning 'to display oneself in flashy clothes'; orig
 > - Do not confuse with 'flout' (to disregard rules openly).
 
 ---
-**Tradução:** Ostentar / Exibir / Exibir com orgulho (de forma óbvia, para impressionar) / Exibir descaradamente
 
-| English | Portuguese |
-|---------|------------|
-| She loves to flaunt her expensive jewelry at parties. | Ela adora ostentar suas joias caras nas festas. |
-| He flaunted his new sports car by driving slowly through the town center. | Ele exibiu seu carro esportivo novo dirigindo devagar pelo centro da cidade. |
-| She was criticized for flaunting herself in a bikini on social media. | Ela foi criticada por exibir o corpo de biquíni nas redes sociais. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Ostentar / Exibir / Exibir com orgulho (de forma óbvia, para impressionar) / Exibir descaradamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She loves to flaunt her expensive jewelry at parties. | Ela adora ostentar suas joias caras nas festas. |
+> | He flaunted his new sports car by driving slowly through the town center. | Ele exibiu seu carro esportivo novo dirigindo devagar pelo centro da cidade. |
+> | She was criticized for flaunting herself in a bikini on social media. | Ela foi criticada por exibir o corpo de biquíni nas redes sociais. |

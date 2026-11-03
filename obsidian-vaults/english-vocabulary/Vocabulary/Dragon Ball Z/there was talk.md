@@ -49,12 +49,13 @@ Simple English construction combining "there was" (existential construction) + "
 > - Often used to set scene or provide background information
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Havia boatos, as pessoas falavam, havia conversa
 
-| English | Portuguese |
-|---------|------------|
-| there was talk | havia boatos |
-| there was talk of | falava-se de |
-| there was talk that | comentava-se que |
-| there was much talk | havia muito burburinho |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Havia boatos, as pessoas falavam, havia conversa
+>
+> | English | Portuguese |
+> |---------|------------|
+> | there was talk | havia boatos |
+> | there was talk of | falava-se de |
+> | there was talk that | comentava-se que |
+> | there was much talk | havia muito burburinho |

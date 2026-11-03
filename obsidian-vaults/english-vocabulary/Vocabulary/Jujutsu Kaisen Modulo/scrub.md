@@ -54,12 +54,13 @@ From Middle Low German *schrubbe*, related to Dutch *schrobben*. Originally mean
 > - Noun form: a type of vegetation or a lowly person (slang)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Esfregar, limpar (vigentemente), cancelar, cancelamento
 
-| English | Portuguese |
-|---------|------------|
-| to scrub | esfregar, limpar |
-| scrub down | lavar bem, limpar a fundo |
-| scrub the mission | cancelar a missão |
-| scrubbed | esfregado, limpo, cancelado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Esfregar, limpar (vigentemente), cancelar, cancelamento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | to scrub | esfregar, limpar |
+> | scrub down | lavar bem, limpar a fundo |
+> | scrub the mission | cancelar a missão |
+> | scrubbed | esfregado, limpo, cancelado |

@@ -42,10 +42,12 @@ Late 16th century: From French *défiant* or directly from *defiance* (from Lati
 > - Often with body language (gesture, stare).
 
 ---
-**Tradução:** Desafiante, desafiador, rebelde, insolente, provocante
 
-| English | Portuguese |
-|---------|------------|
-| She had suddenly turned into a defiant teenager. | Ela de repente se transformou em uma adolescente desafiante. |
-| The terrorists sent a defiant message to the government. | Os terroristas enviaram uma mensagem desafiante ao governo. |
-| Sylvia tossed back her dark hair in a gesture that was openly defiant. | Sylvia jogou o cabelo escuro para trás em um gesto abertamente desafiante. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Desafiante, desafiador, rebelde, insolente, provocante
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She had suddenly turned into a defiant teenager. | Ela de repente se transformou em uma adolescente desafiante. |
+> | The terrorists sent a defiant message to the government. | Os terroristas enviaram uma mensagem desafiante ao governo. |
+> | Sylvia tossed back her dark hair in a gesture that was openly defiant. | Sylvia jogou o cabelo escuro para trás em um gesto abertamente desafiante. |

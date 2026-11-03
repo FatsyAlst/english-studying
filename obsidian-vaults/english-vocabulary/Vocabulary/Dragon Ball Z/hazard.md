@@ -57,12 +57,14 @@ From Old French *hasard* (game of chance), from Arabic *al-zahr* (the die), ente
 > - Differentiate from 'hassle' (annoyance or difficulty).
 
 ---
-**Tradução:** 1. (Substantivo) Perigo; risco | 2. (Verbo) Arriscar; aventurar | 3. (Substantivo, histórico) Jogo de azar
 
-| English | Portuguese |
-|---------|------------|
-| Smoking is a serious health hazard. | Fumar é um sério risco à saúde. |
-| I'll hazard a guess that it's going to rain. | Vou arriscar um palpite de que vai chover. |
-| Chemical waste poses an environmental hazard. | Resíduos químicos representam um risco ambiental. |
-| The icy roads are a hazard to drivers. | As estradas geladas são um perigo para os motoristas. |
-| He hazarded his fortune on a single bet. | Ele arriscou sua fortuna em uma única aposta. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo) Perigo; risco | 2. (Verbo) Arriscar; aventurar | 3. (Substantivo, histórico) Jogo de azar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Smoking is a serious health hazard. | Fumar é um sério risco à saúde. |
+> | I'll hazard a guess that it's going to rain. | Vou arriscar um palpite de que vai chover. |
+> | Chemical waste poses an environmental hazard. | Resíduos químicos representam um risco ambiental. |
+> | The icy roads are a hazard to drivers. | As estradas geladas são um perigo para os motoristas. |
+> | He hazarded his fortune on a single bet. | Ele arriscou sua fortuna em uma única aposta. |

@@ -55,12 +55,13 @@ From Old English "hopian" meaning to jump or leap. Related to "hope" in some ety
 > - Present participle form used frequently in descriptions
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Pulando, animado, ocupado
 
-| English | Portuguese |
-|---------|------------|
-| hopping | pulando |
-| jumping | saltando |
-| hopping mad | furioso/extremamente irritado |
-| hopping busy | extremamente ocupado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Pulando, animado, ocupado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | hopping | pulando |
+> | jumping | saltando |
+> | hopping mad | furioso/extremamente irritado |
+> | hopping busy | extremamente ocupado |

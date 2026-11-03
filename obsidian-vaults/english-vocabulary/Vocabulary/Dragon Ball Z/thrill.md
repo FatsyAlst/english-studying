@@ -57,13 +57,14 @@ From Middle English *thrillen*, possibly from Old Norse *þrilla* meaning "to bo
 > - Related to adrenaline and intense emotions
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** emoção, arrepio, adrenalina
 
-| English | Portuguese |
-|---------|------------|
-| thrill | emoção, arrepio |
-| thrill of victory | emoção da vitória |
-| thrilling | emocionante |
-| thrilled | emocionado |
-| thrill seeker | viciado em adrenalina |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** emoção, arrepio, adrenalina
+>
+> | English | Portuguese |
+> |---------|------------|
+> | thrill | emoção, arrepio |
+> | thrill of victory | emoção da vitória |
+> | thrilling | emocionante |
+> | thrilled | emocionado |
+> | thrill seeker | viciado em adrenalina |

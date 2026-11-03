@@ -44,12 +44,13 @@ Compound of "big" and "mouth," used idiomatically since the early 20th century. 
 > - Can be written as two words or hyphenated
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** boca grande, fofoqueiro, tagarela
 
-| English | Portuguese |
-|---------|------------|
-| big mouth | boca grande, fofoqueiro |
-| don't be a big mouth | não seja fofoqueiro |
-| such a big mouth | que tagarela |
-| big-mouthed | que fala demais |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** boca grande, fofoqueiro, tagarela
+>
+> | English | Portuguese |
+> |---------|------------|
+> | big mouth | boca grande, fofoqueiro |
+> | don't be a big mouth | não seja fofoqueiro |
+> | such a big mouth | que tagarela |
+> | big-mouthed | que fala demais |

@@ -46,10 +46,12 @@ Late Middle English: from Old French meschever 'come to harm,' from mes- 'badly'
 > - Playful connotation (not truly evil).
 
 ---
-**Tradução:** Travesso, arteiro, brincalhão, danado, maldoso (leve).
 
-| English | Portuguese |
-|---------|------------|
-| A mischievous boy. | Um menino travesso. |
-| A mischievous grin. | Um sorriso travesso. |
-| Mischievous lies. | Mentiras maldosas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Travesso, arteiro, brincalhão, danado, maldoso (leve).
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A mischievous boy. | Um menino travesso. |
+> | A mischievous grin. | Um sorriso travesso. |
+> | Mischievous lies. | Mentiras maldosas. |

@@ -61,12 +61,13 @@ From Latin *pulpa* (soft flesh, pulp). Related to Romance languages and possibly
 > - Pulpy can describe texture or low quality
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Polpa, massa mole, ficção barata
 
-| English | Portuguese |
-|---|---|
-| pulp (soft mass) | polpa |
-| beat to a pulp | reduzir a polpa, espancar |
-| fruit pulp | polpa de fruta |
-| pulp fiction | ficção barata |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Polpa, massa mole, ficção barata
+>
+> | English | Portuguese |
+> |---|---|
+> | pulp (soft mass) | polpa |
+> | beat to a pulp | reduzir a polpa, espancar |
+> | fruit pulp | polpa de fruta |
+> | pulp fiction | ficção barata |

@@ -46,14 +46,16 @@ From Old French *cherir* (to hold dear, value), derived from *cher* (dear), from
 > - "Cherished" as an adjective describes something treasured and protected
 > - The verb suggests a deliberate commitment to valuing something over time
 > - Can refer to emotional, spiritual, or material treasures
+> - ⚠️ Similar meaning in [[treasure]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Prezar, estimar, guardar, conservar com carinho
 
-| English | Portuguese |
-|---------|------------|
-| cherish a memory | guardar uma memória com carinho |
-| cherish life | prezar a vida |
-| deeply cherished | profundamente estimado |
-| cherished moments | momentos preciosos |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Prezar, estimar, guardar, conservar com carinho
+>
+> | English | Portuguese |
+> |---------|------------|
+> | cherish a memory | guardar uma memória com carinho |
+> | cherish life | prezar a vida |
+> | deeply cherished | profundamente estimado |
+> | cherished moments | momentos preciosos |

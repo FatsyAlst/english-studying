@@ -50,13 +50,14 @@ From *un-* (not) + *suspecting* (having suspicion). The verb "suspect" comes fro
 > - Frequently used in action and suspense narratives
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** desatento, despercebido, ingênuo
 
-| English | Portuguese |
-|---------|------------|
-| unsuspecting | desatento |
-| unsuspecting victim | vítima desavisada |
-| catch unsuspecting | apanhar de surpresa |
-| suspecting | suspeitando |
-| suspicion | suspeita |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** desatento, despercebido, ingênuo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | unsuspecting | desatento |
+> | unsuspecting victim | vítima desavisada |
+> | catch unsuspecting | apanhar de surpresa |
+> | suspecting | suspeitando |
+> | suspicion | suspeita |

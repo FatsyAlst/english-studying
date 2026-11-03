@@ -52,13 +52,14 @@ From Old French *pomele*, referring to beating or striking. The root may be rela
 > - Common in sports and martial contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Socar repetidamente, espancar, bombardear
 
-| English | Portuguese |
-|---------|------------|
-| pummeled | socado repetidamente, espancado |
-| pummeled with attacks | bombardeado com ataques |
-| pummeled relentlessly | espancado implacavelmente |
-| pummeled into submission | socado até se render |
-| pummeled opponent | oponente espancado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Socar repetidamente, espancar, bombardear
+>
+> | English | Portuguese |
+> |---------|------------|
+> | pummeled | socado repetidamente, espancado |
+> | pummeled with attacks | bombardeado com ataques |
+> | pummeled relentlessly | espancado implacavelmente |
+> | pummeled into submission | socado até se render |
+> | pummeled opponent | oponente espancado |

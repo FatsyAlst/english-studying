@@ -54,11 +54,12 @@ From Old French *torment*, from Latin *tormentum* (instrument of torture), relat
 > - Literary and formal in tone.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** atormentar, torturar; tormento, suplício
 
-| English | Portuguese |
-|---------|------------|
-| The constant noise torments the residents. | O barulho constante atorment os residentes. |
-| She was tormented by guilt and regret. | Ela era atormentada pela culpa e arrependimento. |
-| The prisoners endured constant torment. | Os prisioneiros suportaram tormento constante. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** atormentar, torturar; tormento, suplício
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The constant noise torments the residents. | O barulho constante atorment os residentes. |
+> | She was tormented by guilt and regret. | Ela era atormentada pela culpa e arrependimento. |
+> | The prisoners endured constant torment. | Os prisioneiros suportaram tormento constante. |

@@ -31,10 +31,12 @@ Dangerous, uncertain, or unpredictable; risky or unreliable.
 > - Similar: tricky, dodgy, iffy.
 
 ---
-**Tradução:** Arriscado, perigoso, incerto, chancy, duvidoso, meio arriscado.
 
-| English | Portuguese |
-|---------|------------|
-| The fog made driving pretty dicey. | A neblina tornou a direção bem arriscada/perigosa. |
-| Starting a business can be quite a dicey proposition. | Começar um negócio pode ser uma empreitada bem incerta/arriscada. |
-| The situation looks a little dicey. | A situação parece um pouco duvidosa/arriscada. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Arriscado, perigoso, incerto, chancy, duvidoso, meio arriscado.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The fog made driving pretty dicey. | A neblina tornou a direção bem arriscada/perigosa. |
+> | Starting a business can be quite a dicey proposition. | Começar um negócio pode ser uma empreitada bem incerta/arriscada. |
+> | The situation looks a little dicey. | A situação parece um pouco duvidosa/arriscada. |

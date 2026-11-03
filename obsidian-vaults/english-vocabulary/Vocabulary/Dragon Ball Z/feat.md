@@ -48,13 +48,14 @@ From Old French *fait*, from Latin *factum* meaning "deed" or "action" (from *fa
 > - Suggests skill, courage, or extraordinary effort
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** façanha, feito, proeza
 
-| English | Portuguese |
-|---------|------------|
-| feat | façanha |
-| impressive feat | façanha impressionante |
-| feat of strength | proeza de força |
-| feat of skill | feito de habilidade |
-| remarkable feat | façanha notável |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** façanha, feito, proeza
+>
+> | English | Portuguese |
+> |---------|------------|
+> | feat | façanha |
+> | impressive feat | façanha impressionante |
+> | feat of strength | proeza de força |
+> | feat of skill | feito de habilidade |
+> | remarkable feat | façanha notável |

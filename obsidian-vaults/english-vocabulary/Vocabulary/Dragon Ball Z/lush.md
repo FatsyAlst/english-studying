@@ -68,12 +68,14 @@ Late Middle English: alteration of obsolete *lash* 'soft, lax' from Old French *
 > - Adjective meanings (luxuriant, luxurious) are the most common in modern usage.
 
 ---
-**Tradução:** 1. (Adjetivo) Exuberante; viçoso; luxuriante | 2. Luxuoso; rico; sumptúario | 3. (UK girália) Gato/a (atraente) | 4. (Substantivo, girália) Bêbado; bebum; alcoólatra (desdénho) | 5. Álcool; bebida alcoólica
 
-| English | Portuguese |
-|---------|------------|
-| The lush green countryside was perfect for hiking. | O campo exuberante e verde era perfeito para caminhadas. |
-| The room had lush carpets and velvet curtains. | O cômodo tinha tapetes luxuosos e cortinas de veludo. |
-| He's so lush in that photo! | Ele está gato nessa foto! |
-| He's just an old lush who drinks every day. | Ele é só um velho bebum que bebe todo dia. |
-| Lush vegetation covered the tropical island. | A vegetação luxuriante cobria a ilha tropical. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Adjetivo) Exuberante; viçoso; luxuriante | 2. Luxuoso; rico; sumptúario | 3. (UK girália) Gato/a (atraente) | 4. (Substantivo, girália) Bêbado; bebum; alcoólatra (desdénho) | 5. Álcool; bebida alcoólica
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The lush green countryside was perfect for hiking. | O campo exuberante e verde era perfeito para caminhadas. |
+> | The room had lush carpets and velvet curtains. | O cômodo tinha tapetes luxuosos e cortinas de veludo. |
+> | He's so lush in that photo! | Ele está gato nessa foto! |
+> | He's just an old lush who drinks every day. | Ele é só um velho bebum que bebe todo dia. |
+> | Lush vegetation covered the tropical island. | A vegetação luxuriante cobria a ilha tropical. |

@@ -63,11 +63,12 @@ From Old French *feint* ("sluggish, cowardly"), past participle of *feindre* ("t
 > - The verb *faint* and the verb *feign* share the same Latin root (*fingere*) — the original idea was pretending to be weak.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** fraco, tênue, leve (adjetivo); desmaiar (verbo)
 
-| English | Portuguese |
-|---------|------------|
-| There was a faint smell of perfume in the room. | Havia um cheiro tênue de perfume no quarto. |
-| She felt faint from the heat. | Ela se sentiu fraca por causa do calor. |
-| She fainted when she heard the news. | Ela desmaiou quando ouviu a notícia. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** fraco, tênue, leve (adjetivo); desmaiar (verbo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | There was a faint smell of perfume in the room. | Havia um cheiro tênue de perfume no quarto. |
+> | She felt faint from the heat. | Ela se sentiu fraca por causa do calor. |
+> | She fainted when she heard the news. | Ela desmaiou quando ouviu a notícia. |

@@ -72,11 +72,12 @@ Old Norse *draga* 'to draw, pull'; related to German *tragen* and Greek *tragein
 > - Physics: resistance force opposing motion through a medium.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Verbo, puxar) Arrastar; puxar; reboque | 2. (Verbo, demora) Arrastar-se; demorar | 3. (Substantivo, impedimento) Incômodo; chatice; obstáculo
 
-| English | Portuguese |
-|---------|------------|
-| He dragged the suitcase across the floor. | Ele arrastou a mala pelo chão. |
-| The meeting dragged on for hours. | A reunião se arrastou por horas. |
-| The paperwork is such a drag. | A papelada é uma verdadeira chatice. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, puxar) Arrastar; puxar; reboque | 2. (Verbo, demora) Arrastar-se; demorar | 3. (Substantivo, impedimento) Incômodo; chatice; obstáculo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He dragged the suitcase across the floor. | Ele arrastou a mala pelo chão. |
+> | The meeting dragged on for hours. | A reunião se arrastou por horas. |
+> | The paperwork is such a drag. | A papelada é uma verdadeira chatice. |

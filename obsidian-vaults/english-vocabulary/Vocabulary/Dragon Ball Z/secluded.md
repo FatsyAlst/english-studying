@@ -49,16 +49,18 @@ From Latin *secludere*, from *se-* (apart, aside) + *claudere* (to close, shut).
 > - Common in describing training locations or sanctuaries
 > - Emphasizes separation from outside world
 > - Implies both privacy and protection
+> - ⚠️ Similar meaning in [[reclusive]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Isolado, afastado, recluso, secreto
 
-| English | Portuguese |
-|---------|------------|
-| secluded | isolado, afastado |
-| secluded location | local isolado |
-| secluded temple | templo isolado |
-| secluded area | área afastada |
-| secluded sanctuary | santuário isolado |
-| in seclusion | em isolamento |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Isolado, afastado, recluso, secreto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | secluded | isolado, afastado |
+> | secluded location | local isolado |
+> | secluded temple | templo isolado |
+> | secluded area | área afastada |
+> | secluded sanctuary | santuário isolado |
+> | in seclusion | em isolamento |

@@ -42,15 +42,17 @@ From "gull" (to deceive or cheat, from the gull bird which was considered foolis
 > - Negative connotation; describes someone who is easily deceived.
 > - Related to credibility and critical thinking.
 > - Noun form: "gullibility" (the quality of being gullible).
-> - Similar to "naive" or "credulous" but with stronger implication of being foolish.
+> - Similar to "[[naive]]" or "credulous" but with stronger implication of being foolish.
 > - Often used to warn against or criticize excessive trust or naivety.
+> - ⚠️ Similar meaning in [[naive]] (from [[Dragon Ball Super]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** crédulo, ingênuo, facilmente enganado
 
-| English | Portuguese |
-|---------|------------|
-| Don't be so gullible; that's obviously a scam. | Não seja tão crédulo; é obviamente uma fraude. |
-| Young children are often more gullible than adults. | Crianças pequenas geralmente são mais crédulas que adultos. |
-| He was too gullible to notice the deception. | Ele era muito ingênuo para notar a enganação. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** crédulo, ingênuo, facilmente enganado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Don't be so gullible; that's obviously a scam. | Não seja tão crédulo; é obviamente uma fraude. |
+> | Young children are often more gullible than adults. | Crianças pequenas geralmente são mais crédulas que adultos. |
+> | He was too gullible to notice the deception. | Ele era muito ingênuo para notar a enganação. |

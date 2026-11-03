@@ -67,12 +67,13 @@ From Old English "camb" and Germanic origins (Old Saxon "kamb", Old Norse "kambr
 > - Common in grooming, searching, and investigation contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Pente, pentear, peneirar
 
-| English | Portuguese |
-|---------|------------|
-| comb (noun) | pente |
-| comb (verb) | pentear |
-| comb through | vasculhar/procurar |
-| comb the area | vasculhar a área |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Pente, pentear, peneirar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | comb (noun) | pente |
+> | comb (verb) | pentear |
+> | comb through | vasculhar/procurar |
+> | comb the area | vasculhar a área |

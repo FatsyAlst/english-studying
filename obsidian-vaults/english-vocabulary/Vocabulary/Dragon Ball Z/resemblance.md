@@ -24,9 +24,11 @@ Middle English from Anglo-Norman French resembla(u)nce, from resembler "to be li
 > - Synonyms: similarity, likeness.
 
 ---
-**Tradução:** Semelhança / Parecença
 
-| English | Portuguese |
-|---------|------------|
-| The twins share a striking resemblance to each other. | Os gêmeos compartilham uma semelhança marcante um com o outro. |
-| She bears a strong family resemblance to her grandmother. | Ela tem uma forte semelhança familiar com sua avó. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Semelhança / Parecença
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The twins share a striking resemblance to each other. | Os gêmeos compartilham uma semelhança marcante um com o outro. |
+> | She bears a strong family resemblance to her grandmother. | Ela tem uma forte semelhança familiar com sua avó. |

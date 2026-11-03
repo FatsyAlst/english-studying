@@ -46,13 +46,14 @@ Compound of "snap" (quick action) and "shot" (photograph), popularized with the 
 > - Used in photography and metaphorical contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** fotografia instantânea, recorte
 
-| English | Portuguese |
-|---------|------------|
-| snapshot | fotografia instantânea |
-| take a snapshot | tirar uma foto |
-| snapshot of | recorte de |
-| quick snapshot | foto rápida |
-| candid snapshot | foto espontânea |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** fotografia instantânea, recorte
+>
+> | English | Portuguese |
+> |---------|------------|
+> | snapshot | fotografia instantânea |
+> | take a snapshot | tirar uma foto |
+> | snapshot of | recorte de |
+> | quick snapshot | foto rápida |
+> | candid snapshot | foto espontânea |

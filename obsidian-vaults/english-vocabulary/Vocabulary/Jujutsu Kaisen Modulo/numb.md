@@ -68,12 +68,13 @@ From Middle English "nome," from Old Norse "numinn" (seized, taken). Originally 
 > - Medical contexts use "numbness" to describe loss of sensation
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** dormente, insensível, entorpecido; entorpecer
 
-| English | Portuguese |
-|---------|------------|
-| numb fingers | dedos dormentes |
-| numb with cold | dormente de frio |
-| emotionally numb | insensível emocionalmente |
-| numb the pain | aliviar a dor |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** dormente, insensível, entorpecido; entorpecer
+>
+> | English | Portuguese |
+> |---------|------------|
+> | numb fingers | dedos dormentes |
+> | numb with cold | dormente de frio |
+> | emotionally numb | insensível emocionalmente |
+> | numb the pain | aliviar a dor |

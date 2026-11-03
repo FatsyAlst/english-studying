@@ -45,12 +45,13 @@ Compound of "strangle" (from Old French "estrangler") and "hold" (from Old Engli
 > - Used in political, economic, and social contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** estrangulamento, controle total
 
-| English | Portuguese |
-|---------|------------|
-| stranglehold | estrangulamento |
-| have a stranglehold | ter controle total |
-| in a stranglehold | em estrangulamento |
-| break free from stranglehold | se livrar do controle |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** estrangulamento, controle total
+>
+> | English | Portuguese |
+> |---------|------------|
+> | stranglehold | estrangulamento |
+> | have a stranglehold | ter controle total |
+> | in a stranglehold | em estrangulamento |
+> | break free from stranglehold | se livrar do controle |

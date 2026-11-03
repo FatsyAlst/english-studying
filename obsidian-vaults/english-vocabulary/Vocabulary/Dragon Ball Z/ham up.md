@@ -49,12 +49,13 @@ To exaggerate one's performance, behavior, or expression; to act in an overly dr
 > - "Ham it up" emphasizes the deliberateness of the overacting
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Exagerar, dramatizar, fazer uma atuação exagerada
 
-| English | Portuguese |
-|---------|------------|
-| ham up | exagerar/dramatizar |
-| ham it up | fazer alarde |
-| hammed up | dramatizado/exagerado |
-| hammy | teatral/exagerado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Exagerar, dramatizar, fazer uma atuação exagerada
+>
+> | English | Portuguese |
+> |---------|------------|
+> | ham up | exagerar/dramatizar |
+> | ham it up | fazer alarde |
+> | hammed up | dramatizado/exagerado |
+> | hammy | teatral/exagerado |

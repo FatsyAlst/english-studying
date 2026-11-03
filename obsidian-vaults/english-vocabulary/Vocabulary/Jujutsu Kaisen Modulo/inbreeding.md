@@ -42,10 +42,11 @@ Compound of *in-* (within) + *breeding* (reproduction). First recorded in the 18
 > - Distinct from *crossbreeding* (breeding between different varieties) and *outbreeding* (breeding between unrelated individuals).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** endogamia, consanguinidade, cruzamento consanguíneo
 
-| English | Portuguese |
-|---------|------------|
-| Inbreeding among royal families led to hereditary diseases. | A endogamia entre as famílias reais levou a doenças hereditárias. |
-| The small population suffered from inbreeding. | A pequena população sofreu com a consanguinidade. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** endogamia, consanguinidade, cruzamento consanguíneo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Inbreeding among royal families led to hereditary diseases. | A endogamia entre as famílias reais levou a doenças hereditárias. |
+> | The small population suffered from inbreeding. | A pequena população sofreu com a consanguinidade. |

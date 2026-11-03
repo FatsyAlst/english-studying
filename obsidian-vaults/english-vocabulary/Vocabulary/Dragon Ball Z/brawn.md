@@ -46,12 +46,14 @@ Late 13th c. Middle English *braun* 'boar's flesh' from Old French *braon* 'fles
 > - Adjective form: brawny (muscular, strong).
 
 ---
-**Tradução:** 1. (Substantivo, força) Força física; músculos; vigor muscular | 2. (Substantivo, carne) Carne de cabeça (de porco); cabeça de porco cozida e prensada
 
-| English | Portuguese |
-|---------|------------|
-| In this job you need brains as well as brawn. | Nesse trabalho você precisa de cérebro tanto quanto de músculos. |
-| What they lack in brawn they make up for in skill. | O que falta em força física, compensam com habilidade. |
-| He's all brawn and no brains. | Ele é só músculos e sem cérebro. |
-| They served brawn as an appetizer. | Serviram carne de cabeça como apertítivo. |
-| Brawn is made from the pig's head. | A carne de cabeça é feita da cabeça do porco. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, força) Força física; músculos; vigor muscular | 2. (Substantivo, carne) Carne de cabeça (de porco); cabeça de porco cozida e prensada
+>
+> | English | Portuguese |
+> |---------|------------|
+> | In this job you need brains as well as brawn. | Nesse trabalho você precisa de cérebro tanto quanto de músculos. |
+> | What they lack in brawn they make up for in skill. | O que falta em força física, compensam com habilidade. |
+> | He's all brawn and no brains. | Ele é só músculos e sem cérebro. |
+> | They served brawn as an appetizer. | Serviram carne de cabeça como apertítivo. |
+> | Brawn is made from the pig's head. | A carne de cabeça é feita da cabeça do porco. |

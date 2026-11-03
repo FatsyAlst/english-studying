@@ -49,12 +49,13 @@ From American slang, possibly from bogus coins or from the name of a counterfeit
 > - Popular in action narratives when describing impostors or fraud
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Falso, fraudulento, espúrio
 
-| English | Portuguese |
-|---|---|
-| bogus | falso, fraudulento |
-| completely bogus | completamente falso |
-| bogus claim | alegação falsa |
-| bogus credentials | credenciais falsas |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Falso, fraudulento, espúrio
+>
+> | English | Portuguese |
+> |---|---|
+> | bogus | falso, fraudulento |
+> | completely bogus | completamente falso |
+> | bogus claim | alegação falsa |
+> | bogus credentials | credenciais falsas |

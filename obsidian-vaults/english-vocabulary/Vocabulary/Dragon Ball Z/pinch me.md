@@ -49,12 +49,13 @@ From the idea that if you're dreaming, physical sensations like a pinch would wa
 > - Related: "I'm pinching myself" (expressing amazement)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Belisca-me, me belisque (expressão de descrença/surpresa)
 
-| English | Portuguese |
-|---------|------------|
-| pinch me | belisca-me |
-| I'm pinching myself | estou me beliscando |
-| if I'm dreaming | se estou sonhando |
-| this is unreal | isso é irreal |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Belisca-me, me belisque (expressão de descrença/surpresa)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | pinch me | belisca-me |
+> | I'm pinching myself | estou me beliscando |
+> | if I'm dreaming | se estou sonhando |
+> | this is unreal | isso é irreal |

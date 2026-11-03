@@ -64,13 +64,14 @@ From Old English *bindan*, related to Old Norse *binda* and German *binden*. Ori
 > - Binding agreements/contracts are legally enforceable
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** amarrar, unir, obrigar, aperto
 
-| English | Portuguese |
-|---------|------------|
-| to bind | amarrar, atar |
-| bind together | unir |
-| binding | vinculativo, obrigatório |
-| in a bind | em um aperto |
-| bind someone's hands | amarrar as mãos de alguém |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** amarrar, unir, obrigar, aperto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | to bind | amarrar, atar |
+> | bind together | unir |
+> | binding | vinculativo, obrigatório |
+> | in a bind | em um aperto |
+> | bind someone's hands | amarrar as mãos de alguém |

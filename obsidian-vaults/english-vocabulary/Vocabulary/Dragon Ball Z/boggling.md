@@ -39,10 +39,12 @@ Verb 'boggle' from late 16th century Scots, probably from *bogle* 'hobgoblin, sp
 > - Synonyms: astounding, staggering.
 
 ---
-**Tradução:** Espantoso, atordoante, assombroso, alucinante (especialmente mind-boggling); desconcertante
 
-| English | Portuguese |
-|---------|------------|
-| The mind-boggling complexity of the universe. | A complexidade alucinante/espantosa do universo. |
-| The cost of the project is boggling. | O custo do projeto é atordoante. |
-| It's boggling to think how fast time flies. | É assombroso pensar o quão rápido o tempo passa. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Espantoso, atordoante, assombroso, alucinante (especialmente mind-boggling); desconcertante
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The mind-boggling complexity of the universe. | A complexidade alucinante/espantosa do universo. |
+> | The cost of the project is boggling. | O custo do projeto é atordoante. |
+> | It's boggling to think how fast time flies. | É assombroso pensar o quão rápido o tempo passa. |

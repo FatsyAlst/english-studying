@@ -43,13 +43,15 @@ Origin uncertain; possibly imitative or from Yiddish *klop* (to hit). First reco
 > - Suggests a decisive, overwhelming victory or heavy blow.
 > - Often used in sports contexts and casual speech.
 > - Emphatic and forceful; conveys dominance or superiority.
+> - ⚠️ Similar meaning in [[whacked]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** bater com força, soccar, derrotar completamente
 
-| English | Portuguese |
-|---------|------------|
-| The boxer clobbered his opponent in the first round. | O boxeador nocauteou seu oponente no primeiro round. |
-| They clobbered the opposing team 5-0. | Eles golearam o time adversário 5-0. |
-| He clobbered me with a pillow. | Ele me bateu com um travesseiro. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** bater com força, soccar, derrotar completamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The boxer clobbered his opponent in the first round. | O boxeador nocauteou seu oponente no primeiro round. |
+> | They clobbered the opposing team 5-0. | Eles golearam o time adversário 5-0. |
+> | He clobbered me with a pillow. | Ele me bateu com um travesseiro. |

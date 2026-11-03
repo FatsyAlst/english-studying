@@ -51,13 +51,14 @@ From "at" + "one" + "-ment," literally meaning "at-one-ment." The word originall
 > - Day of Atonement (Yom Kippur) is a significant religious observance in Judaism
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Expiação, reparação, redenção, reconciliação
 
-| English | Portuguese |
-|---------|------------|
-| seek atonement | buscar expiação |
-| atonement for sins | expiação dos pecados |
-| make atonement | fazer reparação |
-| day of atonement | dia da expiação |
-| spiritual atonement | expiação espiritual |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Expiação, reparação, redenção, reconciliação
+>
+> | English | Portuguese |
+> |---------|------------|
+> | seek atonement | buscar expiação |
+> | atonement for sins | expiação dos pecados |
+> | make atonement | fazer reparação |
+> | day of atonement | dia da expiação |
+> | spiritual atonement | expiação espiritual |

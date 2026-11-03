@@ -42,11 +42,12 @@ Compound word formed from "laughing" (present participle of laugh) and "stock" (
 > - Frequently follows "become" or "make"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** motivo de escárnio, alvo de zombaria, piada
 
-| English | Portuguese |
-|---------|------------|
-| laughingstock | motivo de escárnio |
-| become a laughingstock | virar motivo de zombaria |
-| make someone a laughingstock | transformar alguém em alvo de zombaria |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** motivo de escárnio, alvo de zombaria, piada
+>
+> | English | Portuguese |
+> |---------|------------|
+> | laughingstock | motivo de escárnio |
+> | become a laughingstock | virar motivo de zombaria |
+> | make someone a laughingstock | transformar alguém em alvo de zombaria |

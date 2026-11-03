@@ -41,10 +41,11 @@ Informal clipping of *preliminary*, from French *préliminaire*, from Latin *pra
 > - Can be used as either noun or adjective: *"the prelim exam"* or *"the prelims."*
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** preliminar, etapa preliminar, prova eliminatória
 
-| English | Portuguese |
-|---------|------------|
-| The prelims start at 9 a.m. | As eliminatórias começam às 9 da manhã. |
-| She passed her prelims with flying colors. | Ela passou nas provas preliminares com louvor. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** preliminar, etapa preliminar, prova eliminatória
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The prelims start at 9 a.m. | As eliminatórias começam às 9 da manhã. |
+> | She passed her prelims with flying colors. | Ela passou nas provas preliminares com louvor. |

@@ -46,15 +46,17 @@ From "brush" (to clean with a brush) + "off" (away, removed). The phrasal verb c
 > - Less harsh than "ignore" but shows indifference
 > - Suggests a quick, careless response
 > - "The brush-off" is a noun phrase meaning rejection or dismissal
+> - ⚠️ Similar meaning in [[pay it no mind]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Descartar, ignorar; uma rejeição desdenhosa
 
-| English | Portuguese |
-|---------|------------|
-| brush off | descartar, ignorar |
-| brush off concerns | ignorar as preocupações |
-| give someone the brush-off | dar um descarço a alguém |
-| brush-off | rejeição, desprezo |
-| brushed off | descartado, ignorado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Descartar, ignorar; uma rejeição desdenhosa
+>
+> | English | Portuguese |
+> |---------|------------|
+> | brush off | descartar, ignorar |
+> | brush off concerns | ignorar as preocupações |
+> | give someone the brush-off | dar um descarço a alguém |
+> | brush-off | rejeição, desprezo |
+> | brushed off | descartado, ignorado |

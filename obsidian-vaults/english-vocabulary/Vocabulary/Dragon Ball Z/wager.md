@@ -57,13 +57,14 @@ From Old French "wageure" meaning "pledge" or "security," related to "wage" in t
 > - Implies serious consequences for the outcome
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** aposta, apuesto
 
-| English | Portuguese |
-|---------|------------|
-| wager | aposta |
-| make a wager | fazer uma aposta |
-| place a wager | colocar uma aposta |
-| high wager | aposta alta |
-| bet | aposta |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** aposta, apuesto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | wager | aposta |
+> | make a wager | fazer uma aposta |
+> | place a wager | colocar uma aposta |
+> | high wager | aposta alta |
+> | bet | aposta |

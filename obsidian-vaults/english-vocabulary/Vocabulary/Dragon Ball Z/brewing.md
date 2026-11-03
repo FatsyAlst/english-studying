@@ -53,11 +53,12 @@ From Old English *breowan*, from Proto-Germanic *breuwan*. The word originally m
 > - Often implies waiting or anticipation before something happens.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** fermentar, preparar (cerveja/chá/café); estar se preparando (figurado)
 
-| English | Portuguese |
-|---------|------------|
-| The coffee is still brewing. | O café ainda está sendo preparado. |
-| A storm is brewing on the horizon. | Uma tempestade está se aproximando no horizonte. |
-| Trouble has been brewing between the neighbors. | Problemas têm estado se desenvolvendo entre os vizinhos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** fermentar, preparar (cerveja/chá/café); estar se preparando (figurado)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The coffee is still brewing. | O café ainda está sendo preparado. |
+> | A storm is brewing on the horizon. | Uma tempestade está se aproximando no horizonte. |
+> | Trouble has been brewing between the neighbors. | Problemas têm estado se desenvolvendo entre os vizinhos. |

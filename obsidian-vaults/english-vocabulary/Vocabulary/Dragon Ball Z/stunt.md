@@ -54,10 +54,12 @@ From Old English *stunt* meaning 'dull, stupid, foolish,' evolving in the 19th c
 > - Avoid confusing with 'stint' (a period of time or limit).
 
 ---
-**Tradução:** Acrobacia / Inibir
 
-| English | Portuguese |
-|---------|------------|
-| The motorcyclist performed a daring stunt jumping over the bus. | O motociclista realizou uma acrobacia ousada pulando sobre o ônibus. |
-| Poor nutrition can stunt a child's physical development. | Má nutrição pode inibir o desenvolvimento físico de uma criança. |
-| That viral video features an incredible parkour stunt on skyscrapers. | Aquele vídeo viral apresenta uma façanha incrível de parkour em arranha-céus. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Acrobacia / Inibir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The motorcyclist performed a daring stunt jumping over the bus. | O motociclista realizou uma acrobacia ousada pulando sobre o ônibus. |
+> | Poor nutrition can stunt a child's physical development. | Má nutrição pode inibir o desenvolvimento físico de uma criança. |
+> | That viral video features an incredible parkour stunt on skyscrapers. | Aquele vídeo viral apresenta uma façanha incrível de parkour em arranha-céus. |

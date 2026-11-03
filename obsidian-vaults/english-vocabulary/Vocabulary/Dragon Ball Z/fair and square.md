@@ -46,13 +46,14 @@ Combination of "fair" (just, honest) and "square" (honest, straightforward). "Sq
 > - Common in sports and formal dealings
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** corretamente, honestamente, sem trapaça
 
-| English | Portuguese |
-|---------|------------|
-| fair and square | corretamente e honestamente |
-| win fair and square | ganhar corretamente |
-| fair and square deal | negócio honesto |
-| fought fair and square | lutou honestamente |
-| defeated fair and square | derrotado legitimamente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** corretamente, honestamente, sem trapaça
+>
+> | English | Portuguese |
+> |---------|------------|
+> | fair and square | corretamente e honestamente |
+> | win fair and square | ganhar corretamente |
+> | fair and square deal | negócio honesto |
+> | fought fair and square | lutou honestamente |
+> | defeated fair and square | derrotado legitimamente |

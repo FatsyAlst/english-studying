@@ -52,9 +52,11 @@ From Old English hrycg "back, spine, crest," related to Dutch rug and German Rü
 > - Synonyms: crest, peak (land); furrow (opposite).
 
 ---
-**Tradução:** Cume / Crista / Cumeeira
 
-| English | Portuguese |
-|---------|------------|
-| We hiked along the windy ridge for stunning views. | Caminhamos ao longo do cume ventoso para vistas deslumbrantes. |
-| The ridges on the boot soles prevent slipping. | As cristas nas solas das botas evitam escorregar. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Cume / Crista / Cumeeira
+>
+> | English | Portuguese |
+> |---------|------------|
+> | We hiked along the windy ridge for stunning views. | Caminhamos ao longo do cume ventoso para vistas deslumbrantes. |
+> | The ridges on the boot soles prevent slipping. | As cristas nas solas das botas evitam escorregar. |

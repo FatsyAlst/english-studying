@@ -1,27 +1,15 @@
 /* ═══════════════════════════════════════════════════════════════
-   English Vocabulary Vault — Custom CSS Snippet
-   Designed for Minimal theme with dark mode
+   English Vocabulary Vault — Custom CSS Snippet (calm edition)
+   One accent colour. Everything else is theme text/border colours.
    ═══════════════════════════════════════════════════════════════ */
 
-/* ─── Color Palette ───────────────────────────────────────────── */
+/* ─── Palette ─────────────────────────────────────────────────── */
 :root {
-    /* Vault accent */
     --vocab-accent: #e09f3e;
     --vocab-accent-rgb: 224, 159, 62;
-
-    /* Category colors */
-    --cat-anime: #f59e0b;
-    --cat-manga: #a855f7;
-    --cat-movie: #ef4444;
-    --cat-series: #3b82f6;
-    --cat-book: #22c55e;
-
-    /* Per-media colors */
-    --media-dragon-ball-z: #f97316;
-    --media-dragon-ball: #eab308;
-    --media-f1: #ef4444;
-    --media-peaky-blinders: #6366f1;
-    --media-jujutsu-kaisen: #22c55e;
+    --vocab-ui: 1;   /* marker: scripts warn if this snippet is not enabled */
+    /* Serif for word cards and exercise set numbers: change this one line to taste */
+    --vocab-serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
 }
 
 /* ─── Hide Properties in Reading Mode ─────────────────────────── */
@@ -213,7 +201,7 @@ body {
   background: rgba(var(--vocab-accent-rgb), 0.03);
 }
 
-/* ─── Tags — Base Styling ─────────────────────────────────────── */
+/* ─── Tags — one style for every tag (no per-tag colours) ─────── */
 .tag {
   background: rgba(var(--vocab-accent-rgb), 0.1);
   color: var(--vocab-accent);
@@ -222,20 +210,6 @@ body {
   padding: 1px 6px;
   font-size: 0.85em;
 }
-
-/* ─── Tags — Category Colors ─────────────────────────────────── */
-a.tag[href*="anime"]      { background: rgba(245,158,11,0.12); color: var(--cat-anime);  border-color: rgba(245,158,11,0.3); }
-a.tag[href*="manga"]      { background: rgba(168,85,247,0.12); color: var(--cat-manga);  border-color: rgba(168,85,247,0.3); }
-a.tag[href*="movie"]      { background: rgba(239,68,68,0.12);  color: var(--cat-movie);  border-color: rgba(239,68,68,0.3); }
-a.tag[href*="series"]     { background: rgba(59,130,246,0.12); color: var(--cat-series); border-color: rgba(59,130,246,0.3); }
-a.tag[href*="book"]       { background: rgba(34,197,94,0.12);  color: var(--cat-book);   border-color: rgba(34,197,94,0.3); }
-
-/* ─── Tags — Per-Media Colors ─────────────────────────────────── */
-a.tag[href*="dragon-ball-z"]   { background: rgba(249,115,22,0.12); color: var(--media-dragon-ball-z);   border-color: rgba(249,115,22,0.3); }
-a.tag[href*="dragon-ball"]:not([href*="dragon-ball-z"]) { background: rgba(234,179,8,0.12); color: var(--media-dragon-ball); border-color: rgba(234,179,8,0.3); }
-a.tag[href*="f1"]              { background: rgba(239,68,68,0.12);  color: var(--media-f1);              border-color: rgba(239,68,68,0.3); }
-a.tag[href*="peaky-blinders"]  { background: rgba(99,102,241,0.12); color: var(--media-peaky-blinders);  border-color: rgba(99,102,241,0.3); }
-a.tag[href*="jujutsu-kaisen"]  { background: rgba(34,197,94,0.12);  color: var(--media-jujutsu-kaisen);  border-color: rgba(34,197,94,0.3); }
 
 /* ─── Horizontal Rules ────────────────────────────────────────── */
 .markdown-reading-view hr {
@@ -266,34 +240,6 @@ a.tag[href*="jujutsu-kaisen"]  { background: rgba(34,197,94,0.12);  color: var(-
   margin-top: 2em;
 }
 
-/* ─── Media Cards - Movie Database Style ────────────────────── */
-/* Disable hover preview for media cards */
-.media-card[data-no-preview="true"] {
-  position: relative;
-}
-
-.media-card[data-no-preview="true"]::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 1;
-  pointer-events: none;
-}
-
-.media-card:hover {
-  border-color: rgba(var(--vocab-accent-rgb), 0.4) !important;
-  transform: translateY(-3px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
-}
-
-.media-card:hover div:first-child img {
-  transform: scale(1.05);
-  transition: transform 0.3s ease;
-}
-
 /* ─── Dataview Tables ─────────────────────────────────────────── */
 .dataview.table-view-table th {
   background: rgba(var(--vocab-accent-rgb), 0.08);
@@ -301,351 +247,680 @@ a.tag[href*="jujutsu-kaisen"]  { background: rgba(34,197,94,0.12);  color: var(-
 }
 
 /* ═══════════════════════════════════════════════════════════════
-   Per-Media Page Accents (via cssclasses)
+   Media gallery (Homepage)
    ═══════════════════════════════════════════════════════════════ */
-
-/* Dragon Ball Z — orange accent */
-.dragon-ball-z .markdown-reading-view h1 { color: var(--media-dragon-ball-z); }
-.dragon-ball-z .markdown-reading-view h2 { border-bottom-color: rgba(249,115,22,0.2); }
-.dragon-ball-z .markdown-reading-view th,
-.dragon-ball-z .dataview.table-view-table th { color: var(--media-dragon-ball-z); background: rgba(249,115,22,0.08); }
-.dragon-ball-z .markdown-reading-view hr { border-top-color: rgba(249,115,22,0.15); }
-.dragon-ball-z .markdown-reading-view a.internal-link,
-.dragon-ball-z .markdown-reading-view .data-link-text { color: var(--media-dragon-ball-z); }
-.dragon-ball-z .markdown-reading-view a.internal-link:hover { color: #fb923c; }
-.dragon-ball-z .markdown-reading-view code:not(pre code) { background: rgba(249,115,22,0.08); color: var(--media-dragon-ball-z); }
-.dragon-ball-z .dataview.table-view-table a.internal-link { color: var(--media-dragon-ball-z); }
-
-/* F1 — red accent */
-.f1 .markdown-reading-view h1 { color: var(--media-f1); }
-.f1 .markdown-reading-view h2 { border-bottom-color: rgba(239,68,68,0.2); }
-.f1 .markdown-reading-view th,
-.f1 .dataview.table-view-table th { color: var(--media-f1); background: rgba(239,68,68,0.08); }
-.f1 .markdown-reading-view hr { border-top-color: rgba(239,68,68,0.15); }
-.f1 .markdown-reading-view a.internal-link,
-.f1 .markdown-reading-view .data-link-text { color: var(--media-f1); }
-.f1 .markdown-reading-view a.internal-link:hover { color: #f87171; }
-.f1 .markdown-reading-view code:not(pre code) { background: rgba(239,68,68,0.08); color: var(--media-f1); }
-.f1 .dataview.table-view-table a.internal-link { color: var(--media-f1); }
-
-/* Peaky Blinders — indigo accent */
-.peaky-blinders .markdown-reading-view h1 { color: var(--media-peaky-blinders); }
-.peaky-blinders .markdown-reading-view h2 { border-bottom-color: rgba(99,102,241,0.2); }
-.peaky-blinders .markdown-reading-view th,
-.peaky-blinders .dataview.table-view-table th { color: var(--media-peaky-blinders); background: rgba(99,102,241,0.08); }
-.peaky-blinders .markdown-reading-view hr { border-top-color: rgba(99,102,241,0.15); }
-.peaky-blinders .markdown-reading-view a.internal-link,
-.peaky-blinders .markdown-reading-view .data-link-text { color: var(--media-peaky-blinders); }
-.peaky-blinders .markdown-reading-view a.internal-link:hover { color: #818cf8; }
-.peaky-blinders .markdown-reading-view code:not(pre code) { background: rgba(99,102,241,0.08); color: var(--media-peaky-blinders); }
-.peaky-blinders .dataview.table-view-table a.internal-link { color: var(--media-peaky-blinders); }
-
-/* Jujutsu Kaisen — green accent */
-.jujutsu-kaisen .markdown-reading-view h1 { color: var(--media-jujutsu-kaisen); }
-.jujutsu-kaisen .markdown-reading-view h2 { border-bottom-color: rgba(34,197,94,0.2); }
-.jujutsu-kaisen .markdown-reading-view th,
-.jujutsu-kaisen .dataview.table-view-table th { color: var(--media-jujutsu-kaisen); background: rgba(34,197,94,0.08); }
-.jujutsu-kaisen .markdown-reading-view hr { border-top-color: rgba(34,197,94,0.15); }
-.jujutsu-kaisen .markdown-reading-view a.internal-link,
-.jujutsu-kaisen .markdown-reading-view .data-link-text { color: var(--media-jujutsu-kaisen); }
-.jujutsu-kaisen .markdown-reading-view a.internal-link:hover { color: #4ade80; }
-.jujutsu-kaisen .markdown-reading-view code:not(pre code) { background: rgba(34,197,94,0.08); color: var(--media-jujutsu-kaisen); }
-.jujutsu-kaisen .dataview.table-view-table a.internal-link { color: var(--media-jujutsu-kaisen); }
-
-/* Dragon Ball (Classic) — yellow accent */
-.dragon-ball .markdown-reading-view h1 { color: var(--media-dragon-ball); }
-.dragon-ball .markdown-reading-view h2 { border-bottom-color: rgba(234,179,8,0.2); }
-.dragon-ball .markdown-reading-view th,
-.dragon-ball .dataview.table-view-table th { color: var(--media-dragon-ball); background: rgba(234,179,8,0.08); }
-.dragon-ball .markdown-reading-view hr { border-top-color: rgba(234,179,8,0.15); }
-.dragon-ball .markdown-reading-view a.internal-link,
-.dragon-ball .markdown-reading-view .data-link-text { color: var(--media-dragon-ball); }
-.dragon-ball .markdown-reading-view a.internal-link:hover { color: #facc15; }
-.dragon-ball .markdown-reading-view code:not(pre code) { background: rgba(234,179,8,0.08); color: var(--media-dragon-ball); }
-.dragon-ball .dataview.table-view-table a.internal-link { color: var(--media-dragon-ball); }
-
-/* ═══════════════════════════════════════════════════════════════
-   UI Components — Statistics, Word Grid, Filters
-   ═══════════════════════════════════════════════════════════════ */
-
-/* ─── Stat Cards ─────────────────────────────────────────────── */
-.vocab-stat-hero {
-    background: linear-gradient(135deg, rgba(var(--vocab-accent-rgb), 0.15), rgba(var(--vocab-accent-rgb), 0.05));
-    border: 1px solid rgba(var(--vocab-accent-rgb), 0.2);
-    border-radius: 12px;
-    padding: 24px 20px;
-    text-align: center;
-    margin-bottom: 16px;
-}
-
-.vocab-stat-hero .stat-number {
-    font-size: 3em;
-    font-weight: 800;
-    color: var(--vocab-accent);
-    line-height: 1.1;
-}
-
-.vocab-stat-hero .stat-label {
-    font-size: 0.9em;
-    color: var(--text-muted);
-    margin-top: 4px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-}
-
-.vocab-stat-grid {
+.media-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 10px;
-    margin-bottom: 8px;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 16px;
+    padding: 8px 0;
 }
 
-.vocab-stat-card {
-    border-radius: 10px;
-    padding: 14px 12px;
-    text-align: center;
-    border: 1px solid var(--background-modifier-border);
-    background: var(--background-secondary);
-    transition: all 0.2s ease;
-    cursor: pointer;
-}
-
-.vocab-stat-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
-}
-
-.vocab-stat-card .stat-icon {
-    font-size: 1.4em;
-    margin-bottom: 4px;
-}
-
-.vocab-stat-card .stat-number {
-    font-size: 1.6em;
-    font-weight: 700;
-    line-height: 1.2;
-}
-
-.vocab-stat-card .stat-label {
-    font-size: 0.75em;
-    color: var(--text-muted);
-    margin-top: 2px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-/* ─── Dashboard Strip (Media Pages) ─────────────────────────── */
-.vocab-dash-strip {
+.media-card {
     display: flex;
-    gap: 12px;
-    margin-bottom: 16px;
-    flex-wrap: wrap;
-}
-
-.vocab-dash-badge {
-    flex: 1;
-    min-width: 100px;
-    border-radius: 10px;
-    padding: 12px 16px;
+    flex-direction: column;
     border: 1px solid var(--background-modifier-border);
-    background: var(--background-secondary);
-    text-align: center;
-}
-
-.vocab-dash-badge .badge-number {
-    font-size: 1.8em;
-    font-weight: 700;
-    line-height: 1.1;
-}
-
-.vocab-dash-badge .badge-label {
-    font-size: 0.75em;
-    color: var(--text-muted);
-    margin-top: 2px;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-}
-
-/* ─── Word Chips & Grid ──────────────────────────────────────── */
-.vocab-word-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 16px;
-}
-
-.vocab-word-chip {
-    display: inline-block;
-    padding: 5px 14px;
-    border-radius: 20px;
-    border: 1px solid var(--background-modifier-border);
-    background: var(--background-secondary);
-    font-size: 0.88em;
-    color: var(--text-normal);
-    cursor: pointer;
-    transition: all 0.15s ease;
-    text-decoration: none;
-}
-
-.vocab-word-chip:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
-    border-color: rgba(var(--vocab-accent-rgb), 0.4);
-    color: var(--vocab-accent);
-}
-
-/* ─── Letter Filter Buttons ──────────────────────────────────── */
-.vocab-letter-bar {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 4px;
-    margin-bottom: 14px;
-    align-items: center;
-}
-
-.vocab-letter-btn {
-    width: 30px;
-    height: 30px;
     border-radius: 6px;
-    border: 1px solid var(--background-modifier-border);
+    overflow: hidden;
     background: var(--background-secondary);
-    color: var(--text-muted);
-    font-size: 0.78em;
-    font-weight: 600;
     cursor: pointer;
-    transition: all 0.15s ease;
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.media-card:hover,
+.media-card:focus-visible {
+    transform: translateY(-3px);
+    border-color: var(--text-faint);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    outline: none;
+}
+
+.media-cover {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    background: var(--background-secondary-alt);
+    overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0;
 }
 
-.vocab-letter-btn:hover {
-    background: rgba(var(--vocab-accent-rgb), 0.1);
-    color: var(--vocab-accent);
-    border-color: rgba(var(--vocab-accent-rgb), 0.3);
-}
-
-.vocab-letter-btn.active {
-    background: var(--vocab-accent);
-    color: var(--background-primary);
-    border-color: var(--vocab-accent);
-    font-weight: 700;
-}
-
-.vocab-letter-btn.show-all {
-    width: auto;
-    padding: 0 10px;
-    font-size: 0.72em;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-}
-
-/* ─── Search Input ───────────────────────────────────────────── */
-.vocab-search {
+/* Covers: grayscale at rest, colour fades in on hover / keyboard focus */
+.media-cover img {
     width: 100%;
-    padding: 10px 14px;
-    border-radius: 8px;
-    border: 1px solid var(--background-modifier-border);
-    background: var(--background-secondary);
-    color: var(--text-normal);
+    height: 100%;
+    object-fit: cover;
+    filter: grayscale(1);
+    transition: filter 0.45s ease, transform 0.45s ease;
+}
+
+.media-card:hover .media-cover img,
+.media-card:focus-visible .media-cover img {
+    filter: grayscale(0);
+    transform: scale(1.04);
+}
+
+/* Touch-only devices have no hover, so never leave covers permanently gray there.
+   If you use a touchscreen laptop and want gray covers anyway, delete this block. */
+@media (hover: none) and (pointer: coarse) {
+    .media-cover img { filter: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .media-card, .media-cover img { transition: none; }
+    .media-card:hover, .media-card:focus-visible { transform: none; }
+    .media-card:hover .media-cover img, .media-card:focus-visible .media-cover img { transform: none; }
+}
+
+.media-placeholder {
+    font-size: 3em;
+    opacity: 0.3;
+}
+
+/* ONE badge style for ANIME / MANGA / MOVIE / SERIES / BOOK */
+.media-badge {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    padding: 2px 7px;
+    border-radius: 3px;
+    font-size: 0.62em;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.62);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(4px);
+}
+
+.media-info { padding: 10px 12px; }
+.media-title { font-weight: 600; font-size: 0.95em; color: var(--text-normal); margin-bottom: 2px; }
+.media-count { font-size: 0.8em; color: var(--text-muted); }
+
+/* ═══════════════════════════════════════════════════════════════
+   Quiet UI: summary line and hints (gallery)
+   ═══════════════════════════════════════════════════════════════ */
+.vocab-summary {
+    color: var(--text-muted);
     font-size: 0.9em;
-    margin-bottom: 12px;
-    outline: none;
-    transition: border-color 0.2s ease;
+    margin: 0 0 10px 0;
 }
 
-.vocab-search:focus {
-    border-color: rgba(var(--vocab-accent-rgb), 0.5);
-    box-shadow: 0 0 0 2px rgba(var(--vocab-accent-rgb), 0.1);
+.vocab-hint {
+    color: var(--text-faint);
+    font-size: 0.88em;
+    margin: 8px 0;
 }
 
-.vocab-search::placeholder {
+/* ═══════════════════════════════════════════════════════════════
+   Word explorer (Views/vocab-explorer.js)
+   Activity calendar + word cards, on the Homepage and media pages
+   ═══════════════════════════════════════════════════════════════ */
+.vx {
+    --vx-word-font: var(--vocab-serif);
+    --vx-gap: 3px;
+    --vx-radius: 6px;
+    --vx-empty: color-mix(in srgb, var(--text-faint) 16%, transparent);
+    container-type: inline-size;
+    margin: 4px 0 12px 0;
+}
+
+/* Buttons: drop the theme's button chrome, keep them as quiet text */
+.markdown-rendered .vx button {
+    appearance: none;
+    background: transparent;
+    box-shadow: none;
+    border: 1px solid transparent;
+    border-radius: var(--vx-radius);
+    height: auto;
+    min-height: 0;
+    margin: 0;
+    padding: 4px 10px;
+    font: inherit;
+    font-size: 0.8em;
+    line-height: 1.4;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.markdown-rendered .vx button:hover:not(:disabled) { color: var(--text-normal); }
+.markdown-rendered .vx button:disabled { opacity: 0.25; cursor: default; }
+
+.vx button:focus-visible,
+.vx .vx-day:focus-visible,
+.vx .vx-search:focus-visible {
+    outline: 2px solid rgba(var(--vocab-accent-rgb), 0.6);
+    outline-offset: 1px;
+}
+
+/* ─── Activity calendar ───────────────────────────────────────── */
+.vx-cal { margin-bottom: 22px; }
+
+.vx-cal-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+    font-size: 0.75em;
     color: var(--text-faint);
 }
 
-/* ─── Letter Section Headers ─────────────────────────────────── */
-.vocab-letter-header {
-    font-size: 0.85em;
-    font-weight: 700;
+.vx-cal-nav { display: flex; gap: 2px; }
+.markdown-rendered .vx .vx-cal-nav button { padding: 0 8px; font-size: 1.35em; line-height: 1.2; }
+
+.vx-cal-months,
+.vx-cal-grid {
+    display: grid;
+    grid-template-columns: repeat(53, minmax(0, 1fr));
+    column-gap: var(--vx-gap);
+}
+
+.vx-cal-months {
+    height: 1.4em;
+    font-size: 0.68em;
+    color: var(--text-faint);
+}
+
+.vx-cal-months span { grid-row: 1; white-space: nowrap; }
+
+.vx-cal-grid {
+    grid-template-rows: repeat(7, auto);
+    grid-auto-flow: column;
+    row-gap: var(--vx-gap);
+}
+
+.vx-day {
+    aspect-ratio: 1;
+    border-radius: 2px;
+    background: var(--vx-empty);
+}
+
+.vx-day[data-level="1"] { background: rgba(var(--vocab-accent-rgb), 0.3); }
+.vx-day[data-level="2"] { background: rgba(var(--vocab-accent-rgb), 0.5); }
+.vx-day[data-level="3"] { background: rgba(var(--vocab-accent-rgb), 0.75); }
+.vx-day[data-level="4"] { background: var(--vocab-accent); }
+.vx-day:not([data-level="0"]) { cursor: pointer; }
+.vx-day:hover { outline: 1px solid var(--text-muted); outline-offset: 1px; }
+.vx-day.is-future { visibility: hidden; }
+.vx-day.is-today { box-shadow: inset 0 0 0 1px var(--text-faint); }
+.vx-day.is-selected { outline: 2px solid var(--text-normal); outline-offset: 1px; }
+
+.vx-cal-caption {
+    margin-top: 8px;
+    min-height: 1.5em;
+    font-size: 0.8em;
+    color: var(--text-muted);
+    font-variant-numeric: tabular-nums;
+}
+
+/* ─── Toolbar ─────────────────────────────────────────────────── */
+.vx-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+}
+
+.markdown-rendered .vx input.vx-search {
+    flex: 1 1 14rem;
+    min-width: 0;
+    height: auto;
+    padding: 7px 12px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--vx-radius);
+    background: transparent;
+    box-shadow: none;
+    color: var(--text-normal);
+    font-size: 0.88em;
+    transition: border-color 0.15s ease;
+}
+
+.markdown-rendered .vx input.vx-search:focus { border-color: rgba(var(--vocab-accent-rgb), 0.5); outline: none; }
+.markdown-rendered .vx input.vx-search::placeholder { color: var(--text-faint); }
+
+.vx-seg {
+    display: inline-flex;
+    padding: 2px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--vx-radius);
+}
+
+.markdown-rendered .vx .vx-seg button { padding: 3px 10px; border-radius: 4px; }
+.markdown-rendered .vx .vx-btn-box { border-color: var(--background-modifier-border); padding: 5px 12px; }
+
+.markdown-rendered .vx .vx-btn.is-active {
     color: var(--vocab-accent);
-    margin: 18px 0 8px 0;
-    padding-bottom: 4px;
-    border-bottom: 1px solid rgba(var(--vocab-accent-rgb), 0.12);
+    background: rgba(var(--vocab-accent-rgb), 0.12);
+}
+
+.markdown-rendered .vx .vx-btn-box.is-active { border-color: rgba(var(--vocab-accent-rgb), 0.35); }
+
+/* ─── Part-of-speech filter + status ──────────────────────────── */
+.vx-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px 16px;
+    margin: 14px 0 2px 0;
+}
+
+.markdown-rendered .vx .vx-chip {
+    padding: 2px 0;
+    border: none;
+    border-bottom: 1px solid transparent;
+    border-radius: 0;
+}
+
+.markdown-rendered .vx .vx-chip.is-active {
+    color: var(--text-normal);
+    border-bottom-color: var(--vocab-accent);
+}
+
+.vx-chip-n {
+    margin-left: 5px;
+    color: var(--text-faint);
+    font-size: 0.9em;
+    font-variant-numeric: tabular-nums;
+}
+
+.vx-status {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 10px;
+    margin: 10px 0 2px 0;
+    font-size: 0.75em;
+    color: var(--text-faint);
+}
+
+.vx-status-hint { font-style: italic; }
+
+.markdown-rendered .vx .vx-link {
+    padding: 0;
+    font-size: 1em;
+    color: var(--text-muted);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+/* ─── Group headers (day / letter) ────────────────────────────── */
+.vx-group {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-}
-
-.vocab-letter-header .letter-count {
-    font-size: 0.85em;
-    font-weight: 400;
+    gap: 16px;
+    margin: 20px 0 10px 0;
+    padding: 0 2px 5px 2px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    font-size: 0.72em;
     color: var(--text-faint);
 }
 
-/* ─── Tag Pills (Recent Words) ───────────────────────────────── */
-.vocab-tag-pill {
-    display: inline-block;
-    padding: 1px 8px;
-    border-radius: 10px;
-    font-size: 0.72em;
-    font-weight: 500;
-    margin-right: 4px;
-    border: 1px solid rgba(255, 255, 255, 0.08);
+.vx-group-label {
+    flex: none;
+    color: var(--text-muted);
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
 }
 
-/* ─── Practice Set Cards ─────────────────────────────────────── */
-.vocab-practice-grid {
+.vx-group-meta {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* ─── Word cards ──────────────────────────────────────────────── */
+.vx-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 12.5rem), 1fr));
+    gap: 12px;
+}
+
+.vx-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 14px 16px 10px 16px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 10px;
+    background: var(--background-secondary);
+    cursor: pointer;
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.vx-card:hover,
+.vx-card:focus-visible {
+    transform: translateY(-2px);
+    border-color: var(--text-faint);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+    outline: none;
+}
+
+.vx-card-pos {
+    min-height: 1.3em;
+    font-size: 0.62em;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+}
+
+.markdown-rendered .vx a.vx-card-word.internal-link {
+    display: block;
+    margin: 2px 0 8px 0;
+    font-family: var(--vx-word-font);
+    font-size: 1.35em;
+    font-weight: 600;
+    line-height: 1.2;
+    color: var(--text-normal);
+    text-decoration: none;
+    overflow-wrap: anywhere;
+}
+
+.markdown-rendered .vx a.vx-card-word.internal-link:hover { color: var(--vocab-accent); }
+
+.vx-card-body { transition: filter 0.25s ease, opacity 0.25s ease; }
+
+.vx-card-def {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-size: 0.84em;
+    line-height: 1.5;
+    color: var(--text-muted);
+}
+
+.vx-card-ex {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-top: 8px;
+    padding-left: 8px;
+    border-left: 2px solid rgba(var(--vocab-accent-rgb), 0.35);
+    font-size: 0.78em;
+    font-style: italic;
+    line-height: 1.45;
+    color: var(--text-faint);
+}
+
+/* Translation: hidden until asked for, like the collapsed callout in the notes */
+.vx-card-tr {
+    display: none;
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px dashed var(--background-modifier-border);
+    font-size: 0.8em;
+    line-height: 1.45;
+    color: var(--text-normal);
+}
+
+.vx-card.is-tr-open .vx-card-tr { display: block; }
+
+.vx-card-foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    margin-top: auto;
+    padding-top: 12px;
+    font-size: 0.72em;
+    color: var(--text-faint);
+}
+
+.vx-card-meta {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.markdown-rendered .vx .vx-card-trbtn {
+    flex: none;
+    padding: 1px 8px;
+    font-size: 1em;
+    border-color: var(--background-modifier-border);
+    border-radius: 999px;
+    color: var(--text-faint);
+}
+
+.markdown-rendered .vx .vx-card.is-tr-open .vx-card-trbtn {
+    color: var(--vocab-accent);
+    border-color: rgba(var(--vocab-accent-rgb), 0.35);
+}
+
+/* Study: definitions and examples blurred until you click the card */
+.vx.is-study .vx-card:not(.is-revealed) .vx-card-body {
+    filter: blur(6px);
+    opacity: 0.5;
+    user-select: none;
+}
+
+.vx.is-study .vx-card.is-revealed { border-color: rgba(var(--vocab-accent-rgb), 0.35); }
+
+.markdown-rendered .vx .vx-more {
+    display: block;
+    width: 100%;
+    margin-top: 14px;
+    padding: 8px;
+    text-align: center;
+    border: 1px dashed var(--background-modifier-border);
+}
+
+.vx-empty {
+    margin: 0;
+    padding: 14px 2px;
+    color: var(--text-faint);
+    font-size: 0.88em;
+}
+
+@container (max-width: 520px) {
+    .vx { --vx-gap: 2px; }
+    .vx-cal-months { font-size: 0.6em; }
+    .vx-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 10rem), 1fr)); gap: 10px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .vx-card, .vx-card-body, .markdown-rendered .vx button { transition: none; }
+    .vx-card:hover, .vx-card:focus-visible { transform: none; }
+}
+
+/* ─── Exercise Sets (Views/exercise-sets.js) ──────────────────── */
+.xs-list {
+    display: flex;
+    flex-direction: column;
     gap: 12px;
     margin: 8px 0;
 }
 
-.vocab-practice-card {
+.xs-set {
+    display: grid;
+    grid-template-columns: 3.4rem minmax(0, 1fr);
+    gap: 4px 14px;
+    padding: 16px 18px 14px 12px;
+    border: 1px solid var(--background-modifier-border);
     border-radius: 10px;
-    padding: 18px 16px;
-    border: 1px solid var(--background-modifier-border);
     background: var(--background-secondary);
-    text-align: center;
-    transition: all 0.2s ease;
+    transition: border-color 0.2s ease;
 }
 
-.vocab-practice-card:hover {
-    border-color: rgba(var(--vocab-accent-rgb), 0.3);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+.xs-set:hover { border-color: var(--text-faint); }
+.xs-set.is-latest { border-left: 2px solid rgba(var(--vocab-accent-rgb), 0.6); }
+
+/* Big set number, in the same serif as the word cards */
+.xs-num {
+    font-family: var(--vocab-serif);
+    font-size: 2.1em;
+    font-weight: 600;
+    line-height: 1;
+    text-align: right;
+    color: rgba(var(--vocab-accent-rgb), 0.55);
+    font-variant-numeric: lining-nums;
 }
 
-.vocab-practice-card .card-title {
-    font-weight: 700;
-    font-size: 1em;
-    color: var(--vocab-accent);
-    margin-bottom: 12px;
-}
+.xs-set.is-latest .xs-num { color: var(--vocab-accent); }
 
-.vocab-practice-card .card-links {
+.xs-main { min-width: 0; }
+
+.xs-top {
     display: flex;
-    gap: 8px;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    font-size: 0.66em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-faint);
 }
 
-.vocab-practice-card .card-link {
-    padding: 6px 14px;
-    border-radius: 6px;
-    font-size: 0.8em;
-    border: 1px solid var(--background-modifier-border);
+.xs-kicker { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.xs-date { flex: none; letter-spacing: 0.06em; }
+
+.xs-title {
+    margin: 3px 0 2px 0;
+    font-family: var(--vocab-serif);
+    font-size: 1.3em;
+    font-weight: 600;
+    line-height: 1.25;
     color: var(--text-normal);
+}
+
+.xs-tagline {
+    font-size: 0.85em;
+    font-style: italic;
+    color: var(--text-muted);
+}
+
+.xs-desc {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-top: 6px;
+    font-size: 0.86em;
+    line-height: 1.55;
+    color: var(--text-muted);
+}
+
+.xs-facts {
+    margin-top: 8px;
+    font-size: 0.76em;
+    color: var(--text-faint);
+    font-variant-numeric: tabular-nums;
+}
+
+.xs-parts {
+    margin-top: 3px;
+    font-size: 0.62em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+}
+
+.xs-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+    margin-top: 12px;
+}
+
+/* Links and buttons share one quiet pill style */
+.markdown-rendered .xs a.xs-btn.internal-link,
+.markdown-rendered .xs button.xs-btn {
+    appearance: none;
+    display: inline-block;
+    height: auto;
+    margin: 0;
+    padding: 4px 12px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 999px;
+    background: transparent;
+    box-shadow: none;
+    font: inherit;
+    font-size: 0.78em;
+    line-height: 1.4;
+    color: var(--text-muted);
     text-decoration: none;
     cursor: pointer;
-    transition: all 0.15s ease;
+    transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
 }
 
-.vocab-practice-card .card-link:hover {
-    background: rgba(var(--vocab-accent-rgb), 0.1);
-    border-color: rgba(var(--vocab-accent-rgb), 0.3);
+.markdown-rendered .xs a.xs-btn.internal-link:hover,
+.markdown-rendered .xs button.xs-btn:hover {
+    color: var(--text-normal);
+    border-color: var(--text-faint);
+}
+
+.markdown-rendered .xs a.xs-btn.is-primary.internal-link {
     color: var(--vocab-accent);
+    border-color: rgba(var(--vocab-accent-rgb), 0.35);
+    background: rgba(var(--vocab-accent-rgb), 0.1);
+}
+
+.markdown-rendered .xs a.xs-btn.is-primary.internal-link:hover { background: rgba(var(--vocab-accent-rgb), 0.18); }
+
+.xs .xs-btn:focus-visible { outline: 2px solid rgba(var(--vocab-accent-rgb), 0.6); outline-offset: 1px; }
+
+.xs-note { font-size: 0.75em; font-style: italic; color: var(--text-faint); }
+
+/* "Review words": the set's word cards, opened inside its card */
+.xs-set.is-reviewing { border-color: rgba(var(--vocab-accent-rgb), 0.35); }
+
+.xs-review {
+    grid-column: 1 / -1;
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px dashed var(--background-modifier-border);
+    scroll-margin-top: 12px;
+}
+
+.xs-review-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+}
+
+.xs-review-title {
+    font-size: 0.66em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+}
+
+.xs-review .vx { margin: 0; }
+.xs-review .vx-card { background: var(--background-primary); }
+
+.markdown-rendered .xs button.xs-review-btn[aria-expanded="true"] {
+    color: var(--vocab-accent);
+    border-color: rgba(var(--vocab-accent-rgb), 0.35);
+}
+
+.markdown-rendered .xs button.xs-more {
+    appearance: none;
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    padding: 8px;
+    border: 1px dashed var(--background-modifier-border);
+    border-radius: 6px;
+    background: transparent;
+    box-shadow: none;
+    font: inherit;
+    font-size: 0.8em;
+    color: var(--text-muted);
+    cursor: pointer;
+}
+
+@media (max-width: 520px) {
+    .xs-set { grid-template-columns: 2.4rem minmax(0, 1fr); padding-left: 8px; }
+    .xs-num { font-size: 1.6em; }
 }
 
 /* ─── Resource Cards ─────────────────────────────────────────── */
@@ -689,38 +964,20 @@ a.tag[href*="jujutsu-kaisen"]  { background: rgba(34,197,94,0.12);  color: var(-
     margin-top: 4px;
 }
 
-/* ─── Per-Media Word Chip Accent Colors ──────────────────────── */
-.dragon-ball-z .vocab-word-chip:hover { border-color: var(--media-dragon-ball-z); color: var(--media-dragon-ball-z); }
-.dragon-ball-z .vocab-letter-header { color: var(--media-dragon-ball-z); border-bottom-color: rgba(249,115,22,0.12); }
-.dragon-ball-z .vocab-letter-btn.active { background: var(--media-dragon-ball-z); }
-.dragon-ball-z .vocab-letter-btn:hover { background: rgba(249,115,22,0.1); color: var(--media-dragon-ball-z); border-color: rgba(249,115,22,0.3); }
-.dragon-ball-z .vocab-search:focus { border-color: rgba(249,115,22,0.5); box-shadow: 0 0 0 2px rgba(249,115,22,0.1); }
-.dragon-ball-z .vocab-dash-badge .badge-number { color: var(--media-dragon-ball-z); }
+/* ─── Vocabulary Insight Cards (Homepage; layout unchanged) ──── */
+.vocab-insight-card {
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    border: 1px solid var(--background-modifier-border);
+    border-left: 3px solid var(--text-muted);
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
 
-.jujutsu-kaisen .vocab-word-chip:hover { border-color: var(--media-jujutsu-kaisen); color: var(--media-jujutsu-kaisen); }
-.jujutsu-kaisen .vocab-letter-header { color: var(--media-jujutsu-kaisen); border-bottom-color: rgba(34,197,94,0.12); }
-.jujutsu-kaisen .vocab-letter-btn.active { background: var(--media-jujutsu-kaisen); }
-.jujutsu-kaisen .vocab-letter-btn:hover { background: rgba(34,197,94,0.1); color: var(--media-jujutsu-kaisen); border-color: rgba(34,197,94,0.3); }
-.jujutsu-kaisen .vocab-search:focus { border-color: rgba(34,197,94,0.5); box-shadow: 0 0 0 2px rgba(34,197,94,0.1); }
-.jujutsu-kaisen .vocab-dash-badge .badge-number { color: var(--media-jujutsu-kaisen); }
-
-.f1 .vocab-word-chip:hover { border-color: var(--media-f1); color: var(--media-f1); }
-.f1 .vocab-letter-header { color: var(--media-f1); border-bottom-color: rgba(239,68,68,0.12); }
-.f1 .vocab-letter-btn.active { background: var(--media-f1); }
-.f1 .vocab-letter-btn:hover { background: rgba(239,68,68,0.1); color: var(--media-f1); border-color: rgba(239,68,68,0.3); }
-.f1 .vocab-search:focus { border-color: rgba(239,68,68,0.5); box-shadow: 0 0 0 2px rgba(239,68,68,0.1); }
-.f1 .vocab-dash-badge .badge-number { color: var(--media-f1); }
-
-.peaky-blinders .vocab-word-chip:hover { border-color: var(--media-peaky-blinders); color: var(--media-peaky-blinders); }
-.peaky-blinders .vocab-letter-header { color: var(--media-peaky-blinders); border-bottom-color: rgba(99,102,241,0.12); }
-.peaky-blinders .vocab-letter-btn.active { background: var(--media-peaky-blinders); }
-.peaky-blinders .vocab-letter-btn:hover { background: rgba(99,102,241,0.1); color: var(--media-peaky-blinders); border-color: rgba(99,102,241,0.3); }
-.peaky-blinders .vocab-search:focus { border-color: rgba(99,102,241,0.5); box-shadow: 0 0 0 2px rgba(99,102,241,0.1); }
-.peaky-blinders .vocab-dash-badge .badge-number { color: var(--media-peaky-blinders); }
-
-.dragon-ball .vocab-word-chip:hover { border-color: var(--media-dragon-ball); color: var(--media-dragon-ball); }
-.dragon-ball .vocab-letter-header { color: var(--media-dragon-ball); border-bottom-color: rgba(234,179,8,0.12); }
-.dragon-ball .vocab-letter-btn.active { background: var(--media-dragon-ball); }
-.dragon-ball .vocab-letter-btn:hover { background: rgba(234,179,8,0.1); color: var(--media-dragon-ball); border-color: rgba(234,179,8,0.3); }
-.dragon-ball .vocab-search:focus { border-color: rgba(234,179,8,0.5); box-shadow: 0 0 0 2px rgba(234,179,8,0.1); }
-.dragon-ball .vocab-dash-badge .badge-number { color: var(--media-dragon-ball); }
+/* Cover images ignore clicks, so the card opens the page and Obsidian's image zoom never triggers */
+.media-cover img {
+    pointer-events: none;
+    -webkit-user-drag: none;
+}

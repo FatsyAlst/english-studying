@@ -54,10 +54,12 @@ From Old French 'mahaignier/maheimer' meaning 'to injure, mutilate, cripple,' pr
 > - Often used in news reports about war, terrorism, accidents, or violence.
 
 ---
-**Tradução:** 1. Mutilado / Aleijado / Gravemente ferido (com sequela permanente) | 2. Gravemente comprometido / Seriamente afetado/prejudicado
 
-| English | Portuguese |
-|---------|------------|
-| The explosion left several people dead and many others maimed. | A explosão deixou várias pessoas mortas e muitas outras mutiladas. |
-| Hundreds of people are killed or maimed in car accidents every week. | Centenas de pessoas são mortas ou mutiladas em acidentes de carro todas as semanas. |
-| The company emerged from the scandal badly maimed but still functioning. | A empresa saiu do escândalo gravemente comprometida, mas ainda funcionando. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. Mutilado / Aleijado / Gravemente ferido (com sequela permanente) | 2. Gravemente comprometido / Seriamente afetado/prejudicado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The explosion left several people dead and many others maimed. | A explosão deixou várias pessoas mortas e muitas outras mutiladas. |
+> | Hundreds of people are killed or maimed in car accidents every week. | Centenas de pessoas são mortas ou mutiladas em acidentes de carro todas as semanas. |
+> | The company emerged from the scandal badly maimed but still functioning. | A empresa saiu do escândalo gravemente comprometida, mas ainda funcionando. |

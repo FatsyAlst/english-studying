@@ -57,13 +57,14 @@ The verb comes from Old French *fouler* (to trample, press), from Latin *fullo* 
 > - Related: foiled (adjective), foiler (one who foils)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Frustrar, impedir, bloquear (verbo); película, folha de metal (nome)
 
-| English | Portuguese |
-|---------|------------|
-| foil a plan | frustrar um plano |
-| foil an attack | bloquear um ataque |
-| successfully foil | frustrar com sucesso |
-| aluminum foil | papel alumínio |
-| serve as a foil | servir como contraste |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Frustrar, impedir, bloquear (verbo); película, folha de metal (nome)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | foil a plan | frustrar um plano |
+> | foil an attack | bloquear um ataque |
+> | successfully foil | frustrar com sucesso |
+> | aluminum foil | papel alumínio |
+> | serve as a foil | servir como contraste |

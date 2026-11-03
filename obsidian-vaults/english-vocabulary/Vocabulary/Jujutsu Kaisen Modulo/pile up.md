@@ -64,12 +64,13 @@ From the verb phrase "pile up" (to stack or accumulate), combining "pile" (from 
 > - Traffic "pile-up" is standard terminology in news reporting
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Acúmulo, amontoado, colisão em cadeia, acumular-se
 
-| English | Portuguese |
-|---------|------------|
-| pile-up of work | acúmulo de trabalho |
-| car pile-up | colisão em cadeia de carros |
-| pile up | acumular, amontoar-se |
-| pile-up on the highway | colisão em cadeia na rodovia |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Acúmulo, amontoado, colisão em cadeia, acumular-se
+>
+> | English | Portuguese |
+> |---------|------------|
+> | pile-up of work | acúmulo de trabalho |
+> | car pile-up | colisão em cadeia de carros |
+> | pile up | acumular, amontoar-se |
+> | pile-up on the highway | colisão em cadeia na rodovia |

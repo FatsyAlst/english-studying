@@ -49,14 +49,15 @@ From Old French *defier*, from Latin *diffidare* (to distrust). Com­posed of La
 > - Can be used both literally (defy a ruler) and figuratively (defy expectations)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** desafiar; resistir; enfrentar; desobedecer
 
-| English | Portuguese |
-|---------|------------|
-| defy authority | desafiar a autoridade |
-| defy the odds | vencer as adversidades |
-| defy expectations | superar as expectativas |
-| defy gravity | desafiar a gravidade |
-| defiance | desafio; desobediência |
-| defiant | desafiador; insubordinado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** desafiar; resistir; enfrentar; desobedecer
+>
+> | English | Portuguese |
+> |---------|------------|
+> | defy authority | desafiar a autoridade |
+> | defy the odds | vencer as adversidades |
+> | defy expectations | superar as expectativas |
+> | defy gravity | desafiar a gravidade |
+> | defiance | desafio; desobediência |
+> | defiant | desafiador; insubordinado |

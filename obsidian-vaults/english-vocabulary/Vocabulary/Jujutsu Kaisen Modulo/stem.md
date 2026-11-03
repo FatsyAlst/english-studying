@@ -63,14 +63,15 @@ From Old English *stemn*, *stefn* ("trunk of a tree, prow of a ship"), from Prot
 > - **"Stem from"** (originate) and **"stem"** (stop/restrict) are essentially two different verbs that happen to be spelled the same way.
 > - "Stem cells" are so named because they are the "stem" (base) from which other specialized cells branch — like a plant stem spawning branches.
 > - Compare with [[sprout]] (Dragon Ball Z) — both relate to plant growth; *stem* is the main structure, while *sprout* describes the act of new growth emerging.
-> - "From stem to stern" — nautical idiom meaning "from one end to the other" (the stem is the front of a ship, the stern is the back).
+> - "From stem to [[stern]]" — nautical idiom meaning "from one end to the other" (the stem is the front of a ship, the stern is the back).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** caule, tronco, haste (substantivo — planta); originar-se de, derivar de (verbo — origem); conter, estancar (verbo — deter)
 
-| English | Portuguese |
-|---------|------------|
-| The rose had a long, thorny stem. | A rosa tinha um caule longo e espinhoso. |
-| His problems stem from his childhood. | Os problemas dele originam-se da infância. |
-| They tried to stem the bleeding. | Eles tentaram estancar o sangramento. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** caule, tronco, haste (substantivo — planta); originar-se de, derivar de (verbo — origem); conter, estancar (verbo — deter)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The rose had a long, thorny stem. | A rosa tinha um caule longo e espinhoso. |
+> | His problems stem from his childhood. | Os problemas dele originam-se da infância. |
+> | They tried to stem the bleeding. | Eles tentaram estancar o sangramento. |

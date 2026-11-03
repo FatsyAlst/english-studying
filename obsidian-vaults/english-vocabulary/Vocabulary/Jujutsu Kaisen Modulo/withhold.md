@@ -57,11 +57,12 @@ From Middle English *withholden*; first recorded 1150–1200. From prefix *with-
 > - Antonym: give, grant, [[disclosed|disclose]], reveal.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** reter, sonegar, ocultar, esconder, negar, reprimir, conter
 
-| English | Portuguese |
-|---------|------------|
-| She was accused of withholding evidence. | Ela foi acusada de ocultar evidências. |
-| She could not withhold her tears. | Ela não conseguiu conter suas lágrimas. |
-| She has $20 withheld from her paycheck every week. | Ela tem $20 retidos de seu contracheque toda semana. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** reter, sonegar, ocultar, esconder, negar, reprimir, conter
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She was accused of withholding evidence. | Ela foi acusada de ocultar evidências. |
+> | She could not withhold her tears. | Ela não conseguiu conter suas lágrimas. |
+> | She has $20 withheld from her paycheck every week. | Ela tem $20 retidos de seu contracheque toda semana. |

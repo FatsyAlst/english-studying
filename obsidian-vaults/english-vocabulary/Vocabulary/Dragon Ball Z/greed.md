@@ -47,15 +47,17 @@ From Old English *graedig*, related to Old Norse *graðr* meaning "hunger" or "a
 > - Describes both motivation and character flaw
 > - Often contrasted with generosity, contentment, or virtue
 > - Used in philosophical, moral, and character discussions
+> - 📺 Also encountered in [[Dr. Stone]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** ganância, cobiça, avidez
 
-| English | Portuguese |
-|---------|------------|
-| greed | ganância |
-| greedy | ganancioso |
-| greedily | gananciosamente |
-| greed for power | ganância de poder |
-| consumed by greed | consumido pela ganância |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** ganância, cobiça, avidez
+>
+> | English | Portuguese |
+> |---------|------------|
+> | greed | ganância |
+> | greedy | ganancioso |
+> | greedily | gananciosamente |
+> | greed for power | ganância de poder |
+> | consumed by greed | consumido pela ganância |

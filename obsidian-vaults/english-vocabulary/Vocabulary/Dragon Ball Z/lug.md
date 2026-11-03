@@ -40,12 +40,14 @@ From Middle English *luggen*, of uncertain origin. Possibly related to Norwegian
 > - Often implies carrying something awkward or heavier than ideal.
 > - Common in everyday contexts (luggage, equipment, groceries).
 > - Less formal than "carry" or "transport"; more colloquial.
+> - ⚠️ Similar meaning in [[haul]] (from [[Dr. Stone]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** arrastar, carregar com dificuldade, transportar com esforço
 
-| English | Portuguese |
-|---------|------------|
-| I had to lug my suitcase up three flights of stairs. | Tive que arrastar minha mala por três lances de escadas. |
-| He lugged the equipment across the field. | Ele arrastou o equipamento pelo campo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** arrastar, carregar com dificuldade, transportar com esforço
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I had to lug my suitcase up three flights of stairs. | Tive que arrastar minha mala por três lances de escadas. |
+> | He lugged the equipment across the field. | Ele arrastou o equipamento pelo campo. |

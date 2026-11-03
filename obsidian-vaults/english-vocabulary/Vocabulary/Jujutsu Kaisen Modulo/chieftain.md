@@ -48,12 +48,13 @@ From Old French "chief" (head), from Latin "caput" (head). The "-tain" suffix co
 > - "Chieftaincy" refers to the territory or position of a chieftain
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** chefe tribal, cacique, líder de clã
 
-| English | Portuguese |
-|---------|------------|
-| tribal chieftain | cacique tribal |
-| the chieftain's rule | o governo do cacique |
-| ancient chieftain | cacique antigo |
-| become a chieftain | tornar-se cacique |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** chefe tribal, cacique, líder de clã
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tribal chieftain | cacique tribal |
+> | the chieftain's rule | o governo do cacique |
+> | ancient chieftain | cacique antigo |
+> | become a chieftain | tornar-se cacique |

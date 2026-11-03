@@ -45,14 +45,16 @@ From "well" (in good condition) + "off" (away from difficulty). This compound de
 > - Implies comfort and security rather than extreme wealth or luxury
 > - More formal and considerate tone than simply saying "rich"
 > - Frequently appears in social commentary and demographic analysis
+> - ⚠️ Similar meaning in [[better off]] (from [[Dragon Ball Super]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Abastado, próspero, em boa situação financeira
 
-| English | Portuguese |
-|---------|------------|
-| well-off family | família abastada |
-| fairly well-off | razoavelmente próspero |
-| well-off neighborhood | bairro abastado |
-| financially well-off | em boa situação financeira |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Abastado, próspero, em boa situação financeira
+>
+> | English | Portuguese |
+> |---------|------------|
+> | well-off family | família abastada |
+> | fairly well-off | razoavelmente próspero |
+> | well-off neighborhood | bairro abastado |
+> | financially well-off | em boa situação financeira |

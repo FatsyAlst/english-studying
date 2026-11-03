@@ -67,13 +67,14 @@ From Old French "grant" (large), from Latin "grandis" (great, large). The word e
 > - Common in architecture, music, and descriptions of important events
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** grandioso, magnífico, imponente
 
-| English | Portuguese |
-|---------|------------|
-| grand opening | inauguração grandiosa |
-| grand hotel | hotel imponente |
-| grand piano | piano de cauda |
-| grand scheme | plano ambicioso |
-| grand total | total geral |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** grandioso, magnífico, imponente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | grand opening | inauguração grandiosa |
+> | grand hotel | hotel imponente |
+> | grand piano | piano de cauda |
+> | grand scheme | plano ambicioso |
+> | grand total | total geral |

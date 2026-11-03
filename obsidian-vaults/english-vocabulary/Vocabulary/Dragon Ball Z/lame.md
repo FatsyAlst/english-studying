@@ -64,12 +64,13 @@ From Old English *lama*, from Proto-Germanic *lamaz*. Related to Old Saxon *lam*
 > - Context is important to understand which sense is being used
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Manco, fraco, chato, sem brilho
 
-| English | Portuguese |
-|---|---|
-| lame (weak) | fraco, ineficaz |
-| lame (disabled) | manco, coxo |
-| lame (boring) | chato, maçante |
-| lame excuse | desculpa fraca |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Manco, fraco, chato, sem brilho
+>
+> | English | Portuguese |
+> |---|---|
+> | lame (weak) | fraco, ineficaz |
+> | lame (disabled) | manco, coxo |
+> | lame (boring) | chato, maçante |
+> | lame excuse | desculpa fraca |

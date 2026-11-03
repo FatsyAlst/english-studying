@@ -54,12 +54,14 @@ Late 15th century from 'devil' + '-ish'; from Old English *dēofol* (Latin *diab
 > - 'Devil-may-care' describes a reckless, carefree attitude.
 
 ---
-**Tradução:** 1. (Adjetivo, travesso) Diabólico (no bom sentido); endiabrado; malicioso (brincalhão) | 2. (Adjetivo, mau) Diabólico; maligno; sinistro | 3. (Advérbio) Terrivelmente; infernalmente; extremamente
 
-| English | Portuguese |
-|---------|------------|
-| He had a devilish grin that hinted at his prank. | Ele tinha um sorriso endiabrado que sugeria sua travessura. |
-| Her devilish sense of humor always made everyone laugh. | Seu senso de humor malicioso sempre fazia todos rirem. |
-| The villain had a devilish plot to take over the kingdom. | O vilão tinha um plano diabólico para tomar o reino. |
-| It's devilish hard to solve this puzzle. | É terrivelmente difícil resolver este quebra-cabeça. |
-| His devilish laughter echoed through the dark castle. | Sua gargalhada diabólica ecoava pelo castelo escuro. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Adjetivo, travesso) Diabólico (no bom sentido); endiabrado; malicioso (brincalhão) | 2. (Adjetivo, mau) Diabólico; maligno; sinistro | 3. (Advérbio) Terrivelmente; infernalmente; extremamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He had a devilish grin that hinted at his prank. | Ele tinha um sorriso endiabrado que sugeria sua travessura. |
+> | Her devilish sense of humor always made everyone laugh. | Seu senso de humor malicioso sempre fazia todos rirem. |
+> | The villain had a devilish plot to take over the kingdom. | O vilão tinha um plano diabólico para tomar o reino. |
+> | It's devilish hard to solve this puzzle. | É terrivelmente difícil resolver este quebra-cabeça. |
+> | His devilish laughter echoed through the dark castle. | Sua gargalhada diabólica ecoava pelo castelo escuro. |

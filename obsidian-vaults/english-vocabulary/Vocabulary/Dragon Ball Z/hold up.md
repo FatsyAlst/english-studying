@@ -54,12 +54,13 @@ From the phrasal verb "hold up" (to stop, to delay, or to rob at gunpoint), form
 > - The phrasal verb form "hold up" has multiple meanings
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** atraso, roubo à mão armada, obstrução
 
-| English | Portuguese |
-|---------|------------|
-| hold-up (delay) | atraso, obstrução |
-| hold-up (robbery) | roubo à mão armada |
-| what's the hold-up | qual é a demora |
-| traffic hold-up | congestionamento |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** atraso, roubo à mão armada, obstrução
+>
+> | English | Portuguese |
+> |---------|------------|
+> | hold-up (delay) | atraso, obstrução |
+> | hold-up (robbery) | roubo à mão armada |
+> | what's the hold-up | qual é a demora |
+> | traffic hold-up | congestionamento |

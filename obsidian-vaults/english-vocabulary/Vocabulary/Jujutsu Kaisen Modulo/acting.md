@@ -58,11 +58,12 @@ From Latin **"agere"** meaning *to do, to drive, to perform*. The theatrical sen
 > - As a **noun** (performance): refers to the craft and skill of performing roles.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** atuação, interpretação (noun); interino/a, temporário/a (adj); agindo, atuando (participle)
 
-| English | Portuguese |
-|---------|------------|
-| She started her acting career while still at school. | Ela começou sua carreira de atuação ainda na escola. |
-| The college's acting president will be replaced. | O presidente interino da faculdade será substituído. |
-| Stop acting like a child and listen to me. | Pare de agir como uma criança e me escute. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** atuação, interpretação (noun); interino/a, temporário/a (adj); agindo, atuando (participle)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She started her acting career while still at school. | Ela começou sua carreira de atuação ainda na escola. |
+> | The college's acting president will be replaced. | O presidente interino da faculdade será substituído. |
+> | Stop acting like a child and listen to me. | Pare de agir como uma criança e me escute. |

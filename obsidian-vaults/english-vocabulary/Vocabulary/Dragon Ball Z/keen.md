@@ -61,14 +61,16 @@ From Old English "cene," meaning bold or brave, and from Old Norse "kenn," meani
 > - Sense 2 is more archaic or technical
 > - Sense 3 is formal or literary
 > - Often used with "on" or "to" for enthusiasts
+> - 📺 Also encountered in [[Mushoku Tensei]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** entusiasmado, apaixonado, aguçado, agudo
 
-| English | Portuguese |
-|---------|------------|
-| keen on | apaixonado por, entusiasmado com |
-| keen interest | interesse aguçado |
-| keen to | desejoso de, ansioso para |
-| keen edge | fio afiado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** entusiasmado, apaixonado, aguçado, agudo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | keen on | apaixonado por, entusiasmado com |
+> | keen interest | interesse aguçado |
+> | keen to | desejoso de, ansioso para |
+> | keen edge | fio afiado |

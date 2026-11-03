@@ -58,13 +58,14 @@ From Old English *giccan*, related to Old Saxon *gikken* and Old Norse *kitla*. 
 > - Conveys impatience and restless anticipation
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Coçar, coceira, ansiar, desejo ardente
 
-| English | Portuguese |
-|---------|------------|
-| itching for a fight | ansiando por uma luta |
-| itching to battle | desejando ardentemente lutar |
-| itching sensation | sensação de coceira |
-| itching fingers | dedos cocegando |
-| itching for revenge | ansiando por vingança |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Coçar, coceira, ansiar, desejo ardente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | itching for a fight | ansiando por uma luta |
+> | itching to battle | desejando ardentemente lutar |
+> | itching sensation | sensação de coceira |
+> | itching fingers | dedos cocegando |
+> | itching for revenge | ansiando por vingança |

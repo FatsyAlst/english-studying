@@ -65,12 +65,13 @@ Verb: From Old English "punian." Noun (weight): From Latin "pondo," meaning by w
 > - Commonly used in combat contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** bater, golpear, libra (medida/moeda)
 
-| English | Portuguese |
-|---------|------------|
-| pound (verb) | bater, golpear |
-| pound on the door | bater na porta |
-| pound (weight) | libra (medida) |
-| pound sterling | libra esterlina |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** bater, golpear, libra (medida/moeda)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | pound (verb) | bater, golpear |
+> | pound on the door | bater na porta |
+> | pound (weight) | libra (medida) |
+> | pound sterling | libra esterlina |

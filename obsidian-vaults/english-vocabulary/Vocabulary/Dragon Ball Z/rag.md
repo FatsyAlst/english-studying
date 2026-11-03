@@ -58,11 +58,12 @@ From Middle English *ragge*, possibly from Old Norse *rogg* (tuft of hair, shagg
 > - Can be used literally (cloth) or figuratively (teasing, criticism).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** trapo, pano velho, zurar; jornal de baixa qualidade
 
-| English | Portuguese |
-|---------|------------|
-| She wiped the counter with a damp rag. | Ela limpou o balcão com um pano úmido. |
-| He tore his shirt to rags. | Ele rasgou sua camisa em trapos. |
-| Don't rag on me about being late again. | Não me zure por estar atrasado novamente. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** trapo, pano velho, zurar; jornal de baixa qualidade
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She wiped the counter with a damp rag. | Ela limpou o balcão com um pano úmido. |
+> | He tore his shirt to rags. | Ele rasgou sua camisa em trapos. |
+> | Don't rag on me about being late again. | Não me zure por estar atrasado novamente. |

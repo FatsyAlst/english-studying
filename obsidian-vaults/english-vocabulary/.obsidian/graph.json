@@ -1,22 +1,100 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Vocabulary/Dragon Ball Z\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16347926
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Jujutsu Kaisen Modulo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Dragon Ball Super\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11032055
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Dragon Ball GT\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10033947
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Dragon Ball\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/My Hero Academia Vigilantes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Peaky Blinders\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6514417
+      }
+    },
+    {
+      "query": "path:Vocabulary/F1  ",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Dr. Stone\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Mushoku Tensei\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    },
+    {
+      "query": "path:\"Vocabulary/Life\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15485081
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.976741463414634,
+  "lineSizeMultiplier": 0.303648780487805,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.06553134154437969,
+  "centerStrength": 0.547317073170732,
+  "repelStrength": 12.4905621875319,
+  "linkStrength": 0.497365853658537,
+  "linkDistance": 320,
+  "scale": 0.04231590268975895,
   "close": true
 }

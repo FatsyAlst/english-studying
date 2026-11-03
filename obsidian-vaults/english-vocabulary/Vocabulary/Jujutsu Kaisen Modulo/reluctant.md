@@ -51,12 +51,13 @@ From Latin "reluctans," from "reluctari" (to struggle against), composed of "re-
 > - Often used to describe people forced into situations against their will
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** relutante, reticente, desreluctoso
 
-| English | Portuguese |
-|---------|------------|
-| reluctant to agree | relutante em concordar |
-| reluctant witness | testemunha reticente |
-| reluctant smile | sorriso forçado |
-| reluctantly | relutantemente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** relutante, reticente, desreluctoso
+>
+> | English | Portuguese |
+> |---------|------------|
+> | reluctant to agree | relutante em concordar |
+> | reluctant witness | testemunha reticente |
+> | reluctant smile | sorriso forçado |
+> | reluctantly | relutantemente |

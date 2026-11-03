@@ -48,10 +48,12 @@ From *ruffle* (v.) early 14th c. 'to disturb the smoothness of,' obscure origin 
 > - Opposite: unruffled = calm, undisturbed.
 
 ---
-**Tradução:** Babado, franzido, de volantes, enrugado (clothing); aborrecido, irritado, perturbado (upset); despenteado, desgrenhado, amarrotado (disarranged)
 
-| English | Portuguese |
-|---------|------------|
-| A ruffled blouse. | Uma blusa de babados / com volantes. |
-| She was ruffled by the criticism. | Ela ficou irritada/aborrecida com a crítica. |
-| The bird's ruffled feathers. | As penas desgrenhadas/arrepiadas do pássaro. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Babado, franzido, de volantes, enrugado (clothing); aborrecido, irritado, perturbado (upset); despenteado, desgrenhado, amarrotado (disarranged)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A ruffled blouse. | Uma blusa de babados / com volantes. |
+> | She was ruffled by the criticism. | Ela ficou irritada/aborrecida com a crítica. |
+> | The bird's ruffled feathers. | As penas desgrenhadas/arrepiadas do pássaro. |

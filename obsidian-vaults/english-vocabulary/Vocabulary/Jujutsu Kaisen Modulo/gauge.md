@@ -58,11 +58,12 @@ From Old Northern French *gauge* (modern French *jauge*), of uncertain origin, p
 > - The phrase "a gauge of" means "a way of measuring": *Customer satisfaction is the best gauge of quality.*
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** medir, avaliar, estimar (verbo); medidor, indicador, calibre (substantivo)
 
-| English | Portuguese |
-|---------|------------|
-| It was difficult to gauge his reaction. | Foi difícil avaliar a reação dele. |
-| The fuel gauge showed the tank was nearly empty. | O indicador de combustível mostrava que o tanque estava quase vazio. |
-| A 12-gauge shotgun. | Uma espingarda calibre 12. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** medir, avaliar, estimar (verbo); medidor, indicador, calibre (substantivo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | It was difficult to gauge his reaction. | Foi difícil avaliar a reação dele. |
+> | The fuel gauge showed the tank was nearly empty. | O indicador de combustível mostrava que o tanque estava quase vazio. |
+> | A 12-gauge shotgun. | Uma espingarda calibre 12. |

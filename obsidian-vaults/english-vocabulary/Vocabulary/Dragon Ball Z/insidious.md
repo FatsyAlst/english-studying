@@ -43,10 +43,12 @@ Mid-16th century: from Latin *insidiosus* 'cunning, deceitful,' from *insidiae* 
 > - Synonyms: [[subtle]], stealthy, pernicious, treacherous; antonyms: obvious, harmless.
 
 ---
-**Tradução:** Insidioso, traiçoeiro, sorrateiro, perigoso de forma sutil, dissimulado
 
-| English | Portuguese |
-|---------|------------|
-| The insidious effects of polluted water. | Os efeitos insidiosos/sorrateiros da água contaminada. |
-| Cancer is an insidious disease. | O câncer é uma doença insidiosa/traiçoeira. |
-| The insidious pressures of modern life. | As pressões insidiosas/perigosamente sutis da vida moderna. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Insidioso, traiçoeiro, sorrateiro, perigoso de forma sutil, dissimulado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The insidious effects of polluted water. | Os efeitos insidiosos/sorrateiros da água contaminada. |
+> | Cancer is an insidious disease. | O câncer é uma doença insidiosa/traiçoeira. |
+> | The insidious pressures of modern life. | As pressões insidiosas/perigosamente sutis da vida moderna. |

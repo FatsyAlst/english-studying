@@ -44,11 +44,12 @@ Late 17th century; of unknown origin. Likely clipping of *whim-wham* (a fanciful
 > - Don't confuse: "on a whim" (impulsive action) vs "off the cuff" (speaking without preparation).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** capricho, impulso, vontade súbita, ideia repentina
 
-| English | Portuguese |
-|---------|------------|
-| On a whim, we stopped to get ice cream. | Por impulso, paramos para tomar sorvete. |
-| He was forced to pander to her every whim. | Ele foi forçado a satisfazer todos os seus caprichos. |
-| He quit his job on a whim. | Ele largou o emprego por impulso. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** capricho, impulso, vontade súbita, ideia repentina
+>
+> | English | Portuguese |
+> |---------|------------|
+> | On a whim, we stopped to get ice cream. | Por impulso, paramos para tomar sorvete. |
+> | He was forced to pander to her every whim. | Ele foi forçado a satisfazer todos os seus caprichos. |
+> | He quit his job on a whim. | Ele largou o emprego por impulso. |

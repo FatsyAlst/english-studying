@@ -44,12 +44,13 @@ Rhyming reduplication combining "even" (equal) with the name "Steven." Popular i
 > - Can also mean "tied" or "equal in all respects"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** em igualdade de condições, empatado
 
-| English | Portuguese |
-|---------|------------|
-| even-steven | em igualdade de condições |
-| call it even-steven | chegar a um empate |
-| break even-steven | ficar empatado |
-| even-steven match | luta empatada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** em igualdade de condições, empatado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | even-steven | em igualdade de condições |
+> | call it even-steven | chegar a um empate |
+> | break even-steven | ficar empatado |
+> | even-steven match | luta empatada |

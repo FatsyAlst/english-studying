@@ -46,14 +46,17 @@ Middle English *utmest/ūtmest*, double superlative of Old English *ūt* 'out' +
 > - Always used before noun as an adjective (e.g., 'utmost care', not 'care utmost').
 > - Common phrase: 'do one's utmost' = make one's best effort.
 > - Often confused with 'upmost' (incorrect usage); 'utmost' is the correct spelling.
+> - 📺 Also seen in [[My Hero Academia Vigilantes]]
 
 ---
-**Tradução:** 1. (Adjetivo) Máximo; supremo; extremo; maior possível | 2. (Substantivo) O melhor; o máximo possível
 
-| English | Portuguese |
-|---------|------------|
-| This is a matter of the utmost importance. | Isso é uma questão de máxima importância. |
-| She showed the utmost respect for her elders. | Ela demonstrou o máximo respeito pelos mais velhos. |
-| We did our utmost to finish on time. | Fizemos o nosso melhor para terminar no prazo. |
-| Safety is of the utmost concern here. | A segurança é de máxima preocupação aqui. |
-| This represents the utmost in technology. | Isso representa o máximo em tecnologia. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Adjetivo) Máximo; supremo; extremo; maior possível | 2. (Substantivo) O melhor; o máximo possível
+>
+> | English | Portuguese |
+> |---------|------------|
+> | This is a matter of the utmost importance. | Isso é uma questão de máxima importância. |
+> | She showed the utmost respect for her elders. | Ela demonstrou o máximo respeito pelos mais velhos. |
+> | We did our utmost to finish on time. | Fizemos o nosso melhor para terminar no prazo. |
+> | Safety is of the utmost concern here. | A segurança é de máxima preocupação aqui. |
+> | This represents the utmost in technology. | Isso representa o máximo em tecnologia. |

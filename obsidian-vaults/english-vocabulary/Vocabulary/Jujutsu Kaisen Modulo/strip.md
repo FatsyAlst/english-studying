@@ -61,11 +61,12 @@ From Old English "strieped," meaning to plunder or rob. Related to Old Germanic 
 > - Common in writing and speech
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Remover, tirar, despir; eliminar, revelar
 
-| English | Portuguese |
-|---------|------------|
-| Strip away the lies. | Remova as mentiras. |
-| He stripped off his shirt. | Ele tirou a camisa. |
-| Strip away the pretense. | Elimine a pretensão. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Remover, tirar, despir; eliminar, revelar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Strip away the lies. | Remova as mentiras. |
+> | He stripped off his shirt. | Ele tirou a camisa. |
+> | Strip away the pretense. | Elimine a pretensão. |

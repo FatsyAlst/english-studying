@@ -16,6 +16,7 @@ A stupid or clumsy person; a large, ungainly person who lacks grace or intellige
 > - He called his opponent a clumsy oaf for falling during the fight.
 > - The oaf stumbled over his own feet trying to dodge the attack.
 > - Don't be such an oaf and pay attention to what I'm saying.
+> - Watch where you're going, you big oaf!
 
 ---
 ## 🌳 Word Family
@@ -47,14 +48,16 @@ From Old Norse *álfar* (elves, but also used for changed children or dwarves be
 > - Can be used affectionately in some contexts
 > - Common in casual insults or character descriptions
 > - Often used to describe clumsy fighters or foolish opponents
+> - 📺 Also encountered in [[Dr. Stone]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Imbecil, tonto, desajeitado
 
-| English | Portuguese |
-|---|---|
-| oaf | imbecil, tonto |
-| clumsy oaf | desajeitado, grosseiro |
-| act like an oaf | comportar-se como um tonto |
-| oafish | tonto, desajeitado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Imbecil, tonto, desajeitado
+>
+> | English | Portuguese |
+> |---|---|
+> | oaf | imbecil, tonto |
+> | clumsy oaf | desajeitado, grosseiro |
+> | act like an oaf | comportar-se como um tonto |
+> | oafish | tonto, desajeitado |

@@ -27,9 +27,11 @@ To put something or someone in a dangerous or difficult situation, especially by
 > - Related noun 'jeopardy' means 'danger of loss, harm, or failure'.
 
 ---
-**Tradução:** Colocar em risco / Comprometer / Perigar
 
-| English | Portuguese |
-|---------|------------|
-| Reckless spending could jeopardize the company's future. | Gastos imprudentes poderiam comprometer o futuro da empresa. |
-| Don't jeopardize your health by skipping meals. | Não coloque sua saúde em risco pulando refeições. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Colocar em risco / Comprometer / Perigar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Reckless spending could jeopardize the company's future. | Gastos imprudentes poderiam comprometer o futuro da empresa. |
+> | Don't jeopardize your health by skipping meals. | Não coloque sua saúde em risco pulando refeições. |

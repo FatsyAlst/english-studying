@@ -45,13 +45,15 @@ From French *laquais* (footman, servant); likely from Turkish *alaqu* or Arabic 
 > - Modern use: implies someone is a puppet or tool of another.
 > - Often used in political or social criticism.
 > - Has negative connotations of servility and lack of integrity.
+> - ⚠️ Similar meaning in [[underling]] (from [[Dragon Ball Super]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Lacaio; criado; servo; marionete
 
-| English | Portuguese |
-|---------|------------|
-| He dismissed his critics as mere lackeys of the regime. | Ele descartou seus críticos como meros lacaios do regime. |
-| The politician's lackeys followed his every command. | Os lacaios do político seguiam cada ordem dele. |
-| She refused to be a lackey in their scheme. | Ela se recusou a ser uma marionete no esquema deles. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Lacaio; criado; servo; marionete
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He dismissed his critics as mere lackeys of the regime. | Ele descartou seus críticos como meros lacaios do regime. |
+> | The politician's lackeys followed his every command. | Os lacaios do político seguiam cada ordem dele. |
+> | She refused to be a lackey in their scheme. | Ela se recusou a ser uma marionete no esquema deles. |

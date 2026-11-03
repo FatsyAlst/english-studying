@@ -49,12 +49,14 @@ From Old English *slǀg* or *slĮeh*, meaning 'skillful, clever'; evolved to imp
 > - Informal tone; used similarly in British and American English.
 
 ---
-**Tradução:** (Adjetivo) Astuto; esperto (de forma dissimulada ou maliciosa); malicioso; maroto
 
-| English | Portuguese |
-|---------|------------|
-| He gave her a sly wink when no one was looking. | Ele deu uma piscadela astuta para ela quando ninguém estava olhando. |
-| The sly fox tricked the farmer out of his chickens. | A raposa astuta enganou o fazendeiro e levou suas galinhas. |
-| She had a sly smile that suggested she knew a secret. | Ela tinha um sorriso astuto que sugeria que sabia um segredo. |
-| The children exchanged sly glances during the boring lesson. | As crianças trocaram olhares astutos durante a lição chata. |
-| His sly humor always lightened the mood. | Seu humor astuto sempre aliviava o ambiente. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** (Adjetivo) Astuto; esperto (de forma dissimulada ou maliciosa); malicioso; maroto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He gave her a sly wink when no one was looking. | Ele deu uma piscadela astuta para ela quando ninguém estava olhando. |
+> | The sly fox tricked the farmer out of his chickens. | A raposa astuta enganou o fazendeiro e levou suas galinhas. |
+> | She had a sly smile that suggested she knew a secret. | Ela tinha um sorriso astuto que sugeria que sabia um segredo. |
+> | The children exchanged sly glances during the boring lesson. | As crianças trocaram olhares astutos durante a lição chata. |
+> | His sly humor always lightened the mood. | Seu humor astuto sempre aliviava o ambiente. |

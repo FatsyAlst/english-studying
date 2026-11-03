@@ -51,10 +51,12 @@ First used 1765 in chess; compound of Middle English *stale* ('standstill,' from
 > - Distinguished from 'checkmate' (winner determined) and 'deadlock' (mutual inability to proceed).
 
 ---
-**Tradução:** 1. (Xadrez) Impasse; empate por sufocação (rei sem jogadas legais) | 2. (Figurado) Impasse; beco sem saída; situação de travamento
 
-| English | Portuguese |
-|---------|------------|
-| The game ended in stalemate when the king had no legal moves. | A partida terminou em impasse quando o rei não tinha jogadas legais. |
-| Negotiations reached a stalemate after hours of debate. | As negociações chegaram a um impasse depois de horas de debate. |
-| The talks ended in stalemate with no agreement reached. | As conversãs terminaram em beco sem saída, sem acordo alcançado. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Xadrez) Impasse; empate por sufocação (rei sem jogadas legais) | 2. (Figurado) Impasse; beco sem saída; situação de travamento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The game ended in stalemate when the king had no legal moves. | A partida terminou em impasse quando o rei não tinha jogadas legais. |
+> | Negotiations reached a stalemate after hours of debate. | As negociações chegaram a um impasse depois de horas de debate. |
+> | The talks ended in stalemate with no agreement reached. | As conversãs terminaram em beco sem saída, sem acordo alcançado. |

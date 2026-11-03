@@ -45,12 +45,13 @@ From "bum" (a person without a fixed home or job, from German "Bummler," meaning
 > - Still widely used today
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** decepção, azar, desgraça
 
-| English | Portuguese |
-|---------|------------|
-| bummer | que decepção, azar |
-| what a bummer | que desgraça |
-| real bummer | uma verdadeira decepção |
-| that's a bummer | isso é uma pena |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** decepção, azar, desgraça
+>
+> | English | Portuguese |
+> |---------|------------|
+> | bummer | que decepção, azar |
+> | what a bummer | que desgraça |
+> | real bummer | uma verdadeira decepção |
+> | that's a bummer | isso é uma pena |

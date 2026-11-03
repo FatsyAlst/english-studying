@@ -43,12 +43,13 @@ A modern English phrase combining "by" (according to) + "all" (everyone/everythi
 > - Can be placed at the beginning or middle of a sentence
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** de acordo com tudo que se sabe, ao que se diz, aparentemente
 
-| English | Portuguese |
-|---------|------------|
-| by all accounts | de acordo com tudo que se sabe |
-| allegedly | supostamente |
-| apparently | aparentemente |
-| it seems | parece que |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** de acordo com tudo que se sabe, ao que se diz, aparentemente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | by all accounts | de acordo com tudo que se sabe |
+> | allegedly | supostamente |
+> | apparently | aparentemente |
+> | it seems | parece que |

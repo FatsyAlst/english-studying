@@ -63,12 +63,13 @@ From Latin *colligere* (to gather together), from *co-* (together) + *legere* (t
 > - Can apply to various contexts: culling data, culling applicants, culling products
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Selecionar, colher, eliminar, abate
 
-| English | Portuguese |
-|---------|------------|
-| cull from a collection | selecionar de uma coleção |
-| cull the herd | reduzir o rebanho |
-| wildlife cull | abate de animais selvagens |
-| cull data | selecionar dados |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Selecionar, colher, eliminar, abate
+>
+> | English | Portuguese |
+> |---------|------------|
+> | cull from a collection | selecionar de uma coleção |
+> | cull the herd | reduzir o rebanho |
+> | wildlife cull | abate de animais selvagens |
+> | cull data | selecionar dados |

@@ -51,11 +51,12 @@ From Middle English **"bihalve"** meaning *by the side of*. Related to **"half"*
 > - Don't confuse with **"on the part of"** (which attributes actions or qualities).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** em nome de, representando (on behalf of); em favor de, no interesse de (in behalf of)
 
-| English | Portuguese |
-|---------|------------|
-| On behalf of the department, I would like to thank you all. | Em nome do departamento, gostaria de agradecer a todos. |
-| His wife will accept the prize on his behalf. | Sua esposa aceitará o prêmio em seu nome. |
-| We raised money in behalf of the earthquake victims. | Arrecadamos dinheiro em favor das vítimas do terremoto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** em nome de, representando (on behalf of); em favor de, no interesse de (in behalf of)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | On behalf of the department, I would like to thank you all. | Em nome do departamento, gostaria de agradecer a todos. |
+> | His wife will accept the prize on his behalf. | Sua esposa aceitará o prêmio em seu nome. |
+> | We raised money in behalf of the earthquake victims. | Arrecadamos dinheiro em favor das vítimas do terremoto. |

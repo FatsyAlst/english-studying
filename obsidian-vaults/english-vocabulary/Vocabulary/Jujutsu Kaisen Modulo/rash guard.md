@@ -46,11 +46,12 @@ A tight-fitting shirt or garment made of stretchy material, typically worn for w
 > - Common abbreviation: "rashguard" or "rash guard" (both acceptable).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Camiseta de proteção; lycra de proteção; roupa de água
 
-| English | Portuguese |
-|---------|------------|
-| He wore a rash guard while surfing. | Ele usava uma camiseta de proteção enquanto surfava. |
-| The swimmer put on a rash guard before diving. | O nadador colocou uma roupa de proteção antes de mergulhar. |
-| MMA fighters often wear rash guards under their gis. | Lutadores de MMA frequentemente usam camisetas de proteção sob suas vestes. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Camiseta de proteção; lycra de proteção; roupa de água
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He wore a rash guard while surfing. | Ele usava uma camiseta de proteção enquanto surfava. |
+> | The swimmer put on a rash guard before diving. | O nadador colocou uma roupa de proteção antes de mergulhar. |
+> | MMA fighters often wear rash guards under their gis. | Lutadores de MMA frequentemente usam camisetas de proteção sob suas vestes. |

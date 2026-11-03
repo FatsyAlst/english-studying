@@ -23,9 +23,11 @@ Late Middle English: from obsolete "knack" meaning a sharp blow/sound (imitative
 > - Informal, no BrE/AmE split.
 
 ---
-**Tradução:** Jeito / Talento / Dom
 
-| English | Portuguese |
-|---------|------------|
-| She has a knack for solving puzzles quickly. | Ela tem um jeito para resolver quebra-cabeças rapidamente. |
-| He's got a real knack for making friends everywhere. | Ele tem um verdadeiro talento para fazer amigos em todos os lugares. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Jeito / Talento / Dom
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She has a knack for solving puzzles quickly. | Ela tem um jeito para resolver quebra-cabeças rapidamente. |
+> | He's got a real knack for making friends everywhere. | Ele tem um verdadeiro talento para fazer amigos em todos os lugares. |

@@ -49,11 +49,12 @@ From French *bureaucrate*, derived from *bureau* (desk, office) + *-crat* (rule,
 > - Related to "red tape" and "bureaucracy"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Burocrata, funcionário público
 
-| English | Portuguese |
-|---------|------------|
-| government bureaucrat | burocrata do governo |
-| petty bureaucrat | burocrata mesquinho |
-| bureaucratic system | sistema burocrático |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Burocrata, funcionário público
+>
+> | English | Portuguese |
+> |---------|------------|
+> | government bureaucrat | burocrata do governo |
+> | petty bureaucrat | burocrata mesquinho |
+> | bureaucratic system | sistema burocrático |

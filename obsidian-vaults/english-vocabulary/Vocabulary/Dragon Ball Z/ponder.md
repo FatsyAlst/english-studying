@@ -42,10 +42,12 @@ Middle English (originally 'appraise, judge worth'): From Old French *ponderer* 
 > - Similar to 'contemplate/muse/ruminate' but less intense than 'brood.'
 
 ---
-**Tradução:** Ponderar, refletir, considerar, meditar (sobre algo)
 
-| English | Portuguese |
-|---------|------------|
-| She pondered over his words. | Ela ponderou/refletiu sobre as palavras dele. |
-| They were left to ponder on the implications of the announcement. | Eles foram deixados para ponderar sobre as implicações do anúncio. |
-| The senator pondered the question for a moment. | O senador ponderou a pergunta por um momento. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Ponderar, refletir, considerar, meditar (sobre algo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She pondered over his words. | Ela ponderou/refletiu sobre as palavras dele. |
+> | They were left to ponder on the implications of the announcement. | Eles foram deixados para ponderar sobre as implicações do anúncio. |
+> | The senator pondered the question for a moment. | O senador ponderou a pergunta por um momento. |

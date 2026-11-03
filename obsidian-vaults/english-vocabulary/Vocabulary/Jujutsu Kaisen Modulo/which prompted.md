@@ -40,11 +40,12 @@ Used in non-defining relative clauses to express that a previous situation cause
 > - In spoken English, people tend to say "and that made…" instead.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** o que levou (a), o que fez com que, o que causou, e isso levou (a)
 
-| English | Portuguese |
-|---------|------------|
-| He lost his job, which prompted him to move back with his parents. | Ele perdeu o emprego, o que o levou a voltar a morar com os pais. |
-| The company reported lower profits, which prompted investors to sell. | A empresa divulgou lucros menores, o que levou investidores a venderem suas ações. |
-| The incident prompted a government investigation. | O incidente levou a uma investigação do governo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** o que levou (a), o que fez com que, o que causou, e isso levou (a)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He lost his job, which prompted him to move back with his parents. | Ele perdeu o emprego, o que o levou a voltar a morar com os pais. |
+> | The company reported lower profits, which prompted investors to sell. | A empresa divulgou lucros menores, o que levou investidores a venderem suas ações. |
+> | The incident prompted a government investigation. | O incidente levou a uma investigação do governo. |

@@ -58,11 +58,12 @@ From Latin **"plumbum"** (lead) — the same root as "plumber" and "plumbing."
 > - Very common in news, business, and reports.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** despencar, cair bruscamente, desabar (figurado); prumo (substantivo técnico)
 
-| English | Portuguese |
-|---------|------------|
-| Share prices plummeted after the announcement. | O preço das ações despencou depois do anúncio. |
-| The temperature plummeted overnight. | A temperatura despencou durante a noite. |
-| Tourist numbers plummeted during the pandemic. | O número de turistas despencou durante a pandemia. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** despencar, cair bruscamente, desabar (figurado); prumo (substantivo técnico)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Share prices plummeted after the announcement. | O preço das ações despencou depois do anúncio. |
+> | The temperature plummeted overnight. | A temperatura despencou durante a noite. |
+> | Tourist numbers plummeted during the pandemic. | O número de turistas despencou durante a pandemia. |

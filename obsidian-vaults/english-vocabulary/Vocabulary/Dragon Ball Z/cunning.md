@@ -51,10 +51,12 @@ Middle English: from Old Norse kunnandi 'knowledge' (kunna 'know', related to ca
 > - Similar: [[sly]], crafty, wily (negative); [[ingenious]] (positive).
 
 ---
-**Tradução:** Adjective 1: astuto, esperto (de modo enganoso), ardiloso. Adjective 2: astuto, engenhoso. Noun: astúcia, esperteza (enganosa).
 
-| English | Portuguese |
-|---------|------------|
-| He was as cunning as a fox. | Ele era astuto como uma raposa. |
-| A cunning piece of detective work. | Um trabalho de detetive engenhoso. |
-| It took energy and cunning just to survive. | Foi preciso energia e astúcia só para sobreviver. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Adjective 1: astuto, esperto (de modo enganoso), ardiloso. Adjective 2: astuto, engenhoso. Noun: astúcia, esperteza (enganosa).
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He was as cunning as a fox. | Ele era astuto como uma raposa. |
+> | A cunning piece of detective work. | Um trabalho de detetive engenhoso. |
+> | It took energy and cunning just to survive. | Foi preciso energia e astúcia só para sobreviver. |

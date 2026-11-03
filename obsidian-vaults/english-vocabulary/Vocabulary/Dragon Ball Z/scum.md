@@ -59,11 +59,13 @@ Comes from Middle Dutch "schume" and related Germanic forms meaning "foam, froth
 > - Often appears in fixed expressions like "the scum of the earth" to emphasize that someone is seen as the worst kind of person.
 
 ---
-**Tradução:** espuma suja; camada de sujeira; crosta/nata de sujeira (líquido); escória; ralé; lixo humano; canalha (pessoas).
 
-| English | Portuguese |
-|---------|------------|
-| There was a layer of green scum on the surface of the pond. | Havia uma camada de sujeira esverdeada na superfície do lago. |
-| Boil the soup gently and skim off any scum. | Ferva a sopa lentamente e retire qualquer espuma de sujeira que se formar. |
-| Drug dealers are the scum of the earth. | Traficantes de drogas são a escória da humanidade. |
-| Only scum would treat animals like that. | Só canalha trataria animais desse jeito. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** espuma suja; camada de sujeira; crosta/nata de sujeira (líquido); escória; ralé; lixo humano; canalha (pessoas).
+>
+> | English | Portuguese |
+> |---------|------------|
+> | There was a layer of green scum on the surface of the pond. | Havia uma camada de sujeira esverdeada na superfície do lago. |
+> | Boil the soup gently and skim off any scum. | Ferva a sopa lentamente e retire qualquer espuma de sujeira que se formar. |
+> | Drug dealers are the scum of the earth. | Traficantes de drogas são a escória da humanidade. |
+> | Only scum would treat animals like that. | Só canalha trataria animais desse jeito. |

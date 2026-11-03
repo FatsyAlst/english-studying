@@ -60,11 +60,12 @@ From French "marbre," from Latin "marmor," from Greek "marmaros" meaning "white 
 > - These idioms emphasize mental clarity or the lack thereof
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Bolinhas de vidro; perder a razão, sanidade mental
 
-| English | Portuguese |
-|---------|------------|
-| The children played marbles. | As crianças brincavam de bola de gude. |
-| Don't lose your marbles! | Não perca a cabeça! |
-| He still has all his marbles. | Ele ainda mantém toda sua sanidade mental. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Bolinhas de vidro; perder a razão, sanidade mental
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The children played marbles. | As crianças brincavam de bola de gude. |
+> | Don't lose your marbles! | Não perca a cabeça! |
+> | He still has all his marbles. | Ele ainda mantém toda sua sanidade mental. |

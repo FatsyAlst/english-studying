@@ -57,11 +57,12 @@ From Old French *paon* (foot soldier), from Latin *pedō* (foot). The term refer
 > - The verb form is common in historical/modern contexts of financial desperation.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** peão (xadrez); vítima, títere; penhorar
 
-| English | Portuguese |
-|---------|------------|
-| In chess, a pawn can be promoted to a queen. | No xadrez, um peão pode ser promovido a rainha. |
-| He realized he was just a pawn in their game. | Ele percebeu que era apenas um peão no jogo deles. |
-| He pawned his watch to get money for food. | Ele penhorou seu relógio para conseguir dinheiro para comida. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** peão (xadrez); vítima, títere; penhorar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | In chess, a pawn can be promoted to a queen. | No xadrez, um peão pode ser promovido a rainha. |
+> | He realized he was just a pawn in their game. | Ele percebeu que era apenas um peão no jogo deles. |
+> | He pawned his watch to get money for food. | Ele penhorou seu relógio para conseguir dinheiro para comida. |

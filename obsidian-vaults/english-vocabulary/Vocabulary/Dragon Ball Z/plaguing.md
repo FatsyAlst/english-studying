@@ -67,10 +67,12 @@ From Latin 'plaga' meaning 'stroke, wound,' later used for calamities and epidem
 > - In many contexts it is quite strong, so in neutral situations 'bothering' or 'troubling' may sound softer.
 
 ---
-**Tradução:** Atormentando; Afligindo; Incomodando (de forma constante); Perseguindo (no sentido figurado)
 
-| English | Portuguese |
-|---------|------------|
-| Financial problems have been plaguing their new business for years. | Problemas financeiros vêm atormentando o novo negócio deles há anos. |
-| A mysterious error has been plaguing the system since the last update. | Um erro misterioso vem incomodando o sistema desde a última atualização. |
-| Reporters have been plaguing the actor with questions about his private life. | Repórteres vêm atormentando o ator com perguntas sobre sua vida privada. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Atormentando; Afligindo; Incomodando (de forma constante); Perseguindo (no sentido figurado)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Financial problems have been plaguing their new business for years. | Problemas financeiros vêm atormentando o novo negócio deles há anos. |
+> | A mysterious error has been plaguing the system since the last update. | Um erro misterioso vem incomodando o sistema desde a última atualização. |
+> | Reporters have been plaguing the actor with questions about his private life. | Repórteres vêm atormentando o ator com perguntas sobre sua vida privada. |

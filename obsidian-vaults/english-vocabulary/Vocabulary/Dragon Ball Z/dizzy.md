@@ -46,12 +46,15 @@ Old English *dysig* 'foolish, stupid'; related to Low German *dusig* 'giddy' and
 ---
 > [!tip] Notes
 > - Physical sense most common; 'dizzy heights' = impressive/high status; informal for 'silly' mainly US.
+> - ⚠️ Similar meaning in [[lightheaded]] (from [[Mushoku Tensei]])
 
 ---
-**Tradução:** Tonto, vertiginoso, zonzo (physical); espantoso, vertiginoso (causing dizziness); bobo, tonto (silly)
 
-| English | Portuguese |
-|---------|------------|
-| Climbing so high made me feel dizzy. | Subir tão alto me deixou tonto/vertiginoso. |
-| She had a dizzy spell and had to sit down. | Ela teve um ataque de tontura e precisou sentar. |
-| The dizzy pace of life in Hong Kong. | O ritmo vertiginoso/espantoso da vida em Hong Kong. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Tonto, vertiginoso, zonzo (physical); espantoso, vertiginoso (causing dizziness); bobo, tonto (silly)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Climbing so high made me feel dizzy. | Subir tão alto me deixou tonto/vertiginoso. |
+> | She had a dizzy spell and had to sit down. | Ela teve um ataque de tontura e precisou sentar. |
+> | The dizzy pace of life in Hong Kong. | O ritmo vertiginoso/espantoso da vida em Hong Kong. |

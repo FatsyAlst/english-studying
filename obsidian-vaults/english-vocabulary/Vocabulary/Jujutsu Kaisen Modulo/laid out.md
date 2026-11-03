@@ -74,11 +74,12 @@ Past tense and past participle of the phrasal verb "lay out" (to place or spread
 > - Present: lay out → Past: laid out. Common error: "layed out" is incorrect.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** disposto/organizado; explicado; planejado/traçado; nocauteado; derrubado (por doença)
 
-| English | Portuguese |
-|---------|------------|
-| The tools were laid out on the table. | As ferramentas estavam dispostas na mesa. |
-| The city is laid out in a grid pattern. | A cidade é traçada em forma de grade. |
-| The flu laid her out for a week. | A gripe deixou ela derrubada por uma semana. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** disposto/organizado; explicado; planejado/traçado; nocauteado; derrubado (por doença)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The tools were laid out on the table. | As ferramentas estavam dispostas na mesa. |
+> | The city is laid out in a grid pattern. | A cidade é traçada em forma de grade. |
+> | The flu laid her out for a week. | A gripe deixou ela derrubada por uma semana. |

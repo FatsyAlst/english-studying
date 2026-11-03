@@ -51,13 +51,14 @@ From Old English *lout*, of uncertain origin, possibly related to Old Norse *lú
 > - Emphasizes lack of manners and refinement
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Grosseirão, bravata, indivíduo rude, brutamontes
 
-| English | Portuguese |
-|---------|------------|
-| lout | grosseirão, brutamontes |
-| crude lout | grosseirão rude |
-| loutish behavior | comportamento de grosseirão |
-| loutish manner | maneira de brutamontes |
-| young lout | jovem brutamontes |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Grosseirão, bravata, indivíduo rude, brutamontes
+>
+> | English | Portuguese |
+> |---------|------------|
+> | lout | grosseirão, brutamontes |
+> | crude lout | grosseirão rude |
+> | loutish behavior | comportamento de grosseirão |
+> | loutish manner | maneira de brutamontes |
+> | young lout | jovem brutamontes |

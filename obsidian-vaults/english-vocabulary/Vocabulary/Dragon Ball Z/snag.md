@@ -72,12 +72,14 @@ Late 16th c., probably Scandinavian (Old Norse *snagi* 'clothes peg,' *snaga* 's
 > - 📺 Also seen in [[Jujutsu Kaisen Modulo]]
 
 ---
-**Tradução:** 1. (Substantivo, problema) Contratempo; imprevisto; obstáculo; pepino | 2. (Substantivo, projeção) Toco; farpa; gancho | 3. (Substantivo, AU) Salsicha | 4. (Verbo, rasgar) Enganchou; rasgou; pegou | 5. (Verbo, conseguir) Conseguiu; pegou; fisgou
 
-| English | Portuguese |
-|---------|------------|
-| We hit a snag with the contract negotiations. | Tivemos um contratempo nas negociações do contrato. |
-| She snagged her stocking on the chair leg. | Ela rasgou a meia na perna da cadeira. |
-| I snagged a great deal at the sale. | Eu fisguei uma ótima promoção na liquidação. |
-| The boat got caught on a snag in the river. | O barco ficou preso em um toco no rio. |
-| She snagged a ride from a friend. | Ela conseguiu uma carona de uma amiga. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, problema) Contratempo; imprevisto; obstáculo; pepino | 2. (Substantivo, projeção) Toco; farpa; gancho | 3. (Substantivo, AU) Salsicha | 4. (Verbo, rasgar) Enganchou; rasgou; pegou | 5. (Verbo, conseguir) Conseguiu; pegou; fisgou
+>
+> | English | Portuguese |
+> |---------|------------|
+> | We hit a snag with the contract negotiations. | Tivemos um contratempo nas negociações do contrato. |
+> | She snagged her stocking on the chair leg. | Ela rasgou a meia na perna da cadeira. |
+> | I snagged a great deal at the sale. | Eu fisguei uma ótima promoção na liquidação. |
+> | The boat got caught on a snag in the river. | O barco ficou preso em um toco no rio. |
+> | She snagged a ride from a friend. | Ela conseguiu uma carona de uma amiga. |

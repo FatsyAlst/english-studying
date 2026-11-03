@@ -58,11 +58,12 @@ Old English *berēafian* ("to deprive of, take away, seize, rob"), from *be-* (i
 > - The noun *bereavement* refers to the state or period of grief after someone's death.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** enlutado, em luto, que perdeu um ente querido
 
-| English | Portuguese |
-|---------|------------|
-| The bereaved family gathered at the funeral home. | A família enlutada se reuniu na funerária. |
-| Support groups exist to help the bereaved. | Grupos de apoio existem para ajudar os enlutados. |
-| She took bereavement leave after her father's death. | Ela tirou licença por luto após a morte do pai. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** enlutado, em luto, que perdeu um ente querido
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The bereaved family gathered at the funeral home. | A família enlutada se reuniu na funerária. |
+> | Support groups exist to help the bereaved. | Grupos de apoio existem para ajudar os enlutados. |
+> | She took bereavement leave after her father's death. | Ela tirou licença por luto após a morte do pai. |

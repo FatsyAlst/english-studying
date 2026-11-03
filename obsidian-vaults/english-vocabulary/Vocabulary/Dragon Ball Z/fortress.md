@@ -48,13 +48,14 @@ From Old French *forteresse*, from Latin *fortis* meaning "strong." Originally r
 > - Larger and more militaristic than "fort" or "castle"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** fortaleza, baluarte
 
-| English | Portuguese |
-|---------|------------|
-| fortress | fortaleza |
-| fortress walls | muros da fortaleza |
-| impenetrable fortress | fortaleza impenetrável |
-| to fortify | fortificar |
-| fortified | fortificado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** fortaleza, baluarte
+>
+> | English | Portuguese |
+> |---------|------------|
+> | fortress | fortaleza |
+> | fortress walls | muros da fortaleza |
+> | impenetrable fortress | fortaleza impenetrável |
+> | to fortify | fortificar |
+> | fortified | fortificado |

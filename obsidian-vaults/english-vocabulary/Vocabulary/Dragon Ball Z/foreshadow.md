@@ -44,11 +44,12 @@ From "fore-" (before) + "shadow." The prefix "fore-" comes from Old English *for
 > - Creates suspense or dramatic irony when recognized by the audience.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** prenunciar, antever, ser um presságio de
 
-| English | Portuguese |
-|---------|------------|
-| The dark clouds foreshadowed the coming storm. | As nuvens escuras prenunciavam a tempestade iminente. |
-| Early scenes in the film foreshadow the tragic ending. | Cenas iniciais no filme antecedem o final trágico. |
-| His strange behavior foreshadowed the shocking revelation. | Seu comportamento estranho era presságio da revelação chocante. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** prenunciar, antever, ser um presságio de
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The dark clouds foreshadowed the coming storm. | As nuvens escuras prenunciavam a tempestade iminente. |
+> | Early scenes in the film foreshadow the tragic ending. | Cenas iniciais no filme antecedem o final trágico. |
+> | His strange behavior foreshadowed the shocking revelation. | Seu comportamento estranho era presságio da revelação chocante. |

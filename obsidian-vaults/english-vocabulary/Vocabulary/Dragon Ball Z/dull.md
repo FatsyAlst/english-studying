@@ -64,12 +64,13 @@ From Old English *dol* (stupid), related to Old Saxon *dol* and Old Norse *dullr
 > - Can be used as a verb meaning to make something dull or less sharp
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Sem brilho, maçante, embotado
 
-| English | Portuguese |
-|---|---|
-| dull (lacking shine) | sem brilho, fosco |
-| dull (boring) | maçante, chato |
-| dull (blunt) | embotado, cego |
-| dull pain | dor sorda |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Sem brilho, maçante, embotado
+>
+> | English | Portuguese |
+> |---|---|
+> | dull (lacking shine) | sem brilho, fosco |
+> | dull (boring) | maçante, chato |
+> | dull (blunt) | embotado, cego |
+> | dull pain | dor sorda |

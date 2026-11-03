@@ -43,10 +43,11 @@ From "back" + "fire." Originally referred to a gun or engine firing backwards. E
 > - Can be used literally (weapon misfiring) or figuratively (plan going wrong).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Sair Pela Culatra / Dar Tiro Pela Culatra
 
-| English | Portuguese |
-|---------|------------|
-| The plan backfired on him. | O plano saiu pela culatra para ele. |
-| His attack backfired, damaging his own team. | Seu ataque saiu pela culatra, danificando seu próprio time. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Sair Pela Culatra / Dar Tiro Pela Culatra
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The plan backfired on him. | O plano saiu pela culatra para ele. |
+> | His attack backfired, damaging his own team. | Seu ataque saiu pela culatra, danificando seu próprio time. |

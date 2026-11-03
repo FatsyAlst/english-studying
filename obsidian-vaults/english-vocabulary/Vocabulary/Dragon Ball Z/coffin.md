@@ -47,12 +47,13 @@ From Old French *cofin* (small box, container), from Latin *cophinus* (basket, c
 > - Related term: casket (American English more commonly uses casket)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Caixão, ataúde
 
-| English | Portuguese |
-|---|---|
-| coffin | caixão, ataúde |
-| burial coffin | caixão de sepultamento |
-| nail in the coffin | o golpe de misericórdia |
-| wooden coffin | caixão de madeira |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Caixão, ataúde
+>
+> | English | Portuguese |
+> |---|---|
+> | coffin | caixão, ataúde |
+> | burial coffin | caixão de sepultamento |
+> | nail in the coffin | o golpe de misericórdia |
+> | wooden coffin | caixão de madeira |

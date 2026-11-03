@@ -47,13 +47,14 @@ From Old French "concession," from Latin "concessio," meaning "a granting" or "y
 > - Common in business, politics, and sports
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** concessão, reconhecimento, admissão
 
-| English | Portuguese |
-|---------|------------|
-| concession | concessão |
-| make a concession | fazer uma concessão |
-| mutual concession | concessão mútua |
-| concession of defeat | reconhecimento de derrota |
-| without concession | sem concessão |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** concessão, reconhecimento, admissão
+>
+> | English | Portuguese |
+> |---------|------------|
+> | concession | concessão |
+> | make a concession | fazer uma concessão |
+> | mutual concession | concessão mútua |
+> | concession of defeat | reconhecimento de derrota |
+> | without concession | sem concessão |

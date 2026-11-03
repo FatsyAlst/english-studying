@@ -17,9 +17,11 @@ Origin: Darth Vader says "Search your feelings, you know it to be true" during t
 > - Not a traditional idiom but evokes self-reflection in pop culture.
 
 ---
-**Tradução:** Examine seus sentimentos / Busque em seus sentimentos
 
-| English | Portuguese |
-|---------|------------|
-| You're denying it, but search your feelings—you know he's lying. | Você está negando, mas examine seus sentimentos—você sabe que ele está mentindo. |
-| Search your feelings; deep down, you want to take the job. | Busque em seus sentimentos; no fundo, você quer aceitar o emprego. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Examine seus sentimentos / Busque em seus sentimentos
+>
+> | English | Portuguese |
+> |---------|------------|
+> | You're denying it, but search your feelings—you know he's lying. | Você está negando, mas examine seus sentimentos—você sabe que ele está mentindo. |
+> | Search your feelings; deep down, you want to take the job. | Busque em seus sentimentos; no fundo, você quer aceitar o emprego. |

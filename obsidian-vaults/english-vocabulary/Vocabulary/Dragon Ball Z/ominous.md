@@ -23,9 +23,11 @@ Late 16th century from Latin ominosus 'full of foreboding,' from omen, omin- 'om
 > - No major BrE/AmE differences.
 
 ---
-**Tradução:** Ominoso / Sinal de mau agouro / Sinistro
 
-| English | Portuguese |
-|---------|------------|
-| Ominous dark clouds gathered on the horizon, signaling a storm. | Nuvens ominosas se reuniram no horizonte, sinalizando uma tempestade. |
-| He spoke in an ominous tone about the future challenges. | Ele falou em um tom ominoso sobre os desafios futuros. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Ominoso / Sinal de mau agouro / Sinistro
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Ominous dark clouds gathered on the horizon, signaling a storm. | Nuvens ominosas se reuniram no horizonte, sinalizando uma tempestade. |
+> | He spoke in an ominous tone about the future challenges. | Ele falou em um tom ominoso sobre os desafios futuros. |

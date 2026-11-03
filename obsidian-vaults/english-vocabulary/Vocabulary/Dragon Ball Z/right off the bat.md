@@ -46,12 +46,13 @@ From baseball terminology. When a batter hits a ball, it travels "right off the 
 > - Often emphasizes surprise or speed of an action
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** De cara, imediatamente, logo de início
 
-| English | Portuguese |
-|---|---|
-| right off the bat | de cara, imediatamente |
-| from the very start | logo de início |
-| immediately | na hora |
-| without delay | sem demora |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** De cara, imediatamente, logo de início
+>
+> | English | Portuguese |
+> |---|---|
+> | right off the bat | de cara, imediatamente |
+> | from the very start | logo de início |
+> | immediately | na hora |
+> | without delay | sem demora |

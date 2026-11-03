@@ -47,11 +47,12 @@ Compound word formed from "shape" (the form or appearance of something) + "shift
 > - Often used in gaming, fantasy literature, and anime
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Transformar, mudar de forma, metamorfosear
 
-| English | Portuguese |
-|---------|------------|
-| The creature can shapeshift. | A criatura pode se transformar. |
-| He shapeshifts into different forms. | Ele muda de forma em diferentes formas. |
-| The shapeshifter disguised itself. | O metamorfo se disfarçou. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Transformar, mudar de forma, metamorfosear
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The creature can shapeshift. | A criatura pode se transformar. |
+> | He shapeshifts into different forms. | Ele muda de forma em diferentes formas. |
+> | The shapeshifter disguised itself. | O metamorfo se disfarçou. |

@@ -80,11 +80,12 @@ From Old English **"turf"** meaning the surface of soil with grass.
 > - **"Turf out"** (BrE informal) = throw out / evict.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** grama/gramado (literal), território/área de atuação (figurativo), turfe (hipismo), turfa (combustível)
 
-| English | Portuguese |
-|---------|------------|
-| The players ran across the wet turf. | Os jogadores correram pelo gramado molhado. |
-| Rival gangs are fighting over turf. | Gangues rivais estão brigando por território. |
-| They were turfed out of the bar at closing time. | Eles foram expulsos do bar na hora de fechar. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** grama/gramado (literal), território/área de atuação (figurativo), turfe (hipismo), turfa (combustível)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The players ran across the wet turf. | Os jogadores correram pelo gramado molhado. |
+> | Rival gangs are fighting over turf. | Gangues rivais estão brigando por território. |
+> | They were turfed out of the bar at closing time. | Eles foram expulsos do bar na hora de fechar. |

@@ -57,13 +57,14 @@ Likely onomatopoetic, imitating the sound of a kiss. Possibly influenced by or r
 > - Appropriate for informal writing and speech
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** beijar; beijo; beijinho
 
-| English | Portuguese |
-|---------|------------|
-| smooch | beijar; beijo |
-| smooch someone | beijar alguém |
-| smooch on the cheek | beijar na bochecha |
-| give a smooch | dar um beijinho |
-| playful smooch | beijo brincalhão |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** beijar; beijo; beijinho
+>
+> | English | Portuguese |
+> |---------|------------|
+> | smooch | beijar; beijo |
+> | smooch someone | beijar alguém |
+> | smooch on the cheek | beijar na bochecha |
+> | give a smooch | dar um beijinho |
+> | playful smooch | beijo brincalhão |

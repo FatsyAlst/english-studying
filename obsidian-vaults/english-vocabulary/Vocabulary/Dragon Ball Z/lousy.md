@@ -45,13 +45,14 @@ From "louse" (the parasitic insect), implying something infected or infested wit
 > - Stronger than "okay" but less severe than some other criticisms
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** péssimo, ruim, horrível
 
-| English | Portuguese |
-|---------|------------|
-| lousy | péssimo/ruim |
-| lousy job | trabalho péssimo |
-| lousy excuse | desculpa ruim |
-| lousy feeling | sentimento horrível |
-| pretty lousy | bem ruim |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** péssimo, ruim, horrível
+>
+> | English | Portuguese |
+> |---------|------------|
+> | lousy | péssimo/ruim |
+> | lousy job | trabalho péssimo |
+> | lousy excuse | desculpa ruim |
+> | lousy feeling | sentimento horrível |
+> | pretty lousy | bem ruim |

@@ -47,12 +47,14 @@ Mid-19th c. from 'stand off' (hold at bay). Chess 'stalemate' sense from 1765, b
 > - Similar to 'stalemate' but more general.
 
 ---
-**Tradução:** 1. (Substantivo, impasse) Impasse; beco sem saída; empate | 2. (Substantivo, confronto) Confronto; impasse armado; face-off
 
-| English | Portuguese |
-|---------|------------|
-| Negotiations between the two sides ended in a standoff. | As negociações entre os dois lados terminaram em impasse. |
-| The protesters and police were locked in a standoff for hours. | Os manifestantes e a polícia ficaram em confronto por horas. |
-| The game ended in a 3-3 standoff. | O jogo terminou empatado em 3-3. |
-| A standoff between demonstrators and authorities halted traffic. | Um confronto entre manifestantes e autoridades parou o tráfego. |
-| Armed forces faced off in a tense standoff at the border. | Forças armadas se enfrentaram em um tenso confronto na fronteira. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, impasse) Impasse; beco sem saída; empate | 2. (Substantivo, confronto) Confronto; impasse armado; face-off
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Negotiations between the two sides ended in a standoff. | As negociações entre os dois lados terminaram em impasse. |
+> | The protesters and police were locked in a standoff for hours. | Os manifestantes e a polícia ficaram em confronto por horas. |
+> | The game ended in a 3-3 standoff. | O jogo terminou empatado em 3-3. |
+> | A standoff between demonstrators and authorities halted traffic. | Um confronto entre manifestantes e autoridades parou o tráfego. |
+> | Armed forces faced off in a tense standoff at the border. | Forças armadas se enfrentaram em um tenso confronto na fronteira. |

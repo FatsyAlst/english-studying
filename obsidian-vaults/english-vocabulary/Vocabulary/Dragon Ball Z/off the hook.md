@@ -54,11 +54,13 @@ Phone receiver not on its cradle, so unable to receive calls; ringing constantly
 > - 'Get/let off the hook' are common verb phrases with same core meaning.
 
 ---
-**Tradução:** 1. Livre da responsabilidade; safo; escapou; isento de culpa | 2. (Gíria) Incrível; fora da curva; doido (no bom sentido); impressionante | 3. (Literal) Fora do gancho; tocando sem parar
 
-| English | Portuguese |
-|---------|------------|
-| You're off the hook – I finished the report for you. | Você está safo – eu terminei o relatório por você. |
-| He was off the hook once the alibi checked out. | Ele ficou livre quando o álibi foi confirmado. |
-| That party was off the hook! | Aquela festa foi incrível! |
-| The phone was ringing off the hook all night. | O telefone tocou sem parar a noite toda. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. Livre da responsabilidade; safo; escapou; isento de culpa | 2. (Gíria) Incrível; fora da curva; doido (no bom sentido); impressionante | 3. (Literal) Fora do gancho; tocando sem parar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | You're off the hook – I finished the report for you. | Você está safo – eu terminei o relatório por você. |
+> | He was off the hook once the alibi checked out. | Ele ficou livre quando o álibi foi confirmado. |
+> | That party was off the hook! | Aquela festa foi incrível! |
+> | The phone was ringing off the hook all night. | O telefone tocou sem parar a noite toda. |

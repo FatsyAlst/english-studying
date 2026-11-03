@@ -54,9 +54,11 @@ From Latin negatus, past participle of negare "to deny," from neg- "not" + the r
 > - Avoid in casual speech—use "cancel out" instead.
 
 ---
-**Tradução:** Negar / Anular
 
-| English | Portuguese |
-|---------|------------|
-| The evidence negates his alibi completely. | A evidência nega completamente seu álibi. |
-| Alcohol can negate the effects of some medicines. | O álcool pode anular os efeitos de alguns medicamentos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Negar / Anular
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The evidence negates his alibi completely. | A evidência nega completamente seu álibi. |
+> | Alcohol can negate the effects of some medicines. | O álcool pode anular os efeitos de alguns medicamentos. |

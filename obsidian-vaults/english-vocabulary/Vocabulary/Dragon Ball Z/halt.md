@@ -48,10 +48,12 @@ Old English healtian 'be lame' → Middle English halten 'limp, stop,' related t
 > - Idiom: 'come to a (grinding/screeching) halt' = stop completely/suddenly.
 
 ---
-**Tradução:** Verb: parar, deter, interromper. Noun: parada, alto, interrupção, paralisação.
 
-| English | Portuguese |
-|---------|------------|
-| "Halt!" called the guard. | "Pare!" — gritou o guarda. |
-| Filming was halted after the lead actor became ill. | As filmagens foram interrompidas depois que o ator principal adoeceu. |
-| Production came to a halt. | A produção chegou a uma parada / foi paralisada. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Verb: parar, deter, interromper. Noun: parada, alto, interrupção, paralisação.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | "Halt!" called the guard. | "Pare!" — gritou o guarda. |
+> | Filming was halted after the lead actor became ill. | As filmagens foram interrompidas depois que o ator principal adoeceu. |
+> | Production came to a halt. | A produção chegou a uma parada / foi paralisada. |

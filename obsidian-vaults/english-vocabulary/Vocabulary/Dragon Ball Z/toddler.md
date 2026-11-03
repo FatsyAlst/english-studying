@@ -44,13 +44,15 @@ From "toddle" (to move unsteadily on short legs) + "-er" (one who does). The ver
 > - Age range typically 1-3 years old
 > - Used in developmental, medical, and parenting contexts
 > - More specific than "baby" or "child"
+> - 📺 Also encountered in [[Mushoku Tensei]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Criança pequena, bebê em fase de andar
 
-| English | Portuguese |
-|---------|------------|
-| toddler | criança pequena (1-3 anos) |
-| young child | criança jovem |
-| baby (older) | bebê |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Criança pequena, bebê em fase de andar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | toddler | criança pequena (1-3 anos) |
+> | young child | criança jovem |
+> | baby (older) | bebê |

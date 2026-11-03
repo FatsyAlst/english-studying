@@ -47,12 +47,14 @@ From Old English *wēpan* 'to weep, bewail,' from Proto-Germanic *wōpijanə* ('
 > - The second sense (leaking liquid) is more technical/medical.
 
 ---
-**Tradução:** 1. (Verbo, chorar) Chorar (de forma prolongada/quieta); soluçar (literário); derramar lágrimas | 2. (Verbo, vazar) Supurar; exsudar; vazar (devagar)
 
-| English | Portuguese |
-|---------|------------|
-| She wept silently as the coffin was lowered into the grave. | Ela chorou em silêncio enquanto o caixão era baixado ao túmulo. |
-| The mourners wept openly when his death was announced. | Os enlutados choraram abertamente quando sua morte foi anunciada. |
-| He wept with joy at the news. | Ele chorou de alegria com a notícia. |
-| The cut on his arm was weeping pus. | O corte no braço dele estava supurando pus. |
-| Tears wept down her cheeks. | Lágrimas desciam pelas bochechas dela. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, chorar) Chorar (de forma prolongada/quieta); soluçar (literário); derramar lágrimas | 2. (Verbo, vazar) Supurar; exsudar; vazar (devagar)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She wept silently as the coffin was lowered into the grave. | Ela chorou em silêncio enquanto o caixão era baixado ao túmulo. |
+> | The mourners wept openly when his death was announced. | Os enlutados choraram abertamente quando sua morte foi anunciada. |
+> | He wept with joy at the news. | Ele chorou de alegria com a notícia. |
+> | The cut on his arm was weeping pus. | O corte no braço dele estava supurando pus. |
+> | Tears wept down her cheeks. | Lágrimas desciam pelas bochechas dela. |

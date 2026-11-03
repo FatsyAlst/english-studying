@@ -47,11 +47,12 @@ From Old English "trempan" or related Germanic roots meaning "to step" or "to tr
 > - "Trampling on/over" is the most common usage pattern
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Pisotear, esmagar com os pés; desrespeitar
 
-| English | Portuguese |
-|---------|------------|
-| Stop trampling the grass! | Pare de pisotear a grama! |
-| They were trampling on his rights. | Eles estavam pisoteando seus direitos. |
-| The crowd was trampling through the field. | A multidão estava pisoteando o campo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Pisotear, esmagar com os pés; desrespeitar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Stop trampling the grass! | Pare de pisotear a grama! |
+> | They were trampling on his rights. | Eles estavam pisoteando seus direitos. |
+> | The crowd was trampling through the field. | A multidão estava pisoteando o campo. |

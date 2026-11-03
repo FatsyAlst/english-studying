@@ -50,13 +50,14 @@ From Old French *subduer*, from Latin *subdere* (to place under), from *sub-* (u
 > - Different connotation than "defeat" (suggests control vs. destruction)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Dominar, sujeitar, subjugar, reprimir
 
-| English | Portuguese |
-|---------|------------|
-| subdue | dominar, subjugar |
-| subdue an opponent | dominar um oponente |
-| subdue resistance | sujeitar a resistência |
-| subdue emotions | reprimir emoções |
-| subdued | dominado, reprimido |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Dominar, sujeitar, subjugar, reprimir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | subdue | dominar, subjugar |
+> | subdue an opponent | dominar um oponente |
+> | subdue resistance | sujeitar a resistência |
+> | subdue emotions | reprimir emoções |
+> | subdued | dominado, reprimido |

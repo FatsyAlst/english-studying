@@ -65,12 +65,13 @@ From Old English "wefan", from Germanic roots meaning "to move back and forth." 
 > - Related noun "web" comes from the same root
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** tecer, entretecer, entrelançar
 
-| English | Portuguese |
-|---------|------------|
-| weave cloth | tecer pano |
-| weave through | entrelançar através |
-| woven pattern | padrão tecido |
-| weave a story | tecer uma história |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** tecer, entretecer, entrelançar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | weave cloth | tecer pano |
+> | weave through | entrelançar através |
+> | woven pattern | padrão tecido |
+> | weave a story | tecer uma história |

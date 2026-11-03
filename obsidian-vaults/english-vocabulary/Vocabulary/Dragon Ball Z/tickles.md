@@ -61,12 +61,13 @@ From Middle English "tikelen," possibly from Old English "cicillan." Origin unce
 > - Often used humorously in anime dialogue
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** fazer cócegas, divertir, intrigar
 
-| English | Portuguese |
-|---------|------------|
-| tickle | fazer cócegas |
-| ticklish | sensível a cócegas |
-| tickle someone's fancy | agradar a alguém |
-| that tickles | isso dá cócegas |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** fazer cócegas, divertir, intrigar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tickle | fazer cócegas |
+> | ticklish | sensível a cócegas |
+> | tickle someone's fancy | agradar a alguém |
+> | that tickles | isso dá cócegas |

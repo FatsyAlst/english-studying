@@ -20,9 +20,11 @@ To present someone in a positive, convincing way to another person or group, so 
 > - Related expressions: ‘sell someone on something’ (persuade), ‘sell yourself’ (present yourself well).
 
 ---
-**Tradução:** Te vender (bem) / Te promover / Te apresentar de um jeito convincente
 
-| English                                                  | Portuguese                                                          |
-| -------------------------------------------------------- | ------------------------------------------------------------------- |
-| I’m just trying to sell you to them, Tom.                | Eu só estou tentando te vender bem pra eles, Tom.                   |
-| Let me sell her to the board — she’s the best candidate. | Deixa eu promover ela pro conselho — ela é a melhor candidata. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Te vender (bem) / Te promover / Te apresentar de um jeito convincente
+>
+> | English                                                  | Portuguese                                                          |
+> | -------------------------------------------------------- | ------------------------------------------------------------------- |
+> | I’m just trying to sell you to them, Tom.                | Eu só estou tentando te vender bem pra eles, Tom.                   |
+> | Let me sell her to the board — she’s the best candidate. | Deixa eu promover ela pro conselho — ela é a melhor candidata. |

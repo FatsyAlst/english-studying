@@ -41,12 +41,15 @@ Anxious and/or angry about something; tense or nervous.
 > - Informal, disapproving/negative; NAmerE more for "repressed."
 > - Synonyms: tense, nervous, anxious, edgy.
 > - Antonyms: relaxed, [[laid-back]].
+> - ⚠️ Similar meaning in [[strait-laced]] (from [[Dr. Stone]])
 
 ---
-**Tradução:** tenso, nervoso, ansioso, rígido, careta
 
-| English | Portuguese |
-|---------|------------|
-| Relax! You're getting too uptight about it. | Relaxe! Você está ficando muito tenso por causa disso. |
-| He's feeling a bit uptight about his exam tomorrow. | Ele está um pouco nervoso com o exame de amanhã. |
-| An uptight teenager afraid to show feelings. | Um adolescente careta com medo de mostrar sentimentos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** tenso, nervoso, ansioso, rígido, careta
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Relax! You're getting too uptight about it. | Relaxe! Você está ficando muito tenso por causa disso. |
+> | He's feeling a bit uptight about his exam tomorrow. | Ele está um pouco nervoso com o exame de amanhã. |
+> | An uptight teenager afraid to show feelings. | Um adolescente careta com medo de mostrar sentimentos. |

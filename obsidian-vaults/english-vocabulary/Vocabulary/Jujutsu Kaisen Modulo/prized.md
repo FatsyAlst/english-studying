@@ -54,15 +54,16 @@ From *prize* (noun), which came from Old French *pris* "price, value, reward," f
 > [!tip] Notes
 > - **Prized** = valued personally or emotionally; **precious** = very valuable (often sentimental); **valuable** = worth a lot of money (more objective).
 > - Often used before a noun: "prized possession," "prized asset."
-> - The verb "prize" (to value) is distinct from "prise/pry" (to lever open), though they are sometimes confused.
+> - The verb "prize" (to value) is distinct from "prise/[[pry]]" (to lever open), though they are sometimes confused.
 > - Common in both formal and informal contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** muito valorizado, precioso, estimado (adjective); valorizar muito, prezar (verb)
 
-| English | Portuguese |
-|---------|------------|
-| This painting is one of the museum's most prized possessions. | Esta pintura é uma das posses mais preciosas do museu. |
-| She finally got a prized place at a top university. | Ela finalmente conseguiu uma vaga muito valorizada em uma universidade de ponta. |
-| He prized honesty above all other qualities. | Ele valorizava a honestidade acima de todas as outras qualidades. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** muito valorizado, precioso, estimado (adjective); valorizar muito, prezar (verb)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | This painting is one of the museum's most prized possessions. | Esta pintura é uma das posses mais preciosas do museu. |
+> | She finally got a prized place at a top university. | Ela finalmente conseguiu uma vaga muito valorizada em uma universidade de ponta. |
+> | He prized honesty above all other qualities. | Ele valorizava a honestidade acima de todas as outras qualidades. |

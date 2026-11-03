@@ -24,9 +24,11 @@ Mid-16th century: from French empestrer "encumber/impede," influenced by "pest" 
 > - Often by children/animals.
 
 ---
-**Tradução:** Importunar / Incomodar / Encher o saco
 
-| English | Portuguese |
-|---------|------------|
-| The kids kept pestering their mom to buy ice cream. | As crianças ficaram importunando a mãe para comprar sorvete. |
-| Stop pestering me with the same question! | Pare de me encher com a mesma pergunta! |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Importunar / Incomodar / Encher o saco
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The kids kept pestering their mom to buy ice cream. | As crianças ficaram importunando a mãe para comprar sorvete. |
+> | Stop pestering me with the same question! | Pare de me encher com a mesma pergunta! |

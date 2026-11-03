@@ -49,13 +49,15 @@ From the phrasal verb "stick up," evoking the image of someone holding their nos
 > - Very common in spoken English, TV shows, and informal writing.
 > - **Arrogant** = overly proud of one's abilities; **snobbish** = looking down on people based on class or money; **stuck-up** = arrogant + snobbish + unfriendly.
 > - Do not confuse with "stuck" (unable to move) — "stuck-up" is always hyphenated as an adjective.
+> - ⚠️ Similar meaning in [[uppity]] (from [[Dragon Ball Super]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** metido(a), esnobe, convencido(a)
 
-| English | Portuguese |
-|---------|------------|
-| She's so stuck-up. | Ela é tão metida. |
-| Her parents are very stuck-up. | Os pais dela são muito esnobes. |
-| He comes across as really stuck-up, but he's actually quite shy. | Ele parece muito metido, mas é bem tímido. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** metido(a), esnobe, convencido(a)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She's so stuck-up. | Ela é tão metida. |
+> | Her parents are very stuck-up. | Os pais dela são muito esnobes. |
+> | He comes across as really stuck-up, but he's actually quite shy. | Ele parece muito metido, mas é bem tímido. |

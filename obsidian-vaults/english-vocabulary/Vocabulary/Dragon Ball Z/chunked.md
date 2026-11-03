@@ -58,13 +58,14 @@ From *chunk*, of uncertain origin, possibly from dialectal English or onomatopoe
 > - May carry informal or colloquial tone
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Quebrado em pedaços, fragmentado, lançado com força
 
-| English | Portuguese |
-|---------|------------|
-| chunked | quebrado em pedaços, fragmentado |
-| chunked up | dividido em pedaços |
-| chunked debris | escombros fragmentados |
-| chunked apart | despedaçado |
-| chunked into pieces | quebrado em pedaços |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Quebrado em pedaços, fragmentado, lançado com força
+>
+> | English | Portuguese |
+> |---------|------------|
+> | chunked | quebrado em pedaços, fragmentado |
+> | chunked up | dividido em pedaços |
+> | chunked debris | escombros fragmentados |
+> | chunked apart | despedaçado |
+> | chunked into pieces | quebrado em pedaços |

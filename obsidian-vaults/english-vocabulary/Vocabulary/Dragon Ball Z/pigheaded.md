@@ -43,11 +43,12 @@ Compound of "pig" + "headed". The idiom refers to the perceived stubbornness of 
 > - Frequently appears in character descriptions in anime/manga
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** teimoso; cabeçudo; obstinado
 
-| English | Portuguese |
-|---------|------------|
-| pigheaded attitude | atitude teimosa |
-| pigheaded determination | determinação cabeçuda |
-| pigheadedness | teimosia |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** teimoso; cabeçudo; obstinado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | pigheaded attitude | atitude teimosa |
+> | pigheaded determination | determinação cabeçuda |
+> | pigheadedness | teimosia |

@@ -51,10 +51,11 @@ Of uncertain origin, possibly from a Scandinavian source or related to "glance."
 > - Common in narrative description, especially in action scenes.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Vislumbrar / Relance / Visão Fugaz
 
-| English | Portuguese |
-|---------|------------|
-| I caught a glimpse of the truth. | Eu vislumbrei a verdade. |
-| She glimpsed his power for the first time. | Ela vislumbrou seu poder pela primeira vez. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Vislumbrar / Relance / Visão Fugaz
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I caught a glimpse of the truth. | Eu vislumbrei a verdade. |
+> | She glimpsed his power for the first time. | Ela vislumbrou seu poder pela primeira vez. |

@@ -48,12 +48,13 @@ From dialectal English *scrawny*, possibly related to Scandinavian words meaning
 > - Frequently appears in action stories to contrast appearance with actual strength
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Magro, esquálido, desnutrido
 
-| English | Portuguese |
-|---|---|
-| scrawny | magro, esquálido |
-| scrawny boy | garoto magro |
-| scrawny appearance | aparência esquálida |
-| scrawny frame | estrutura magra |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Magro, esquálido, desnutrido
+>
+> | English | Portuguese |
+> |---|---|
+> | scrawny | magro, esquálido |
+> | scrawny boy | garoto magro |
+> | scrawny appearance | aparência esquálida |
+> | scrawny frame | estrutura magra |

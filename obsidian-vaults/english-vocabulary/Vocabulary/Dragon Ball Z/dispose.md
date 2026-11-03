@@ -60,11 +60,12 @@ From Old French *disposer*, from Latin *disponere* (to arrange, set in order), f
 > - "Disposed to" = inclined or willing to do something.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** descartar, eliminar; dispor, organizar
 
-| English | Portuguese |
-|---------|------------|
-| How should we dispose of the garbage? | Como devemos descartar o lixo? |
-| The furniture was disposed throughout the room. | Os móveis foram dispostos por toda a sala. |
-| At someone's disposal. | À disposição de alguém. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** descartar, eliminar; dispor, organizar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | How should we dispose of the garbage? | Como devemos descartar o lixo? |
+> | The furniture was disposed throughout the room. | Os móveis foram dispostos por toda a sala. |
+> | At someone's disposal. | À disposição de alguém. |

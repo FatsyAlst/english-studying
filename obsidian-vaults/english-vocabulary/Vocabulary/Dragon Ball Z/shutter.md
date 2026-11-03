@@ -44,11 +44,12 @@ From Middle English "shutter," related to "shut" (to close), with the agent suff
 > - The verb form often implies a sudden or forceful closing
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** persiana, veneziana, fechar
 
-| English | Portuguese |
-|---------|------------|
-| shutter (noun) | persiana, veneziana |
-| shuttered | fechado, encerrado |
-| to shutter | fechar, encerrar |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** persiana, veneziana, fechar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | shutter (noun) | persiana, veneziana |
+> | shuttered | fechado, encerrado |
+> | to shutter | fechar, encerrar |

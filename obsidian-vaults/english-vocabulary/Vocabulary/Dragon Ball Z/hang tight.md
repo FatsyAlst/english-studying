@@ -42,14 +42,16 @@ Combination of "hang" (to grip or hold) + "tight" (firmly, with strength). Origi
 > - Can be both literal (hold onto something physically) and figurative (endure mentally)
 > - Often used as encouragement or reassurance
 > - Frequently used in emergency or crisis situations
+> - ⚠️ Similar meaning in [[wait up]] (from [[Dragon Ball GT]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Segure firme, aguarde, resista
 
-| English | Portuguese |
-|---------|------------|
-| hang tight | segure firme |
-| hold on | aguarde |
-| wait patiently | aguarde com paciência |
-| persist | resista |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Segure firme, aguarde, resista
+>
+> | English | Portuguese |
+> |---------|------------|
+> | hang tight | segure firme |
+> | hold on | aguarde |
+> | wait patiently | aguarde com paciência |
+> | persist | resista |

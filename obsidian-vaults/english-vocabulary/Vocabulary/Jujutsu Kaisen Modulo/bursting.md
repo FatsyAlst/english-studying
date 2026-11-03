@@ -25,6 +25,14 @@ Completely full of something; ready to break open; overflowing with emotions or 
 > - The bursting energy of youth filled the room.
 > - Bursting at the seams with pride.
 
+### Sense 3 — *noun, "a burst (of)"* (Common)
+A short, sudden period of activity, energy or sound; (gaming) *burst damage* = a lot of damage dealt in a very short time.
+
+> [!example] Examples
+> - She finished the report in a final burst of energy.
+> - There was a burst of applause.
+> - Tracer's burst damage is huge at close range.
+
 ---
 ## 🌳 Word Family
 | Part of Speech | Forms |
@@ -42,6 +50,8 @@ Completely full of something; ready to break open; overflowing with emotions or 
 - bursting into tears/laughter
 - suddenly burst
 - bursting with confidence
+- a burst of energy / speed / laughter / applause
+- burst damage (gaming)
 
 ---
 ## 📜 Etymology
@@ -57,16 +67,18 @@ From Middle English *bursten*, from Old English *berstan*, related to Old Norse 
 > - "Burst into" = suddenly start doing something
 > - Creates vivid imagery of release or overflow
 > - Common in action and emotional contexts
+> - 📺 Also encountered in [[Dragon Ball Super]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Explodir, arrebentar, rebentar; transbordante, cheio
 
-| English | Portuguese |
-|---------|------------|
-| bursting | explodindo, arrebentando |
-| burst | explodir, rebentar |
-| bursting with | transbordante de, cheio de |
-| burst into tears | irromper em lágrimas |
-| bursting with energy | cheio de energia |
-| at the seams | às costuras |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Explodir, arrebentar, rebentar; transbordante, cheio
+>
+> | English | Portuguese |
+> |---------|------------|
+> | bursting | explodindo, arrebentando |
+> | burst | explodir, rebentar |
+> | bursting with | transbordante de, cheio de |
+> | burst into tears | irromper em lágrimas |
+> | bursting with energy | cheio de energia |
+> | at the seams | às costuras |

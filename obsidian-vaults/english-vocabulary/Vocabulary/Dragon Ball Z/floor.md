@@ -63,12 +63,13 @@ From Old English "flor," from Proto-Germanic "*floruz," possibly related to Lati
 > - Sense 3 is used in formal settings like legislatures
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** piso, chão, derrotar, surpreender
 
-| English | Portuguese |
-|---------|------------|
-| floor (noun) | piso, chão |
-| kitchen floor | piso da cozinha |
-| floor (verb) | derrotar, nocautear |
-| take the floor | pedir a palavra |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** piso, chão, derrotar, surpreender
+>
+> | English | Portuguese |
+> |---------|------------|
+> | floor (noun) | piso, chão |
+> | kitchen floor | piso da cozinha |
+> | floor (verb) | derrotar, nocautear |
+> | take the floor | pedir a palavra |

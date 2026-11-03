@@ -54,12 +54,13 @@ From Old English "cracian," meaning to make a sharp sound. Related to Old Norse 
 > - Can describe sounds, physical objects, or performance quality
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** rachado, estralador, rachando, excelente
 
-| English | Portuguese |
-|---------|------------|
-| cracking (breaking) | rachando |
-| cracking sound | som estralador |
-| cracking (excellent) | excelente, ótimo |
-| cracking joke | piada hilária |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** rachado, estralador, rachando, excelente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | cracking (breaking) | rachando |
+> | cracking sound | som estralador |
+> | cracking (excellent) | excelente, ótimo |
+> | cracking joke | piada hilária |

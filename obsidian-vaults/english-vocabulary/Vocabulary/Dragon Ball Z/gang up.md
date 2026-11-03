@@ -44,10 +44,12 @@ A group of people, friends, or criminals acting together.
 > - Can be physical (attack) or verbal/emotional (criticize/pressure).
 
 ---
-**Tradução:** Se unir contra alguém / Fazer bullying em grupo / Se juntar para atacar/criticar alguém / Fazer aliança contra
 
-| English | Portuguese |
-|---------|------------|
-| The older boys ganged up on him at school and called him names. | Os meninos mais velhos se uniram contra ele na escola e o chamaram de nomes. |
-| They all ganged up to try and get him to change his decision. | Todos se juntaram para tentar fazé-lo mudar de ideia. |
-| The kids ganged up on me and convinced me to get pizza for dinner. | As crianças se uniram contra mim e me convenceram a pedir pizza para o jantar. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Se unir contra alguém / Fazer bullying em grupo / Se juntar para atacar/criticar alguém / Fazer aliança contra
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The older boys ganged up on him at school and called him names. | Os meninos mais velhos se uniram contra ele na escola e o chamaram de nomes. |
+> | They all ganged up to try and get him to change his decision. | Todos se juntaram para tentar fazé-lo mudar de ideia. |
+> | The kids ganged up on me and convinced me to get pizza for dinner. | As crianças se uniram contra mim e me convenceram a pedir pizza para o jantar. |

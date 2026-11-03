@@ -51,13 +51,14 @@ From *whack* (to hit) or possibly an onomatopoeia suggesting craziness. Emerged 
 > - Common in comedy and entertainment contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** maluco, extravagante, esquisito, absurdo
 
-| English | Portuguese |
-|---------|------------|
-| wacky | maluco, esquisito |
-| wacky personality | personalidade excêntrica |
-| wacky humor | humor absurdo |
-| wackily | de forma maluca |
-| wackiness | excentricidade |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** maluco, extravagante, esquisito, absurdo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | wacky | maluco, esquisito |
+> | wacky personality | personalidade excêntrica |
+> | wacky humor | humor absurdo |
+> | wackily | de forma maluca |
+> | wackiness | excentricidade |

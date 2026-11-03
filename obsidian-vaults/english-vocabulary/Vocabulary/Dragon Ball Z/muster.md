@@ -70,11 +70,12 @@ Late Middle English from Old French *moustrer* (verb), *moustre* (noun), from La
 > - Compare with [[strive]] — both involve summoning effort, but *muster* focuses on the gathering of resources while *strive* focuses on the sustained effort.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** reunir, juntar, convocar, mobilizar (verbo); inspeção militar (substantivo)
 
-| English | Portuguese |
-|---------|------------|
-| She managed to muster the courage to ask him. | Ela conseguiu reunir a coragem para convidá-lo. |
-| The troops mustered on the hill. | As tropas se reuniram na colina. |
-| Your grades don't pass muster. | Suas notas não atendem aos requisitos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** reunir, juntar, convocar, mobilizar (verbo); inspeção militar (substantivo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She managed to muster the courage to ask him. | Ela conseguiu reunir a coragem para convidá-lo. |
+> | The troops mustered on the hill. | As tropas se reuniram na colina. |
+> | Your grades don't pass muster. | Suas notas não atendem aos requisitos. |

@@ -45,14 +45,17 @@ Mid-16th century, from 'top' (tip over) + frequentative suffix *-le* (to tumble 
 > - Figurative sense: removing a leader or government from power.
 > - Often used with 'over' for the literal meaning: 'topple over'.
 > - Past tense: toppled; gerund: toppling.
+> - ⚠️ Similar meaning in [[felled]] (from [[Dragon Ball Super]])
 
 ---
-**Tradução:** 1. (Verbo, literal) Tombar; derrubar; cair | 2. (Verbo, figurado) Derrubar (governo); derrubar (líder)
 
-| English | Portuguese |
-|---------|------------|
-| The pile of books toppled over. | A pilha de livros tombou. |
-| The rebels tried to topple the dictator. | Os rebeldes tentaram derrubar o ditador. |
-| The strong winds toppled many trees. | Os ventos fortes derrubaram muitas árvores. |
-| He toppled backwards into the river. | Ele caiu para trás dentro do rio. |
-| She led a campaign to topple the regime. | Ela liderou uma campanha para derrubar o regime. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, literal) Tombar; derrubar; cair | 2. (Verbo, figurado) Derrubar (governo); derrubar (líder)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The pile of books toppled over. | A pilha de livros tombou. |
+> | The rebels tried to topple the dictator. | Os rebeldes tentaram derrubar o ditador. |
+> | The strong winds toppled many trees. | Os ventos fortes derrubaram muitas árvores. |
+> | He toppled backwards into the river. | Ele caiu para trás dentro do rio. |
+> | She led a campaign to topple the regime. | Ela liderou uma campanha para derrubar o regime. |

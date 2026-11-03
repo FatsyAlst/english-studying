@@ -46,11 +46,12 @@ From the image of a person's hands stained with blood (red) after committing a v
 > - Evokes the historical image of bloody hands as evidence
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Em flagrante, apanhado em flagrante
 
-| English | Portuguese |
-|---------|------------|
-| caught red-handed | apanhado em flagrante |
-| catch someone red-handed | apanhar alguém em flagrante |
-| red-handed theft | roubo em flagrante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Em flagrante, apanhado em flagrante
+>
+> | English | Portuguese |
+> |---------|------------|
+> | caught red-handed | apanhado em flagrante |
+> | catch someone red-handed | apanhar alguém em flagrante |
+> | red-handed theft | roubo em flagrante |

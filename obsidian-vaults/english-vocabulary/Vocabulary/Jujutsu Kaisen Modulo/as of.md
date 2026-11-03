@@ -40,11 +40,12 @@ First used in business contexts; combines "as" (at the time of) with "of" to cre
 > - Neutral to formal register; very common in business, finance, legal, and news contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** a partir de, desde, em, na data de, até (o momento)
 
-| English | Portuguese |
-|---------|------------|
-| As of five o'clock the store will be closed. | A partir das cinco horas a loja estará fechada. |
-| The death toll stood at 32 as of Saturday afternoon. | O número de mortos era de 32 na tarde de sábado. |
-| As of now, we have no further information. | Até o momento, não temos mais informações. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** a partir de, desde, em, na data de, até (o momento)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | As of five o'clock the store will be closed. | A partir das cinco horas a loja estará fechada. |
+> | The death toll stood at 32 as of Saturday afternoon. | O número de mortos era de 32 na tarde de sábado. |
+> | As of now, we have no further information. | Até o momento, não temos mais informações. |

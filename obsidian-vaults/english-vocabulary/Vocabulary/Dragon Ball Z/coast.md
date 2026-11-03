@@ -63,13 +63,14 @@ From Old French *coste*, from Latin *costa* meaning "rib" or "side." Originally 
 > - The verb "coast" implies momentum from previous effort
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** costa, litoral, deslizar, flutuar
 
-| English | Portuguese |
-|---------|------------|
-| coast | costa, litoral |
-| coastal | costeiro |
-| to coast | deslizar, flutuar |
-| coast guard | guarda costeira |
-| coast to coast | de costa a costa |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** costa, litoral, deslizar, flutuar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | coast | costa, litoral |
+> | coastal | costeiro |
+> | to coast | deslizar, flutuar |
+> | coast guard | guarda costeira |
+> | coast to coast | de costa a costa |

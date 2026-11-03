@@ -66,12 +66,13 @@ To end a romantic relationship; to stop being interested in someone.
 > - Used in many contexts: travel, emotions, projects, relationships
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Seguir em frente, passar adiante, avançar
 
-| English | Portuguese |
-|---------|------------|
-| move on | seguir em frente |
-| move on from | deixar para trás |
-| move on to | prosseguir para |
-| time to move on | hora de seguir em frente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Seguir em frente, passar adiante, avançar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | move on | seguir em frente |
+> | move on from | deixar para trás |
+> | move on to | prosseguir para |
+> | time to move on | hora de seguir em frente |

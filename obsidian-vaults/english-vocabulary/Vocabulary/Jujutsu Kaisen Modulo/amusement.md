@@ -54,10 +54,11 @@ From French "amusement," from "amuser" (to amuse), from "a-" (to) + "muser" (to 
 > - The adjective forms are "amused" (feeling amused) and "amusing" (causing amusement).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Diversão / Entretenimento / Diversão
 
-| English | Portuguese |
-|---------|------------|
-| The amusement park was crowded. | O parque de diversões estava cheio. |
-| She looked at him with amusement. | Ela o olhou com diversão/divertimento. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Diversão / Entretenimento / Diversão
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The amusement park was crowded. | O parque de diversões estava cheio. |
+> | She looked at him with amusement. | Ela o olhou com diversão/divertimento. |

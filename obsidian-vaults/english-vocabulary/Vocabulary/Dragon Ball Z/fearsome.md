@@ -51,13 +51,14 @@ From *fear* + *-some* (adjective suffix meaning having a quality). The suffix "-
 > - Emphasizes visual or reputational intimidation
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Assustador, intimidador, formidável, terrível
 
-| English | Portuguese |
-|---------|------------|
-| fearsome | assustador, formidável |
-| fearsome warrior | guerreiro assustador |
-| fearsome power | poder formidável |
-| fearsome appearance | aparência intimidadora |
-| fearsome reputation | reputação terrível |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Assustador, intimidador, formidável, terrível
+>
+> | English | Portuguese |
+> |---------|------------|
+> | fearsome | assustador, formidável |
+> | fearsome warrior | guerreiro assustador |
+> | fearsome power | poder formidável |
+> | fearsome appearance | aparência intimidadora |
+> | fearsome reputation | reputação terrível |

@@ -59,11 +59,12 @@ Compound of *heir* (from Old French *eir*, from Latin *heres* "heir") + *loom* (
 > - The article used is "an heirloom" (the 'h' is pronounced, but both "a" and "an" are acceptable).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** relíquia de família (objects); variedade tradicional (food/agriculture)
 
-| English | Portuguese |
-|---------|------------|
-| This ring is a family heirloom passed down for four generations. | Este anel é uma relíquia de família passada por quatro gerações. |
-| The old clock is one of our most precious heirlooms. | O velho relógio é uma das nossas relíquias de família mais preciosas. |
-| We grow heirloom tomatoes because they taste better. | Nós cultivamos tomates heirloom no nosso jardim porque eles têm melhor sabor. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** relíquia de família (objects); variedade tradicional (food/agriculture)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | This ring is a family heirloom passed down for four generations. | Este anel é uma relíquia de família passada por quatro gerações. |
+> | The old clock is one of our most precious heirlooms. | O velho relógio é uma das nossas relíquias de família mais preciosas. |
+> | We grow heirloom tomatoes because they taste better. | Nós cultivamos tomates heirloom no nosso jardim porque eles têm melhor sabor. |

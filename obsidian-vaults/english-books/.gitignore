@@ -1,0 +1,5 @@
+# Book PDFs are copyrighted; the parent repo already ignores books-pdf/ for the same reason.
+# Only the PDFs sitting directly in a book's folder (the book and its answer key) stay out;
+# my own exercise PDFs in Extra exercises/ go into git.
+.old-project/
+Books/*/*.pdf

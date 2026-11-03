@@ -48,11 +48,12 @@ From Middle English *barge*, from Old French *barge* (boat), from Vulgar Latin *
 > - British idiom: "Wouldn't touch it with a barge pole" (= want nothing to do with it). American equivalent: "ten-foot pole."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** irromper, invadir, empurrar, forçar passagem, entrar sem permissão
 
-| English | Portuguese |
-|---------|------------|
-| They barged through the crowds. | Eles forçaram passagem pela multidão. |
-| The man barged into her and ran on. | O homem esbarrou nela e continuou correndo. |
-| I'm sorry to barge in like this. | Desculpe interromper assim. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** irromper, invadir, empurrar, forçar passagem, entrar sem permissão
+>
+> | English | Portuguese |
+> |---------|------------|
+> | They barged through the crowds. | Eles forçaram passagem pela multidão. |
+> | The man barged into her and ran on. | O homem esbarrou nela e continuou correndo. |
+> | I'm sorry to barge in like this. | Desculpe interromper assim. |

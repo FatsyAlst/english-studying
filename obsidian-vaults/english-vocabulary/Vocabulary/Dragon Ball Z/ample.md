@@ -54,10 +54,12 @@ Late Middle English: Via French *ample* from Latin *amplus* 'large, abundant.' O
 > - Avoid casual overuse like 'ample food.'
 
 ---
-**Tradução:** Amplo (space); abundante, suficiente, de sobra, generoso (quantity); farto (figure)
 
-| English | Portuguese |
-|---------|------------|
-| There was ample time to get to the airport. | Havia tempo amplo/suficiente de sobra para chegar ao aeroporto. |
-| Ample free parking is available. | Há estacionamento gratuito amplo/disponível em abundância. |
-| She stood with her hands on her ample hips. | Ela ficou de pé com as mãos nos quadris fartos/generosos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Amplo (space); abundante, suficiente, de sobra, generoso (quantity); farto (figure)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | There was ample time to get to the airport. | Havia tempo amplo/suficiente de sobra para chegar ao aeroporto. |
+> | Ample free parking is available. | Há estacionamento gratuito amplo/disponível em abundância. |
+> | She stood with her hands on her ample hips. | Ela ficou de pé com as mãos nos quadris fartos/generosos. |

@@ -63,11 +63,12 @@ To hit or strike with a bat; to take a turn swinging at a ball in baseball or si
 > - Can appear in phrases like "batting cleanup" (hitting in a strong position).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Substantivo, esporte) Rebatida; batida; desempenho de rebatedor | 2. (Substantivo, material) Enchimento; acolchoado; manta de algodão | 3. (Verbo) Rebater; bater; acertar com taco
 
-| English | Portuguese |
-|---------|------------|
-| Her batting improved significantly this season. | Seu desempenho de rebatedora melhorou significativamente nesta temporada. |
-| The quilt was filled with cotton batting. | O edredom foi preenchido com acolchoado de algodão. |
-| She batted the ball far into the field. | Ela rebateu a bola longe pelo campo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, esporte) Rebatida; batida; desempenho de rebatedor | 2. (Substantivo, material) Enchimento; acolchoado; manta de algodão | 3. (Verbo) Rebater; bater; acertar com taco
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Her batting improved significantly this season. | Seu desempenho de rebatedora melhorou significativamente nesta temporada. |
+> | The quilt was filled with cotton batting. | O edredom foi preenchido com acolchoado de algodão. |
+> | She batted the ball far into the field. | Ela rebateu a bola longe pelo campo. |

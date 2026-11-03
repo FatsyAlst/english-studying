@@ -46,12 +46,13 @@ From Old French "regner," from Latin "regnare" (to rule). The "-ing" form descri
 > - Can be literal (ruling) or figurative (dominance)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** reinante, campeão atual
 
-| English | Portuguese |
-|---------|------------|
-| reigning champion | campeão reinante |
-| reigning champion title | título de campeão reinante |
-| reigning master | mestre reinante |
-| reigning supreme | reinando supremo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** reinante, campeão atual
+>
+> | English | Portuguese |
+> |---------|------------|
+> | reigning champion | campeão reinante |
+> | reigning champion title | título de campeão reinante |
+> | reigning master | mestre reinante |
+> | reigning supreme | reinando supremo |

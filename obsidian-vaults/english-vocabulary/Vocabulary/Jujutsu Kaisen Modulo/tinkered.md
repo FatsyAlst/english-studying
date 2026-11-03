@@ -47,11 +47,12 @@ From Middle English *tinkeren*, related to the occupation of "tinker" (an itiner
 > - Related expression: "tinker around" suggests aimless experimentation
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Mexer, mexericar, tentar consertar, ajustar
 
-| English | Portuguese |
-|---------|------------|
-| tinker with the engine | mexer no motor |
-| tinkered with the settings | ajustou as configurações |
-| tinker around | mexericar, brincar |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Mexer, mexericar, tentar consertar, ajustar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tinker with the engine | mexer no motor |
+> | tinkered with the settings | ajustou as configurações |
+> | tinker around | mexericar, brincar |

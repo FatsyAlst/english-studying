@@ -41,10 +41,11 @@ Slang usage emerging in American English in the 1960s–1970s, likely from the i
 > - Synonyms: kill, whack, bump off, take out, eliminate, do in.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** matar, eliminar, liquidar (gíria)
 
-| English | Portuguese |
-|---------|------------|
-| They offed him before he could talk. | Eles o mataram antes que ele pudesse falar. |
-| The boss had the traitor offed. | O chefe mandou eliminar o traidor. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** matar, eliminar, liquidar (gíria)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | They offed him before he could talk. | Eles o mataram antes que ele pudesse falar. |
+> | The boss had the traitor offed. | O chefe mandou eliminar o traidor. |

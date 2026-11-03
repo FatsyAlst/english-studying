@@ -64,13 +64,14 @@ From Old French *baie*, from Latin *baia*. The verb "to bay" (to bark) comes fro
 > - Related phrase: "keep at bay" (see separate entry)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** baía; compartimento; enseada; ladrar
 
-| English | Portuguese |
-|---------|------------|
-| bay (body of water) | baía; enseada |
-| loading bay | zona de carga; doca de carga |
-| engine bay | compartimento do motor |
-| bay window | janela saliente; janela de baía |
-| hounds bay | cães latem |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** baía; compartimento; enseada; ladrar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | bay (body of water) | baía; enseada |
+> | loading bay | zona de carga; doca de carga |
+> | engine bay | compartimento do motor |
+> | bay window | janela saliente; janela de baía |
+> | hounds bay | cães latem |

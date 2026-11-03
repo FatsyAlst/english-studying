@@ -53,10 +53,12 @@ Mid 16th century phonetic spelling of 'puisne' (pronounced 'puny'), from Anglo-F
 > - Comparative: punier; superlative: puniest.
 
 ---
-**Tradução:** Franzino; miúdo; fraco; insignificante; mixuruca; pequeno e fraco
 
-| English | Portuguese |
-|---------|------------|
-| He was a puny little boy compared to his classmates. | Ele era um menino franzino comparado aos colegas. |
-| Her puny efforts were laughed at by the team. | Seus esforços mixurucas foram motivo de riso para a equipe. |
-| The company's budget looked puny next to its competitors. | O orçamento da empresa parecia insignificante perto dos concorrentes. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Franzino; miúdo; fraco; insignificante; mixuruca; pequeno e fraco
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He was a puny little boy compared to his classmates. | Ele era um menino franzino comparado aos colegas. |
+> | Her puny efforts were laughed at by the team. | Seus esforços mixurucas foram motivo de riso para a equipe. |
+> | The company's budget looked puny next to its competitors. | O orçamento da empresa parecia insignificante perto dos concorrentes. |

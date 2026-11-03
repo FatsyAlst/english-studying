@@ -58,13 +58,14 @@ From Old English *uppemest*, a variant of *utmost* (from *ut* meaning "out" + *-
 > - Less common than "utmost" in contemporary usage
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Máximo, supremo, de maior importância
 
-| English | Portuguese |
-|---------|------------|
-| upmost | máximo, supremo |
-| upmost importance | máxima importância |
-| upmost priority | prioridade máxima |
-| of upmost importance | de máxima importância |
-| upmost level | nível máximo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Máximo, supremo, de maior importância
+>
+> | English | Portuguese |
+> |---------|------------|
+> | upmost | máximo, supremo |
+> | upmost importance | máxima importância |
+> | upmost priority | prioridade máxima |
+> | of upmost importance | de máxima importância |
+> | upmost level | nível máximo |

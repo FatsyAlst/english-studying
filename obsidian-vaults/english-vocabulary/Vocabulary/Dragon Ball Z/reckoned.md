@@ -49,13 +49,14 @@ From Old English *recenian*, from Old Saxon *rakonian*. Originally meant "to cou
 > - Somewhat archaic in modern English but still understood
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** considerou, calculou, estimou, acreditava
 
-| English | Portuguese |
-|---------|------------|
-| reckoned | considerou, calculou |
-| reckoned to be | considerado como sendo |
-| reckoned with | levado em conta |
-| reckoned that | achava que, estimava que |
-| widely reckoned | amplamente considerado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** considerou, calculou, estimou, acreditava
+>
+> | English | Portuguese |
+> |---------|------------|
+> | reckoned | considerou, calculou |
+> | reckoned to be | considerado como sendo |
+> | reckoned with | levado em conta |
+> | reckoned that | achava que, estimava que |
+> | widely reckoned | amplamente considerado |

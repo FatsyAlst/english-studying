@@ -56,11 +56,13 @@ Noun 'slew' ('a lot') comes from Irish Gaelic *sluagh* 'host, crowd, multitude.'
 > - Modern English uses 'killed' much more often; 'slew' sounds literary, old-fashioned, or biblical in many contexts.
 
 ---
-**Tradução:** 1. (Substantivo) Um monte de / Uma porção de / Uma grande quantidade de | 2. (Verbo) Matou / Abateu / Degolou | 3. (Verbo) Virou bruscamente / Derrapou / Deslizou de lado
 
-| English | Portuguese |
-|---------|------------|
-| She has a whole slew of new ideas for the project. | Ela tem um monte de ideias novas para o projeto. |
-| There were a slew of emails waiting in my inbox. | Havia uma porção de e-mails esperando na minha caixa de entrada. |
-| The hero slew the dragon in the final battle. | O herói matou o dragão na batalha final. |
-| The car slewed sideways on the icy road. | O carro derrapou de lado na estrada congelada. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo) Um monte de / Uma porção de / Uma grande quantidade de | 2. (Verbo) Matou / Abateu / Degolou | 3. (Verbo) Virou bruscamente / Derrapou / Deslizou de lado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She has a whole slew of new ideas for the project. | Ela tem um monte de ideias novas para o projeto. |
+> | There were a slew of emails waiting in my inbox. | Havia uma porção de e-mails esperando na minha caixa de entrada. |
+> | The hero slew the dragon in the final battle. | O herói matou o dragão na batalha final. |
+> | The car slewed sideways on the icy road. | O carro derrapou de lado na estrada congelada. |

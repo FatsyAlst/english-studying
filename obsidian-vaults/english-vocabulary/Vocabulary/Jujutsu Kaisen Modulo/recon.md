@@ -41,10 +41,11 @@ Informal clipping of *reconnaissance*, which comes from French *reconnaître* ("
 > - In gaming and anime contexts, "recon" is widely understood and commonly used.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** reconhecimento (de terreno/área), patrulha de reconhecimento
 
-| English | Portuguese |
-|---------|------------|
-| The team was sent on a recon mission. | A equipe foi enviada em uma missão de reconhecimento. |
-| Let's do a quick recon of the area. | Vamos fazer um reconhecimento rápido da área. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** reconhecimento (de terreno/área), patrulha de reconhecimento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The team was sent on a recon mission. | A equipe foi enviada em uma missão de reconhecimento. |
+> | Let's do a quick recon of the area. | Vamos fazer um reconhecimento rápido da área. |

@@ -46,13 +46,14 @@ From Old French *port* (bearing, deportment, carriage) + "-ly" (suffix meaning f
 > - Commonly paired with character descriptions of authority figures or historical figures
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** corpulento; rechonchudo; gordo; roliço
 
-| English | Portuguese |
-|---------|------------|
-| portly man | homem corpulento |
-| portly figure | figura rechonchuda |
-| portly appearance | aparência gorda |
-| grow portly | ficar corpulento |
-| portliness | corpulência; rechonchez |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** corpulento; rechonchudo; gordo; roliço
+>
+> | English | Portuguese |
+> |---------|------------|
+> | portly man | homem corpulento |
+> | portly figure | figura rechonchuda |
+> | portly appearance | aparência gorda |
+> | grow portly | ficar corpulento |
+> | portliness | corpulência; rechonchez |

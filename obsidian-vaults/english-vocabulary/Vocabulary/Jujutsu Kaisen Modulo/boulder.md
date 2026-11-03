@@ -46,11 +46,12 @@ From Middle English "bulder", possibly from Old Norse "bulr" (log), or from Midd
 > - Sometimes used metaphorically for obstacles
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** pedregulho, rocha, matacão
 
-| English | Portuguese |
-|---------|------------|
-| giant boulder | matacão gigante |
-| boulder field | campo de pedregulhos |
-| move a boulder | mover uma pedra |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** pedregulho, rocha, matacão
+>
+> | English | Portuguese |
+> |---------|------------|
+> | giant boulder | matacão gigante |
+> | boulder field | campo de pedregulhos |
+> | move a boulder | mover uma pedra |

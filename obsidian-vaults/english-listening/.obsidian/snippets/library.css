@@ -1,0 +1,87 @@
+/* Listening vault: calm and quiet. The accent colour itself is set in appearance.json (#ff7070). */
+
+/* A little wider than the default reading column, so the log and mishearing tables breathe. */
+body {
+  --file-line-width: 920px;
+}
+
+/* Let long episode titles wrap in the file explorer instead of being cut off. */
+.nav-file-title-content,
+.nav-folder-title-content {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+/* Templates step back; the episodes are what matter. */
+.nav-folder-title[data-path="Templates"] > .nav-folder-title-content {
+  color: var(--text-faint);
+  font-style: italic;
+}
+
+/* Calmer headings. */
+.markdown-rendered h1,
+.markdown-rendered h2 {
+  color: var(--text-accent);
+}
+.markdown-rendered h1 {
+  margin-bottom: 0.3em;
+}
+.markdown-rendered h2 {
+  margin-top: 1.8em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+/* Tables: quiet header, thin horizontal rules only, soft row highlight. */
+.markdown-rendered table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92em;
+}
+.markdown-rendered th,
+.markdown-rendered td {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding: 0.4em 0.7em;
+}
+.markdown-rendered th {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--text-accent);
+  white-space: nowrap;
+}
+.markdown-rendered td {
+  font-variant-numeric: tabular-nums;
+}
+.markdown-rendered tbody tr:hover td {
+  background: var(--background-secondary);
+}
+
+/* The Log on the homepage: give the embedded base room. */
+.markdown-rendered .internal-embed[src$=".base"] {
+  margin: 0.6em 0 1em;
+}
+
+/* Callouts follow the accent colour (RGB values of #ff7070). */
+.callout[data-callout="tip"],
+.callout[data-callout="question"] {
+  --callout-color: 255, 112, 112;
+}
+.callout[data-callout="note"],
+.callout[data-callout="example"] {
+  --callout-color: 130, 125, 140;
+}
+.callout {
+  border-radius: 8px;
+}
+
+/* The folder diagram: keep it compact. */
+.markdown-rendered pre {
+  font-size: 0.85em;
+  line-height: 1.45;
+}

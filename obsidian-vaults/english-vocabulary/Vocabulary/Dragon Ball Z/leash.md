@@ -65,15 +65,17 @@ From Old French "lesse" meaning "to let loose" or "to release," from Latin "laxu
 > - "Long leash" indicates freedom or loose control
 > - Common in action contexts when characters are holding back power
 > - "Unleash" (without "on a") means to release or let loose
+> - 📺 Also encountered in [[Dragon Ball Super]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** coleira, correia, controlar
 
-| English | Portuguese |
-|---------|------------|
-| leash | coleira |
-| on a short leash | sob controle rigoroso |
-| break free from leash | quebrar as correntes |
-| unleash | liberar, soltar |
-| strain at the leash | tentar se libertar |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** coleira, correia, controlar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | leash | coleira |
+> | on a short leash | sob controle rigoroso |
+> | break free from leash | quebrar as correntes |
+> | unleash | liberar, soltar |
+> | strain at the leash | tentar se libertar |

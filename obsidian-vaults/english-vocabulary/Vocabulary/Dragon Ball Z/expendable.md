@@ -49,13 +49,14 @@ From Latin "expendere" meaning "to weigh out" or "to spend," from "ex-" (out) + 
 > - Fitting for villains who view others as disposable
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** dispensável, descartável, gasável
 
-| English | Portuguese |
-|---------|------------|
-| expendable | dispensável |
-| expendable resources | recursos descartáveis |
-| expendable personnel | pessoal descartável |
-| expendable income | renda disponível |
-| indispensable | indispensável |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** dispensável, descartável, gasável
+>
+> | English | Portuguese |
+> |---------|------------|
+> | expendable | dispensável |
+> | expendable resources | recursos descartáveis |
+> | expendable personnel | pessoal descartável |
+> | expendable income | renda disponível |
+> | indispensable | indispensável |

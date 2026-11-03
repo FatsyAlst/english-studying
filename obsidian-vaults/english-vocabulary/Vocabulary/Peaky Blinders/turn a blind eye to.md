@@ -20,9 +20,11 @@ To ignore something that you know is wrong or should not be happening.
 > - Close in meaning to ‘look the other way’ (informal).
 
 ---
-**Tradução:** Fazer vista grossa (para) / Fechar os olhos (para)
 
-| English | Portuguese |
-|---------|------------|
-| The authorities turned a blind eye to the gambling. | As autoridades fizeram vista grossa para o jogo ilegal. |
-| They can’t keep turning a blind eye to corruption. | Eles não podem continuar fechando os olhos para a corrupção. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Fazer vista grossa (para) / Fechar os olhos (para)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The authorities turned a blind eye to the gambling. | As autoridades fizeram vista grossa para o jogo ilegal. |
+> | They can’t keep turning a blind eye to corruption. | Eles não podem continuar fechando os olhos para a corrupção. |

@@ -40,10 +40,12 @@ c.1200: *sikenen* 'to become ill,' from *sick* (adj.) + suffix *-en* ('cause to 
 > - Similar: disgust, nauseate, revolt.
 
 ---
-**Tradução:** Enjoar, revoltar, causar repulsa, nojo (disgust); adoecer, ficar doente (become ill, archaic)
 
-| English | Portuguese |
-|---------|------------|
-| Reading the report of the attack sickened him. | Ler o relatório do ataque o revoltou/enjoou. |
-| The public is becoming sickened by these pictures. | O público está ficando revoltado com essas imagens. |
-| The baby sickened and died. | O bebê adoeceu e morreu. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Enjoar, revoltar, causar repulsa, nojo (disgust); adoecer, ficar doente (become ill, archaic)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Reading the report of the attack sickened him. | Ler o relatório do ataque o revoltou/enjoou. |
+> | The public is becoming sickened by these pictures. | O público está ficando revoltado com essas imagens. |
+> | The baby sickened and died. | O bebê adoeceu e morreu. |

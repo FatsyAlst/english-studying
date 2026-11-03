@@ -58,10 +58,12 @@ Mid-16th century: extended form of the verb *haste* (from Old French *haste* 'ha
 > - 'I hasten to add' is a very common fixed phrase used to soften or clarify a statement immediately.
 
 ---
-**Tradução:** Apressar-se para fazer algo; acelerar/apressar algo (especialmente ruim); voltar/apressar-se rapidamente
 
-| English | Portuguese |
-|---------|------------|
-| She saw his frown and hastened to explain. | Ela viu o cenho franzido dele e se apressou a explicar. |
-| The treatment may have hastened her death. | O tratamento pode ter apressado/precipitado a morte dela. |
-| We hastened back to Rome. | Nós nos apressamos/voltamos correndo para Roma. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Apressar-se para fazer algo; acelerar/apressar algo (especialmente ruim); voltar/apressar-se rapidamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She saw his frown and hastened to explain. | Ela viu o cenho franzido dele e se apressou a explicar. |
+> | The treatment may have hastened her death. | O tratamento pode ter apressado/precipitado a morte dela. |
+> | We hastened back to Rome. | Nós nos apressamos/voltamos correndo para Roma. |

@@ -55,11 +55,12 @@ From Old English "wis," related to Old Germanic and Indo-European roots meaning 
 > - Both the adjective and phrasal verb are common in English
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Sábio, prudente; acordar, perceber
 
-| English | Portuguese |
-|---------|------------|
-| That was a wise decision. | Essa foi uma decisão sábia. |
-| He wised up to the scheme. | Ele acordou para o esquema. |
-| She's a wise woman. | Ela é uma mulher prudente. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Sábio, prudente; acordar, perceber
+>
+> | English | Portuguese |
+> |---------|------------|
+> | That was a wise decision. | Essa foi uma decisão sábia. |
+> | He wised up to the scheme. | Ele acordou para o esquema. |
+> | She's a wise woman. | Ela é uma mulher prudente. |

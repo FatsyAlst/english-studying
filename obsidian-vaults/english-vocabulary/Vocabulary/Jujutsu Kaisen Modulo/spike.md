@@ -56,13 +56,14 @@ From Old Norse *spíkr* or Middle Dutch *spijker*, related to Germanic roots mea
 > - Adjective "spiky" can mean having spikes or being hostile/irritable
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Pico, espinho, ponta afiada; cravar, aguçar, aumentar subitamente
 
-| English | Portuguese |
-|---------|------------|
-| spike | pico, espinho, ponta |
-| to spike | cravar, atravessar, aumentar |
-| spike in | aumento repentino em |
-| spiked | cravado, espinhento |
-| spiky | espinhento, irritável |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Pico, espinho, ponta afiada; cravar, aguçar, aumentar subitamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | spike | pico, espinho, ponta |
+> | to spike | cravar, atravessar, aumentar |
+> | spike in | aumento repentino em |
+> | spiked | cravado, espinhento |
+> | spiky | espinhento, irritável |

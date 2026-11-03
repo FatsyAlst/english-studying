@@ -46,12 +46,13 @@ From Old French *famine* (hunger, starvation), from Latin *famēs* (hunger). The
 > - Can be used metaphorically to mean desperately wanting something
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Faminto, faminado, com fome voraz
 
-| English | Portuguese |
-|---|---|
-| famished | faminto, famecido |
-| extremely hungry | com fome extrema |
-| suffering from hunger | sofrendo de fome |
-| to famish | definhar, morrer de fome |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Faminto, faminado, com fome voraz
+>
+> | English | Portuguese |
+> |---|---|
+> | famished | faminto, famecido |
+> | extremely hungry | com fome extrema |
+> | suffering from hunger | sofrendo de fome |
+> | to famish | definhar, morrer de fome |

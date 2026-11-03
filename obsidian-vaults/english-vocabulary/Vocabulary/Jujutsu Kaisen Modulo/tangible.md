@@ -55,11 +55,12 @@ From Latin *tangibilis* 'able to be touched,' from *tangere* 'to touch.' Entered
 > - Common in phrases like "tangible evidence" and "tangible results."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Tangível; concreto; palpável; verificável
 
-| English | Portuguese |
-|---------|------------|
-| Tangible evidence was needed to convict him. | Era necessária evidência tangível para condená-lo. |
-| The benefits of exercise are tangible and measurable. | Os benefícios do exercício são tangíveis e mensuráveis. |
-| The company showed tangible progress this quarter. | A empresa mostrou progresso tangível neste trimestre. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Tangível; concreto; palpável; verificável
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Tangible evidence was needed to convict him. | Era necessária evidência tangível para condená-lo. |
+> | The benefits of exercise are tangible and measurable. | Os benefícios do exercício são tangíveis e mensuráveis. |
+> | The company showed tangible progress this quarter. | A empresa mostrou progresso tangível neste trimestre. |

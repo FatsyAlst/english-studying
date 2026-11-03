@@ -51,14 +51,15 @@ From Old English *scacan* or *sceacan*, related to Old Saxon *skakan* and Old No
 > - "Shook and shaken" have different uses in sentences
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Balançou, sacudiu, tremeu, abalou
 
-| English | Portuguese |
-|---------|------------|
-| shook | balançou, sacudiu |
-| shook hands | apertou mãos |
-| shook his head | balançou a cabeça |
-| shook with fear | tremeu de medo |
-| shook loose | se soltou |
-| shaken | balançado, abalado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Balançou, sacudiu, tremeu, abalou
+>
+> | English | Portuguese |
+> |---------|------------|
+> | shook | balançou, sacudiu |
+> | shook hands | apertou mãos |
+> | shook his head | balançou a cabeça |
+> | shook with fear | tremeu de medo |
+> | shook loose | se soltou |
+> | shaken | balançado, abalado |

@@ -44,11 +44,12 @@ From Middle English *stragelen*, possibly from Old French *estragil*, meaning to
 > - Neutral to slightly negative connotation depending on context
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** retardatário, atrasado
 
-| English | Portuguese |
-|---------|------------|
-| straggler | retardatário |
-| to fall behind | ficar para trás |
-| late arrival | chegada atrasada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** retardatário, atrasado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | straggler | retardatário |
+> | to fall behind | ficar para trás |
+> | late arrival | chegada atrasada |

@@ -63,12 +63,13 @@ From Middle English *rubbous*, possibly from Old French *robe* (booty, plunder),
 > - The verb "to rubbish" means to criticize harshly (mainly British)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Lixo, resíduo, porcaria
 
-| English | Portuguese |
-|---------|------------|
-| rubbish bin | cesto de lixo |
-| complete rubbish | pura porcaria |
-| rubbish idea | ideia horrível |
-| talk rubbish | falar bobagem |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Lixo, resíduo, porcaria
+>
+> | English | Portuguese |
+> |---------|------------|
+> | rubbish bin | cesto de lixo |
+> | complete rubbish | pura porcaria |
+> | rubbish idea | ideia horrível |
+> | talk rubbish | falar bobagem |

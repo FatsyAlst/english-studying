@@ -57,11 +57,12 @@ From the adjective "slack" (not tight, loose). The idea of effort becoming loose
 > - Mostly intransitive (no direct object).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** enrolar, ficar de corpo mole, afrouxar (no esforço); diminuir (intensity)
 
-| English | Portuguese |
-|---------|------------|
-| You've been slacking off at work lately. | Você anda enrolando no trabalho ultimamente. |
-| Stop slacking off and finish your report. | Para de enrolar e termina o relatório. |
-| Sales usually slack off after the holiday season. | As vendas geralmente diminuem depois das festas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** enrolar, ficar de corpo mole, afrouxar (no esforço); diminuir (intensity)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | You've been slacking off at work lately. | Você anda enrolando no trabalho ultimamente. |
+> | Stop slacking off and finish your report. | Para de enrolar e termina o relatório. |
+> | Sales usually slack off after the holiday season. | As vendas geralmente diminuem depois das festas. |

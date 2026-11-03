@@ -80,10 +80,12 @@ From Late Old English 'plōg/plōh' ('plow, plowland'), borrowed from a Scandina
 > - Figurative uses like 'plowing through work' are very common in informal English.
 
 ---
-**Tradução:** 1. Arando / Lavrando (a terra) | 2. Abrindo caminho / Avançando com força / Rompendo | 3. Mergulhando / Trabalhando arduamente (em tarefas) | 4. Limpando/removendo (a neve com arado)
 
-| English | Portuguese |
-|---------|------------|
-| The farmer was plowing his field early in the morning. | O fazendeiro estava arando seu campo cedo pela manhã. |
-| The ship was plowing through the heavy waves. | O navio estava rompendo as ondas fortes. |
-| She's been plowing through the reports all day. | Ela vem mergulhando nos relatórios o dia todo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. Arando / Lavrando (a terra) | 2. Abrindo caminho / Avançando com força / Rompendo | 3. Mergulhando / Trabalhando arduamente (em tarefas) | 4. Limpando/removendo (a neve com arado)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The farmer was plowing his field early in the morning. | O fazendeiro estava arando seu campo cedo pela manhã. |
+> | The ship was plowing through the heavy waves. | O navio estava rompendo as ondas fortes. |
+> | She's been plowing through the reports all day. | Ela vem mergulhando nos relatórios o dia todo. |

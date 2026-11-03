@@ -57,14 +57,15 @@ From Italian *ammutinamento*, from *ammutinare* (to mutiny), related to French *
 > - Can be used metaphorically for non-military contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** motim; rebelião; insurreição; amofinação
 
-| English | Portuguese |
-|---------|------------|
-| mutiny | motim; rebelião |
-| stage a mutiny | provocar um motim |
-| mutiny against | rebelar-se contra |
-| crew mutiny | motim da tripulação |
-| mutinous | amotinado; rebelde |
-| mutinously | de forma rebelde |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** motim; rebelião; insurreição; amofinação
+>
+> | English | Portuguese |
+> |---------|------------|
+> | mutiny | motim; rebelião |
+> | stage a mutiny | provocar um motim |
+> | mutiny against | rebelar-se contra |
+> | crew mutiny | motim da tripulação |
+> | mutinous | amotinado; rebelde |
+> | mutinously | de forma rebelde |

@@ -66,12 +66,13 @@ From Old French *vaissel* ("container, recipient, ship"), from Latin *vascellum*
 > - The Latin root *vas* also gives us *vase* and *vascular* (relating to blood vessels).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** embarcação, navio (marítimo); recipiente, vasilha (container); vaso (sanguíneo); receptáculo, veículo (figurativo)
 
-| English | Portuguese |
-|---------|------------|
-| The coast guard rescued the crew of the vessel. | A guarda costeira resgatou a tripulação da embarcação. |
-| Ancient clay vessels were found at the site. | Vasilhas de barro antigas foram encontradas no local. |
-| A blood vessel burst in his eye. | Um vaso sanguíneo estourou no olho dele. |
-| She became a vessel for the cursed energy. | Ela se tornou um receptáculo para a energia amaldiçoada. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** embarcação, navio (marítimo); recipiente, vasilha (container); vaso (sanguíneo); receptáculo, veículo (figurativo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The coast guard rescued the crew of the vessel. | A guarda costeira resgatou a tripulação da embarcação. |
+> | Ancient clay vessels were found at the site. | Vasilhas de barro antigas foram encontradas no local. |
+> | A blood vessel burst in his eye. | Um vaso sanguíneo estourou no olho dele. |
+> | She became a vessel for the cursed energy. | Ela se tornou um receptáculo para a energia amaldiçoada. |

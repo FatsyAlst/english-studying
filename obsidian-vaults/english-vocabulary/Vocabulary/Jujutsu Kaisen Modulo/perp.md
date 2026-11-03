@@ -50,11 +50,12 @@ Shortened (clipped) form of *perpetrator*, from Latin *perpetrare* "to carry out
 > - Mostly heard in American crime dramas, news reports, and police procedurals.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** criminoso, autor do crime, meliante (coloquial)
 
-| English | Portuguese |
-|---------|------------|
-| The cops finally caught the perp. | Os policiais finalmente pegaram o criminoso. |
-| The alleged perp has denied all the charges. | O suposto autor do crime negou todas as acusações. |
-| Cameras followed the perp into the courthouse. | Câmeras seguiram o criminoso enquanto era conduzido ao fórum. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** criminoso, autor do crime, meliante (coloquial)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The cops finally caught the perp. | Os policiais finalmente pegaram o criminoso. |
+> | The alleged perp has denied all the charges. | O suposto autor do crime negou todas as acusações. |
+> | Cameras followed the perp into the courthouse. | Câmeras seguiram o criminoso enquanto era conduzido ao fórum. |

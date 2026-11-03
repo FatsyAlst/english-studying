@@ -43,11 +43,12 @@ Euphemistic alteration of "damnation," created to avoid taking the Lord's name i
 > - Common in American English, especially rural speech
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** caramba, diabos
 
-| English | Portuguese |
-|---------|------------|
-| tarnation | caramba/diabos |
-| what in tarnation | que diabos |
-| where in tarnation | onde diabos |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** caramba, diabos
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tarnation | caramba/diabos |
+> | what in tarnation | que diabos |
+> | where in tarnation | onde diabos |

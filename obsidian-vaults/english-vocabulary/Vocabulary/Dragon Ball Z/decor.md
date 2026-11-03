@@ -50,14 +50,15 @@ From French *décor*, from Latin *decorem* meaning "fitting" or "proper." Origin
 > - Emphasizes visual appeal and design harmony
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** decoração, ornamentação
 
-| English | Portuguese |
-|---------|------------|
-| decor | decoração |
-| interior decor | decoração de interiores |
-| home decor | decoração de casa |
-| decorate | decorar |
-| decorative | decorativo |
-| elaborate decor | decoração elaborada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** decoração, ornamentação
+>
+> | English | Portuguese |
+> |---------|------------|
+> | decor | decoração |
+> | interior decor | decoração de interiores |
+> | home decor | decoração de casa |
+> | decorate | decorar |
+> | decorative | decorativo |
+> | elaborate decor | decoração elaborada |

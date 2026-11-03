@@ -64,12 +64,13 @@ From *edge* (sharp border or line) + *-y* (adjective suffix). The original sense
 > - Related to "on edge" (nervous or tense)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Tenso, nervoso, ousado
 
-| English | Portuguese |
-|---|---|
-| edgy (nervous) | tenso, nervoso |
-| edgy demeanor | demeanor tenso |
-| feel edgy | sentir-se tenso |
-| edgy style | estilo ousado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Tenso, nervoso, ousado
+>
+> | English | Portuguese |
+> |---|---|
+> | edgy (nervous) | tenso, nervoso |
+> | edgy demeanor | demeanor tenso |
+> | feel edgy | sentir-se tenso |
+> | edgy style | estilo ousado |

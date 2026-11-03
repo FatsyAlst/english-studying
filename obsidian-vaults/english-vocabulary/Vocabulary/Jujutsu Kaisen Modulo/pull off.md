@@ -52,13 +52,15 @@ First recorded 1855–60. Combines "pull" (draw with force) + "off" (separation)
 > - Positive, celebratory tone when used for achievement — implies something was difficult or risky.
 > - "Can they pull it off?" = common question when outcome is uncertain.
 > - Transitive — requires a direct object.
+> - 📺 Also encountered in [[Mushoku Tensei]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** conseguir, realizar com sucesso (feito difícil); tirar, remover (puxando); sair da estrada, encostar (veículo)
 
-| English | Portuguese |
-|---------|------------|
-| We pulled off the deal. | Conseguimos fechar o negócio. |
-| I never thought you'd pull it off. | Nunca pensei que você conseguiria. |
-| I pulled off the road at a small village pub. | Saí da estrada em um pequeno pub de vila. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** conseguir, realizar com sucesso (feito difícil); tirar, remover (puxando); sair da estrada, encostar (veículo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | We pulled off the deal. | Conseguimos fechar o negócio. |
+> | I never thought you'd pull it off. | Nunca pensei que você conseguiria. |
+> | I pulled off the road at a small village pub. | Saí da estrada em um pequeno pub de vila. |

@@ -45,11 +45,12 @@ Shortened form of "grandfather," which comes from Old French "grant" (great) + "
 > - Related terms: "grandpa," "granddad," "grandfather" (formal)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** avô, vovô
 
-| English | Portuguese |
-|---------|------------|
-| my gramps | meu avô |
-| gramps' house | casa do avô |
-| visit gramps | visitar o avô |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** avô, vovô
+>
+> | English | Portuguese |
+> |---------|------------|
+> | my gramps | meu avô |
+> | gramps' house | casa do avô |
+> | visit gramps | visitar o avô |

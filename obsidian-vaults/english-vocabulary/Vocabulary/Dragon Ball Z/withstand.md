@@ -30,9 +30,11 @@ From Old English "withstandan" - "with" (against) + "standan" (to stand). Litera
 > - 📺 Also seen in [[Jujutsu Kaisen Modulo]]
 
 ---
-**Tradução:** Resistir / Suportar / Aguentar
 
-| English | Portuguese |
-|---------|------------|
-| The building was designed to withstand earthquakes. | O prédio foi projetado para resistir a terremotos. |
-| She managed to withstand the pressure from her competitors. | Ela conseguiu suportar a pressão de seus concorrentes. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Resistir / Suportar / Aguentar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The building was designed to withstand earthquakes. | O prédio foi projetado para resistir a terremotos. |
+> | She managed to withstand the pressure from her competitors. | Ela conseguiu suportar a pressão de seus concorrentes. |

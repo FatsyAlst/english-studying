@@ -48,13 +48,14 @@ From "hench" (a man of the household or household warrior) + "man." "Hench" like
 > - Frequently used in villain-character descriptions
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** capanga; jagunço; assecla; subordinado; capangueiro
 
-| English | Portuguese |
-|---------|------------|
-| henchman | capanga; jagunço |
-| villain's henchmen | capangas do vilão |
-| hired henchman | capanga contratado |
-| muscular henchman | capanga musculoso |
-| henchman block the way | capangas bloqueiam o caminho |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** capanga; jagunço; assecla; subordinado; capangueiro
+>
+> | English | Portuguese |
+> |---------|------------|
+> | henchman | capanga; jagunço |
+> | villain's henchmen | capangas do vilão |
+> | hired henchman | capanga contratado |
+> | muscular henchman | capanga musculoso |
+> | henchman block the way | capangas bloqueiam o caminho |

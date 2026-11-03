@@ -24,6 +24,20 @@ A group or batch of items produced at the same time; a new group or generation o
 > - This year's crop of films includes some acclaimed works.
 > - A fresh crop of ideas emerged from the brainstorming session.
 
+### Sense 3 — *verb, "crop"* (Common)
+To cut something (a photo, an image, hair) to make it smaller or remove unwanted parts.
+
+> [!example] Examples
+> - Crop the photo so only your face is visible.
+> - She had her hair cropped short.
+
+### Sense 4 — *phrasal verb, "crop up"* (Common)
+To appear or happen unexpectedly.
+
+> [!example] Examples
+> - Some problems cropped up during the experiment.
+> - Something has cropped up — I can't come tonight.
+
 ---
 ## 🌳 Word Family
 | Part of Speech | Forms |
@@ -40,6 +54,10 @@ A group or batch of items produced at the same time; a new group or generation o
 - entire crop
 - new crop
 - bumper crop
+- crop a photo / an image
+- crop up
+- the cream of the crop (= the very best)
+- a crop top
 
 ---
 ## 📜 Etymology
@@ -52,13 +70,16 @@ From Old English "cropp", related to "crop" (head or top of a plant), from Germa
 > - Can be countable (multiple types of crops) or uncountable (the harvest)
 > - Extended to mean any new batch or group
 > - "Bumper crop" means an exceptionally large harvest
+> - 📺 Also encountered in [[Mushoku Tensei]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** colheita, safra, cultura
 
-| English | Portuguese |
-|---------|------------|
-| cash crop | cultura de exportação |
-| crop failure | fracasso da colheita |
-| bumper crop | colheita abundante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** colheita, safra, cultura
+>
+> | English | Portuguese |
+> |---------|------------|
+> | cash crop | cultura de exportação |
+> | crop failure | fracasso da colheita |
+> | bumper crop | colheita abundante |
+> | Some problems cropped up during the experiment. | Alguns problemas surgiram durante o experimento. |

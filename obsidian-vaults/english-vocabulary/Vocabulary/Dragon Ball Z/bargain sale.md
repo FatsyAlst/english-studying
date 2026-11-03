@@ -47,12 +47,13 @@ A sale offering goods at reduced prices; a commercial event where items are sold
 > - Implies both reduced prices and good value
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Venda com desconto, promoção, liquidação
 
-| English | Portuguese |
-|---------|------------|
-| bargain sale | venda com desconto |
-| sale | promoção/liquidação |
-| discount | desconto |
-| great deal | ótima oportunidade |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Venda com desconto, promoção, liquidação
+>
+> | English | Portuguese |
+> |---------|------------|
+> | bargain sale | venda com desconto |
+> | sale | promoção/liquidação |
+> | discount | desconto |
+> | great deal | ótima oportunidade |

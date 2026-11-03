@@ -63,12 +63,13 @@ From Middle Low German *poken* or Dutch *poken*. The origin is uncertain but pos
 > - Often used in combat contexts for quick, direct attacks
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Cutucar, provocar; espeta
 
-| English | Portuguese |
-|---|---|
-| poke | cutucar, bater de leve |
-| poke fun at | brincar, caçoar de |
-| poke around | mexer, vasculhar |
-| poke out | sair, protuir |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Cutucar, provocar; espeta
+>
+> | English | Portuguese |
+> |---|---|
+> | poke | cutucar, bater de leve |
+> | poke fun at | brincar, caçoar de |
+> | poke around | mexer, vasculhar |
+> | poke out | sair, protuir |

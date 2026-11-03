@@ -51,14 +51,15 @@ From Old French *megre*, from Latin *macer* (thin, lean). The root suggests some
 > - British spelling: meagre
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Parco, insuficiente, escasso, magro
 
-| English | Portuguese |
-|---------|------------|
-| meager | escasso, insuficiente |
-| meager resources | recursos escassos |
-| meager rations | rações escassas |
-| meager defense | defesa fraca |
-| meager amount | quantidade insuficiente |
-| meagerly | escassamente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Parco, insuficiente, escasso, magro
+>
+> | English | Portuguese |
+> |---------|------------|
+> | meager | escasso, insuficiente |
+> | meager resources | recursos escassos |
+> | meager rations | rações escassas |
+> | meager defense | defesa fraca |
+> | meager amount | quantidade insuficiente |
+> | meagerly | escassamente |

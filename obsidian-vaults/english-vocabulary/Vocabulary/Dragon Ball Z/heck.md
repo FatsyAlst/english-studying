@@ -50,12 +50,13 @@ From "heck" as a euphemistic alteration of "hell", likely dating to the 19th cen
 > - Can express frustration, surprise, confusion, or emphasis
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Que diabo, que raios, caramba
 
-| English | Portuguese |
-|---------|------------|
-| heck | que diabo/que raios |
-| what the heck | que diabo é isso |
-| a heck of a | um/uma... de diabo |
-| heck of a time | um inferno de tempo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Que diabo, que raios, caramba
+>
+> | English | Portuguese |
+> |---------|------------|
+> | heck | que diabo/que raios |
+> | what the heck | que diabo é isso |
+> | a heck of a | um/uma... de diabo |
+> | heck of a time | um inferno de tempo |

@@ -41,10 +41,11 @@ From *tell* (Old English *tellan*, "to count, reckon, recount") + *apart* (from 
 > - Synonyms: distinguish, differentiate, discriminate between.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** distinguir, diferenciar, perceber a diferença entre
 
-| English | Portuguese |
-|---------|------------|
-| I can never tell the twins apart. | Eu nunca consigo distinguir os gêmeos. |
-| It's hard to tell these two brands apart. | É difícil diferenciar essas duas marcas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** distinguir, diferenciar, perceber a diferença entre
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I can never tell the twins apart. | Eu nunca consigo distinguir os gêmeos. |
+> | It's hard to tell these two brands apart. | É difícil diferenciar essas duas marcas. |

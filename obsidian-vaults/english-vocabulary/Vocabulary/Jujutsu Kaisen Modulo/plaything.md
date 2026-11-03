@@ -50,11 +50,12 @@ Compound word from "play" + "thing." The term has been used in English since at 
 > - Formal English, appropriate for written communication
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Brinquedo; coisa de que se brinca, vítima
 
-| English | Portuguese |
-|---------|------------|
-| This toy is my favorite plaything. | Este brinquedo é meu favorito. |
-> - Do not treat people as playthings. | Não trate pessoas como brinquedos. |
-| She became the plaything of powerful men. | Ela se tornou vítima de homens poderosos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Brinquedo; coisa de que se brinca, vítima
+>
+> | English | Portuguese |
+> |---------|------------|
+> | This toy is my favorite plaything. | Este brinquedo é meu favorito. |
+> > - Do not treat people as playthings. | Não trate pessoas como brinquedos. |
+> | She became the plaything of powerful men. | Ela se tornou vítima de homens poderosos. |

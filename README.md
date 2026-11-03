@@ -37,8 +37,11 @@ This repository serves as:
 
 <div align="center">
 
-### 📖 Book
-**English Grammar in Use** (Intermediate)  
+| 📖 Book | 📕 Reading | 🎧 Listening |
+|:-------:|:----------:|:------------:|
+| **English Grammar in Use**<br>(5th edition, Intermediate) | **Meditations: The Annotated Edition**<br>Marcus Aurelius | **BBC Learning English**<br>+ [Extra Study picks](./extra-study/README.md) |
+
+🇬🇧 **Focus: British English**
 
 </div>
 
@@ -73,8 +76,12 @@ This repository serves as:
 ### AI Assistants
 I leverage AI tools to enhance my learning experience:
 
-- **GitHub Copilot** - Code-based English practice, technical documentation, and repository automation
-- **Claude** - Vocabulary research, writing feedback, and AI-powered assistance. Also handles vocabulary ingestion into the Obsidian vault — when a sizeable list of new words has been collected in the to-do list, Claude researches each word and creates the vocabulary cards following the vault's format and structure
+- **GitHub Copilot** - Code-based English practice, technical documentation, and the [vocabulary ingestion agent](./.github/agents/vocab-ingestion.agent.md)
+- **Claude** - Vocabulary research, writing feedback, and AI-powered assistance:
+  - **Vocabulary ingestion** — when a sizeable list of new words has been collected in the to-do list, Claude researches each word and creates the vocabulary cards following the vault's format and structure
+  - **Review exercises** — LaTeX exercise sets with separate answer keys for the grammar I'm studying (e.g. the RESPAWN review of Units 1–17)
+  - **Extra Study picks** — on demand, Claude picks one short British English lesson or video and builds a companion sheet for it (see [Extra Study](#-extra-study))
+  - **Monthly sync** — on the 1st of every month, Claude commits and pushes what changed in my local folder to this repository ([`tools/sync-local-git.cmd`](./tools/sync-local-git.cmd) then lines my local git up with GitHub)
 
 ### Traditional Resources
 - 📚 Books (Cambridge English series and more)
@@ -88,9 +95,11 @@ I leverage AI tools to enhance my learning experience:
 
 ## 📚 Book Study Plan
 
-> **Last Updated:** March 2026
+> **Last Updated:** November 2026
 
 A structured learning path through the Cambridge English series and complementary materials, progressing from intermediate to advanced proficiency.
+
+> 🇬🇧 **British English only.** Every book in the plan teaches British English, so *Speak English Like an American* was removed from it.
 
 ### Phase 1: Foundation (Current)
 *Building solid intermediate skills and expanding vocabulary.*
@@ -111,7 +120,6 @@ A structured learning path through the Cambridge English series and complementar
 | <img src="./media/covers/phrasal-verbs-advanced.jpg" width="80"/> | **English Phrasal Verbs in Use** (Advanced) | ⏸️ Not Started |
 | <img src="./media/covers/collocations-intermediate.jpg" width="80"/> | **English Collocations in Use** (Intermediate) | ⏸️ Not Started |
 | <img src="./media/covers/idioms-intermediate.jpg" width="80"/> | **English Idioms in Use** (Intermediate) | ⏸️ Not Started |
-| <img src="./media/covers/speak-like-american.jpg" width="80"/> | **Speak English Like an American** | ⏸️ Not Started |
 
 ---
 
@@ -128,37 +136,58 @@ A structured learning path through the Cambridge English series and complementar
 
 ---
 
-> **Note:** Book notes and annotations are kept privately in **Samsung Notes** on my tablet for convenience during study sessions. Additional practice exercises are available in the [`exercises/` folder](./exercises/) as LaTeX files organized by book and topic.
+> **Note:** Book notes and annotations are kept privately in **Samsung Notes** on my tablet for convenience during study sessions. Extra practice exercises (LaTeX sources, PDFs and answer keys) live in the **english-books** vault, one folder per topic: [`Books/English Grammar in Use/Extra exercises/`](./obsidian-vaults/english-books/Books/English%20Grammar%20in%20Use/Extra%20exercises/). The book PDFs themselves are copyrighted, so they stay out of the repository.
 
 ## 📖 Reading for Pleasure
 
 Beyond textbooks, I also read books for enjoyment to improve my English naturally. This includes novels, memoirs, and non-fiction on topics I love.
 
-> ⚠️ **Lesson Learned:** I once made the mistake of starting with philosophy books (Stoicism). Result? 40+ new words per chapter — completely overwhelming! Now I choose books with accessible vocabulary that I can actually learn from without burning out.
+> ⚠️ **Lesson Learned:** At B2, I made the mistake of starting with a philosophy book (Stoicism). Result? 40+ new words per chapter — completely overwhelming! I came back to Stoicism at C1 and finished *Meditations*; now I'm reading an annotated edition with a full introduction and commentary.
 
 ### Currently Reading
 
 | Cover | Title | Author | Genre |
 |-------|-------|--------|-------|
-| <img src="./media/covers/long-way-round.jpg" width="80"/> | **Long Way Round: Chasing Shadows Across the World** | Ewan McGregor & Charley Boorman | Travel / Motorcycle Adventure |
+| <img src="./media/covers/meditations-annotated.jpg" width="80"/> | **Meditations: The Annotated Edition** | Marcus Aurelius (translated by Robin Waterfield) | Philosophy / Stoicism |
+
+### Completed
+
+| Cover | Title | Author | Genre |
+|-------|-------|--------|-------|
+| <img src="./media/covers/meditations-macmillan.jpg" width="80"/> | **Meditations** (Macmillan Collector's Library) | Marcus Aurelius (translated by A. S. L. Farquharson) | Philosophy / Stoicism |
 
 📚 **[View Full Reading Tracker →](./reading/README.md)**
 
-## 🧠 Obsidian Vocabulary Vault
+## 🧠 Obsidian Vaults
 
-This repository includes a fully-featured **Obsidian vault** for tracking vocabulary learned from anime, manga, series, and other media. Located in `obsidian-vaults/english-vocabulary/`.
+My study material lives in three **Obsidian vaults** inside [`obsidian-vaults/`](./obsidian-vaults/). Open any of them as a vault in [Obsidian](https://obsidian.md/); each one ships with its plugins, theme settings and CSS snippets pre-configured.
 
-**Features:**
+| Vault | What it holds |
+|-------|---------------|
+| 📚 [**english-books**](./obsidian-vaults/english-books/) | My library: the books I study with, their answer keys and the extra exercises I build around them (e.g. the RESPAWN review of *English Grammar in Use* Units 1–17) |
+| 🧠 [**english-vocabulary**](./obsidian-vaults/english-vocabulary/) | 900+ vocabulary cards from the media I watch, read and live |
+| 🎧 [**english-listening**](./obsidian-vaults/english-listening/) | My listening gym: episodes I work through, what I missed and why, and the British English sounds that keep tripping me up |
+
+### english-vocabulary features
 - 📇 **Vocabulary Cards** — Detailed word cards with definitions, word families, collocations, etymology, usage notes, and Portuguese translations
-- 📊 **Interactive Dashboard** — Homepage with DataviewJS-powered statistics, recent words, and paginated word lists per media source
-- 📈 **Learning Progress Charts** — Visual tracking of vocabulary growth over time for each media source
-- 🏷️ **Media-Based Organization** — Words organized by source material (Dragon Ball Z, F1, Peaky Blinders, Jujutsu Kaisen Modulo)
+- 📊 **Interactive Homepage** — DataviewJS-powered gallery of media sources (cover and word count), a searchable word explorer, the blog, Vocabulary Insights and the exercise sets
+- 🏷️ **Media-Based Organization** — Words organized by source: Dragon Ball, Dragon Ball Z, Dragon Ball Super, Dragon Ball GT, Jujutsu Kaisen Modulo, My Hero Academia Vigilantes, Mushoku Tensei, Dr. Stone, Peaky Blinders, F1, and words picked up in everyday life
+- 🔍 **Vocabulary Insights** — Notes comparing words that are easy to confuse (e.g. *Shall vs Should*, *Who vs Whom*, *Climate vs Weather*)
 - 🎨 **Custom Theme** — Dracula dark scheme with media-specific accent colors and custom CSS
 - 📝 **Blog Section** — Articles exploring interesting English language topics
 - 🧪 **Vocabulary Exercises** — Practice sets with LaTeX-generated PDFs
 - 🤖 **AI Prompt Integration** — Built-in vocabulary learning prompt for use with AI assistants
 
-> **To use the vault:** Open the `obsidian-vaults/english-vocabulary/` folder as a vault in [Obsidian](https://obsidian.md/). The vault includes all plugins, theme settings, and CSS snippets pre-configured.
+## 🎧 Extra Study
+
+Besides the books, I do short extra sessions: **one** lesson, episode or video at a time, from trusted British English sources. When I ask for one, Claude picks the next item, rotating evenly between the sources and never repeating one, and builds a short LaTeX **companion sheet** to use while I watch or listen: warm-up questions, a card for each key word with British IPA, pronunciation tips and exercises with an answer key. Each sheet follows its source's own style, so there's no fixed template.
+
+| Source | Type |
+|--------|------|
+| [BBC Learning English](https://www.bbc.co.uk/learningenglish/) | 6 Minute English, The English We Speak, 6 Minute Grammar/Vocabulary… |
+| [English by Jay](https://www.youtube.com/@englishbyjay.official) | YouTube: British vocabulary and pronunciation |
+
+📂 **[See every pick and its sheet →](./extra-study/README.md)**
 
 ## 🎓 Resources
 
@@ -276,12 +305,6 @@ Several strategies keep me going:
 
 ---
 
-## 📋 To-Do
-
-- [ ] Move IELTS preparation materials into the `obsidian-vaults/ielts-prep/` vault
-
----
-
 ## 🤝 Contributing
 
 This is a personal learning repository, but if you have suggestions for resources or want to share your own learning experience, feel free to open an issue!
@@ -292,7 +315,7 @@ This repository is for educational purposes. All book materials referenced are c
 
 ---
 
-**Last Updated:** March 2026  
+**Last Updated:** November 2026  
 **Status:** 🚀 Active Learning
 
 <div align="center">

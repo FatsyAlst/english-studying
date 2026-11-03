@@ -41,12 +41,14 @@ From Old English "ordæl" or "ordel," from Germanic origins. Originally referred
 > - Often used in dramatic contexts to emphasize the severity of a situation.
 > - Frequently appears in battle narratives and character development arcs.
 > - Implies both hardship and the need for perseverance.
+> - ⚠️ Similar meaning in [[harrowing]] (from [[Dragon Ball GT]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Provação / Teste / Calvário
 
-| English | Portuguese |
-|---------|------------|
-| The battle was a grueling ordeal. | A batalha foi uma provação agonizante. |
-| She survived the ordeal and emerged stronger. | Ela sobreviveu à provação e saiu mais forte. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Provação / Teste / Calvário
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The battle was a grueling ordeal. | A batalha foi uma provação agonizante. |
+> | She survived the ordeal and emerged stronger. | Ela sobreviveu à provação e saiu mais forte. |

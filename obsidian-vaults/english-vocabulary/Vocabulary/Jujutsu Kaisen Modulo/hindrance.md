@@ -45,11 +45,12 @@ From Old English *hindren* (to hinder), with suffix *-ance* indicating a state o
 > - The verb form "hinder" is more commonly used than the noun "hindrance" in modern English
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Obstáculo, impedimento, entrave
 
-| English | Portuguese |
-|---------|------------|
-| a hindrance to progress | um obstáculo ao progresso |
-| without hindrance | sem obstáculos |
-| major hindrance | grande entrave |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Obstáculo, impedimento, entrave
+>
+> | English | Portuguese |
+> |---------|------------|
+> | a hindrance to progress | um obstáculo ao progresso |
+> | without hindrance | sem obstáculos |
+> | major hindrance | grande entrave |

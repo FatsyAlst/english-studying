@@ -61,14 +61,17 @@ From Middle English *graspen*, of uncertain origin. Possibly related to German *
 > - "Grasp at straws" = desperately try any option, however unlikely.
 > - "Grasping" as adjective = greedy or avaricious (negative connotation).
 > - Often used in academic/intellectual contexts for understanding.
+> - 📺 Also encountered in [[Mushoku Tensei]]
+> - ⚠️ Similar meaning in [[wrap one's head around]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** agarrar, segurar; compreender, entender
 
-| English | Portuguese |
-|---------|------------|
-| He grasped the rope tightly. | Ele agarrou a corda com força. |
-| She quickly grasped the concept. | Ela compreendeu rapidamente o conceito. |
-| Within one's grasp = achievable. | Ao alcance = alcançável. |
-| Grasp at straws. | Agarrar-se a palhas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** agarrar, segurar; compreender, entender
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He grasped the rope tightly. | Ele agarrou a corda com força. |
+> | She quickly grasped the concept. | Ela compreendeu rapidamente o conceito. |
+> | Within one's grasp = achievable. | Ao alcance = alcançável. |
+> | Grasp at straws. | Agarrar-se a palhas. |

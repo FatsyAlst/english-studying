@@ -45,11 +45,12 @@ Old English period (pre-1150), formed from *right* (noun) + *-ful* (suffix meani
 > - Register is neutral to formal; common in legal contexts, property discussions, and historical/political discourse.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** legítimo, justo, devido, merecido, de direito
 
-| English | Portuguese |
-|---------|------------|
-| The property should be returned to its rightful owner. | A propriedade deve ser devolvida ao seu legítimo proprietário. |
-| The furniture rightfully belongs to you. | O mobiliário pertence legitimamente a você. |
-| He claimed his rightful inheritance. | Ele reivindicou sua herança legítima. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** legítimo, justo, devido, merecido, de direito
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The property should be returned to its rightful owner. | A propriedade deve ser devolvida ao seu legítimo proprietário. |
+> | The furniture rightfully belongs to you. | O mobiliário pertence legitimamente a você. |
+> | He claimed his rightful inheritance. | Ele reivindicou sua herança legítima. |

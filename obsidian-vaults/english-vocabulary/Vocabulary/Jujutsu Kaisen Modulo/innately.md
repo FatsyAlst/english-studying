@@ -39,12 +39,14 @@ From *innate* + *-ly*. The adjective *innate* comes from Latin *innatus* ("inbor
 > - Compare with [[inherently]] — very close in meaning, but *innately* emphasizes something present from **birth** (biological/genetic), while *inherently* emphasizes something that is an **essential, inseparable part** of a thing's nature (not necessarily biological).
 > - Formal register — in everyday speech, *naturally* is more common.
 > - The nature vs. nurture debate often centres on whether traits are *innately* determined or environmentally shaped.
+> - ⚠️ Similar meaning in [[innate]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** inatamente, de forma inata, por natureza
 
-| English | Portuguese |
-|---------|------------|
-| Some people seem innately good at mathematics. | Algumas pessoas parecem inatamente boas em matemática. |
-| Humans are innately social creatures. | Os humanos são criaturas inatamente sociais. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** inatamente, de forma inata, por natureza
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Some people seem innately good at mathematics. | Algumas pessoas parecem inatamente boas em matemática. |
+> | Humans are innately social creatures. | Os humanos são criaturas inatamente sociais. |

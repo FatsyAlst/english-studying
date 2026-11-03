@@ -43,10 +43,11 @@ Of uncertain origin; possibly related to "twirp" (variant spelling). First attes
 > - Can refer to age (a young person) or general insignificance.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** moleque, pivete, pequeno insignificante (pejorativo)
 
-| English | Portuguese |
-|---------|------------|
-| That little twerp stole my bicycle. | Aquele moleque roubou minha bicicleta. |
-| Don't let that twerp boss you around. | Não deixe aquele pivete te mandar. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** moleque, pivete, pequeno insignificante (pejorativo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | That little twerp stole my bicycle. | Aquele moleque roubou minha bicicleta. |
+> | Don't let that twerp boss you around. | Não deixe aquele pivete te mandar. |

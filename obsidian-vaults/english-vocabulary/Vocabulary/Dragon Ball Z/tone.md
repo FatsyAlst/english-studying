@@ -74,15 +74,16 @@ From Old French *ton*, from Latin *tonus* (sound, pitch), from Greek *tonos* (te
 > - Synonyms: pitch, timbre, mood, atmosphere, attitude, manner
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** tom; timbre; tonalidade; atmosfera; atitude
 
-| English | Portuguese |
-|---------|------------|
-| tone of voice | tom de voz |
-| harsh tone | tom áspero |
-| serious tone | tom sério |
-| set the tone | estabelecer o tom |
-| tone down | reduzir a intensidade |
-| tone up | fortalecer (músculos) |
-| musical tone | nota musical |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** tom; timbre; tonalidade; atmosfera; atitude
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tone of voice | tom de voz |
+> | harsh tone | tom áspero |
+> | serious tone | tom sério |
+> | set the tone | estabelecer o tom |
+> | tone down | reduzir a intensidade |
+> | tone up | fortalecer (músculos) |
+> | musical tone | nota musical |

@@ -51,11 +51,12 @@ From Old English "rihtwis," combining "riht" (right) + "wis" (wise/manner). The 
 > - Formal register
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Justo, virtuoso, reto; moralmente correto
 
-| English | Portuguese |
-|---------|------------|
-| His cause was righteous. | Sua causa era justa. |
-| Righteous anger is justified. | A indignação justa é justificada. |
-| She is a righteous woman. | Ela é uma mulher virtuosa. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Justo, virtuoso, reto; moralmente correto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His cause was righteous. | Sua causa era justa. |
+> | Righteous anger is justified. | A indignação justa é justificada. |
+> | She is a righteous woman. | Ela é uma mulher virtuosa. |

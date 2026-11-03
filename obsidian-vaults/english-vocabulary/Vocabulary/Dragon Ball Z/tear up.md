@@ -44,11 +44,12 @@ To rip something into pieces; to damage or destroy something violently.
 > - Often implies violent or forceful action
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** rasgar, destruir
 
-| English | Portuguese |
-|---------|------------|
-| tear up | rasgar/destruir |
-| tear up the ground | destruir o chão |
-| torn up | rasgado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** rasgar, destruir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tear up | rasgar/destruir |
+> | tear up the ground | destruir o chão |
+> | torn up | rasgado |

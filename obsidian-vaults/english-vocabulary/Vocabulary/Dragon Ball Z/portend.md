@@ -47,12 +47,13 @@ From Latin *portendere* (to stretch forward, indicate), from *pro-* (forward) + 
 > - The subject is usually something that appears as a sign, not a person
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Pressagiar, ser um augúrio de, indicar
 
-| English | Portuguese |
-|---|---|
-| portend | pressagiar, augurar |
-| to portend danger | pressagiar perigo |
-| portent | presságio, augúrio |
-| portentous | portentoso, de mau augúrio |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Pressagiar, ser um augúrio de, indicar
+>
+> | English | Portuguese |
+> |---|---|
+> | portend | pressagiar, augurar |
+> | to portend danger | pressagiar perigo |
+> | portent | presságio, augúrio |
+> | portentous | portentoso, de mau augúrio |

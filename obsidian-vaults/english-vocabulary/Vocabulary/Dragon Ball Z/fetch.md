@@ -45,12 +45,13 @@ From Old English "feccan" or Middle English "fecchen," possibly related to Old N
 > - "Fetching" as an adjective means attractive or appealing
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** buscar, ir buscar, trazer
 
-| English | Portuguese |
-|---------|------------|
-| fetch | buscar, trazer |
-| fetching | atraente, encantador |
-| go fetch | ir buscar |
-| fetch a price | atingir um preço |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** buscar, ir buscar, trazer
+>
+> | English | Portuguese |
+> |---------|------------|
+> | fetch | buscar, trazer |
+> | fetching | atraente, encantador |
+> | go fetch | ir buscar |
+> | fetch a price | atingir um preço |

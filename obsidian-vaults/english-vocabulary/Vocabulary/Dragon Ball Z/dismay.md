@@ -58,13 +58,14 @@ From Old French "desmayer" meaning "to lose one's courage." From "des-" (reversa
 > - Implies concern about consequences, not just disappointment
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** consternação, alarme, decepção, desagradar
 
-| English | Portuguese |
-|---------|------------|
-| dismay | consternação |
-| to one's dismay | para desagrado de alguém |
-| filled with dismay | cheio de consternação |
-| dismayed | consternado |
-| dismaying | desagradável |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** consternação, alarme, decepção, desagradar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | dismay | consternação |
+> | to one's dismay | para desagrado de alguém |
+> | filled with dismay | cheio de consternação |
+> | dismayed | consternado |
+> | dismaying | desagradável |

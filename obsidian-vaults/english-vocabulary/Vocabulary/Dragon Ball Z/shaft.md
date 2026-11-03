@@ -62,13 +62,14 @@ From Old English *sceaft*, related to Old Norse *skapt* and German *Schaft*. Ori
 > - Each sense is distinct but related conceptually (long, narrow structures)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** haste, cabo, eixo, poço, raio
 
-| English | Portuguese |
-|---------|------------|
-| shaft | haste, eixo |
-| arrow shaft | haste da seta |
-| mine shaft | poço de mina |
-| elevator shaft | poço do elevador |
-| shaft of light | raio de luz |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** haste, cabo, eixo, poço, raio
+>
+> | English | Portuguese |
+> |---------|------------|
+> | shaft | haste, eixo |
+> | arrow shaft | haste da seta |
+> | mine shaft | poço de mina |
+> | elevator shaft | poço do elevador |
+> | shaft of light | raio de luz |

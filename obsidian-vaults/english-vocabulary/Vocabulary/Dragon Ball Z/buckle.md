@@ -72,10 +72,12 @@ From Old French *bocle* (12th c.) 'boss of a shield,' from Latin *buccula* 'chee
 > - 'Buckle down' means to work hard or apply oneself.
 
 ---
-**Tradução:** Fivela / Fecho de cinto / Abotoar / Fechar com fivela / Prender / Entortar / Ceder
 
-| English | Portuguese |
-|---------|------------|
-| Buckle your seatbelt before driving. | Prenda o cinto de segurança antes de dirigir. |
-| The hot pavement began to buckle. | O asfalto quente começou a entortar. |
-| She refused to buckle under the intense pressure. | Ela se recusou a ceder sob a intensa pressão. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Fivela / Fecho de cinto / Abotoar / Fechar com fivela / Prender / Entortar / Ceder
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Buckle your seatbelt before driving. | Prenda o cinto de segurança antes de dirigir. |
+> | The hot pavement began to buckle. | O asfalto quente começou a entortar. |
+> | She refused to buckle under the intense pressure. | Ela se recusou a ceder sob a intensa pressão. |

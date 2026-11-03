@@ -56,11 +56,12 @@ From Latin "malignans," meaning "harmful" or "evil," derived from "malus" (bad) 
 > - Formal register; appropriate for medical and academic contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Maligno, canceroso; prejudicial, malévolo
 
-| English | Portuguese |
-|---------|------------|
-| A malignant tumor was found. | Um tumor maligno foi encontrado. |
-| The cancer is malignant. | O câncer é maligno. |
-| His malignant influence was destructive. | Sua influência prejudicial foi destrutiva. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Maligno, canceroso; prejudicial, malévolo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A malignant tumor was found. | Um tumor maligno foi encontrado. |
+> | The cancer is malignant. | O câncer é maligno. |
+> | His malignant influence was destructive. | Sua influência prejudicial foi destrutiva. |

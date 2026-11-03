@@ -43,11 +43,12 @@ To treat someone roughly or violently; to beat up or handle someone in a forcefu
 > - Separable phrasal verb: "rough up" or "rough them up"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** bater em, agredir, maltratar
 
-| English | Portuguese |
-|---------|------------|
-| rough someone up | bater em alguém |
-| get roughed up | apanhar, ser agredido |
-| roughly treated | maltratado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** bater em, agredir, maltratar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | rough someone up | bater em alguém |
+> | get roughed up | apanhar, ser agredido |
+> | roughly treated | maltratado |

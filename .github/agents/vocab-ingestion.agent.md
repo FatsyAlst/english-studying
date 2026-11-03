@@ -38,6 +38,10 @@ The agent will:
 The input may be:
 - A `.txt` file named after its media source (e.g., `Peaky Blinders.txt`, `Dragon Ball Z.txt`)
 - Inline words with a media name specified
+- A note in the vault inbox `Resources/Ingestion pending/{Media Name}.md` (one word or phrase per line; context in parentheses, e.g. `buck (i saw it in "buck naked")`)
+- The `## 🆕 To Learn` section of `Resources/Vocabulary To-Do List.md` (words grouped under a media name; a media-specific instruction may follow the name, e.g. a colour request)
+
+After a successful run, clear the processed words from the To-Do list and replace the content of each processed inbox note with a short "✅ Ingested on DD/MM/YYYY" status (the agent cannot delete files — the user deletes them). Keep anything still unresolved at the top of the note.
 
 The `.txt` files may vary in structure, but typically contain vocabulary words with some or all of:
 - Word/phrase name
@@ -66,6 +70,28 @@ Search `obsidian-vaults/english-vocabulary/Vocabulary/` for a folder matching th
 
 **If the media folder does NOT exist**, auto-create the full media setup following this comprehensive checklist:
 
+> **⚠️ Current vault (since the 17/10/2026 "calm edition" redesign) — this overrides steps 4–10 below where they differ:**
+> - **Media page** = frontmatter only + one line of DataviewJS. All charts, lists and search live in `Views/media-page.js` (which calls `Views/word-browser.js`):
+>   ```markdown
+>   ---
+>   cssclasses:
+>     - {css-class-name}
+>   tags:
+>     - media
+>     - {media-tag}
+>   category: {anime|manga|movie|series|book|personal}
+>   cover: media/covers/{media-slug}-cover.jpg
+>   ---
+>
+>   ```dataviewjs
+>   await dv.view("Views/media-page");
+>   ```
+>   ```
+> - **CSS (steps 5–7): skip.** `vocabulary-theme.css` now uses one accent colour for everything; there are no per-media variables, accent classes or tag colours.
+> - **Graph (step 8):** colour groups use **path queries**, not tags: `{"query": "path:\"Vocabulary/{Media Name}\"  ", "color": {"a": 1, "rgb": {decimal}}}`. Order matters (first match wins): a media whose name starts with another media's name (e.g. *Dragon Ball Super* vs *Dragon Ball*) must be placed **before** the shorter one.
+> - **Homepage (steps 9–10): nothing to add.** The *Media Sources* gallery builds a card automatically from every page tagged `media` that has a `category`; the old per-media word lists were replaced by the single *All Words* browser. Only touch `Homepage.md` to add a placeholder icon for a brand-new category (the `icons` map).
+> - **Cover (step 11):** the card shows the category icon until `media/covers/{slug}-cover.jpg` exists (2:3 portrait, ~400 px wide). Covers are greyscale until hovered.
+
 #### Step-by-Step Media Bootstrapping:
 
 1. **Create folder structure:**
@@ -73,11 +99,12 @@ Search `obsidian-vaults/english-vocabulary/Vocabulary/` for a folder matching th
    obsidian-vaults/english-vocabulary/Vocabulary/{Media Name}/
    ```
 
-2. **Determine category** — Ask the user to choose: `anime`, `manga`, `movie`, `series`, `book`, or other
+2. **Determine category** — Ask the user to choose: `anime`, `manga`, `movie`, `series`, `book`, `personal` (words met in real life: classes, conversations, podcasts, reading), or other. The Homepage card shows the category as an uppercase badge (`PERSONAL`, `ANIME`…) and uses it to pick the placeholder icon while there is no cover (icons map in `Homepage.md`).
 
 3. **Choose accent color** — Select a Tailwind color that doesn't conflict with existing media:
-   - Already used: Dragon Ball Z (orange `#f97316`), Dragon Ball (yellow `#eab308`), F1 (red `#ef4444`), Peaky Blinders (indigo `#6366f1`), Jujutsu Kaisen (green `#22c55e`)
-   - Available: blue (`#3b82f6`), cyan (`#06b6d4`), teal (`#14b8a6`), pink (`#ec4899`), purple (`#a855f7`), amber (`#f59e0b`), etc.
+   - Already used: Dragon Ball Z (orange `#f97316`), Dragon Ball (yellow `#eab308`), F1 (red `#ef4444`), Peaky Blinders (indigo `#6366f1`), Jujutsu Kaisen (green `#22c55e`), My Hero Academia Vigilantes (blue `#3b82f6`), Dr. Stone (teal `#14b8a6` → `1357990`), Mushoku Tensei (cyan `#06b6d4` → `440020`), Life (pink `#ec4899` → `15485081`), Dragon Ball Super (purple `#a855f7` → `11032055`), Dragon Ball GT (dark red `#991b1b` → `10033947`, requested by the user)
+   - Available: amber (`#f59e0b`), lime (`#84cc16`), emerald (`#10b981`), sky (`#0ea5e9`), violet (`#8b5cf6`), fuchsia (`#d946ef`), rose (`#f43f5e`), etc.
+   - Since the 17/10/2026 redesign the colour is used **only** for the graph colour group (and, optionally, `pixel-banner-flag-color` when the page has a banner) — the CSS snippet no longer has per-media colours.
    - Convert hex to RGB values for CSS (e.g., `#3b82f6` → `59,130,246`)
    - Convert hex to decimal RGB for graph.json (e.g., `#3b82f6` → `3901686` — use formula: R×65536 + G×256 + B)
 
@@ -356,18 +383,20 @@ created: {YYYY-MM-DD}
 > - {Register/formality notes if relevant}
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** {Portuguese translation(s)}
 
-| English | Portuguese |
-|---------|------------|
-| {Example sentence} | {Tradução} |
-| {Example sentence} | {Tradução} |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** {Portuguese translation(s)}
+>
+> | English | Portuguese |
+> |---------|------------|
+> | {Example sentence} | {Tradução} |
+> | {Example sentence} | {Tradução} |
 ```
 
 **Important formatting rules:**
 - Use `### Sense N` headers only for multiple meanings; for single-meaning words, just write the definition directly under `## 📖 Definition` with part of speech noted
-- The `> [!example]` and `> [!tip]` callouts are Obsidian callout syntax — preserve exactly
+- The `> [!example]`, `> [!tip]`, and `> [!info]-` callouts are Obsidian callout syntax — preserve exactly
+- The translation section uses `> [!info]-` (collapsed by default) so learners see English first and expand for Portuguese
 - Date format for `created:` is always `YYYY-MM-DD`
 - Filename is the word lowercased with spaces preserved: `call it quits` → `call it quits.md`. Hyphens are used ONLY when the word itself contains a hyphen (e.g., `half-baked` → `half-baked.md`)
 - If the input doesn't provide certain sections (etymology, collocations, etc.), fill them in using your linguistic knowledge
@@ -496,6 +525,8 @@ Created full vault integration for **{Media Name}**:
 ## 📐 Reference: Existing Vault Structure
 
 ### Media Pages Pattern
+> Since 17/10/2026 the body of every media page is just `await dv.view("Views/media-page");` — the bullet list below describes what that view renders.
+
 Each media page at `Vocabulary/{Media}/{Media}.md` has:
 - Frontmatter: `cssclasses`, `tags` (includes `media` + media-specific), `category`, `cover`
 - Optional: `banner`, `banner-height`, `banner-x`, `banner-y`, `content-start`, `pixel-banner-flag-color`
@@ -503,7 +534,7 @@ Each media page at `Vocabulary/{Media}/{Media}.md` has:
 - Chart colors use the media's accent color in `rgba()` format
 - Date labels in charts use `dd/mm` format: `` `${parts[2]}/${parts[1]}` ``
 
-### CSS Accent Pattern (in vocabulary-theme.css)
+### CSS Accent Pattern (in vocabulary-theme.css) — ⛔ obsolete since 17/10/2026 (single accent colour)
 ```css
 /* {Media Name} — {color} accent */
 .{css-class} .markdown-reading-view h1 { color: var(--media-{name}); }
@@ -518,12 +549,12 @@ Each media page at `Vocabulary/{Media}/{Media}.md` has:
 .{css-class} .dataview.table-view-table a.internal-link { color: var(--media-{name}); }
 ```
 
-### Tag Color Pattern (in vocabulary-theme.css)
+### Tag Color Pattern (in vocabulary-theme.css) — ⛔ obsolete since 17/10/2026
 ```css
 a.tag[href*="{tag}"] { background: rgba({r},{g},{b},0.12); color: var(--media-{name}); border-color: rgba({r},{g},{b},0.3); }
 ```
 
-### Graph Color Group Pattern (in graph.json)
+### Graph Color Group Pattern (in graph.json) — current form uses `path:` queries (see the checklist note above)
 ```json
 {
   "query": "tag:#{tag}",
@@ -534,7 +565,7 @@ a.tag[href*="{tag}"] { background: rgba({r},{g},{b},0.12); color: var(--media-{n
 }
 ```
 
-### Homepage Word List Pattern
+### Homepage Word List Pattern — ⛔ obsolete since 17/10/2026 (replaced by `Views/word-browser.js`)
 Each media has a paginated DataviewJS section under `## 📚 All Words by Media`:
 - Header: `### {emoji} {Media Name}`
 - DataviewJS queries `dv.pages('"Vocabulary/{Media Name}"')`
@@ -622,11 +653,11 @@ Before finishing a run, the agent should ask itself:
 ## ⚠️ Important Rules
 
 1. **Never delete existing content** — only add or enrich
-2. **Preserve Obsidian syntax exactly** — callouts use `> [!type]`, internal links use `[[]]`
+2. **Preserve Obsidian syntax exactly** — callouts use `> [!type]`, `> [!type]-` (collapsed), `> [!type]+` (expanded); internal links use `[[]]`
 3. **Date in frontmatter** is always `YYYY-MM-DD`, display dates are `dd/mm`
 4. **One card = one file** — never combine multiple words in a single file
-5. **Keep translations in Brazilian Portuguese** (PT-BR), not European Portuguese
-6. **Cross-reference note** goes inside the `> [!tip] Notes` callout, prefixed with 📺
+5. **Keep translations in Brazilian Portuguese** (PT-BR), not European Portuguese. Translation section uses `> [!info]-` callout (collapsed by default) to encourage English-first learning
+6. **Cross-reference note** goes inside the `> [!tip] Notes` callout, prefixed with 📺 (older cards use the wording "Also seen in"; new ones use "Also encountered in" — both are fine)
 7. **For multi-word phrases** like "call it quits", the filename is `call it quits.md` with spaces preserved. Hyphens are used ONLY when the word itself contains a hyphen (e.g., `half-baked.md`, `well-known.md`)
 8. **When enriching existing cards**, make a comment in the report about what was changed — transparency is key
 9. **Thematic tags are additive** — never remove existing tags, only add new ones that genuinely improve discoverability
@@ -634,6 +665,10 @@ Before finishing a run, the agent should ask itself:
 11. **New media setup requires user confirmation** — ask for category and color choice before proceeding
 12. **Passive linking is content-neutral** — never add new text to create a link; only wrap already-existing mentions in `[[brackets]]`. Scope: `> [!tip] Notes` callout only.
 13. **Always self-update this file** at the end of each run if anything was learned
+14. **Spelling slips and lemma matches** — correct obvious misspellings in the input (*exhilerating* → *exhilarating*, *markmanship* → *marksmanship*, *contigency* → *contingency*) and treat a plural or inflected form of an existing card as that card (*crop* → `crops.md`, *errand* → `errands.md`, *flashy* → `flashiest.md`, *gobble up* → `gobble.md`), enriching it instead of creating a near-duplicate. Report every such decision.
+15. **Context notes** — when the user writes a word plus where they saw it (`tail off (saw in "working my tail off")`), the card is for the expression they actually met (`work one's tail off`). Comparisons such as `climate vs weather` become a **Vocabulary Insight** (`Vocabulary Insights/`, category `comparison`), not a word card.
+16. **Inline italics in sense labels** — never put `*…*` inside the italic part-of-speech label of `### Sense N — *…*`; use quotes instead (`*adjective, "whipped"*`).
+17. **Unclear input** — if a word or phrase can't be identified with confidence (e.g. `string by`), don't guess: leave it in the inbox note and ask the user for the sentence where they heard it.
 
 ---
 
@@ -645,3 +680,10 @@ Before finishing a run, the agent should ask itself:
 - Included detailed media bootstrapping checklist (11 steps)
 - Documented self-maintenance protocol
 - Migrated from prompt file to custom agent format
+
+### 2026-10-27 — Run: Dr. Stone, Mushoku Tensei, Life, Dragon Ball Super, Dragon Ball GT (+ Dragon Ball Z To-Do)
+- Documented the 17/10/2026 vault redesign: compact media pages (`Views/media-page.js`), no per-media CSS, path-based graph colour groups (ordering rule for *Dragon Ball …*), automatic Homepage cards
+- Added inputs: `Resources/Ingestion pending/` inbox and the To-Do list; post-run clean-up rule
+- Added category `personal` (Life) and its placeholder icon (🌱) in the Homepage `icons` map
+- Updated the used-colour list (MHA Vigilantes was missing) and the available colours
+- New rules 14–17: misspellings & lemma matches, context notes → the real expression, comparisons → Vocabulary Insights, no nested italics in sense labels, unclear input stays in the inbox

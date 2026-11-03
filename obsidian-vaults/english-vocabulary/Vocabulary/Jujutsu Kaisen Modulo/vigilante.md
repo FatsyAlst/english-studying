@@ -51,11 +51,12 @@ From Spanish "vigilante," meaning "watchman" or "guard," derived from Latin "vig
 > - Modern vigilantism is often viewed critically in developed nations with established legal systems
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Justiceiro, vigilante, justiceiro de rua
 
-| English | Portuguese |
-|---------|------------|
-| He became a vigilante. | Ele se tornou um justiceiro. |
-| Vigilante justice is illegal. | A justiça de rua é ilegal. |
-| The vigilante caught the criminal. | O justiceiro prendeu o criminoso. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Justiceiro, vigilante, justiceiro de rua
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He became a vigilante. | Ele se tornou um justiceiro. |
+> | Vigilante justice is illegal. | A justiça de rua é ilegal. |
+> | The vigilante caught the criminal. | O justiceiro prendeu o criminoso. |

@@ -54,11 +54,12 @@ From Old Norse *rif* 'rib, ridge'; related to German *Riff*. Originally meant a 
 > - Verb form "reef" = to reduce the area of a sail by folding.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Substantivo, marinho) Recife; banco; escólio | 2. (Substantivo, náutico) Pano de vela
 
-| English | Portuguese |
-|---------|------------|
-| The ship ran aground on the reef. | O navio encalhou no recife. |
-| Divers explored the coral reef. | Os mergulhadores exploraram o recife de coral. |
-| Let out a reef when the wind calms. | Solte um pano de vela quando o vento acalma. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, marinho) Recife; banco; escólio | 2. (Substantivo, náutico) Pano de vela
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The ship ran aground on the reef. | O navio encalhou no recife. |
+> | Divers explored the coral reef. | Os mergulhadores exploraram o recife de coral. |
+> | Let out a reef when the wind calms. | Solte um pano de vela quando o vento acalma. |

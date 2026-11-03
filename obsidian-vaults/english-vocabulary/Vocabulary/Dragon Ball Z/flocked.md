@@ -51,12 +51,13 @@ From "flock" (soft fibers), which comes from Old French "floc" from Latin "flocc
 > - Opposite of smooth or sleek
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Aveludado, com textura macia, revestido
 
-| English | Portuguese |
-|---------|------------|
-| flocked | aveludado/macio |
-| flocked fabric | tecido macio |
-| flocked texture | textura macia |
-| flocked surface | superfície macia |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Aveludado, com textura macia, revestido
+>
+> | English | Portuguese |
+> |---------|------------|
+> | flocked | aveludado/macio |
+> | flocked fabric | tecido macio |
+> | flocked texture | textura macia |
+> | flocked surface | superfície macia |

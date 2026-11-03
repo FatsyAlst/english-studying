@@ -59,10 +59,12 @@ Middle English (c.1300): *Lurken* 'to hide, lie hidden,' probably from Scandinav
 > - Synonyms: skulk (more furtive), prowl (animal-like).
 
 ---
-**Tradução:** Merodear, espreitar, rondar, esconder-se (secretly); emboscar, à espreita (ambush); espiar (online)
 
-| English | Portuguese |
-|---------|------------|
-| Why are you lurking around outside my house? | Por que você está merodeando ao redor da minha casa? |
-| A crocodile was lurking just below the surface. | Um crocodilo estava espreitando logo abaixo da superfície. |
-| Someone was lurking in the shadows. | Alguém estava à espreita nas sombras. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Merodear, espreitar, rondar, esconder-se (secretly); emboscar, à espreita (ambush); espiar (online)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Why are you lurking around outside my house? | Por que você está merodeando ao redor da minha casa? |
+> | A crocodile was lurking just below the surface. | Um crocodilo estava espreitando logo abaixo da superfície. |
+> | Someone was lurking in the shadows. | Alguém estava à espreita nas sombras. |

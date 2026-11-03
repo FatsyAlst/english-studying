@@ -63,13 +63,14 @@ From Old French *delicatesse*, from Latin *delicatus* meaning "giving oneself up
 > - The word conveys appreciation, care, and refinement across all senses
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** iguaria, delicadeza, refinamento
 
-| English | Portuguese |
-|---------|------------|
-| delicacy | iguaria |
-| culinary delicacy | iguaria culinária |
-| delicate | delicado |
-| delicately | delicadamente |
-| with delicacy | com delicadeza |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** iguaria, delicadeza, refinamento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | delicacy | iguaria |
+> | culinary delicacy | iguaria culinária |
+> | delicate | delicado |
+> | delicately | delicadamente |
+> | with delicacy | com delicadeza |

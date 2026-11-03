@@ -49,11 +49,12 @@ Probably from French *souiller* ("to soil, stain, make dirty"), from Old French 
 > - Compare with [[shady]] — both relate to moral questionability, but *sullied* implies something *was* clean and has been *made* dirty, while *shady* implies inherent suspicion.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** manchado, maculado, conspurcado (adjetivo); manchar, macular, denegrir (verbo)
 
-| English | Portuguese |
-|---------|------------|
-| His reputation was sullied by the scandal. | Sua reputação foi manchada pelo escândalo. |
-| By cheating, they sullied the good name of their country. | Ao trapacear, eles macularam o bom nome do seu país. |
-| She refused to have her name sullied. | Ela se recusou a ter seu nome denegrido. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** manchado, maculado, conspurcado (adjetivo); manchar, macular, denegrir (verbo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His reputation was sullied by the scandal. | Sua reputação foi manchada pelo escândalo. |
+> | By cheating, they sullied the good name of their country. | Ao trapacear, eles macularam o bom nome do seu país. |
+> | She refused to have her name sullied. | Ela se recusou a ter seu nome denegrido. |

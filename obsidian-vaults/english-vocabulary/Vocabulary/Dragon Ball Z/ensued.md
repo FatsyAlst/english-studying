@@ -34,10 +34,12 @@ Late Middle English: from Old French *ensuivre* ('follow close upon'), from Lati
 > - Often used in news/reports.
 
 ---
-**Tradução:** Seguir-se, resultar, decorrer, acontecer em seguida (especialmente como consequência)
 
-| English | Portuguese |
-|---------|------------|
-| An argument ensued. | Uma discussão se seguiu. |
-| The riot police swooped in and chaos ensued. | A polícia antidistúrbios interveio e o caos se seguiu. |
-| A scuffle ensued after the arrest. | Uma briga resultou/decorreu após a prisão. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Seguir-se, resultar, decorrer, acontecer em seguida (especialmente como consequência)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | An argument ensued. | Uma discussão se seguiu. |
+> | The riot police swooped in and chaos ensued. | A polícia antidistúrbios interveio e o caos se seguiu. |
+> | A scuffle ensued after the arrest. | Uma briga resultou/decorreu após a prisão. |

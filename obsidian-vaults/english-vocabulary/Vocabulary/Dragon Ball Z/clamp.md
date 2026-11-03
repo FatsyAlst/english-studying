@@ -64,12 +64,13 @@ From Middle Dutch "klampe" or similar Germanic sources. Related to "cramp" and "
 > - Phrasal verb "clamp down on" common in political/authority contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Grampo, prender, apertar
 
-| English | Portuguese |
-|---------|------------|
-| clamp (noun) | grampo/presilha |
-| clamp (verb) | prender/apertar |
-| clamp it | fica quieto/cala a boca |
-| clamp down | reprimir/controlar |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Grampo, prender, apertar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | clamp (noun) | grampo/presilha |
+> | clamp (verb) | prender/apertar |
+> | clamp it | fica quieto/cala a boca |
+> | clamp down | reprimir/controlar |

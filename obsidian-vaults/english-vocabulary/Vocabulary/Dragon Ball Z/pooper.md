@@ -70,9 +70,11 @@ Excrement; feces.
 > - 'Party pooper' is widely known and mildly negative/humorous.
 
 ---
-**Tradução:** 1. (vulgar: ânus) Cu / Bunda (referindo ao ânus) | 2. Estraga-prazeres / Chato de festa / Aguadeiro / Mata-vídeo | 3. Cocador (hum orístico, criança/animal que caca) | 4. Fracasso / Perdedor / Pessoa improdutiva
 
-| English | Portuguese |
-|---------|------------|
-| Don't be a party pooper and come dance with us! | Não seja estraga-prazeres e vem dançar com a gente! |
-| Jimmy's toilet training is finally over; he's becoming a good little pooper. | O treinamento de Jimmy no penico acabou; ele está virando um bom cocador. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (vulgar: ânus) Cu / Bunda (referindo ao ânus) | 2. Estraga-prazeres / Chato de festa / Aguadeiro / Mata-vídeo | 3. Cocador (hum orístico, criança/animal que caca) | 4. Fracasso / Perdedor / Pessoa improdutiva
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Don't be a party pooper and come dance with us! | Não seja estraga-prazeres e vem dançar com a gente! |
+> | Jimmy's toilet training is finally over; he's becoming a good little pooper. | O treinamento de Jimmy no penico acabou; ele está virando um bom cocador. |

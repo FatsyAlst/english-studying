@@ -61,12 +61,13 @@ From Middle English *schere*, probably from Old Norse *skærr* (pure, clear). Th
 > - Can be used as an adverb emphasizing adjectives: "sheer chaos," "sheer brilliance"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Puro (absoluto), transparente, íngreme
 
-| English | Portuguese |
-|---------|------------|
-| sheer determination | determinação pura |
-| sheer luck | pura sorte |
-| sheer fabric | tecido transparente |
-| sheer cliff | penhasco íngreme |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Puro (absoluto), transparente, íngreme
+>
+> | English | Portuguese |
+> |---------|------------|
+> | sheer determination | determinação pura |
+> | sheer luck | pura sorte |
+> | sheer fabric | tecido transparente |
+> | sheer cliff | penhasco íngreme |

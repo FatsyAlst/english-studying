@@ -49,10 +49,12 @@ Old English therscold, threscold; related to thresh (tread); possibly from thres
 > - Similar: brink, verge (more dramatic).
 
 ---
-**Tradução:** soleira (da porta), limiar, patamar, ponto limite
 
-| English | Portuguese |
-|---------|------------|
-| She stood hesitating on the threshold. | Ela ficou hesitante na soleira. |
-| He has a low boredom threshold. | Ele tem um limiar baixo de tédio. |
-| On the threshold of a new life. | No limiar de uma nova vida. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** soleira (da porta), limiar, patamar, ponto limite
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She stood hesitating on the threshold. | Ela ficou hesitante na soleira. |
+> | He has a low boredom threshold. | Ele tem um limiar baixo de tédio. |
+> | On the threshold of a new life. | No limiar de uma nova vida. |

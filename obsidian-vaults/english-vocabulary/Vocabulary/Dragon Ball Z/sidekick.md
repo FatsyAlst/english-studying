@@ -46,12 +46,13 @@ American slang, probably from *side* + *kick*. First appeared in late 19th centu
 > - Common in superhero narratives and adventure stories
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** companheiro de jornada, ajudante leal, parceiro de herói
 
-| English | Portuguese |
-|---------|------------|
-| sidekick | companheiro de jornada |
-| loyal sidekick | parceiro fiel |
-| faithful companion | companheiro leal |
-| assistant | assistente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** companheiro de jornada, ajudante leal, parceiro de herói
+>
+> | English | Portuguese |
+> |---------|------------|
+> | sidekick | companheiro de jornada |
+> | loyal sidekick | parceiro fiel |
+> | faithful companion | companheiro leal |
+> | assistant | assistente |

@@ -44,12 +44,13 @@ In a state of unconsciousness; knocked unconscious; asleep very deeply
 > - Often emphatic and dramatic in tone
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** desacordado, inconsciente, desmaiado
 
-| English | Portuguese |
-|---------|------------|
-| out cold | desacordado |
-| knocked out cold | desacordado por um golpe |
-| pass out cold | desmaiar |
-| go out cold | perder a consciência |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** desacordado, inconsciente, desmaiado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | out cold | desacordado |
+> | knocked out cold | desacordado por um golpe |
+> | pass out cold | desmaiar |
+> | go out cold | perder a consciência |

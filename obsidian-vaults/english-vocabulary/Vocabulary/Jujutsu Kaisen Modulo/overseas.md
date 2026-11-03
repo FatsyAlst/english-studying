@@ -49,10 +49,11 @@ Compound of *over* + *seas*, originally meaning literally "beyond the seas." Fir
 > - No hyphen: it's *overseas*, not *over-seas*.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** no exterior, no estrangeiro, ultramarino (adjetivo/advérbio)
 
-| English | Portuguese |
-|---------|------------|
-| She went overseas to study medicine. | Ela foi para o exterior estudar medicina. |
-| The company has a large overseas market. | A empresa tem um grande mercado no exterior. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** no exterior, no estrangeiro, ultramarino (adjetivo/advérbio)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She went overseas to study medicine. | Ela foi para o exterior estudar medicina. |
+> | The company has a large overseas market. | A empresa tem um grande mercado no exterior. |

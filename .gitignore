@@ -48,3 +48,8 @@ desktop.ini
 __pycache__/
 *.py[cod]
 *.so
+
+# Obsidian: per-device window layout and local backups (they change every session)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+.backups/

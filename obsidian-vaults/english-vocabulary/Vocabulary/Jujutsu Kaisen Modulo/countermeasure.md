@@ -41,10 +41,11 @@ Compound of *counter-* (from Latin *contra*, "against") + *measure* (from Latin 
 > - Compare with [[ward off]] — both involve defense, but *countermeasure* is more systematic and formal.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** contramedida, medida de contenção, medida defensiva
 
-| English | Portuguese |
-|---------|------------|
-| The government implemented countermeasures against cyberattacks. | O governo implementou contramedidas contra ciberataques. |
-| Electronic countermeasures can jam enemy radar. | Contramedidas eletrônicas podem bloquear o radar inimigo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** contramedida, medida de contenção, medida defensiva
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The government implemented countermeasures against cyberattacks. | O governo implementou contramedidas contra ciberataques. |
+> | Electronic countermeasures can jam enemy radar. | Contramedidas eletrônicas podem bloquear o radar inimigo. |

@@ -57,13 +57,14 @@ From "awe" + "-ful" (suffix meaning full of). Originally meant "full of awe" or 
 > - Slightly informal but widely accepted in all contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** horrível; terrível; péssimo; ruim; desagradável
 
-| English | Portuguese |
-|---------|------------|
-| awful weather | tempo horrível |
-| awful idea | ideia péssima |
-| feel awful | sentir-se horrível |
-| awful taste | gosto horrível |
-| awfully sorry | muito desculpas |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** horrível; terrível; péssimo; ruim; desagradável
+>
+> | English | Portuguese |
+> |---------|------------|
+> | awful weather | tempo horrível |
+> | awful idea | ideia péssima |
+> | feel awful | sentir-se horrível |
+> | awful taste | gosto horrível |
+> | awfully sorry | muito desculpas |

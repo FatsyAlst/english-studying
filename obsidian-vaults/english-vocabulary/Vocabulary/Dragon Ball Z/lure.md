@@ -54,13 +54,14 @@ From Middle English "luren," possibly from Old French "loure." Originally meant 
 > - Frequently used in contexts of traps or deception
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** atrair, seduzir; atrair para fora
 
-| English | Portuguese |
-|---------|------------|
-| lure | atrair/seduzir |
-| lure into | atrair para |
-| lure out | atrair para fora |
-| lure away | atrair para longe |
-| lured into a trap | atraído para uma armadilha |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** atrair, seduzir; atrair para fora
+>
+> | English | Portuguese |
+> |---------|------------|
+> | lure | atrair/seduzir |
+> | lure into | atrair para |
+> | lure out | atrair para fora |
+> | lure away | atrair para longe |
+> | lured into a trap | atraído para uma armadilha |

@@ -60,11 +60,13 @@ From Middle English *querel*, from Old French *querele/querelle* 'complaint, dis
 > - British spelling: quarrelled/quarrelling; American: quarreled/quarreling.
 
 ---
-**Tradução:** 1. (Substantivo) Briga; discussão; desentendimento; querela (mais formal) | 2. Motivo de queixa; causa de discordância | 3. (Verbo) Brigar; discutir; desentender-se
 
-| English | Portuguese |
-|---------|------------|
-| They had a bitter quarrel over money and they haven't spoken since. | Eles tiveram uma briga feia por causa de dinheiro e não se falaram mais desde então. |
-| I have no quarrel with your plan. | Não tenho nenhuma queixa nem objeção ao seu plano. |
-| The children quarrel all the time. | As crianças brigam o tempo todo. |
-| She and her husband are always quarreling about money. | Ela e seu marido estão sempre brigando por dinheiro. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo) Briga; discussão; desentendimento; querela (mais formal) | 2. Motivo de queixa; causa de discordância | 3. (Verbo) Brigar; discutir; desentender-se
+>
+> | English | Portuguese |
+> |---------|------------|
+> | They had a bitter quarrel over money and they haven't spoken since. | Eles tiveram uma briga feia por causa de dinheiro e não se falaram mais desde então. |
+> | I have no quarrel with your plan. | Não tenho nenhuma queixa nem objeção ao seu plano. |
+> | The children quarrel all the time. | As crianças brigam o tempo todo. |
+> | She and her husband are always quarreling about money. | Ela e seu marido estão sempre brigando por dinheiro. |

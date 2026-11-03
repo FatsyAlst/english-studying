@@ -71,12 +71,13 @@ From Old Norse *stöll* 'position, place'; German *Stall*. Originally meant a pl
 > - Adjective form: "stalled" describes the state of being stopped.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Verbo, parar) Parar; estalar; emperrar | 2. (Verbo, motor) Morrer (motor); falhar | 3. (Verbo, adiar) Adiar; ganhar tempo; procrastinar | 4. (Substantivo, espaço) Baia; barraca; compartimento
 
-| English | Portuguese |
-|---------|------------|
-| The negotiation stalled over budget disagreements. | A negociação empacou sobre desacordos orçamentários. |
-| The car stalled at the traffic light. | O carro morreu no semáforo. |
-| He was stalling for time. | Ele estava ganhando tempo. |
-| The horse was led into a stall. | O cavalo foi levado para a baia. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, parar) Parar; estalar; emperrar | 2. (Verbo, motor) Morrer (motor); falhar | 3. (Verbo, adiar) Adiar; ganhar tempo; procrastinar | 4. (Substantivo, espaço) Baia; barraca; compartimento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The negotiation stalled over budget disagreements. | A negociação empacou sobre desacordos orçamentários. |
+> | The car stalled at the traffic light. | O carro morreu no semáforo. |
+> | He was stalling for time. | Ele estava ganhando tempo. |
+> | The horse was led into a stall. | O cavalo foi levado para a baia. |

@@ -49,13 +49,14 @@ From Old French *commencement*, from *commencer* (to begin), from Vulgar Latin *
 > - Often appears in formal or literary writing
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Início, começo, cerimônia de formatura
 
-| English | Portuguese |
-|---------|------------|
-| commencement | início, começo |
-| commencement ceremony | cerimônia de formatura |
-| at commencement | no início, no começo |
-| commencement of battle | o início da batalha |
-| mark commencement | marcar o início |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Início, começo, cerimônia de formatura
+>
+> | English | Portuguese |
+> |---------|------------|
+> | commencement | início, começo |
+> | commencement ceremony | cerimônia de formatura |
+> | at commencement | no início, no começo |
+> | commencement of battle | o início da batalha |
+> | mark commencement | marcar o início |

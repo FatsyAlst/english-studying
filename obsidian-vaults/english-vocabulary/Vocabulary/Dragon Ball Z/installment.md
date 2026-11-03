@@ -56,13 +56,14 @@ From Old French "estaler" meaning "to fix" or "to set up," from Proto-Germanic *
 > - Sense 2 is increasingly common with digital media and streaming
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** parcela, episódio, capítulo
 
-| English | Portuguese |
-|---------|------------|
-| installment | parcela |
-| monthly installment | parcela mensal |
-| installment plan | plano de parcelamento |
-| next installment | próximo episódio |
-| final installment | episódio final |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** parcela, episódio, capítulo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | installment | parcela |
+> | monthly installment | parcela mensal |
+> | installment plan | plano de parcelamento |
+> | next installment | próximo episódio |
+> | final installment | episódio final |

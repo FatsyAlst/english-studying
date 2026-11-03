@@ -47,13 +47,14 @@ From verb "relinquish," derived from Latin *relinquere* (to leave behind), compo
 > - Carries weight and formality in its tone
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Renúncia, abandono, desistência
 
-| English | Portuguese |
-|---------|------------|
-| relinquishment | renúncia, abandono |
-| relinquishment of power | renúncia do poder |
-| relinquishment of rights | abdicação de direitos |
-| voluntary relinquishment | renúncia voluntária |
-| forced relinquishment | renúncia forçada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Renúncia, abandono, desistência
+>
+> | English | Portuguese |
+> |---------|------------|
+> | relinquishment | renúncia, abandono |
+> | relinquishment of power | renúncia do poder |
+> | relinquishment of rights | abdicação de direitos |
+> | voluntary relinquishment | renúncia voluntária |
+> | forced relinquishment | renúncia forçada |

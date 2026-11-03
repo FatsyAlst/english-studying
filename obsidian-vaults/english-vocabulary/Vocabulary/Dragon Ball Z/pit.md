@@ -59,12 +59,13 @@ From Old English *pytt*, from Latin *puteus* (well, pit). Related to Germanic la
 > - Can be used metaphorically for difficult situations
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Poço, arena, caroço (de fruta)
 
-| English | Portuguese |
-|---|---|
-| pit (hole) | poço, cova |
-| combat pit | arena de combate |
-| fruit pit | caroço, sementes |
-| pit against | pôr em competição |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Poço, arena, caroço (de fruta)
+>
+> | English | Portuguese |
+> |---|---|
+> | pit (hole) | poço, cova |
+> | combat pit | arena de combate |
+> | fruit pit | caroço, sementes |
+> | pit against | pôr em competição |

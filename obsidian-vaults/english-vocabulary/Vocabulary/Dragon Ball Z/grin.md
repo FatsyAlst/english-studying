@@ -45,10 +45,12 @@ Middle English grennen 'bare the teeth in pain, anger, or mirth,' from Old Engli
 > - Similar: smile, beam, smirk (but grin is wider).
 
 ---
-**Tradução:** Verb: sorrir (largamente), mostrar os dentes (ao sorrir). Noun: sorriso largo, sorriso de orelha a orelha. Grin and bear it: aguentar firme, sorrir e aguentar.
 
-| English | Portuguese |
-|---------|------------|
-| They grinned with delight when they heard our news. | Eles sorriram de orelha a orelha de alegria ao ouvir nossa notícia. |
-| Stop grinning and tell me what happened! | Pare de sorrir e me diga o que aconteceu! |
-| I have to grin and bear it. | Tenho que aguentar firme. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Verb: sorrir (largamente), mostrar os dentes (ao sorrir). Noun: sorriso largo, sorriso de orelha a orelha. Grin and bear it: aguentar firme, sorrir e aguentar.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | They grinned with delight when they heard our news. | Eles sorriram de orelha a orelha de alegria ao ouvir nossa notícia. |
+> | Stop grinning and tell me what happened! | Pare de sorrir e me diga o que aconteceu! |
+> | I have to grin and bear it. | Tenho que aguentar firme. |

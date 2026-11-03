@@ -1,0 +1,7 @@
+# Transcripts are BBC (and other publishers') copyright, so PDFs stay out of git.
+# Audio and video stay out too: they're big, and the link property points to them online.
+.old-project/
+*.pdf
+*.mp3
+*.m4a
+*.mp4

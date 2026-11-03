@@ -53,12 +53,13 @@ Origin uncertain; possibly from the name "Jack Dandy" or from Scots "dandy" mean
 > - The adjective form is less common today
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** dândi, elegante, ótimo
 
-| English | Portuguese |
-|---------|------------|
-| dandy (person) | dândi |
-| dandy (excellent) | ótimo, excelente |
-| just dandy | muito bem |
-| a bit of a dandy | um pouco elegante demais |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** dândi, elegante, ótimo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | dandy (person) | dândi |
+> | dandy (excellent) | ótimo, excelente |
+> | just dandy | muito bem |
+> | a bit of a dandy | um pouco elegante demais |

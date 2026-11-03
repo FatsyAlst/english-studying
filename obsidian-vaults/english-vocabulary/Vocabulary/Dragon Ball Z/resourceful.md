@@ -48,12 +48,13 @@ From "resource" + "-ful" (suffix meaning full of). Resource comes from Old Frenc
 > - Common in character descriptions in action/adventure stories
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** engenhoso; inventivo; criativo; prático; capaz
 
-| English | Portuguese |
-|---------|------------|
-| resourceful person | pessoa engenhosa/inventiva |
-| resourceful approach | abordagem prática e criativa |
-| resourceful thinking | pensamento inventivo |
-| resourcefulness | engenhosidade; criatividade |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** engenhoso; inventivo; criativo; prático; capaz
+>
+> | English | Portuguese |
+> |---------|------------|
+> | resourceful person | pessoa engenhosa/inventiva |
+> | resourceful approach | abordagem prática e criativa |
+> | resourceful thinking | pensamento inventivo |
+> | resourcefulness | engenhosidade; criatividade |

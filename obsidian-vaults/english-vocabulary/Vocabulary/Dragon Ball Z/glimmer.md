@@ -44,11 +44,12 @@ From Middle English *glimeren*, possibly related to Old English *glim* (brightne
 > - More poetic/literary than "shine" or "gleam"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** brilho fraco; vislumbre; lampejo
 
-| English | Portuguese |
-|---------|------------|
-| a glimmer of hope | um vislumbre de esperança |
-| to glimmer | brilhar fracamente; cintilador |
-| glimmering light | luz cintilante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** brilho fraco; vislumbre; lampejo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | a glimmer of hope | um vislumbre de esperança |
+> | to glimmer | brilhar fracamente; cintilador |
+> | glimmering light | luz cintilante |

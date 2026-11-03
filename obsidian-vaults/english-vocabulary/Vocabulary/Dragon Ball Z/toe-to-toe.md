@@ -46,13 +46,14 @@ Literal image of two boxers standing very close together, with their toes nearly
 > - Often suggests equal competition
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** cara a cara, frente a frente, em confronto direto
 
-| English | Portuguese |
-|---------|------------|
-| toe-to-toe | cara a cara |
-| go toe-to-toe | enfrentar cara a cara |
-| stand toe-to-toe | ficar cara a cara |
-| toe-to-toe battle | luta cara a cara |
-| fight toe-to-toe | lutar frente a frente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** cara a cara, frente a frente, em confronto direto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | toe-to-toe | cara a cara |
+> | go toe-to-toe | enfrentar cara a cara |
+> | stand toe-to-toe | ficar cara a cara |
+> | toe-to-toe battle | luta cara a cara |
+> | fight toe-to-toe | lutar frente a frente |

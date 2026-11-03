@@ -51,10 +51,12 @@ From Old English *bræsen* 'made of brass,' from *bræs* 'brass' + suffix *-en* 
 > - The verb 'brazen it out' is idiomatic and fairly common in formal/informal contexts.
 
 ---
-**Tradução:** Descarado, cara-de-pau, sem vergonha, ousado de forma chocante (behaviour); de latão, de bronze (literal); enfrentar com ousadia, segurar a pose, bancar o cara-de-pau (verb)
 
-| English | Portuguese |
-|---------|------------|
-| They showed a brazen disregard for the law. | Eles demonstraram um desprezo descarado/cara-de-pau pela lei. |
-| His brazen admission that he had lied shocked everyone. | A sua admissão descarada de que havia mentido chocou a todos. |
-| Despite the bad publicity, the candidate decided to brazen it out. | Apesar da má publicidade, o candidato decidiu enfrentar a situação com cara-de-pau / segurar a pose. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Descarado, cara-de-pau, sem vergonha, ousado de forma chocante (behaviour); de latão, de bronze (literal); enfrentar com ousadia, segurar a pose, bancar o cara-de-pau (verb)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | They showed a brazen disregard for the law. | Eles demonstraram um desprezo descarado/cara-de-pau pela lei. |
+> | His brazen admission that he had lied shocked everyone. | A sua admissão descarada de que havia mentido chocou a todos. |
+> | Despite the bad publicity, the candidate decided to brazen it out. | Apesar da má publicidade, o candidato decidiu enfrentar a situação com cara-de-pau / segurar a pose. |

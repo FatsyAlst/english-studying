@@ -45,10 +45,11 @@ From "be-" (prefix making verbs) + "little." First used in the 18th century to m
 > - Related to but distinct from "demean" (to lower in dignity) and "disparage" (to speak negatively of).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Diminuir / Menosprezar / Rebaixar
 
-| English | Portuguese |
-|---------|------------|
-| Don't belittle my achievements. | Não menospreze minhas conquistas. |
-| He constantly belittles his rivals. | Ele continuamente diminui seus rivais. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Diminuir / Menosprezar / Rebaixar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Don't belittle my achievements. | Não menospreze minhas conquistas. |
+> | He constantly belittles his rivals. | Ele continuamente diminui seus rivais. |

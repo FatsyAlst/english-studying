@@ -48,11 +48,12 @@ Earliest known use in the Old English period (pre-1150). Originally meant a fire
 > - Common fire-prone regions: California, Oregon, Australia, Siberia.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** incêndio florestal, incêndio descontrolado, queimada
 
-| English | Portuguese |
-|---------|------------|
-| The recent wildfires were made worse by strong winds. | Os incêndios florestais recentes foram agravados pelos ventos fortes. |
-| Wildfires destroyed thousands of acres across Oregon. | Incêndios florestais destruíram milhares de acres em Oregon. |
-| The news spread like wildfire. | A notícia se espalhou como fogo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** incêndio florestal, incêndio descontrolado, queimada
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The recent wildfires were made worse by strong winds. | Os incêndios florestais recentes foram agravados pelos ventos fortes. |
+> | Wildfires destroyed thousands of acres across Oregon. | Incêndios florestais destruíram milhares de acres em Oregon. |
+> | The news spread like wildfire. | A notícia se espalhou como fogo. |

@@ -49,10 +49,12 @@ Middle English: from Old French fiers 'fierce, brave, proud', from Latin ferus '
 > - Synonyms: ferocious, savage, violent.
 
 ---
-**Tradução:** feroz, furioso, violento, intenso, encarniçado
 
-| English | Portuguese |
-|---------|------------|
-| A fierce dog guarded the house. | Um cão feroz guardava a casa. |
-| Despite fierce opposition, the bill passed. | Apesar da oposição encarniçada, o projeto foi aprovado. |
-| The fierce heat of the flames. | O intenso calor das chamas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** feroz, furioso, violento, intenso, encarniçado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A fierce dog guarded the house. | Um cão feroz guardava a casa. |
+> | Despite fierce opposition, the bill passed. | Apesar da oposição encarniçada, o projeto foi aprovado. |
+> | The fierce heat of the flames. | O intenso calor das chamas. |

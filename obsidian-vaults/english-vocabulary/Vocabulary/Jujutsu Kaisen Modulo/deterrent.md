@@ -56,11 +56,12 @@ Earliest known use 1820s (from Bentham, 1829). From Latin *deterrentem*, present
 > - Antonym: **incentive**, encouragement.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** impedimento, elemento dissuasor, fator de dissuasão (substantivo); dissuasório/a (adjetivo)
 
-| English | Portuguese |
-|---------|------------|
-| His punishment will act as a deterrent to others. | Sua punição servirá como dissuasão para outros. |
-| They installed a security camera as a deterrent. | Instalaram uma câmera de segurança como impedimento. |
-| The ads had a deterrent effect on youth smoking. | Os anúncios tiveram um efeito dissuasório no tabagismo juvenil. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** impedimento, elemento dissuasor, fator de dissuasão (substantivo); dissuasório/a (adjetivo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His punishment will act as a deterrent to others. | Sua punição servirá como dissuasão para outros. |
+> | They installed a security camera as a deterrent. | Instalaram uma câmera de segurança como impedimento. |
+> | The ads had a deterrent effect on youth smoking. | Os anúncios tiveram um efeito dissuasório no tabagismo juvenil. |

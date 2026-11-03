@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "accentColor": "#ff7070",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "library"
+  ]
+}

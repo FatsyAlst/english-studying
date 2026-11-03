@@ -48,10 +48,11 @@ From Old Norse *litmosi*, literally "dye-moss," from *litr* ("colour, dye") + *m
 > - Related to [[gauge]] — both involve measurement and testing, but *litmus test* is more about a decisive pass/fail determination while *gauge* is about measuring degree or extent.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** tornassol (química); teste decisivo (figurativo)
 
-| English | Portuguese |
-|---------|------------|
-| The litmus paper turned red in the acidic solution. | O papel de tornassol ficou vermelho na solução ácida. |
-| The election was a litmus test of the government's popularity. | A eleição foi um teste decisivo da popularidade do governo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** tornassol (química); teste decisivo (figurativo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The litmus paper turned red in the acidic solution. | O papel de tornassol ficou vermelho na solução ácida. |
+> | The election was a litmus test of the government's popularity. | A eleição foi um teste decisivo da popularidade do governo. |

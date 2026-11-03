@@ -53,10 +53,12 @@ Early 13th century, 'personally known,' from past participle of *acquaint* (v.),
 > - Often used in professional or written contexts.
 
 ---
-**Tradução:** Familiarizado (com), conhecedor (de), conhecido (de/por alguém), ter contato com
 
-| English | Portuguese |
-|---------|------------|
-| The students are already acquainted with the work of Shakespeare. | Os alunos já estão familiarizados com a obra de Shakespeare. |
-| We got acquainted at the conference. | Nós nos conhecemos / ficamos conhecidos um do outro na conferência. |
-| I am not personally acquainted with her. | Eu não a conheço pessoalmente. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Familiarizado (com), conhecedor (de), conhecido (de/por alguém), ter contato com
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The students are already acquainted with the work of Shakespeare. | Os alunos já estão familiarizados com a obra de Shakespeare. |
+> | We got acquainted at the conference. | Nós nos conhecemos / ficamos conhecidos um do outro na conferência. |
+> | I am not personally acquainted with her. | Eu não a conheço pessoalmente. |

@@ -44,10 +44,11 @@ From "sneak" (of unknown origin, possibly from Old English "snican" meaning to c
 > - Common in action/thriller contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Furtivamente / Secretamente / Sorrateiramente
 
-| English | Portuguese |
-|---------|------------|
-| He sneakily escaped through the back door. | Ele escapou furtivamente pela porta dos fundos. |
-| She sneakily observed him from a distance. | Ela o observou sorrateiramente de longe. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Furtivamente / Secretamente / Sorrateiramente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He sneakily escaped through the back door. | Ele escapou furtivamente pela porta dos fundos. |
+> | She sneakily observed him from a distance. | Ela o observou sorrateiramente de longe. |

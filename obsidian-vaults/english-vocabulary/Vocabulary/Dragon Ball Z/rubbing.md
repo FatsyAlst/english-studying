@@ -57,14 +57,15 @@ From Old English *rubbian*, of uncertain origin, possibly from Old Saxon or Midd
 > - Can suggest massage, irritation, or friction
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Esfregando, friccionando, massageando
 
-| English | Portuguese |
-|---------|------------|
-| rubbing | esfregando, friccionando |
-| rubbing his shoulder | esfregando seu ombro |
-| rubbing hands together | esfregando as mãos |
-| rubbing salt in the wound | esfregando sal na ferida |
-| gentle rubbing | fricção gentil |
-| rubbing away | apagando esfregando |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Esfregando, friccionando, massageando
+>
+> | English | Portuguese |
+> |---------|------------|
+> | rubbing | esfregando, friccionando |
+> | rubbing his shoulder | esfregando seu ombro |
+> | rubbing hands together | esfregando as mãos |
+> | rubbing salt in the wound | esfregando sal na ferida |
+> | gentle rubbing | fricção gentil |
+> | rubbing away | apagando esfregando |

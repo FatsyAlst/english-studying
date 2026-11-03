@@ -49,13 +49,14 @@ Compound of "where" (Old English *hwær*) + "abouts" (from "about," Old English 
 > - Often conveys secrecy or mystery
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Paradeiro, localização, lugar, paradeiro desconhecido
 
-| English | Portuguese |
-|---------|------------|
-| whereabouts | paradeiro, localização |
-| whereabouts unknown | paradeiro desconhecido |
-| current whereabouts | paradeiro atual |
-| reveal whereabouts | revelar o paradeiro |
-| track whereabouts | rastrear o paradeiro |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Paradeiro, localização, lugar, paradeiro desconhecido
+>
+> | English | Portuguese |
+> |---------|------------|
+> | whereabouts | paradeiro, localização |
+> | whereabouts unknown | paradeiro desconhecido |
+> | current whereabouts | paradeiro atual |
+> | reveal whereabouts | revelar o paradeiro |
+> | track whereabouts | rastrear o paradeiro |

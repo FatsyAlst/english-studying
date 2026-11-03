@@ -49,12 +49,13 @@ From the adjective "meek," possibly from Old Norse *mjúkr* (tender, soft, gentl
 > - Commonly appears in religious or character description contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Mansamente, humildemente, docilmente, submissamente
 
-| English | Portuguese |
-|---------|------------|
-| meekly accepted | aceito mansamente |
-| meekly followed | seguiu docilmente |
-| meekly apologized | pediu desculpas mansamente |
-| meek disposition | temperamento dócil |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Mansamente, humildemente, docilmente, submissamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | meekly accepted | aceito mansamente |
+> | meekly followed | seguiu docilmente |
+> | meekly apologized | pediu desculpas mansamente |
+> | meek disposition | temperamento dócil |

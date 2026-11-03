@@ -48,11 +48,12 @@ From Latin *latent-* 'lying hidden,' present participle of *latere* 'to lie hidd
 > - Can apply to skills, powers, threats, desires, and conditions.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Latente; oculto; dorminhoco; potencial
 
-| English | Portuguese |
-|---------|------------|
-| Latent talent waiting to be discovered. | Talento latente aguardando ser descoberto. |
-| The virus remained latent in his body for months. | O vírus permaneceu latente em seu corpo por meses. |
-| She had a latent fear of heights. | Ela tinha um medo latente de alturas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Latente; oculto; dorminhoco; potencial
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Latent talent waiting to be discovered. | Talento latente aguardando ser descoberto. |
+> | The virus remained latent in his body for months. | O vírus permaneceu latente em seu corpo por meses. |
+> | She had a latent fear of heights. | Ela tinha um medo latente de alturas. |

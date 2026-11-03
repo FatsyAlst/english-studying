@@ -66,13 +66,14 @@ The payment sense comes from Old English "toll" from Latin "telonium" (tax colle
 > - 📺 Also seen in [[Dragon Ball Z]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** pedágio, custo, tributo; soar (sino)
 
-| English | Portuguese |
-|---------|------------|
-| toll fee | taxa de pedágio |
-| death toll | número de mortos |
-| take a toll | deixar um custo |
-| toll road | estrada com pedágio |
-| ring a toll | tocar um sino |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** pedágio, custo, tributo; soar (sino)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | toll fee | taxa de pedágio |
+> | death toll | número de mortos |
+> | take a toll | deixar um custo |
+> | toll road | estrada com pedágio |
+> | ring a toll | tocar um sino |

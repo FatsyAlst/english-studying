@@ -56,10 +56,12 @@ Late Middle English: Medieval Latin canopeum 'ceremonial canopy,' from Latin con
 > - Often used metaphorically for any overhead covering.
 
 ---
-**Tradução:** Bed: dossel, cortina de cama. Trees: copa, dossel (florestal). Roof: toldo, cobertura, marquise.
 
-| English | Portuguese |
-|---------|------------|
-| A four-poster bed with a canopy. | Uma cama de dossel (com cortinas). |
-| The canopy of a rainforest. | A copa/dossel de uma floresta tropical. |
-| The entrance canopy. | O toldo / cobertura da entrada. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Bed: dossel, cortina de cama. Trees: copa, dossel (florestal). Roof: toldo, cobertura, marquise.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A four-poster bed with a canopy. | Uma cama de dossel (com cortinas). |
+> | The canopy of a rainforest. | A copa/dossel de uma floresta tropical. |
+> | The entrance canopy. | O toldo / cobertura da entrada. |

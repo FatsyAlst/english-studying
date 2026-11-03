@@ -61,11 +61,12 @@ From **"shade"** + **"-y"** suffix. The figurative meaning comes from the idea o
 > - Context determines which meaning is intended.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** sombreado/a (literal); suspeito/a, duvidoso/a, desonesto/a (informal); evasivo/a, estranho/a (gíria)
 
-| English | Portuguese |
-|---------|------------|
-| Let's sit in that shady spot under the tree. | Vamos sentar naquele lugar sombreado sob a árvore. |
-| He seems like a pretty shady character. | Ele parece um sujeito bem suspeito. |
-| Why are you being so shady? | Por que você está sendo tão evasivo/estranho? |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** sombreado/a (literal); suspeito/a, duvidoso/a, desonesto/a (informal); evasivo/a, estranho/a (gíria)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Let's sit in that shady spot under the tree. | Vamos sentar naquele lugar sombreado sob a árvore. |
+> | He seems like a pretty shady character. | Ele parece um sujeito bem suspeito. |
+> | Why are you being so shady? | Por que você está sendo tão evasivo/estranho? |

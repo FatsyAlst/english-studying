@@ -46,12 +46,13 @@ Compound noun from *eye* (organ of sight) + *hole* (opening). Both components ha
 > - Often used in contexts involving armor or protective gear
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Aberturas para os olhos, furos para os olhos
 
-| English | Portuguese |
-|---|---|
-| eyehole | abertura para os olhos |
-| eyeholes | buracos para os olhos |
-| eyehole of a mask | abertura dos olhos da máscara |
-| narrow eyehole | abertura estreita para os olhos |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Aberturas para os olhos, furos para os olhos
+>
+> | English | Portuguese |
+> |---|---|
+> | eyehole | abertura para os olhos |
+> | eyeholes | buracos para os olhos |
+> | eyehole of a mask | abertura dos olhos da máscara |
+> | narrow eyehole | abertura estreita para os olhos |

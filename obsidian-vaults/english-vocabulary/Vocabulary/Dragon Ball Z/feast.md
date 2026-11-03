@@ -53,12 +53,13 @@ From Old French *feste* (festival), from Latin *festa* (festivals, holidays). Re
 > - Can be used metaphorically for any abundant experience
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Festim, banquete
 
-| English | Portuguese |
-|---|---|
-| feast | festim, banquete |
-| to feast | banquetear, festejar |
-| grand feast | grande banquete |
-| feast on | deleitar-se comendo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Festim, banquete
+>
+> | English | Portuguese |
+> |---|---|
+> | feast | festim, banquete |
+> | to feast | banquetear, festejar |
+> | grand feast | grande banquete |
+> | feast on | deleitar-se comendo |

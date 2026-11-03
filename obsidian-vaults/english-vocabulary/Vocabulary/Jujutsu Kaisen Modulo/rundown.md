@@ -65,13 +65,14 @@ From the phrasal verb "run down" (to trace/pursue to conclusion, or to deteriora
 > - "Give someone a rundown" is a frequent phrase in professional settings
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Resumo, visão geral, explanação; em ruínas, deteriorado
 
-| English | Portuguese |
-|---------|------------|
-| give me a rundown | me dê um resumo |
-| quick rundown | resumo rápido |
-| detailed rundown | explicação detalhada |
-| rundown building | prédio em ruínas |
-| rundown condition | condição deteriorada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Resumo, visão geral, explanação; em ruínas, deteriorado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | give me a rundown | me dê um resumo |
+> | quick rundown | resumo rápido |
+> | detailed rundown | explicação detalhada |
+> | rundown building | prédio em ruínas |
+> | rundown condition | condição deteriorada |

@@ -46,13 +46,14 @@ From Old English "wræstlung," from "wræstlian" (to wrestle), possibly related 
 > - Used literally for the sport and figuratively for struggling
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** luta livre, wrestling
 
-| English | Portuguese |
-|---------|------------|
-| wrestling | luta livre |
-| wrestling match | luta de wrestling |
-| professional wrestling | wrestling profissional |
-| wrestling move | movimento de wrestling |
-| wrestler | lutador |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** luta livre, wrestling
+>
+> | English | Portuguese |
+> |---------|------------|
+> | wrestling | luta livre |
+> | wrestling match | luta de wrestling |
+> | professional wrestling | wrestling profissional |
+> | wrestling move | movimento de wrestling |
+> | wrestler | lutador |

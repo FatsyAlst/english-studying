@@ -52,14 +52,15 @@ From Old English *dēman* (to judge, doom), related to Old Saxon *dōmian* and O
 > - Suggests some authority or basis for the assessment
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Considerado, julgado, tido como, reputado
 
-| English | Portuguese |
-|---------|------------|
-| deemed | considerado, julgado |
-| deemed worthy | considerado digno |
-| deemed necessary | considerado necessário |
-| deemed acceptable | considerado aceitável |
-| deemed appropriate | considerado apropriado |
-| be deemed | ser considerado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Considerado, julgado, tido como, reputado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | deemed | considerado, julgado |
+> | deemed worthy | considerado digno |
+> | deemed necessary | considerado necessário |
+> | deemed acceptable | considerado aceitável |
+> | deemed appropriate | considerado apropriado |
+> | be deemed | ser considerado |

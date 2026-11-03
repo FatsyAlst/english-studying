@@ -60,10 +60,12 @@ From 'suck' (deceive like nursing fool); 19th c. U.S. slang for gullible person,
 > - Informal NAmE. Synonyms: dupe/con (verb), mark/patsy (noun).
 
 ---
-**Tradução:** Otário / Enganar
 
-| English | Portuguese |
-|---------|------------|
-| What a sucker—he fell for the scam completely. | Que otário—ele caiu no golpe completamente. |
-| They suckered him into investing in the fake scheme. | Eles o enganaram para investir no esquema falso. |
-| He felt suckered after the bad deal. | Ele se sentiu enganado depois do mau negócio. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Otário / Enganar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | What a sucker—he fell for the scam completely. | Que otário—ele caiu no golpe completamente. |
+> | They suckered him into investing in the fake scheme. | Eles o enganaram para investir no esquema falso. |
+> | He felt suckered after the bad deal. | Ele se sentiu enganado depois do mau negócio. |

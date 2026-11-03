@@ -40,10 +40,12 @@ Late Middle English: From the noun *slug* (lazy person) or verb *slug* (see slug
 > - Often temporary (e.g., after eating).
 
 ---
-**Tradução:** Lento, vagaroso, lerdo, preguiçoso, lento (economy); apático, letárgico
 
-| English | Portuguese |
-|---------|------------|
-| He felt very heavy and sluggish after the meal. | Ele se sentiu muito pesado e lerdo/preguiçoso após a refeição. |
-| Sales were sluggish. | As vendas estavam lentas/vagarosas. |
-| The sluggish black waters of the canal. | As águas pretas lentas/vagarosas do canal. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Lento, vagaroso, lerdo, preguiçoso, lento (economy); apático, letárgico
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He felt very heavy and sluggish after the meal. | Ele se sentiu muito pesado e lerdo/preguiçoso após a refeição. |
+> | Sales were sluggish. | As vendas estavam lentas/vagarosas. |
+> | The sluggish black waters of the canal. | As águas pretas lentas/vagarosas do canal. |

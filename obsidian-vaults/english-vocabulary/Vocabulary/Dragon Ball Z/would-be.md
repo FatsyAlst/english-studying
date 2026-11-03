@@ -44,12 +44,13 @@ Compound of "would" (past tense of will, expressing intention) and "be," used as
 > - Indicates aspiration that hasn't been realized
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** aspirante, pretenso, que quer ser
 
-| English | Portuguese |
-|---------|------------|
-| would-be hero | herói pretenso, aspirante a herói |
-| would-be champion | candidato a campeão |
-| would-be artist | artista em potencial |
-| would-be king | aspirante a rei |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** aspirante, pretenso, que quer ser
+>
+> | English | Portuguese |
+> |---------|------------|
+> | would-be hero | herói pretenso, aspirante a herói |
+> | would-be champion | candidato a campeão |
+> | would-be artist | artista em potencial |
+> | would-be king | aspirante a rei |

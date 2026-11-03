@@ -65,12 +65,13 @@ From Old English "stede" (place, position), related to "stead" (in the capacity 
 > - Often used in technical contexts to describe consistent measurements or rates
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** firme, estável, constante, contínuo
 
-| English | Portuguese |
-|---------|------------|
-| steady hand | mão firme |
-| steady pace | ritmo constante |
-| steady growth | crescimento contínuo |
-| keep it steady | mantenha firme |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** firme, estável, constante, contínuo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | steady hand | mão firme |
+> | steady pace | ritmo constante |
+> | steady growth | crescimento contínuo |
+> | keep it steady | mantenha firme |

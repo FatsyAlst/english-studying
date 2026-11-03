@@ -47,11 +47,12 @@ Origin uncertain; possibly from Old Norse *skreppa* 'to wrinkle' or Middle Dutch
 > - Past tense: shriveled (US) or shrivelled (UK).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Murchar; enrugar; secar; apodrecer
 
-| English | Portuguese |
-|---------|------------|
-| The fruit shriveled in the hot sun. | A fruta murhou sob o sol quente. |
-| The flowers shriveled after the frost. | As flores murcharam após a geada. |
-| His confidence shriveled under criticism. | Sua confiança desapareceu sob crítica. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Murchar; enrugar; secar; apodrecer
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The fruit shriveled in the hot sun. | A fruta murhou sob o sol quente. |
+> | The flowers shriveled after the frost. | As flores murcharam após a geada. |
+> | His confidence shriveled under criticism. | Sua confiança desapareceu sob crítica. |

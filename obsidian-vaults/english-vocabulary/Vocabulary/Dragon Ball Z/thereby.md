@@ -35,10 +35,12 @@ Used to introduce the result of the action or situation mentioned; by that means
 > - Avoid in casual speech; use 'so' instead.
 
 ---
-**Tradução:** Assim, desse modo, com isso, por isso, por meio disso.
 
-| English | Portuguese |
-|---------|------------|
-| Regular exercise strengthens the heart, thereby reducing the risk of heart attack. | Exercício regular fortalece o coração, assim reduzindo o risco de ataque cardíaco. |
-| They failed to agree, thereby throwing 250 people out of work. | Eles falharam em concordar, com isso deixando 250 pessoas sem emprego. |
-| She completed her homework early, thereby allowing time to play. | Ela terminou o dever cedo, desse modo permitindo tempo para brincar. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Assim, desse modo, com isso, por isso, por meio disso.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Regular exercise strengthens the heart, thereby reducing the risk of heart attack. | Exercício regular fortalece o coração, assim reduzindo o risco de ataque cardíaco. |
+> | They failed to agree, thereby throwing 250 people out of work. | Eles falharam em concordar, com isso deixando 250 pessoas sem emprego. |
+> | She completed her homework early, thereby allowing time to play. | Ela terminou o dever cedo, desse modo permitindo tempo para brincar. |

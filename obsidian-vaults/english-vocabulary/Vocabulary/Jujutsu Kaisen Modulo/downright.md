@@ -54,11 +54,12 @@ From Middle English *down* + *right*; originally meant "directly downward" or "b
 > - Usually used with negative or strong descriptors.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Absolutamente; completamente; totalmente; categoricamente
 
-| English | Portuguese |
-|---------|------------|
-| That was downright dangerous. | Isso foi absolutamente perigoso. |
-| The food was downright awful. | A comida era completamente horrível. |
-| His behavior was downright rude. | Seu comportamento foi categoricamente rude. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Absolutamente; completamente; totalmente; categoricamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | That was downright dangerous. | Isso foi absolutamente perigoso. |
+> | The food was downright awful. | A comida era completamente horrível. |
+> | His behavior was downright rude. | Seu comportamento foi categoricamente rude. |

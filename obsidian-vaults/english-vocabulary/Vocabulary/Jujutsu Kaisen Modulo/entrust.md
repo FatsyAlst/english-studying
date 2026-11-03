@@ -40,11 +40,12 @@ Earliest known use in the Middle English period (1150–1500). From prefix *en-*
 > - Almost always positive connotation — implies trust, confidence, and respect.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** confiar, encarregar, incumbir, delegar, entregar aos cuidados de
 
-| English | Portuguese |
-|---------|------------|
-| She was entrusted with organizing the reception. | Ela foi encarregada de organizar a recepção. |
-| He didn't look like someone you should entrust your luggage to. | Ele não parecia alguém a quem confiar sua bagagem. |
-| If a friend entrusts you with a secret, she trusts you not to tell. | Se uma amiga confia um segredo a você, ela confia que você não contará. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** confiar, encarregar, incumbir, delegar, entregar aos cuidados de
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She was entrusted with organizing the reception. | Ela foi encarregada de organizar a recepção. |
+> | He didn't look like someone you should entrust your luggage to. | Ele não parecia alguém a quem confiar sua bagagem. |
+> | If a friend entrusts you with a secret, she trusts you not to tell. | Se uma amiga confia um segredo a você, ela confia que você não contará. |

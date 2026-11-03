@@ -57,11 +57,12 @@ From the phrasal verb "lay back" (to recline). The past participle form was turn
 > - Laid-back ≠ lazy. A laid-back person is calm under pressure, not necessarily avoiding work.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** tranquilo(a), de boa, relaxado(a); slightly negative: relaxado demais
 
-| English | Portuguese |
-|---------|------------|
-| He's really laid-back and never seems to get stressed. | Ele é realmente tranquilo, nunca fica estressado com nada. |
-| The café has a laid-back atmosphere. | O café tem uma atmosfera tranquila. |
-| His laid-back approach to deadlines can be frustrating. | A postura muito de boa dele com prazos pode ser frustrante. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** tranquilo(a), de boa, relaxado(a); slightly negative: relaxado demais
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He's really laid-back and never seems to get stressed. | Ele é realmente tranquilo, nunca fica estressado com nada. |
+> | The café has a laid-back atmosphere. | O café tem uma atmosfera tranquila. |
+> | His laid-back approach to deadlines can be frustrating. | A postura muito de boa dele com prazos pode ser frustrante. |

@@ -43,13 +43,15 @@ From Old English **"weardian"** meaning *to guard, protect, watch over*. Related
 > - **Separable phrasal verb:** you can say "ward off danger" or "ward it off."
 > - Most commonly used in health and medical contexts (warding off illness).
 > - Don't confuse **"ward off"** (prevent/repel) with **"warn off"** (tell someone to stay away).
+> - ⚠️ Similar meaning in [[fend]] (from [[Dragon Ball Z]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** afastar, repelir, evitar, prevenir, proteger-se de
 
-| English | Portuguese |
-|---------|------------|
-| I take vitamin C to ward off colds. | Eu tomo vitamina C para prevenir resfriados. |
-| She put up her hands to ward him off. | Ela levantou as mãos para afastá-lo. |
-| Exercise can help ward off diseases. | O exercício pode ajudar a prevenir doenças. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** afastar, repelir, evitar, prevenir, proteger-se de
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I take vitamin C to ward off colds. | Eu tomo vitamina C para prevenir resfriados. |
+> | She put up her hands to ward him off. | Ela levantou as mãos para afastá-lo. |
+> | Exercise can help ward off diseases. | O exercício pode ajudar a prevenir doenças. |

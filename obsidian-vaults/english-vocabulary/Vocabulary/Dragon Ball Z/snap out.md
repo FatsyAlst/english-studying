@@ -47,13 +47,14 @@ From "snap" (to break suddenly, to make a quick sound) + "out" (away from). The 
 > - Very fitting for anime scenes with mind control or confusion
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** acordar, voltar à realidade, sair do transe
 
-| English | Portuguese |
-|---------|------------|
-| snap out of it | volta à realidade |
-| snap out of a daze | sair da alucinação |
-| snap out of a trance | sair do transe |
-| wake up | acordar |
-| regain consciousness | recuperar a consciência |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** acordar, voltar à realidade, sair do transe
+>
+> | English | Portuguese |
+> |---------|------------|
+> | snap out of it | volta à realidade |
+> | snap out of a daze | sair da alucinação |
+> | snap out of a trance | sair do transe |
+> | wake up | acordar |
+> | regain consciousness | recuperar a consciência |

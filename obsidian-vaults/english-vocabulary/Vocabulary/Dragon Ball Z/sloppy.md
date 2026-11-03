@@ -64,12 +64,15 @@ First recorded in English in the 18th century with the sense 'muddy, wet,' comin
 > [!tip] Notes
 > - Calling someone's work 'sloppy' is quite negative; it suggests carelessness, not just small mistakes.
 > - For people's appearance, 'sloppy' means untidy, not stylish; it can sound critical or informal.
+> - ⚠️ Similar meaning in [[botched]] (from [[Dragon Ball Super]])
 
 ---
-**Tradução:** 1. Descuidado / Relaxado / Malfeito / Desleixado | 2. Desleixado / Desarrumado / Largado | 3. Meloso / Piegas / Exageradamente romântico | 4. Aguado / Muito mole / Lamacento
 
-| English | Portuguese |
-|---------|------------|
-| Your essay is a bit sloppy; you need to check the grammar and punctuation. | Seu texto está um pouco descuidado; você precisa revisar a gramática e a pontuação. |
-| He went to the meeting in a sloppy T-shirt and old jeans. | Ele foi para a reunião com uma camiseta toda largada e um jeans velho. |
-| Don't make the mixture too sloppy, or the cake won't bake properly. | Não deixe a massa muito aguada, senão o bolo não vai assar direito. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. Descuidado / Relaxado / Malfeito / Desleixado | 2. Desleixado / Desarrumado / Largado | 3. Meloso / Piegas / Exageradamente romântico | 4. Aguado / Muito mole / Lamacento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Your essay is a bit sloppy; you need to check the grammar and punctuation. | Seu texto está um pouco descuidado; você precisa revisar a gramática e a pontuação. |
+> | He went to the meeting in a sloppy T-shirt and old jeans. | Ele foi para a reunião com uma camiseta toda largada e um jeans velho. |
+> | Don't make the mixture too sloppy, or the cake won't bake properly. | Não deixe a massa muito aguada, senão o bolo não vai assar direito. |

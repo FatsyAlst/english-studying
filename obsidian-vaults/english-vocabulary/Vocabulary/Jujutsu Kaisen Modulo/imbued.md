@@ -43,10 +43,11 @@ From Latin "imbuere" meaning "to soak in, steep, or stain." The prefix "im-" mea
 > - More literary/formal than "filled with" or "full of."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Imbuído / Infundido / Pleno De
 
-| English | Portuguese |
-|---------|------------|
-| The weapon was imbued with ancient magic. | A arma foi infundida com magia antiga. |
-| Her words were imbued with wisdom. | Suas palavras estavam plenas de sabedoria. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Imbuído / Infundido / Pleno De
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The weapon was imbued with ancient magic. | A arma foi infundida com magia antiga. |
+> | Her words were imbued with wisdom. | Suas palavras estavam plenas de sabedoria. |

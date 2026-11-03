@@ -45,13 +45,15 @@ From Latin *lenient-* 'soothing, softening,' from *lenire* 'to soften.' Entered 
 > - Related adjective: lenient (more commonly used than the noun).
 > - Often indicates showing mercy or flexibility beyond strict rules.
 > - Can be positive (compassion) or negative (excessive permissiveness), depending on context.
+> - 📺 Also encountered in [[Dragon Ball Super]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Lenidade; clemência; compaixão; indulgência
 
-| English | Portuguese |
-|---------|------------|
-| The judge showed leniency toward the first-time offender. | O juiz mostrou clemência com o infrator de primeira vez. |
-| The teacher's leniency with late submissions surprised everyone. | A indulgência da professora com prazos atrasados surpreendeu a todos. |
-| His parents' leniency allowed him too much freedom. | A permissividade dos pais lhe permitiu liberdade demais. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Lenidade; clemência; compaixão; indulgência
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The judge showed leniency toward the first-time offender. | O juiz mostrou clemência com o infrator de primeira vez. |
+> | The teacher's leniency with late submissions surprised everyone. | A indulgência da professora com prazos atrasados surpreendeu a todos. |
+> | His parents' leniency allowed him too much freedom. | A permissividade dos pais lhe permitiu liberdade demais. |

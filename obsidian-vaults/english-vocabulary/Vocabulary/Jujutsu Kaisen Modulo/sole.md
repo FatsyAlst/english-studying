@@ -43,10 +43,11 @@ From Old English "sol," from Latin "solus" meaning "alone, solitary." Related to
 > - Often used in formal/legal contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Único / Exclusivo / Somente
 
-| English | Portuguese |
-|---------|------------|
-| The sole purpose is to help. | O único propósito é ajudar. |
-| She is the sole owner of the company. | Ela é a única proprietária da empresa. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Único / Exclusivo / Somente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The sole purpose is to help. | O único propósito é ajudar. |
+> | She is the sole owner of the company. | Ela é a única proprietária da empresa. |

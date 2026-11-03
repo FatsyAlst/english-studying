@@ -49,11 +49,12 @@ From Middle English "lingeren," possibly from Old Norse "leikinn" meaning "weary
 > - Frequently used with "on" (focus on) or "over" (take time with)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Demorar, permanecer, ficar, resistir
 
-| English | Portuguese |
-|---------|------------|
-| The guests lingered after dinner. | Os convidados demoraram depois do jantar. |
-| The pain lingered for weeks. | A dor persistiu por semanas. |
-| He lingered over the decision. | Ele demorou na decisão. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Demorar, permanecer, ficar, resistir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The guests lingered after dinner. | Os convidados demoraram depois do jantar. |
+> | The pain lingered for weeks. | A dor persistiu por semanas. |
+> | He lingered over the decision. | Ele demorou na decisão. |

@@ -62,12 +62,13 @@ From French *buste*, from Italian *busto*, from Latin *bustum* meaning "tomb" or
 > - Often used with particles: bust through, bust down, bust out
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** quebrar, estátua, busto, batida policial
 
-| English | Portuguese |
-|---------|------------|
-| to bust | quebrar, arrombar |
-| bust (sculpture) | busto |
-| drug bust | operação antidroga |
-| to bust through | atravessar à força |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** quebrar, estátua, busto, batida policial
+>
+> | English | Portuguese |
+> |---------|------------|
+> | to bust | quebrar, arrombar |
+> | bust (sculpture) | busto |
+> | drug bust | operação antidroga |
+> | to bust through | atravessar à força |

@@ -55,12 +55,13 @@ From Middle English *scrichen*, possibly imitative in origin. Related to Old Nor
 > - Common in describing emergency sounds (brakes, tires) or frightened reactions
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** guincho; estrido; gritar; fazer rangido
 
-| English | Portuguese |
-|---------|------------|
-| to screech | guinchar; fazer estrido; chiar |
-| screech (sound) | guincho; estrido; rangido |
-| screech to a halt | parar com estrido/rangido |
-| screech in terror | gritar/guinchar de terror |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** guincho; estrido; gritar; fazer rangido
+>
+> | English | Portuguese |
+> |---------|------------|
+> | to screech | guinchar; fazer estrido; chiar |
+> | screech (sound) | guincho; estrido; rangido |
+> | screech to a halt | parar com estrido/rangido |
+> | screech in terror | gritar/guinchar de terror |

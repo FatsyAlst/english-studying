@@ -54,12 +54,13 @@ To intervene or take action in a situation, especially to help resolve a problem
 > - "Step in for someone" means to substitute or replace temporarily
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** entrar, intervir, tomar medidas
 
-| English | Portuguese |
-|---------|------------|
-| step in to help | intervir para ajudar |
-| step in as manager | assumir como gerente |
-> - step in for someone | substituir alguém |
-| stepped in to resolve | interveio para resolver |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** entrar, intervir, tomar medidas
+>
+> | English | Portuguese |
+> |---------|------------|
+> | step in to help | intervir para ajudar |
+> | step in as manager | assumir como gerente |
+> > - step in for someone | substituir alguém |
+> | stepped in to resolve | interveio para resolver |

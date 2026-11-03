@@ -61,14 +61,16 @@ From imitative origin, likely echoing the sound of sharp barking. The term devel
 > - Can be used as verb or noun depending on context
 > - Sense 2 is somewhat derogatory when applied to human speech
 > - Common in informal speech and colloquial writing
+> - ⚠️ Similar meaning in [[babbling]] (from [[Dragon Ball GT]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Latido agudo, latir, tagarelar, ralação contínua
 
-| English | Portuguese |
-|---------|------------|
-| yapping dog | cachorro latindo agudamente |
-| stop yapping | pare de tagarelar |
-| yapping about complaints | ralando em reclamações |
-| constant yapping | latido incessante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Latido agudo, latir, tagarelar, ralação contínua
+>
+> | English | Portuguese |
+> |---------|------------|
+> | yapping dog | cachorro latindo agudamente |
+> | stop yapping | pare de tagarelar |
+> | yapping about complaints | ralando em reclamações |
+> | constant yapping | latido incessante |

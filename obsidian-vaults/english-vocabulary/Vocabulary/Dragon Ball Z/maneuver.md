@@ -63,12 +63,14 @@ To control or influence a situation cleverly, often manipulatively.
 > - Often implies skillful or calculated action.
 
 ---
-**Tradução:** 1. (Substantivo, movimiento) Manobra; movimento planejado | 2. (Substantivo, estrategia) Manobra; estratagema | 3. (Verbo, mover) Manobrar; movimentar | 4. (Verbo, influenciar) Manobrar; trampejar
 
-| English | Portuguese |
-|---------|------------|
-| The general ordered a complex maneuver to outflank the enemy. | O general ordenou uma manobra complexa para flanquear o inimigo. |
-| She maneuvered the car through narrow streets. | Ela manobrou o carro pelas ruas estreitas. |
-| Through legal maneuvers, he avoided paying the fine. | Através de manobras legais, ele evitou pagar a multa. |
-| The pilot performed an emergency maneuver to avoid the collision. | O piloto realizou uma manobra de emergência para evitar a colisão. |
-| She skillfully maneuvered the conversation. | Ela habilmente manobrou a conversa. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, movimiento) Manobra; movimento planejado | 2. (Substantivo, estrategia) Manobra; estratagema | 3. (Verbo, mover) Manobrar; movimentar | 4. (Verbo, influenciar) Manobrar; trampejar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The general ordered a complex maneuver to outflank the enemy. | O general ordenou uma manobra complexa para flanquear o inimigo. |
+> | She maneuvered the car through narrow streets. | Ela manobrou o carro pelas ruas estreitas. |
+> | Through legal maneuvers, he avoided paying the fine. | Através de manobras legais, ele evitou pagar a multa. |
+> | The pilot performed an emergency maneuver to avoid the collision. | O piloto realizou uma manobra de emergência para evitar a colisão. |
+> | She skillfully maneuvered the conversation. | Ela habilmente manobrou a conversa. |

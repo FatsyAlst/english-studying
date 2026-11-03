@@ -44,11 +44,12 @@ From an obsolete term "guiser," probably altered from Scots "guiser" meaning "pe
 > - Suggests the person is old and possibly odd or eccentric
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Velho excêntrico, idoso estranho
 
-| English | Portuguese |
-|---------|------------|
-| That old geezer is always complaining. | Aquele velho excêntrico sempre está reclamando. |
-| He acts like an old geezer. | Ele age como um idoso estranho. |
-| The old geezer told me stories. | O velho excêntrico me contou histórias. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Velho excêntrico, idoso estranho
+>
+> | English | Portuguese |
+> |---------|------------|
+> | That old geezer is always complaining. | Aquele velho excêntrico sempre está reclamando. |
+> | He acts like an old geezer. | Ele age como um idoso estranho. |
+> | The old geezer told me stories. | O velho excêntrico me contou histórias. |

@@ -47,12 +47,13 @@ Origin unclear, possibly from Irish *smidiríní* meaning "small fragments." Fir
 > - Conveys extreme violence or force
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** em pedaços, em cacos, completamente destruído
 
-| English | Portuguese |
-|---------|------------|
-| smithereens | cacos, pedaços |
-| blown to smithereens | reduzido a pó/cacos |
-| smashed to smithereens | despedaçado |
-| reduced to fragments | reduzido a fragmentos |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** em pedaços, em cacos, completamente destruído
+>
+> | English | Portuguese |
+> |---------|------------|
+> | smithereens | cacos, pedaços |
+> | blown to smithereens | reduzido a pó/cacos |
+> | smashed to smithereens | despedaçado |
+> | reduced to fragments | reduzido a fragmentos |

@@ -57,13 +57,14 @@ From "face" (from Latin "facies" meaning appearance/face) + "off" (away/apart). 
 > - Suggests mutual engagement and challenge
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** confronto, enfrentamento, duelo
 
-| English | Portuguese |
-|---------|------------|
-| face-off | confronto |
-| face off | enfrentar |
-| face off against | se enfrentar contra |
-| epic face-off | confronto épico |
-| championship face-off | duelo do campeonato |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** confronto, enfrentamento, duelo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | face-off | confronto |
+> | face off | enfrentar |
+> | face off against | se enfrentar contra |
+> | epic face-off | confronto épico |
+> | championship face-off | duelo do campeonato |

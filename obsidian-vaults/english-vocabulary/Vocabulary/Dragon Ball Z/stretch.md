@@ -66,12 +66,13 @@ From Old English "streccan" and Germanic origins, related to Old Saxon "streccan
 > - Can function as both verb and noun
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Esticar, alongar, extensão
 
-| English | Portuguese |
-|---------|------------|
-| stretch | esticar/alongar |
-| stretch out | se estender |
-| stretch muscles | alongar músculos |
-| a long stretch | uma longa extensão |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Esticar, alongar, extensão
+>
+> | English | Portuguese |
+> |---------|------------|
+> | stretch | esticar/alongar |
+> | stretch out | se estender |
+> | stretch muscles | alongar músculos |
+> | a long stretch | uma longa extensão |

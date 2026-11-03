@@ -45,10 +45,12 @@ From 16th c. British 'buckle to/down' ('prepare like buckling armor'); U.S. form
 > - Suggests determination and effort after a period of inactivity or distraction.
 
 ---
-**Tradução:** Meter a mão na massa / Botar a cara no trabalho / Se concentrar e trabalhar duro com determinação
 
-| English | Portuguese |
-|---------|------------|
-| It's time to buckle down and study for the exams. | É hora de se concentrar e estudar para as provas. |
-| After vacation, I need to buckle down on my project deadlines. | Depois das férias, preciso botar a cara no trabalho para cumprir os prazos dos projetos. |
-| The team buckled down to finish the report before the meeting. | A equipe se concentrou e trabalhou duro para terminar o relatório antes da reunião. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Meter a mão na massa / Botar a cara no trabalho / Se concentrar e trabalhar duro com determinação
+>
+> | English | Portuguese |
+> |---------|------------|
+> | It's time to buckle down and study for the exams. | É hora de se concentrar e estudar para as provas. |
+> | After vacation, I need to buckle down on my project deadlines. | Depois das férias, preciso botar a cara no trabalho para cumprir os prazos dos projetos. |
+> | The team buckled down to finish the report before the meeting. | A equipe se concentrou e trabalhou duro para terminar o relatório antes da reunião. |

@@ -48,12 +48,13 @@ From Old English *strung*, past participle of *string*. The metaphorical sense o
 > - Can describe physical tension or emotional stress
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Tenso, estressado, dependente
 
-| English | Portuguese |
-|---|---|
-| strung (tense) | tenso, estressado |
-| strung up | pendurado, tenso |
-| strung out | esgotado, viciado |
-| emotionally strung | emocionalmente tenso |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Tenso, estressado, dependente
+>
+> | English | Portuguese |
+> |---|---|
+> | strung (tense) | tenso, estressado |
+> | strung up | pendurado, tenso |
+> | strung out | esgotado, viciado |
+> | emotionally strung | emocionalmente tenso |

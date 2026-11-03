@@ -45,12 +45,13 @@ Origin uncertain, possibly from Irish surname (Patrick Houlihan, Hooligan being 
 > - Associated with violence, vandalism, and disruptive behavior
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** vândalo; marginal; delinquente; baderneiro
 
-| English | Portuguese |
-|---------|------------|
-| hooligan | vândalo; baderneiro |
-| hooligan behavior | comportamento delinquente |
-| group of hooligans | bando de vândalos |
-| hooliganism | vandalismo; baderna |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** vândalo; marginal; delinquente; baderneiro
+>
+> | English | Portuguese |
+> |---------|------------|
+> | hooligan | vândalo; baderneiro |
+> | hooligan behavior | comportamento delinquente |
+> | group of hooligans | bando de vândalos |
+> | hooliganism | vandalismo; baderna |

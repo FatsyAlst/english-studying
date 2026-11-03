@@ -37,18 +37,19 @@ From Middle English *striven*, from Old French *estriver* ("to compete, quarrel"
 ---
 ## 💡 Usage Notes
 > [!tip] Notes
-> - More formal and determined than "try" — implies great exertion against difficulty with persistent effort.
+> - More formal and determined than "[[try]]" — implies great exertion against difficulty with persistent effort.
 > - **Irregular past tense:** "strove" (traditional/literary) or "strived" (modern). Both are correct.
 > - **Past participle:** "striven" (traditional) or "strived" (modern).
 > - Common prepositions: strive **for** (noun), strive **to** (verb), strive **toward** (goal).
 > - Positive connotation — suggests admirable, virtuous effort.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** esforçar-se, empenhar-se, lutar, batalhar, dedicar-se intensamente
 
-| English | Portuguese |
-|---------|------------|
-| We must all strive to do better. | Todos nós devemos nos esforçar para fazer melhor. |
-| She always strives for perfection. | Ela sempre se esforça pela perfeição. |
-| He strives hard to keep himself very fit. | Ele se esforça muito para se manter em boa forma. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** esforçar-se, empenhar-se, lutar, batalhar, dedicar-se intensamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | We must all strive to do better. | Todos nós devemos nos esforçar para fazer melhor. |
+> | She always strives for perfection. | Ela sempre se esforça pela perfeição. |
+> | He strives hard to keep himself very fit. | Ele se esforça muito para se manter em boa forma. |

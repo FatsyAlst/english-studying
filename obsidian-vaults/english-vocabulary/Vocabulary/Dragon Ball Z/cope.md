@@ -51,14 +51,15 @@ From Old French *couper* (to cut, strike), from Latin *colpus* (blow, strike). T
 > - Can be positive (successfully coping) or negative (unable to cope)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Lidar, enfrentar, superar, lidar com
 
-| English | Portuguese |
-|---------|------------|
-| cope | lidar, enfrentar |
-| cope with | lidar com, enfrentar |
-| cope with difficulty | enfrentar dificuldade |
-| unable to cope | incapaz de lidar |
-| manage to cope | conseguir lidar |
-| cope with stress | lidar com o estresse |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Lidar, enfrentar, superar, lidar com
+>
+> | English | Portuguese |
+> |---------|------------|
+> | cope | lidar, enfrentar |
+> | cope with | lidar com, enfrentar |
+> | cope with difficulty | enfrentar dificuldade |
+> | unable to cope | incapaz de lidar |
+> | manage to cope | conseguir lidar |
+> | cope with stress | lidar com o estresse |

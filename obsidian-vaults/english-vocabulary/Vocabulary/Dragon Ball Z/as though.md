@@ -45,11 +45,12 @@ Used to introduce a comparison or to suggest something that is not actually true
 > - Common in descriptive and narrative writing.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** como se, como se estivesse
 
-| English | Portuguese |
-|---------|------------|
-| He ran as though his life depended on it. | Ele correu como se sua vida dependesse disso. |
-| She looked at him as though he were a stranger. | Ela o olhou como se fosse um estranho. |
-| It feels as though summer will never come. | Parece como se o verão nunca chegasse. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** como se, como se estivesse
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He ran as though his life depended on it. | Ele correu como se sua vida dependesse disso. |
+> | She looked at him as though he were a stranger. | Ela o olhou como se fosse um estranho. |
+> | It feels as though summer will never come. | Parece como se o verão nunca chegasse. |

@@ -63,12 +63,13 @@ From Old French *plain* (flat, clear), from Latin *planus* (flat, even, clear). 
 > - Slightly formal register, more deliberate than "simply" in many contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Claramente, francamente, simplesmente, sem adornos
 
-| English | Portuguese |
-|---------|------------|
-| plainly spoken | falado claramente |
-| to put it plainly | falando francamente |
-| plainly visible | claramente visível |
-| plainly furnished | mobilado simples |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Claramente, francamente, simplesmente, sem adornos
+>
+> | English | Portuguese |
+> |---------|------------|
+> | plainly spoken | falado claramente |
+> | to put it plainly | falando francamente |
+> | plainly visible | claramente visível |
+> | plainly furnished | mobilado simples |

@@ -65,12 +65,13 @@ From Old English *onweard* (toward, forward), from *on* (on) + *weard* (turned t
 > - Can be used metaphorically for any progression, not just movement
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Para frente, adiante, para a frente, em progresso
 
-| English | Portuguese |
-|---------|------------|
-| march onward | marchar para frente |
-| from that point onward | a partir daquele ponto em diante |
-| push onward | avançar, prosseguir |
-| onward journey | jornada para adiante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Para frente, adiante, para a frente, em progresso
+>
+> | English | Portuguese |
+> |---------|------------|
+> | march onward | marchar para frente |
+> | from that point onward | a partir daquele ponto em diante |
+> | push onward | avançar, prosseguir |
+> | onward journey | jornada para adiante |

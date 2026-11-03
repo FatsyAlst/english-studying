@@ -49,11 +49,12 @@ From Old Norse *leaka* 'to leak' (verb) + "-age" (suffix forming nouns indicatin
 > - Often used in problem-solving contexts: detect, prevent, fix leakage.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Vazamento; escape; transbordamento; perda de informação
 
-| English | Portuguese |
-|---------|------------|
-| The water leakage from the pipe caused damage. | O vazamento de água do cano causou danos. |
-| Gas leakage was detected in the building. | O vazamento de gás foi detectado no prédio. |
-| Information leakage compromised the project security. | O vazamento de informações comprometeu a segurança do projeto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Vazamento; escape; transbordamento; perda de informação
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The water leakage from the pipe caused damage. | O vazamento de água do cano causou danos. |
+> | Gas leakage was detected in the building. | O vazamento de gás foi detectado no prédio. |
+> | Information leakage compromised the project security. | O vazamento de informações comprometeu a segurança do projeto. |

@@ -51,13 +51,14 @@ Short for "promenade," from French "promenade" meaning "a walk" or "a place for 
 > - Fitting for teenage slice-of-life scenes in anime
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** baile de formatura, festa de dança
 
-| English | Portuguese |
-|---------|------------|
-| prom | baile de formatura |
-| prom date | acompanhante do baile |
-| prom dress | vestido de baile |
-| prom king | rei do baile |
-| prom queen | rainha do baile |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** baile de formatura, festa de dança
+>
+> | English | Portuguese |
+> |---------|------------|
+> | prom | baile de formatura |
+> | prom date | acompanhante do baile |
+> | prom dress | vestido de baile |
+> | prom king | rei do baile |
+> | prom queen | rainha do baile |

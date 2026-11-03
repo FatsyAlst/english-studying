@@ -64,10 +64,12 @@ Old English grippa (verb), gripe 'grasp, clutch' (noun), gripa 'handful'; relate
 > - *Get to grips with*: deal with difficultly.
 
 ---
-**Tradução:** apego, aperto, preensão, controle, domínio, agarrar, segurar firme, prender (atenção)
 
-| English | Portuguese |
-|---------|------------|
-| She kept a tight grip on the rope. | Ela manteve um aperto firme na corda. |
-| The story gripped me from start to finish. | A história me prendeu do início ao fim. |
-| Terrorists have the country in their grip. | Terroristas têm o país sob seu controle. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** apego, aperto, preensão, controle, domínio, agarrar, segurar firme, prender (atenção)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She kept a tight grip on the rope. | Ela manteve um aperto firme na corda. |
+> | The story gripped me from start to finish. | A história me prendeu do início ao fim. |
+> | Terrorists have the country in their grip. | Terroristas têm o país sob seu controle. |

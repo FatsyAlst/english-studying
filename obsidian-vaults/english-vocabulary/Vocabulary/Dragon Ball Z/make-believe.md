@@ -46,13 +46,14 @@ Compound of "make" and "believe," literally "to make oneself believe." Became st
 > - Similar to "pretend"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** fingimento, imaginação, faz-de-conta
 
-| English | Portuguese |
-|---------|------------|
-| make-believe | faz-de-conta |
-| pure make-believe | puro faz-de-conta |
-| world of make-believe | mundo de fantasia |
-| make-believe story | história de faz-de-conta |
-| make-believe enemy | inimigo imaginário |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** fingimento, imaginação, faz-de-conta
+>
+> | English | Portuguese |
+> |---------|------------|
+> | make-believe | faz-de-conta |
+> | pure make-believe | puro faz-de-conta |
+> | world of make-believe | mundo de fantasia |
+> | make-believe story | história de faz-de-conta |
+> | make-believe enemy | inimigo imaginário |

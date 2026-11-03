@@ -88,11 +88,12 @@ From Old French **"breche"** meaning a break, gap, or opening.
 > - In everyday speech, "break the rules" is more common than "breach the rules."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** violação, quebra (contrato/confiança), falha/vazamento de segurança, brecha (física), violar/descumprir
 
-| English | Portuguese |
-|---------|------------|
-| The firm is suing for breach of contract. | A empresa está processando por quebra de contrato. |
-| The data breach exposed thousands of customers' details. | A violação de dados expôs dados pessoais de milhares de clientes. |
-| The explosion caused a breach in the castle walls. | A explosão causou uma brecha nas muralhas do castelo. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** violação, quebra (contrato/confiança), falha/vazamento de segurança, brecha (física), violar/descumprir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The firm is suing for breach of contract. | A empresa está processando por quebra de contrato. |
+> | The data breach exposed thousands of customers' details. | A violação de dados expôs dados pessoais de milhares de clientes. |
+> | The explosion caused a breach in the castle walls. | A explosão causou uma brecha nas muralhas do castelo. |

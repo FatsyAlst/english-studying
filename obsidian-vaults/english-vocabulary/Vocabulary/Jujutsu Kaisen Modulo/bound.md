@@ -79,12 +79,13 @@ Old English *byndan* 'to tie, bind'; Proto-Germanic *bundanan*. "Bound" as in ju
 > - Past tense: bound (same as present for jumping sense).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Verbo, pular) Pular; saltar; brincar | 2. (Verbo, limitar) Limitar; delimitar; confinar | 3. (Adjetivo, preso) Preso; amarrado; obrigado | 4. (Substantivo, limite) Limite; confim; fronteira
 
-| English | Portuguese |
-|---------|------------|
-| The deer bounded across the field. | O cervo pulou pelo campo. |
-| The property is bounded by a fence. | A propriedade é delimitada por uma cerca. |
-| She felt bound by duty. | Ela se sentia obrigada pelo dever. |
-| Keep within bounds. | Mantenha-se dentro dos limites. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, pular) Pular; saltar; brincar | 2. (Verbo, limitar) Limitar; delimitar; confinar | 3. (Adjetivo, preso) Preso; amarrado; obrigado | 4. (Substantivo, limite) Limite; confim; fronteira
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The deer bounded across the field. | O cervo pulou pelo campo. |
+> | The property is bounded by a fence. | A propriedade é delimitada por uma cerca. |
+> | She felt bound by duty. | Ela se sentia obrigada pelo dever. |
+> | Keep within bounds. | Mantenha-se dentro dos limites. |

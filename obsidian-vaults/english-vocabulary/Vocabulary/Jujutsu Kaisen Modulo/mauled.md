@@ -54,12 +54,13 @@ From Old French "maul" or "mall", possibly from Latin "malleus" (hammer), or fro
 > - Often used in news reports and dramatic narratives
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** atacar, despedaçar, maltratar, criticar duramente
 
-| English | Portuguese |
-|---------|------------|
-| mauled by a bear | atacado por um urso |
-| get mauled | ser atacado |
-| mauled by critics | criticado duramente |
-| badly mauled | severamente ferido |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** atacar, despedaçar, maltratar, criticar duramente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | mauled by a bear | atacado por um urso |
+> | get mauled | ser atacado |
+> | mauled by critics | criticado duramente |
+> | badly mauled | severamente ferido |

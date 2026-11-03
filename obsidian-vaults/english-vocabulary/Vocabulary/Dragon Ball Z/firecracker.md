@@ -46,13 +46,14 @@ Compound of "fire" and "cracker." Originally referred to a type of exploding fir
 > - Common in American English
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** pequena bomba, pessoa animada/energética
 
-| English | Portuguese |
-|---------|------------|
-| firecracker | pequena bomba |
-| real firecracker | pessoa muito animada |
-| little firecracker | pequeno foguete |
-| spicy firecracker | pessoa ardente |
-| explosive personality | personalidade explosiva |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** pequena bomba, pessoa animada/energética
+>
+> | English | Portuguese |
+> |---------|------------|
+> | firecracker | pequena bomba |
+> | real firecracker | pessoa muito animada |
+> | little firecracker | pequeno foguete |
+> | spicy firecracker | pessoa ardente |
+> | explosive personality | personalidade explosiva |

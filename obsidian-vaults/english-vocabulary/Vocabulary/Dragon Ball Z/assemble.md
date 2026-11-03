@@ -48,12 +48,14 @@ Early 14th century from Old French *assembler* 'come together, join,' from Latin
 > - 'Assembly' is the noun form; 'assembler' refers to a person or machine that assembles.
 
 ---
-**Tradução:** 1. (Pessoas/coisas) Reunir; congregar; juntar; se reunir | 2. (Partes) Montar; ensamblar; construir juntando peças
 
-| English | Portuguese |
-|---------|------------|
-| All the students were asked to assemble in the main hall. | Todos os alunos foram pedidos para se reunirem no salão principal. |
-| He assembled the new bicycle in the garage. | Ele montou a nova bicicleta na garagem. |
-| They assembled a team of experts to solve the problem. | Eles reuniram uma equipe de especialistas para resolver o problema. |
-| The cars are assembled on an assembly line. | Os carros são montados em uma linha de montagem. |
-| Assemble the furniture according to the instructions. | Monte o móvel de acordo com as instruções. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Pessoas/coisas) Reunir; congregar; juntar; se reunir | 2. (Partes) Montar; ensamblar; construir juntando peças
+>
+> | English | Portuguese |
+> |---------|------------|
+> | All the students were asked to assemble in the main hall. | Todos os alunos foram pedidos para se reunirem no salão principal. |
+> | He assembled the new bicycle in the garage. | Ele montou a nova bicicleta na garagem. |
+> | They assembled a team of experts to solve the problem. | Eles reuniram uma equipe de especialistas para resolver o problema. |
+> | The cars are assembled on an assembly line. | Os carros são montados em uma linha de montagem. |
+> | Assemble the furniture according to the instructions. | Monte o móvel de acordo com as instruções. |

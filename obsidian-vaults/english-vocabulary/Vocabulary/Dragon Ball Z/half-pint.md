@@ -41,11 +41,12 @@ Compound of "half" + "pint" (a unit of liquid measure), suggesting a person is a
 > - Often used about children or significantly shorter adults
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Baixote, pessoa miúda, criança pequena
 
-| English | Portuguese |
-|---------|------------|
-| half-pint | baixote |
-| small child | criança pequena |
-| short person | pessoa de baixa estatura |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Baixote, pessoa miúda, criança pequena
+>
+> | English | Portuguese |
+> |---------|------------|
+> | half-pint | baixote |
+> | small child | criança pequena |
+> | short person | pessoa de baixa estatura |

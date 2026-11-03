@@ -43,11 +43,12 @@ Likely derived from or related to "ooze" or similar words suggesting something u
 > - Pronunciation may vary regionally
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** nojento; asqueroso; desagradável; repugnante (informal)
 
-| English | Portuguese |
-|---------|------------|
-| oogey | nojento; asqueroso |
-| That's oogey! | Que nojo! |
-| oogey creature | criatura repugnante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** nojento; asqueroso; desagradável; repugnante (informal)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | oogey | nojento; asqueroso |
+> | That's oogey! | Que nojo! |
+> | oogey creature | criatura repugnante |

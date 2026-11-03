@@ -65,13 +65,14 @@ From Old English *fretan* (to devour, eat away), related to Old Norse *freta* (t
 > - Adjective "fretful" means inclined to worry or easily agitated
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Preocupar-se, inquietar-se, aflição; trastes (de instrumento musical)
 
-| English | Portuguese |
-|---------|------------|
-| fret about | preocupar-se com |
-| don't fret | não se preocupe |
-| in a fret | em aflição, preocupado |
-| guitar fret | traste de violão |
-| fretful | inquieto, nervoso |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Preocupar-se, inquietar-se, aflição; trastes (de instrumento musical)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | fret about | preocupar-se com |
+> | don't fret | não se preocupe |
+> | in a fret | em aflição, preocupado |
+> | guitar fret | traste de violão |
+> | fretful | inquieto, nervoso |

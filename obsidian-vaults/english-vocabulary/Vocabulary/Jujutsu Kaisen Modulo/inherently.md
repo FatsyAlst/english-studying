@@ -42,10 +42,11 @@ From *inherent* + *-ly*. The adjective *inherent* comes from Latin *inhaerēns*,
 > - Often used to make philosophical or analytical statements about the essential nature of things.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** inerentemente, intrinsecamente, por natureza
 
-| English | Portuguese |
-|---------|------------|
-| There is nothing inherently wrong with the plan. | Não há nada inerentemente errado com o plano. |
-| The system is inherently flawed. | O sistema é intrinsecamente falho. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** inerentemente, intrinsecamente, por natureza
+>
+> | English | Portuguese |
+> |---------|------------|
+> | There is nothing inherently wrong with the plan. | Não há nada inerentemente errado com o plano. |
+> | The system is inherently flawed. | O sistema é intrinsecamente falho. |

@@ -44,12 +44,13 @@ From Middle English "clenchen," from Old English "clencan," meaning to bind or f
 > - The clenched position is held and then released
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** apertar, cerrar, agarrar firmemente
 
-| English | Portuguese |
-|---------|------------|
-| clench | apertar, cerrar |
-| clenched fist | punho cerrado |
-| clench one's teeth | cerrar os dentes |
-| clenched jaw | mandíbula tensa |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** apertar, cerrar, agarrar firmemente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | clench | apertar, cerrar |
+> | clenched fist | punho cerrado |
+> | clench one's teeth | cerrar os dentes |
+> | clenched jaw | mandíbula tensa |

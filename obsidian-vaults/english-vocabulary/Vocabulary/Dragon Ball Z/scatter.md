@@ -45,10 +45,12 @@ Mid-12c. Middle English scateren, variant of shateren (shatter); Norse influence
 > - 📺 Also encountered in [[Jujutsu Kaisen Modulo]]
 
 ---
-**Tradução:** espalhar, dispersar, espalhar-se
 
-| English | Portuguese |
-|---------|------------|
-| Scatter the seeds on the soil. | Espalhe as sementes no solo. |
-| The protesters scattered at the sound of gunshots. | Os manifestantes se dispersaram ao som dos tiros. |
-| Wind scattered the leaves across the garden. | O vento espalhou as folhas pelo jardim. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** espalhar, dispersar, espalhar-se
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Scatter the seeds on the soil. | Espalhe as sementes no solo. |
+> | The protesters scattered at the sound of gunshots. | Os manifestantes se dispersaram ao som dos tiros. |
+> | Wind scattered the leaves across the garden. | O vento espalhou as folhas pelo jardim. |

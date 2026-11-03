@@ -49,13 +49,14 @@ From Latin *victor*, meaning "conqueror" or "one who conquers," derived from *vi
 > - Common in sports, martial arts, and warfare contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Vencedor, ganhador, conquistador
 
-| English | Portuguese |
-|---------|------------|
-| victor | vencedor, ganhador |
-| ultimate victor | vencedor final |
-| victor of the tournament | vencedor do torneio |
-| crowned victor | aclamado vencedor |
-| clear victor | claro vencedor |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Vencedor, ganhador, conquistador
+>
+> | English | Portuguese |
+> |---------|------------|
+> | victor | vencedor, ganhador |
+> | ultimate victor | vencedor final |
+> | victor of the tournament | vencedor do torneio |
+> | crowned victor | aclamado vencedor |
+> | clear victor | claro vencedor |

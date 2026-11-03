@@ -31,10 +31,12 @@ From twisted ('bent, deformed, distorted' - Old English twist 'rope, divided obj
 > - Related expressions: warped mind, sick mind.
 
 ---
-**Tradução:** Mente doentia, mente torcida, mente perturbada, mente doente.
 
-| English | Portuguese |
-|---------|------------|
-| The killer must have had a twisted mind. | O assassino deve ter tido uma mente doentia/perturbada. |
-| Only someone with a twisted mind would find that funny. | Só alguém com uma mente torcida acharia isso engraçado. |
-| He has a twisted mind and enjoys hurting others. | Ele tem uma mente doente e gosta de machucar os outros. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Mente doentia, mente torcida, mente perturbada, mente doente.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The killer must have had a twisted mind. | O assassino deve ter tido uma mente doentia/perturbada. |
+> | Only someone with a twisted mind would find that funny. | Só alguém com uma mente torcida acharia isso engraçado. |
+> | He has a twisted mind and enjoys hurting others. | Ele tem uma mente doente e gosta de machucar os outros. |

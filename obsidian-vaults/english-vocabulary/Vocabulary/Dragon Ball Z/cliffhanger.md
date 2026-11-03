@@ -46,12 +46,13 @@ From "cliff" (a steep precipice) plus "hanger" (something hanging). Originally r
 > - Creates anticipation for the next episode or chapter
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** suspense, desfecho em aberto, gancho narrativo
 
-| English | Portuguese |
-|---------|------------|
-| cliffhanger | suspense, desfecho em aberto |
-| end on a cliffhanger | terminar em suspense |
-| dramatic cliffhanger | suspense dramático |
-| cliffhanger ending | final em suspense |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** suspense, desfecho em aberto, gancho narrativo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | cliffhanger | suspense, desfecho em aberto |
+> | end on a cliffhanger | terminar em suspense |
+> | dramatic cliffhanger | suspense dramático |
+> | cliffhanger ending | final em suspense |

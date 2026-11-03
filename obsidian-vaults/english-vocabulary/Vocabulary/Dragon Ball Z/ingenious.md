@@ -24,13 +24,15 @@ Late Middle English from French 'ingénieux' or Latin 'ingeniosus' 'of good capa
 ---
 > [!tip] Notes
 > - Positive connotation of admiration for creativity.
-> - Do not confuse with 'ingenuous' (naive/sincere).
+> - Do not confuse with 'ingenuous' ([[naive]]/sincere).
 
 ---
-**Tradução:** Engenhoso; inteligente; criativo; astuto (de forma positiva, inventivo)
 
-| English | Portuguese |
-|---------|------------|
-| She came up with an ingenious solution to the puzzle. | Ela bolou uma solução engenhosa para o quebra-cabeça. |
-| The engineer designed an ingenious machine that saves time and energy. | O engenheiro projetou uma máquina engenhosa que economiza tempo e energia. |
-| Johnny is so ingenious—he can make sculptures from ordinary materials. | Johnny é tão engenhoso – ele faz esculturas com materiais comuns. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Engenhoso; inteligente; criativo; astuto (de forma positiva, inventivo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She came up with an ingenious solution to the puzzle. | Ela bolou uma solução engenhosa para o quebra-cabeça. |
+> | The engineer designed an ingenious machine that saves time and energy. | O engenheiro projetou uma máquina engenhosa que economiza tempo e energia. |
+> | Johnny is so ingenious—he can make sculptures from ordinary materials. | Johnny é tão engenhoso – ele faz esculturas com materiais comuns. |

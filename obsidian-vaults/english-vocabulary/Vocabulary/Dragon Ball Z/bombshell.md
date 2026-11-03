@@ -63,13 +63,14 @@ From *bomb* + *shell*. Originally referred to the literal explosive shell of a b
 > - Conveys suddenness and significant impact
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** bomba notícia, revelação chocante, bomba explosiva
 
-| English | Portuguese |
-|---------|------------|
-| bombshell | bomba notícia, revelação impactante |
-| bombshell news | notícia chocante |
-| drop a bombshell | soltar uma bomba |
-| bombshell announcement | anúncio sensacional |
-| political bombshell | bomba política |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** bomba notícia, revelação chocante, bomba explosiva
+>
+> | English | Portuguese |
+> |---------|------------|
+> | bombshell | bomba notícia, revelação impactante |
+> | bombshell news | notícia chocante |
+> | drop a bombshell | soltar uma bomba |
+> | bombshell announcement | anúncio sensacional |
+> | political bombshell | bomba política |

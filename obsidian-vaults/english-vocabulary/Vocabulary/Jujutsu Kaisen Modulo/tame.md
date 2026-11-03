@@ -62,14 +62,15 @@ From Old English *tam*, related to Old Saxon *tam*, Old High German *zam*, and L
 > - 📺 Also seen in [[Dragon Ball Z]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Doméstico, domesticado, dócil, manso; domar, domesticar, controlar
 
-| English | Portuguese |
-|---------|------------|
-| tame | domesticado, dócil, manso |
-| tame animal | animal domesticado |
-| relatively tame | relativamente dócil |
-| to tame | domar, domesticar |
-| tame the spirit | dominar o espírito |
-| wild and tame | selvagem e domesticado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Doméstico, domesticado, dócil, manso; domar, domesticar, controlar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tame | domesticado, dócil, manso |
+> | tame animal | animal domesticado |
+> | relatively tame | relativamente dócil |
+> | to tame | domar, domesticar |
+> | tame the spirit | dominar o espírito |
+> | wild and tame | selvagem e domesticado |

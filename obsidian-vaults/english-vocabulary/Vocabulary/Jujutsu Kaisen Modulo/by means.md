@@ -57,11 +57,12 @@ created: 2026-03-06
 > - **"A means to an end"** — something done only to achieve a result, not for its own sake.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** por meio de (by means of); de modo algum (by no means); com certeza, fique à vontade (by all means)
 
-| English | Portuguese |
-|---------|------------|
-| They communicated by means of sign language. | Eles se comunicaram por meio da linguagem de sinais. |
-| This is by no means an easy task. | Esta não é de modo algum uma tarefa fácil. |
-| "May I sit here?" "By all means!" | "Posso sentar aqui?" "Claro, fique à vontade!" |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** por meio de (by means of); de modo algum (by no means); com certeza, fique à vontade (by all means)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | They communicated by means of sign language. | Eles se comunicaram por meio da linguagem de sinais. |
+> | This is by no means an easy task. | Esta não é de modo algum uma tarefa fácil. |
+> | "May I sit here?" "By all means!" | "Posso sentar aqui?" "Claro, fique à vontade!" |

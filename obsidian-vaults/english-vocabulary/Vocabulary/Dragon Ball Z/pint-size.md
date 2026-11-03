@@ -44,12 +44,13 @@ From "pint" (a unit of liquid measure, much smaller than a gallon) plus "size," 
 > - Often implies capability despite small size
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** diminuto, em tamanho pequeno, miúdo
 
-| English | Portuguese |
-|---------|------------|
-| pint-size | diminuto, pequenino |
-| pint-size person | pessoa bem pequena |
-| pint-size version | versão em tamanho reduzido |
-| pint-sized | de tamanho pequeno |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** diminuto, em tamanho pequeno, miúdo
+>
+> | English | Portuguese |
+> |---------|------------|
+> | pint-size | diminuto, pequenino |
+> | pint-size person | pessoa bem pequena |
+> | pint-size version | versão em tamanho reduzido |
+> | pint-sized | de tamanho pequeno |

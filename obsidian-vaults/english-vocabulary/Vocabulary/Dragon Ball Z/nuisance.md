@@ -41,10 +41,12 @@ Late Middle English 'injury, harm' from Old French nuisance 'hurt,' from nuire '
 > - Common expressions: 'be a nuisance,' 'make a nuisance of yourself.'
 
 ---
-**Tradução:** Incômodo, chateação, amolação, transtorno, aborrecimento; in law: incômodo (jurídico), perturbação, ato ilícito de incômodo.
 
-| English | Portuguese |
-|---------|------------|
-| I don't want to be a nuisance. | Não quero ser um incômodo. |
-| It's such a nuisance having to rewrite those letters. | É um baita incômodo ter que reescrever essas cartas. |
-| He was charged with causing a public nuisance. | Ele foi acusado de causar incômodo público / perturbação pública. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Incômodo, chateação, amolação, transtorno, aborrecimento; in law: incômodo (jurídico), perturbação, ato ilícito de incômodo.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | I don't want to be a nuisance. | Não quero ser um incômodo. |
+> | It's such a nuisance having to rewrite those letters. | É um baita incômodo ter que reescrever essas cartas. |
+> | He was charged with causing a public nuisance. | Ele foi acusado de causar incômodo público / perturbação pública. |

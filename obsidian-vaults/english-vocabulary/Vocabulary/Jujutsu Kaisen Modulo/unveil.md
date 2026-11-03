@@ -51,14 +51,15 @@ From "un-" (to reverse or remove) + "veil" (a covering). "Veil" comes from Old F
 > - Related noun: "unveiling" (the act or ceremony of revealing)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Revelar, desvendar, descobrir, apresentar (oficialmente)
 
-| English | Portuguese |
-|---------|------------|
-| unveil | revelar, desvendar |
-| unveil plans | revelar planos |
-| unveil the truth | desvendar a verdade |
-| unveil power | revelar o poder |
-| unveiling | revelação, apresentação |
-| finally unveiled | finalmente revelado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Revelar, desvendar, descobrir, apresentar (oficialmente)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | unveil | revelar, desvendar |
+> | unveil plans | revelar planos |
+> | unveil the truth | desvendar a verdade |
+> | unveil power | revelar o poder |
+> | unveiling | revelação, apresentação |
+> | finally unveiled | finalmente revelado |

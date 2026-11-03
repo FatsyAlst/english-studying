@@ -64,10 +64,12 @@ From Middle English 'bulge' meaning 'bag, wallet,' from Old French *boulge/bouge
 > - Often creates a vivid visual image, especially for eyes, pockets, bags, or walls.
 
 ---
-**Tradução:** 1. Inchou / Estufou / Ficou abaulado / Ficou saliente | 2. Estava abarrotado de / Estava cheio de / Estava estufado de
 
-| English | Portuguese |
-|---------|------------|
-| His eyes bulged when he saw the price. | Os olhos dele se arregalaram/estufaram quando viu o preço. |
-| The suitcase bulged because it was packed with clothes. | A mala ficou estufada porque estava cheia de roupas. |
-| Their bags bulged with books and papers. | As mochilas deles estavam abarrotadas de livros e papéis. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. Inchou / Estufou / Ficou abaulado / Ficou saliente | 2. Estava abarrotado de / Estava cheio de / Estava estufado de
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His eyes bulged when he saw the price. | Os olhos dele se arregalaram/estufaram quando viu o preço. |
+> | The suitcase bulged because it was packed with clothes. | A mala ficou estufada porque estava cheia de roupas. |
+> | Their bags bulged with books and papers. | As mochilas deles estavam abarrotadas de livros e papéis. |

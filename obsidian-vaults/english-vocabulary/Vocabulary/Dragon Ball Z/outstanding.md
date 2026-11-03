@@ -45,9 +45,11 @@ From "out-stand" (protrude/remain erect), Middle English; literal "standing out,
 > - Synonyms: excellent/superb (1), unpaid/pending (2).
 
 ---
-**Tradução:** Excepcional / Pendente
 
-| English | Portuguese |
-|---------|------------|
-| She received an award for her outstanding performance. | Ela recebeu um prêmio por seu desempenho excepcional. |
-| There are several outstanding bills on the account. | Existem várias contas pendentes na conta. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Excepcional / Pendente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She received an award for her outstanding performance. | Ela recebeu um prêmio por seu desempenho excepcional. |
+> | There are several outstanding bills on the account. | Existem várias contas pendentes na conta. |

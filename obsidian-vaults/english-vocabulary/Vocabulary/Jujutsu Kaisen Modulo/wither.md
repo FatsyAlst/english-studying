@@ -55,11 +55,12 @@ From Middle English "wither," possibly from "weather" or related to Old English 
 > - Emphasizes gradual decline or weakening rather than sudden collapse.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Murchar / Definhar / Desvanecerse
 
-| English | Portuguese |
-|---------|------------|
-| The flowers withered in the drought. | As flores murcharam na seca. |
-| His willpower withered away. | Sua força de vontade desvaneceu-se. |
-| She gave him a withering look. | Ela lhe deu um olhar devastador. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Murchar / Definhar / Desvanecerse
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The flowers withered in the drought. | As flores murcharam na seca. |
+> | His willpower withered away. | Sua força de vontade desvaneceu-se. |
+> | She gave him a withering look. | Ela lhe deu um olhar devastador. |

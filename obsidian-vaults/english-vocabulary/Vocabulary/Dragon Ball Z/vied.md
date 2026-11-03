@@ -48,13 +48,14 @@ From Middle French "envier," related to "envie" (challenge to competition). Orig
 > - Past tense is "vied," not "vyed"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** competir, disputar, rivalizar
 
-| English | Portuguese |
-|---------|------------|
-| vied | competiu |
-| vied for | disputou |
-| vied with | rivalizar com |
-| vied for supremacy | disputou a supremacia |
-| vying for | disputando por |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** competir, disputar, rivalizar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | vied | competiu |
+> | vied for | disputou |
+> | vied with | rivalizar com |
+> | vied for supremacy | disputou a supremacia |
+> | vying for | disputando por |

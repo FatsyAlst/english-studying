@@ -64,11 +64,12 @@ From "block" (an obstacle or solid piece) combined with "off" (indicating separa
 > - Separable phrasal verb: "block the road off" or "block off the road" are both correct.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** bloquear, interditar (rua); isolar (área); tapar (visão/luz); bloquear/reprimir (memórias)
 
-| English | Portuguese |
-|---------|------------|
-| The police blocked off the road after the accident. | A polícia interditou a estrada depois do acidente. |
-| Thick curtains can block off most of the sunlight. | Cortinas grossas podem bloquear a maior parte da luz. |
-| He tried to block off the painful memories. | Ele tentou bloquear as memórias dolorosas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** bloquear, interditar (rua); isolar (área); tapar (visão/luz); bloquear/reprimir (memórias)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The police blocked off the road after the accident. | A polícia interditou a estrada depois do acidente. |
+> | Thick curtains can block off most of the sunlight. | Cortinas grossas podem bloquear a maior parte da luz. |
+> | He tried to block off the painful memories. | Ele tentou bloquear as memórias dolorosas. |

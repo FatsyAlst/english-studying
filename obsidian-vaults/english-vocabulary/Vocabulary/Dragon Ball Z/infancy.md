@@ -53,11 +53,12 @@ From Latin *infans* ("unable to speak"), from *in-* (not) + *fari* (to speak). T
 > - Often used when something is new, undeveloped, or just beginning.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** infância, primeira infância; estágio inicial
 
-| English | Portuguese |
-|---------|------------|
-| During infancy, babies depend entirely on their parents. | Durante a infância, os bebês dependem totalmente de seus pais. |
-| The technology was still in its infancy. | A tecnologia ainda estava em seus estágios iniciais. |
-| Proper nutrition is crucial during infancy. | A nutrição adequada é crucial durante a infância. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** infância, primeira infância; estágio inicial
+>
+> | English | Portuguese |
+> |---------|------------|
+> | During infancy, babies depend entirely on their parents. | Durante a infância, os bebês dependem totalmente de seus pais. |
+> | The technology was still in its infancy. | A tecnologia ainda estava em seus estágios iniciais. |
+> | Proper nutrition is crucial during infancy. | A nutrição adequada é crucial durante a infância. |

@@ -50,10 +50,12 @@ To talk to someone in a rude, impudent way; to backtalk.
 > - Often spoken, parental: 'Don't sass me!'
 
 ---
-**Tradução:** Noun: falta de respeito, atrevimento, cara de pau, insolência (negative); ousadia, atitude (positive). Verb: responder mal, falar com atrevimento, ser cara de pau com.
 
-| English | Portuguese |
-|---------|------------|
-| Don't give me any of your sass! | Não me venha com atrevimento / falta de respeito! |
-| She takes no sass from her students. | Ela não aceita insolência de seus alunos. |
-| This girl has a lot of sass. | Esta menina tem muita atitude / ousadia. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Noun: falta de respeito, atrevimento, cara de pau, insolência (negative); ousadia, atitude (positive). Verb: responder mal, falar com atrevimento, ser cara de pau com.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Don't give me any of your sass! | Não me venha com atrevimento / falta de respeito! |
+> | She takes no sass from her students. | Ela não aceita insolência de seus alunos. |
+> | This girl has a lot of sass. | Esta menina tem muita atitude / ousadia. |

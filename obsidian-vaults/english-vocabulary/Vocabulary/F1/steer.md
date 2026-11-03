@@ -40,9 +40,11 @@ To guide or direct someone/something towards a particular course of action or di
 > - Common idiom: 'steer clear of' = avoid something or someone.
 
 ---
-**Tradução:** 1. Guiar / Dirigir / Conduzir | 2. Direcionar / Orientar
 
-| English | Portuguese |
-|---------|------------|
-| She steered the car carefully through traffic. | Ela guiou o carro cuidadosamente pelo trânsito. |
-| He steered me towards a career in tech. | Ele me direcionou para uma carreira em tecnologia. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. Guiar / Dirigir / Conduzir | 2. Direcionar / Orientar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She steered the car carefully through traffic. | Ela guiou o carro cuidadosamente pelo trânsito. |
+> | He steered me towards a career in tech. | Ele me direcionou para uma carreira em tecnologia. |

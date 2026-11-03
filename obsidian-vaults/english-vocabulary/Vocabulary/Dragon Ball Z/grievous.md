@@ -42,10 +42,12 @@ Middle English: from Old French greveus, from Latin gravis 'heavy, grave' (via g
 > - Similar to 'grave' but more formal and emphasizes severity.
 
 ---
-**Tradução:** Grave, doloroso, atroz, sério; in law: grave (lesões corporais graves).
 
-| English | Portuguese |
-|---------|------------|
-| He was the victim of a grievous injustice. | Ele foi vítima de uma grave injustiça. |
-| She suffered grievous bodily harm. | Ela sofreu lesões corporais graves. |
-| A grievous error that cost millions. | Um erro grave/atroz que custou milhões. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Grave, doloroso, atroz, sério; in law: grave (lesões corporais graves).
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He was the victim of a grievous injustice. | Ele foi vítima de uma grave injustiça. |
+> | She suffered grievous bodily harm. | Ela sofreu lesões corporais graves. |
+> | A grievous error that cost millions. | Um erro grave/atroz que custou milhões. |

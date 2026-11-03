@@ -1,24 +1,40 @@
----
-tags:
-  - tracker
-  - study
-created: 2026-02-10
----
-# 📝 Vocabulary To-Do List
+[[Vocabulary/Life/Life|Life]] (daily life, studies, university, gaming, trips)
+string by (as seen in "Find someone else to string by")
+saddle
+jinx
+grease
+surveillance
+stakeholders
+understandability
+fathom
+unfathomable
+stroking (saw in "I'm stroking the cat")
+tingly
+afloat
+tote bag
+straps
+buckles
+otherworldly
+oar
+jagged
+rugged
+limestone
+breeze
+creaky
+clink
+sprinkling
+endeavour
+baffling
+steeply
 
-> [!info] How to Use
-> Add words you encounter and want to study later.
+[[Mushoku Tensei]]
 
----
+[[Dr. Stone]]
 
-## 🆕 To Learn
-> Words waiting to be researched and added as vocabulary cards.
+[[Dragon Ball GT]]
 
-### Media
+[[Dragon Ball Super]]
 
+[[My Hero Academia Vigilantes]]
 
----
-
-## 🔗 Related
-- [[Homepage]] — Back to main hub
-- [[Vocabulary Learning Prompt]] — AI prompt for researching words
+[[Peaky Blinders]]

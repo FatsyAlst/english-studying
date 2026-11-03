@@ -51,14 +51,15 @@ From Latin *impudens*, from *im-* (not) + *pudens* (ashamed, from *pudere*, to b
 > - Common in describing character behavior
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Insolente, desrespeitoso, atrevido, impertinente
 
-| English | Portuguese |
-|---------|------------|
-| impudent | insolente, desrespeitoso |
-| impudent attitude | atitude insolente |
-| impudent remark | comentário desrespeitoso |
-| impudent behavior | comportamento insolente |
-| impudent youth | juventude atrevida |
-| impudently | insolentemente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Insolente, desrespeitoso, atrevido, impertinente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | impudent | insolente, desrespeitoso |
+> | impudent attitude | atitude insolente |
+> | impudent remark | comentário desrespeitoso |
+> | impudent behavior | comportamento insolente |
+> | impudent youth | juventude atrevida |
+> | impudently | insolentemente |

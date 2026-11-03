@@ -45,12 +45,13 @@ From *heart* + *throb* (to beat with a pronounced rhythm). The compound became p
 > - Often used with adjectives describing physical attractiveness
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Queridinho, galã; palpitação cardíaca
 
-| English | Portuguese |
-|---|---|
-| heart-throb (attractive person) | galã, queridinho |
-| heart-throb (heartbeat) | palpitação cardíaca, batida do coração |
-| attractive celebrity | celebridade atrativa |
-| quickened pulse | pulsação acelerada |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Queridinho, galã; palpitação cardíaca
+>
+> | English | Portuguese |
+> |---|---|
+> | heart-throb (attractive person) | galã, queridinho |
+> | heart-throb (heartbeat) | palpitação cardíaca, batida do coração |
+> | attractive celebrity | celebridade atrativa |
+> | quickened pulse | pulsação acelerada |

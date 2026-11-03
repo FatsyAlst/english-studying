@@ -55,11 +55,12 @@ From Old English *hēdan* ("to take care, attend, observe, protect"), related to
 > - Typical objects: *warning, advice, call, lessons of history* — things one should listen to but often doesn't.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** dar ouvidos a, prestar atenção a, acatar (verbo); atenção, cuidado (substantivo)
 
-| English | Portuguese |
-|---------|------------|
-| The airline failed to heed warnings about safety. | A companhia aérea não deu ouvidos aos alertas sobre segurança. |
-| If only they had heeded his warnings! | Se ao menos eles tivessem acatado os avisos dele! |
-| Take heed of the warnings. | Preste atenção aos avisos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** dar ouvidos a, prestar atenção a, acatar (verbo); atenção, cuidado (substantivo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The airline failed to heed warnings about safety. | A companhia aérea não deu ouvidos aos alertas sobre segurança. |
+> | If only they had heeded his warnings! | Se ao menos eles tivessem acatado os avisos dele! |
+> | Take heed of the warnings. | Preste atenção aos avisos. |

@@ -65,13 +65,14 @@ From Middle English "scrapen", possibly from Old Norse "skrapa" (to scrape). Rel
 > - Often describes removing unwanted surfaces or collecting insufficient resources
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** raspar, arranhar, reunir com dificuldade
 
-| English | Portuguese |
-|---------|------------|
-| scraped knee | joelho ralado |
-| scrape off | raspar fora |
-| scrape together | reunir com dificuldade |
-| scrape by | sair-se com dificuldade |
-| scrape paint | raspar tinta |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** raspar, arranhar, reunir com dificuldade
+>
+> | English | Portuguese |
+> |---------|------------|
+> | scraped knee | joelho ralado |
+> | scrape off | raspar fora |
+> | scrape together | reunir com dificuldade |
+> | scrape by | sair-se com dificuldade |
+> | scrape paint | raspar tinta |

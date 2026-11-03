@@ -63,11 +63,12 @@ Old English *swellan* 'to swell, expand'; Proto-Germanic *swellanan*. Related to
 > - Opposite: subsiding, reducing, decreasing.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Substantivo, inflamação) Inchaço; edema; tumefação | 2. (Verbo, aumentar) Inchar; dilatar; expandir | 3. (Adjetivo, inchado) Inchado; tumefato; dilatado
 
-| English | Portuguese |
-|---------|------------|
-| The swelling in his ankle went down after ice. | O inchaço em seu tornozelo diminuiu após o gelo. |
-| His hand began swelling after the punch. | Sua mão começou a inchar após o soco. |
-| The swollen eye was nearly shut. | O olho inchado estava quase fechado. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo, inflamação) Inchaço; edema; tumefação | 2. (Verbo, aumentar) Inchar; dilatar; expandir | 3. (Adjetivo, inchado) Inchado; tumefato; dilatado
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The swelling in his ankle went down after ice. | O inchaço em seu tornozelo diminuiu após o gelo. |
+> | His hand began swelling after the punch. | Sua mão começou a inchar após o soco. |
+> | The swollen eye was nearly shut. | O olho inchado estava quase fechado. |

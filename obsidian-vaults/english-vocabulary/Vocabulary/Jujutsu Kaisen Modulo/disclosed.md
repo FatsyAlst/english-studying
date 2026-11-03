@@ -49,11 +49,12 @@ From Middle English *disclosen*, from Old French *desclore*, from Vulgar Latin *
 > - Antonym: [[withhold]] (refuse to reveal), conceal, suppress.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** divulgar, revelar, tornar público, expor, declarar
 
-| English | Portuguese |
-|---------|------------|
-| The company has disclosed that it will be laying off workers. | A empresa divulgou que demitirá funcionários. |
-| The identity of the victim has not yet been disclosed. | A identidade da vítima ainda não foi revelada. |
-| He refused to disclose the source of his information. | Ele se recusou a revelar a fonte de suas informações. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** divulgar, revelar, tornar público, expor, declarar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The company has disclosed that it will be laying off workers. | A empresa divulgou que demitirá funcionários. |
+> | The identity of the victim has not yet been disclosed. | A identidade da vítima ainda não foi revelada. |
+> | He refused to disclose the source of his information. | Ele se recusou a revelar a fonte de suas informações. |

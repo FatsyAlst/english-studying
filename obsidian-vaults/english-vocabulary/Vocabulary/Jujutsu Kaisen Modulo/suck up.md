@@ -57,14 +57,16 @@ A person who behaves obsequiously toward someone in power; a flatterer or yes-ma
 > - "Suck up to someone" (different phrasing) means to flatter or be obsequious
 > - The noun "suck-up" is derogatory and informal
 > - Used frequently in casual, colloquial speech
+> - ⚠️ Similar meaning in [[flattery]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** absorver, engolir seco (aceitar de má vontade), bajulador
 
-| English | Portuguese |
-|---------|------------|
-| suck it up | engolir seco |
-| suck up dust | aspirar poeira |
-| suck-up (noun) | bajulador |
-| suck up to someone | fazer a corte a alguém |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** absorver, engolir seco (aceitar de má vontade), bajulador
+>
+> | English | Portuguese |
+> |---------|------------|
+> | suck it up | engolir seco |
+> | suck up dust | aspirar poeira |
+> | suck-up (noun) | bajulador |
+> | suck up to someone | fazer a corte a alguém |

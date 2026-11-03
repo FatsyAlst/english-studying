@@ -52,10 +52,12 @@ From Middle English *way-side* = *way* (road, path) + *side* (edge).
 > - Can be used as both noun and adjective (before nouns).
 
 ---
-**Tradução:** Beira da estrada, beira do caminho, margem da estrada (literal); ficar pelo meio do caminho, ser deixado de lado, ser abandonado (idiom)
 
-| English | Portuguese |
-|---------|------------|
-| Wild flowers grew by the wayside. | Flores silvestres cresciam à beira do caminho / à beira da estrada. |
-| Many clubs fall by the wayside for financial reasons. | Muitos clubes ficam pelo meio do caminho / acabam sendo fechados por motivos financeiros. |
-| Plans for the project have fallen by the wayside. | Os planos para o projeto foram deixados de lado / acabaram caindo no esquecimento. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Beira da estrada, beira do caminho, margem da estrada (literal); ficar pelo meio do caminho, ser deixado de lado, ser abandonado (idiom)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Wild flowers grew by the wayside. | Flores silvestres cresciam à beira do caminho / à beira da estrada. |
+> | Many clubs fall by the wayside for financial reasons. | Muitos clubes ficam pelo meio do caminho / acabam sendo fechados por motivos financeiros. |
+> | Plans for the project have fallen by the wayside. | Os planos para o projeto foram deixados de lado / acabaram caindo no esquecimento. |

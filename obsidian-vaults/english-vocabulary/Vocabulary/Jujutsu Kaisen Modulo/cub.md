@@ -49,10 +49,11 @@ Origin uncertain. First recorded in the 1520s, possibly from Old Irish *cuib* ("
 > - Not used for young dogs (→ *puppy*) or young cats (→ *kitten*), even though they are also predators.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** filhote (de animal selvagem)
 
-| English | Portuguese |
-|---------|------------|
-| The mother bear fiercely protected her cubs. | A mãe ursa protegeu ferozmente seus filhotes. |
-| He was just a cub reporter when he joined. | Ele era apenas um repórter novato quando entrou. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** filhote (de animal selvagem)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The mother bear fiercely protected her cubs. | A mãe ursa protegeu ferozmente seus filhotes. |
+> | He was just a cub reporter when he joined. | Ele era apenas um repórter novato quando entrou. |

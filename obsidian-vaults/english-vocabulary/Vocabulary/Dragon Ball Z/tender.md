@@ -55,13 +55,14 @@ From Old French "tendre," from Latin "tenere" (to hold). Related to "tendon" and
 > - Different from "tender" meaning to offer something
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** macio, delicado, jovem
 
-| English | Portuguese |
-|---------|------------|
-| tender | macio/delicado |
-| tender age | idade tenra |
-| tender young | jovem delicado |
-| tender care | cuidado delicado |
-| tender heart | coração sensível |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** macio, delicado, jovem
+>
+> | English | Portuguese |
+> |---------|------------|
+> | tender | macio/delicado |
+> | tender age | idade tenra |
+> | tender young | jovem delicado |
+> | tender care | cuidado delicado |
+> | tender heart | coração sensível |

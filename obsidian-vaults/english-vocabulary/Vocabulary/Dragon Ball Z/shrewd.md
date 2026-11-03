@@ -53,10 +53,12 @@ Middle English (originally 'evil in nature or character'): From *shrew* ('evil p
 > - Formal-ish; synonyms: astute, canny, sharp.
 
 ---
-**Tradução:** Astuto, sagaz, esperto (no bom sentido), perspicaz, esperto nos negócios
 
-| English | Portuguese |
-|---------|------------|
-| A shrewd businessman. | Um empresário astuto. |
-| She is a shrewd judge of character. | Ela é uma boa juíza de caráter astuta/sagaz. |
-| A shrewd move. | Uma jogada astuta. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Astuto, sagaz, esperto (no bom sentido), perspicaz, esperto nos negócios
+>
+> | English | Portuguese |
+> |---------|------------|
+> | A shrewd businessman. | Um empresário astuto. |
+> | She is a shrewd judge of character. | Ela é uma boa juíza de caráter astuta/sagaz. |
+> | A shrewd move. | Uma jogada astuta. |

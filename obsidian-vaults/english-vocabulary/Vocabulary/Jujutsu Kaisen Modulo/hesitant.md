@@ -50,14 +50,16 @@ From Latin "haesitans," from "haesitare" (to stick, be undecided), possibly rela
 > - "Hesitation" is the noun expressing the tendency or instance of hesitating
 > - Often describes physical actions (hesitant steps, hesitant voice)
 > - Implies a momentary pause before proceeding
+> - ⚠️ Similar meaning in [[balk]] (from [[Dragon Ball GT]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** hesitante, indeciso, tímido
 
-| English | Portuguese |
-|---------|------------|
-| hesitant to speak | hesitante em falar |
-| hesitant voice | voz vacilante |
-| hesitant steps | passos tímidos |
-| hesitantly | hesitantemente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** hesitante, indeciso, tímido
+>
+> | English | Portuguese |
+> |---------|------------|
+> | hesitant to speak | hesitante em falar |
+> | hesitant voice | voz vacilante |
+> | hesitant steps | passos tímidos |
+> | hesitantly | hesitantemente |

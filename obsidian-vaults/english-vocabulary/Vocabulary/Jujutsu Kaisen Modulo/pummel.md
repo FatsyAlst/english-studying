@@ -44,10 +44,11 @@ From Middle English "pomelen," possibly from Old French "pomele," meaning "studd
 > - Emphasizes the repeated nature of strikes rather than a single blow.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Espancar / Socar / Bater Repetidamente
 
-| English | Portuguese |
-|---------|------------|
-| He pummeled his opponent without mercy. | Ele espancou seu oponente sem piedade. |
-| The warrior pummeled the ground in anger. | O guerreiro socou o chão com raiva. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Espancar / Socar / Bater Repetidamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He pummeled his opponent without mercy. | Ele espancou seu oponente sem piedade. |
+> | The warrior pummeled the ground in anger. | O guerreiro socou o chão com raiva. |

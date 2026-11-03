@@ -58,11 +58,13 @@ Mid-15th c.: unknown origin, possibly Scandinavian (tossa 'strew, spread').
 > - 'Toss and turn' = move restlessly in bed.
 
 ---
-**Tradução:** Throw: jogar, atirar, lançar (de forma leve/casual). Head: jogar para trás/cima. Mix: temperar, misturar (salada). Rock: sacudir, balançar.
 
-| English | Portuguese |
-|---------|------------|
-| She tossed her jacket onto the bed. | Ela jogou/atirou a jaqueta na cama. |
-| She tossed the salad. | Ela temperou/misturou a salada. |
-| I tossed and turned all night. | Eu me revirava / me contorcia na cama a noite toda. |
-| The boat was tossed by the waves. | O barco foi sacudido/balançado pelas ondas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Throw: jogar, atirar, lançar (de forma leve/casual). Head: jogar para trás/cima. Mix: temperar, misturar (salada). Rock: sacudir, balançar.
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She tossed her jacket onto the bed. | Ela jogou/atirou a jaqueta na cama. |
+> | She tossed the salad. | Ela temperou/misturou a salada. |
+> | I tossed and turned all night. | Eu me revirava / me contorcia na cama a noite toda. |
+> | The boat was tossed by the waves. | O barco foi sacudido/balançado pelas ondas. |

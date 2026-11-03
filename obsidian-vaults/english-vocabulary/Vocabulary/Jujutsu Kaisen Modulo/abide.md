@@ -59,11 +59,12 @@ From Old English *abidan* (to wait, endure, remain), from *a-* (to) + *bidan* (t
 > - "Abide by" is distinct from "abide" (tolerate) — pay attention to the preposition
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Tolerar, suportar, obedecer a, cumprir
 
-| English | Portuguese |
-|---------|------------|
-| cannot abide dishonesty | não tolero desonestidade |
-| abide by the rules | cumprir as regras |
-| abiding love | amor duradouro |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Tolerar, suportar, obedecer a, cumprir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | cannot abide dishonesty | não tolero desonestidade |
+> | abide by the rules | cumprir as regras |
+> | abiding love | amor duradouro |

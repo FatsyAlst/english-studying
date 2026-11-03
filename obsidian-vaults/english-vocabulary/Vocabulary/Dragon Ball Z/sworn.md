@@ -46,14 +46,16 @@ From Old English *swaran* (to swear), past participle *sworn*. Related to German
 > - Implies a binding commitment or legal obligation
 > - Common in legal or formal contexts
 > - Emphasizes the serious nature of a promise or enmity
+> - ⚠️ Similar meaning in [[pledge]] (from [[Dragon Ball Super]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Juramentado, comprometido, inimigos jurados
 
-| English | Portuguese |
-|---|---|
-| sworn | juramentado, bajo juramento |
-| sworn enemies | inimigos jurados |
-| sworn allies | aliados juramentados |
-| sworn oath | juramento solene |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Juramentado, comprometido, inimigos jurados
+>
+> | English | Portuguese |
+> |---|---|
+> | sworn | juramentado, bajo juramento |
+> | sworn enemies | inimigos jurados |
+> | sworn allies | aliados juramentados |
+> | sworn oath | juramento solene |

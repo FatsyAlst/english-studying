@@ -48,12 +48,13 @@ From Latin *designatus* (marked out, indicated), from *designare* (to mark out),
 > - Related to but distinct from "design" (to create) or "designer" (one who designs)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Designar, indicar, nomear, atribuir
 
-| English | Portuguese |
-|---------|------------|
-| designate as leader | designar como líder |
-| designated area | área designada |
-| designated driver | motorista designado |
-| officially designated | oficialmente designado |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Designar, indicar, nomear, atribuir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | designate as leader | designar como líder |
+> | designated area | área designada |
+> | designated driver | motorista designado |
+> | officially designated | oficialmente designado |

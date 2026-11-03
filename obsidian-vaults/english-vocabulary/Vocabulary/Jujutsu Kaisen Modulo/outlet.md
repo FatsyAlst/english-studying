@@ -61,12 +61,13 @@ From "out" + "let"; "let" comes from Old English "lætan" (to allow or let flow)
 > - British English may use "socket" instead of "outlet" for electrical connections
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** tomada, saída, loja de descontos, válvula de escape
 
-| English | Portuguese |
-|---------|------------|
-| electrical outlet | tomada elétrica |
-| outlet store | loja de descontos |
-| creative outlet | saída criativa |
-| outlet mall | shopping de descontos |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** tomada, saída, loja de descontos, válvula de escape
+>
+> | English | Portuguese |
+> |---------|------------|
+> | electrical outlet | tomada elétrica |
+> | outlet store | loja de descontos |
+> | creative outlet | saída criativa |
+> | outlet mall | shopping de descontos |

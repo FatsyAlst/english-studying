@@ -47,12 +47,14 @@ Late Middle English (originally 'place trust in'); from Latin *confīdere* 'trus
 > - Related words: confidence (noun, trust), confidant (noun, person confided in).
 
 ---
-**Tradução:** 1. (Verbo, segredo) Confiar (segredo a alguém); desabafar; confidenciar | 2. (Verbo, confiança) Confiar em (pessoa); abrir o coração para
 
-| English | Portuguese |
-|---------|------------|
-| She confided in her best friend about the breakup. | Ela confidenciou à melhor amiga sobre o término. |
-| He confided that he was unhappy in his job. | Ele confidenciou que estava infeliz no emprego. |
-| I confide in your judgment. | Eu confio no seu julgamento. |
-| Can I confide something to you? | Posso confidenciar algo para você? |
-| We confide in our doctors for medical advice. | Confiamos em nossos médicos para conselhos médicos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, segredo) Confiar (segredo a alguém); desabafar; confidenciar | 2. (Verbo, confiança) Confiar em (pessoa); abrir o coração para
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She confided in her best friend about the breakup. | Ela confidenciou à melhor amiga sobre o término. |
+> | He confided that he was unhappy in his job. | Ele confidenciou que estava infeliz no emprego. |
+> | I confide in your judgment. | Eu confio no seu julgamento. |
+> | Can I confide something to you? | Posso confidenciar algo para você? |
+> | We confide in our doctors for medical advice. | Confiamos em nossos médicos para conselhos médicos. |

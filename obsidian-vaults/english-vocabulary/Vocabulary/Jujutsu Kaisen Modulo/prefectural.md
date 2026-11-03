@@ -47,12 +47,13 @@ From Latin *praefectura* (office of a prefect), from *praefectus* (appointed ove
 > - Common in Jujutsu Kaisen when discussing jujutsu society organization
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Prefeitural, relativo a prefeitura
 
-| English | Portuguese |
-|---------|------------|
-| prefectural | prefeitural |
-| prefecture | prefeitura |
-| prefectural government | governo prefeitural |
-| prefectural level | nível prefeitural |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Prefeitural, relativo a prefeitura
+>
+> | English | Portuguese |
+> |---------|------------|
+> | prefectural | prefeitural |
+> | prefecture | prefeitura |
+> | prefectural government | governo prefeitural |
+> | prefectural level | nível prefeitural |

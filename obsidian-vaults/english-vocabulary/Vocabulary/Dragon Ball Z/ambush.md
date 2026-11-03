@@ -54,10 +54,12 @@ Middle English: From Old French *embusche* (noun) 'position of troops in hiding,
 > - Synonyms: trap, snare.
 
 ---
-**Tradução:** Emboscada, armadilha, cilada (noun); Embuscar, emboscar, surpreender/atacar de surpresa (verb)
 
-| English | Portuguese |
-|---------|------------|
-| Two soldiers were killed in a terrorist ambush. | Dois soldados foram mortos em uma emboscada terrorista. |
-| They were lying in ambush, waiting for the aid convoy. | Eles estavam de emboscada, esperando o comboio de ajuda. |
-| The guerrillas ambushed them near the bridge. | Os guerrilheiros os emboscaram perto da ponte. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Emboscada, armadilha, cilada (noun); Embuscar, emboscar, surpreender/atacar de surpresa (verb)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Two soldiers were killed in a terrorist ambush. | Dois soldados foram mortos em uma emboscada terrorista. |
+> | They were lying in ambush, waiting for the aid convoy. | Eles estavam de emboscada, esperando o comboio de ajuda. |
+> | The guerrillas ambushed them near the bridge. | Os guerrilheiros os emboscaram perto da ponte. |

@@ -45,12 +45,13 @@ Origin uncertain; possibly from "B-limp" (a non-rigid airship designation in Bri
 > - Often used in compound terms (advertising blimp, weather blimp)
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** dirigível, balão dirigível
 
-| English | Portuguese |
-|---------|------------|
-| blimp | dirigível, balão dirigível |
-| advertising blimp | dirigível publicitário |
-| weather blimp | balão meteorológico |
-| blimp in the sky | dirigível no céu |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** dirigível, balão dirigível
+>
+> | English | Portuguese |
+> |---------|------------|
+> | blimp | dirigível, balão dirigível |
+> | advertising blimp | dirigível publicitário |
+> | weather blimp | balão meteorológico |
+> | blimp in the sky | dirigível no céu |

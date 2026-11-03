@@ -51,13 +51,14 @@ Compound phrase from *idle* (from Old English *idel*, meaning empty or useless) 
 > - Implies conversation has no practical value
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Conversa ociosa, papo furado, tagarelice
 
-| English | Portuguese |
-|---------|------------|
-| idle talk | conversa ociosa, papo furado |
-| stop idle talk | parar com a conversa ociosa |
-| enough idle talk | chega de papo furado |
-| no time for idle talk | sem tempo para conversa ociosa |
-| idle talk and gossip | conversa ociosa e fofoca |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Conversa ociosa, papo furado, tagarelice
+>
+> | English | Portuguese |
+> |---------|------------|
+> | idle talk | conversa ociosa, papo furado |
+> | stop idle talk | parar com a conversa ociosa |
+> | enough idle talk | chega de papo furado |
+> | no time for idle talk | sem tempo para conversa ociosa |
+> | idle talk and gossip | conversa ociosa e fofoca |

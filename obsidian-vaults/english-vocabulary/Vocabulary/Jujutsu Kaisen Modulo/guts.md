@@ -64,15 +64,17 @@ From Old English *gut* and Old Norse *guttr*, originally meaning "channel" or "w
 > - "Spill your guts" = to confess or reveal secrets
 > - "Hate someone's guts" = to deeply dislike someone
 > - "Gut-wrenching" describes something emotionally distressing
+> - ⚠️ Similar meaning in [[grit]] (from [[Life]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Coragem, audácia, vísceras, intuição
 
-| English | Portuguese |
-|---------|------------|
-| have the guts | ter coragem/audácia |
-| gut feeling | intuição, feeling |
-| gut reaction | reação instintiva |
-| fish guts | vísceras do peixe |
-| hate someone's guts | odiar alguém profundamente |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Coragem, audácia, vísceras, intuição
+>
+> | English | Portuguese |
+> |---------|------------|
+> | have the guts | ter coragem/audácia |
+> | gut feeling | intuição, feeling |
+> | gut reaction | reação instintiva |
+> | fish guts | vísceras do peixe |
+> | hate someone's guts | odiar alguém profundamente |

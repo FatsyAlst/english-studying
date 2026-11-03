@@ -50,11 +50,12 @@ From Middle English *mangelen*, from Anglo-French *mangler, mahangler* ("to inju
 > - Creates vivid, often disturbing imagery — common in news/accident reporting.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** mutilado/a, destroçado/a, dilacerado/a (físico); deturpado/a, estragado/a (figurado)
 
-| English | Portuguese |
-|---------|------------|
-| His body was crushed and mangled beyond recognition. | Seu corpo foi esmagado e mutilado além do reconhecimento. |
-| My sweater got mangled in the washing machine. | Meu suéter foi destroçado na máquina de lavar. |
-| He mangled the rhythm so badly it hardly made sense. | Ele estragou tanto o ritmo que quase não fazia sentido. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** mutilado/a, destroçado/a, dilacerado/a (físico); deturpado/a, estragado/a (figurado)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | His body was crushed and mangled beyond recognition. | Seu corpo foi esmagado e mutilado além do reconhecimento. |
+> | My sweater got mangled in the washing machine. | Meu suéter foi destroçado na máquina de lavar. |
+> | He mangled the rhythm so badly it hardly made sense. | Ele estragou tanto o ritmo que quase não fazia sentido. |

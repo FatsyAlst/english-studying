@@ -49,12 +49,14 @@ From Old English *eorþlic*, meaning 'worldly, secular,' from *eorße* (earth) +
 > - Not to be misspelled as 'eartly.'
 
 ---
-**Tradução:** (Adjetivo) Terreno; mundano; possível; concertível (frequentemente em negativo: nenhum, absolutamente nenhum)
 
-| English | Portuguese |
-|---------|------------|
-| No earthly reason could explain their sudden disappearance. | Nenhum motivo terreno poderia explicar seu desaparecimento repentino. |
-| She had no earthly idea what he was talking about. | Ela não tinha a menor ideia do que ele estava falando. |
-| There is no earthly chance of winning against such odds. | Não há a menor chance de vencer contra tais probabilidades. |
-| I have no earthly use for these old things. | Não tenho absolutamente nenhum uso para essas coisas antigas. |
-| Earthly possessions mean nothing to him. | As posses terrenas não significam nada para ele. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** (Adjetivo) Terreno; mundano; possível; concertível (frequentemente em negativo: nenhum, absolutamente nenhum)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | No earthly reason could explain their sudden disappearance. | Nenhum motivo terreno poderia explicar seu desaparecimento repentino. |
+> | She had no earthly idea what he was talking about. | Ela não tinha a menor ideia do que ele estava falando. |
+> | There is no earthly chance of winning against such odds. | Não há a menor chance de vencer contra tais probabilidades. |
+> | I have no earthly use for these old things. | Não tenho absolutamente nenhum uso para essas coisas antigas. |
+> | Earthly possessions mean nothing to him. | As posses terrenas não significam nada para ele. |

@@ -45,10 +45,11 @@ Used to indicate something of the same kind or nature; similar things or example
 > - Grammatically, it functions as a relative clause.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** algo da espécie/tipo que nunca tinha sido visto; similar
 
-| English | Portuguese |
-|---------|------------|
-| It was a disaster the like of which had never been seen before. | Era um desastre da espécie que nunca havia sido visto antes. |
-| A power the like of which no one had ever encountered. | Um poder como nunca ninguém havia encontrado. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** algo da espécie/tipo que nunca tinha sido visto; similar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | It was a disaster the like of which had never been seen before. | Era um desastre da espécie que nunca havia sido visto antes. |
+> | A power the like of which no one had ever encountered. | Um poder como nunca ninguém havia encontrado. |

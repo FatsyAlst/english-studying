@@ -52,10 +52,11 @@ From Old French "sorer," possibly from Latin "ex-" (out) + "aurae" (air). The wo
 > - "Soaring" is often used as an adjective to describe ambitious or grand qualities.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Alçar Voo / Voar / Disparar
 
-| English | Portuguese |
-|---------|------------|
-| The warrior soared into battle. | O guerreiro alçou voo para a batalha. |
-| His power soared to unimaginable levels. | Seu poder disparou para níveis inimagináveis. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Alçar Voo / Voar / Disparar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The warrior soared into battle. | O guerreiro alçou voo para a batalha. |
+> | His power soared to unimaginable levels. | Seu poder disparou para níveis inimagináveis. |

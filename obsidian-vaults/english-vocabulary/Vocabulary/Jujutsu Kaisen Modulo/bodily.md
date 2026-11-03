@@ -51,10 +51,11 @@ From Middle English *bodili*, formed from *body* (Old English *bodig*, of uncert
 > - Compare with [[grievous]] (Dragon Ball Z) — *grievous bodily harm* uses both words together in legal contexts.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** corporal, físico (adjetivo); fisicamente, corporalmente (advérbio)
 
-| English | Portuguese |
-|---------|------------|
-| He suffered serious bodily harm. | Ele sofreu sérios danos corporais. |
-| She was carried bodily from the room. | Ela foi carregada fisicamente para fora do quarto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** corporal, físico (adjetivo); fisicamente, corporalmente (advérbio)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He suffered serious bodily harm. | Ele sofreu sérios danos corporais. |
+> | She was carried bodily from the room. | Ela foi carregada fisicamente para fora do quarto. |

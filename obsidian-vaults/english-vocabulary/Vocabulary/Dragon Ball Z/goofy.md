@@ -50,12 +50,13 @@ From "goof" (a silly person, a mistake), which came into English in the early 19
 > - Often used affectionately about people or their behavior
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Bobão, engraçado, tolo (de forma divertida)
 
-| English | Portuguese |
-|---------|------------|
-| goofy | bobão/engraçado |
-| silly | bobo |
-| foolish | tolo |
-| goofy smile | sorriso bobo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Bobão, engraçado, tolo (de forma divertida)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | goofy | bobão/engraçado |
+> | silly | bobo |
+> | foolish | tolo |
+> | goofy smile | sorriso bobo |

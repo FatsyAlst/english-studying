@@ -54,12 +54,13 @@ From Old English "wealdan" (to rule, govern, control), from Germanic roots meani
 > - Often appears in martial or leadership contexts
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** empunhar, brandir, exercer (poder/influência)
 
-| English | Portuguese |
-|---------|------------|
-| wield a sword | empunhar uma espada |
-| wield power | exercer poder |
-| wield influence | exercer influência |
-| wield authority | deter autoridade |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** empunhar, brandir, exercer (poder/influência)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | wield a sword | empunhar uma espada |
+> | wield power | exercer poder |
+> | wield influence | exercer influência |
+> | wield authority | deter autoridade |

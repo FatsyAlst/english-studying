@@ -61,11 +61,12 @@ From Old English *brēdan* ("to bring young to birth, cherish, keep warm"), from
 > - Related to [[inbreeding]] — inbreeding is breeding *within* a closed group, a harmful subset of the general concept.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** criação, reprodução (de animais); boa criação, educação, refinamento (maneiras)
 
-| English | Portuguese |
-|---------|------------|
-| The family's business was horse breeding. | O negócio da família era a criação de cavalos. |
-| The penguins' breeding season has begun. | A temporada de reprodução dos pinguins começou. |
-| "They have money, but no breeding." | "Eles têm dinheiro, mas não têm educação." |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** criação, reprodução (de animais); boa criação, educação, refinamento (maneiras)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The family's business was horse breeding. | O negócio da família era a criação de cavalos. |
+> | The penguins' breeding season has begun. | A temporada de reprodução dos pinguins começou. |
+> | "They have money, but no breeding." | "Eles têm dinheiro, mas não têm educação." |

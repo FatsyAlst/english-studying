@@ -42,10 +42,11 @@ To distort or misrepresent facts, words, or situations, usually to manipulate so
 > - The adjective *twisted* can mean both physically contorted and morally perverse: *"a twisted mind"* or *"a twisted piece of metal."*
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** distorcer (as coisas), deturpar, manipular (os fatos)
 
-| English | Portuguese |
-|---------|------------|
-| Stop twisting things — that's not what I said. | Para de distorcer as coisas — não foi isso que eu disse. |
-| He's always twisting things to look like the victim. | Ele está sempre distorcendo as coisas para parecer a vítima. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** distorcer (as coisas), deturpar, manipular (os fatos)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Stop twisting things — that's not what I said. | Para de distorcer as coisas — não foi isso que eu disse. |
+> | He's always twisting things to look like the victim. | Ele está sempre distorcendo as coisas para parecer a vítima. |

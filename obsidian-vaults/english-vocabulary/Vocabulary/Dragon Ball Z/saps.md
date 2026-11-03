@@ -16,6 +16,7 @@ To gradually weaken or deplete someone's strength, energy, or resources; to drai
 > - The continuous battle saps his remaining energy reserves.
 > - Fear saps the warrior's confidence and determination.
 > - Repeated attacks sap the opponent's power level.
+> - After three exams in a row, I felt completely sapped.
 
 ### Sense 2 — *Noun* (Less Common)
 Plural of sap; the vital fluid or liquids within plant tissues; foolish or gullible person.
@@ -55,15 +56,17 @@ From Middle English *sappe*, from Old English *sæp*, related to Old Saxon and O
 > - Can be literal (plant sap) or metaphorical (draining strength)
 > - Past tense: sapped
 > - Related: sappy (containing sap or overly emotional)
+> - *Sapped* (adjective) = exhausted, drained of energy: *I feel sapped.*
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Drenar, enfraquecer, seiva (do verbo: drenar energia)
 
-| English | Portuguese |
-|---------|------------|
-| sap energy | drenar energia |
-| sap strength | enfraquecer, drenagem de força |
-| sap morale | drenar o moral |
-| saps confidence | drena a confiança |
-| sapped | drenado, enfraquecido |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Drenar, enfraquecer, seiva (do verbo: drenar energia)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | sap energy | drenar energia |
+> | sap strength | enfraquecer, drenagem de força |
+> | sap morale | drenar o moral |
+> | saps confidence | drena a confiança |
+> | sapped | drenado, enfraquecido |

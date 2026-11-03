@@ -48,12 +48,13 @@ To pay close attention; to start listening carefully; a command to make someone 
 > - Similar meaning to "pay attention" or "hear me out"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Escuta aí, presta atenção, ouça bem
 
-| English | Portuguese |
-|---------|------------|
-| listen up | escuta aí/presta atenção |
-| listen up! | ouça bem! |
-| everyone listen up | pessoal, escuta aí |
-| listen up carefully | escuta bem |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Escuta aí, presta atenção, ouça bem
+>
+> | English | Portuguese |
+> |---------|------------|
+> | listen up | escuta aí/presta atenção |
+> | listen up! | ouça bem! |
+> | everyone listen up | pessoal, escuta aí |
+> | listen up carefully | escuta bem |

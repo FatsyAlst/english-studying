@@ -46,11 +46,12 @@ From Latin "depictus," past participle of "depingere," meaning "to paint or desc
 > - Common in discussions of media, art, and storytelling
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Representar, descrever, ilustrar, retratar
 
-| English | Portuguese |
-|---------|------------|
-| The painting is depicting a sunset. | O quadro está representando um pôr do sol. |
-| The film depicts the hero's journey. | O filme retrata a jornada do herói. |
-| She's depicting emotion in her art. | Ela está ilustrando emoção em sua arte. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Representar, descrever, ilustrar, retratar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The painting is depicting a sunset. | O quadro está representando um pôr do sol. |
+> | The film depicts the hero's journey. | O filme retrata a jornada do herói. |
+> | She's depicting emotion in her art. | Ela está ilustrando emoção em sua arte. |

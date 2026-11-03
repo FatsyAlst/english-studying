@@ -50,13 +50,14 @@ From the verb "deafen" (to make deaf or cause hearing loss) + "-ing" (suffix for
 > - Can carry both literal and figurative meanings
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** ensurdecedor; trovejante; estrondoso; cacofonico
 
-| English | Portuguese |
-|---------|------------|
-| deafening roar | rugido ensurdecedor |
-| deafening sound | som ensurdecedor |
-| deafening noise | barulho trovejante |
-| deafening silence | silêncio ensurdecedor |
-| deafening applause | aplausos ensurdecedores |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** ensurdecedor; trovejante; estrondoso; cacofonico
+>
+> | English | Portuguese |
+> |---------|------------|
+> | deafening roar | rugido ensurdecedor |
+> | deafening sound | som ensurdecedor |
+> | deafening noise | barulho trovejante |
+> | deafening silence | silêncio ensurdecedor |
+> | deafening applause | aplausos ensurdecedores |

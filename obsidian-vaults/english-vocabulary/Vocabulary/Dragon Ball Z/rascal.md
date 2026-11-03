@@ -48,13 +48,14 @@ From Old French "rascaille," meaning rabble or dregs, possibly related to "raser
 > - Can be used for both children and adults
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** patife, travesso, miserável
 
-| English | Portuguese |
-|---------|------------|
-| rascal | patife |
-| young rascal | jovem travesso |
-| little rascal | pequeno patife |
-| rascally | patifeador |
-| that rascal | aquele patife |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** patife, travesso, miserável
+>
+> | English | Portuguese |
+> |---------|------------|
+> | rascal | patife |
+> | young rascal | jovem travesso |
+> | little rascal | pequeno patife |
+> | rascally | patifeador |
+> | that rascal | aquele patife |

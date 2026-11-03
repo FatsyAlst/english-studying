@@ -45,12 +45,13 @@ From Middle English *whirlpool*, combining *whirl* (to rotate rapidly) + *pool* 
 > - Can refer to both literal water phenomena and abstract situations
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Redemoinho
 
-| English | Portuguese |
-|---|---|
-| whirlpool | redemoinho |
-| to swirl | girar, redemoinhear |
-| rapidly rotating current | corrente em rápida rotação |
-| pull toward center | puxar para o centro |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Redemoinho
+>
+> | English | Portuguese |
+> |---|---|
+> | whirlpool | redemoinho |
+> | to swirl | girar, redemoinhear |
+> | rapidly rotating current | corrente em rápida rotação |
+> | pull toward center | puxar para o centro |

@@ -75,13 +75,14 @@ From Old English "strīcan" meaning "to go, flow, or stroke." Related to German 
 > - 📺 Also seen in [[Dragon Ball Z]]
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** golpear, acertar, greve
 
-| English | Portuguese |
-|---------|------------|
-| strike | golpear |
-| lightning strike | raio |
-| on strike | em greve |
-| strike back | revidar |
-| striking | impressionante |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** golpear, acertar, greve
+>
+> | English | Portuguese |
+> |---------|------------|
+> | strike | golpear |
+> | lightning strike | raio |
+> | on strike | em greve |
+> | strike back | revidar |
+> | striking | impressionante |

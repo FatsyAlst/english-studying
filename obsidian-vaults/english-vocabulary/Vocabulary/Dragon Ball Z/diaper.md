@@ -39,10 +39,12 @@ Middle English: from Old French *diapre*, Medieval Latin *diasprum*, Medieval Gr
 > - Regional note: AmE/Canadian = diaper; BrE/Aus/NZ = nappy (same thing).
 
 ---
-**Tradução:** Fralda (BrE: nappy = fralda)
 
-| English | Portuguese |
-|---------|------------|
-| The baby needs his diaper changed. | O bebê precisa trocar a fralda. |
-| Disposable diapers are very convenient. | Fraldas descartáveis são muito práticas. |
-| She packed a diaper bag for the trip. | Ela preparou uma bolsa de fraldas para a viagem. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Fralda (BrE: nappy = fralda)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The baby needs his diaper changed. | O bebê precisa trocar a fralda. |
+> | Disposable diapers are very convenient. | Fraldas descartáveis são muito práticas. |
+> | She packed a diaper bag for the trip. | Ela preparou uma bolsa de fraldas para a viagem. |

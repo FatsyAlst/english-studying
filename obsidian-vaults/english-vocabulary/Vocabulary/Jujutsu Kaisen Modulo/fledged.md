@@ -60,11 +60,12 @@ From Old English *flycge* meaning "fit to fly," related to the Germanic root for
 > - A "fledgling" (noun/adjective) describes something new and inexperienced — essentially the opposite stage of "fully fledged."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** emplumado, pronto para voar (literal); totalmente desenvolvido, plenamente qualificado (figurative)
 
-| English | Portuguese |
-|---------|------------|
-| The fledged chicks were ready to leave the nest. | Os filhotes já emplumados estavam prontos para deixar o ninho. |
-| After years of training, she became a fully fledged doctor. | Depois de anos de treinamento, ela se tornou uma médica plenamente qualificada. |
-| The project grew into a fully fledged business. | O projeto cresceu de uma simples ideia para um negócio totalmente desenvolvido. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** emplumado, pronto para voar (literal); totalmente desenvolvido, plenamente qualificado (figurative)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The fledged chicks were ready to leave the nest. | Os filhotes já emplumados estavam prontos para deixar o ninho. |
+> | After years of training, she became a fully fledged doctor. | Depois de anos de treinamento, ela se tornou uma médica plenamente qualificada. |
+> | The project grew into a fully fledged business. | O projeto cresceu de uma simples ideia para um negócio totalmente desenvolvido. |

@@ -48,12 +48,14 @@ Middle English *slitten*, from Old English *slītan* ("to tear, split"), related
 > - "Slit someone's throat" is a very violent and graphic expression; use with awareness of context.
 > - As a noun, often describes narrow openings for light or visibility: *a slit in the blinds*.
 > - "Slit" in fashion refers to a deliberate cut in a skirt or dress: *a thigh-high slit*.
+> - ⚠️ Similar meaning in [[slash]] (from [[Mushoku Tensei]])
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** cortar, fender, rasgar (verbo); corte, fenda, abertura (substantivo)
 
-| English | Portuguese |
-|---------|------------|
-| He slit the envelope open with a knife. | Ele abriu o envelope com uma faca. |
-| Light came through a slit in the curtains. | A luz entrava por uma fenda nas cortinas. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** cortar, fender, rasgar (verbo); corte, fenda, abertura (substantivo)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He slit the envelope open with a knife. | Ele abriu o envelope com uma faca. |
+> | Light came through a slit in the curtains. | A luz entrava por uma fenda nas cortinas. |

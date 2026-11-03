@@ -55,11 +55,12 @@ From French **"envoyé"** (past participle of **"envoyer"** = to send). Literall
 > - The literary meaning (concluding stanza) is archaic and rarely encountered.
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** enviado, emissário, representante diplomático
 
-| English | Portuguese |
-|---------|------------|
-| The President suggested sending a peace envoy. | O Presidente sugeriu enviar um enviado de paz. |
-| He served as envoy to the French government. | Ele serviu como enviado junto ao governo francês. |
-| As an envoy, she had diplomatic privileges. | Como enviada, ela tinha privilégios diplomáticos. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** enviado, emissário, representante diplomático
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The President suggested sending a peace envoy. | O Presidente sugeriu enviar um enviado de paz. |
+> | He served as envoy to the French government. | Ele serviu como enviado junto ao governo francês. |
+> | As an envoy, she had diplomatic privileges. | Como enviada, ela tinha privilégios diplomáticos. |

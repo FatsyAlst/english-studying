@@ -48,11 +48,12 @@ From Middle English "rasen," meaning to scrape or erase. Derived from Old French
 > - Commonly appears with "to the ground"
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Arrasado, demolido, destruído completamente
 
-| English | Portuguese |
-|---------|------------|
-| The city was razed to the ground. | A cidade foi arrasada ao chão. |
-| The building was razed. | O edifício foi demolido. |
-| The village was razed by the earthquake. | A aldeia foi devastada pelo terremoto. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Arrasado, demolido, destruído completamente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The city was razed to the ground. | A cidade foi arrasada ao chão. |
+> | The building was razed. | O edifício foi demolido. |
+> | The village was razed by the earthquake. | A aldeia foi devastada pelo terremoto. |

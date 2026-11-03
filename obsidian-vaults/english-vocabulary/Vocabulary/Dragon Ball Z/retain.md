@@ -51,14 +51,15 @@ From Old French *retenir*, from Latin *retinere*, from *re-* (back) + *tenere* (
 > - Implies active maintenance or preservation
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Manter, reter, preservar, conservar
 
-| English | Portuguese |
-|---------|------------|
-| retain | manter, reter |
-| retain power | manter poder |
-| retain consciousness | manter consciência |
-| retain control | manter controle |
-| retain composure | manter compostura |
-| retained | mantido, retido |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Manter, reter, preservar, conservar
+>
+> | English | Portuguese |
+> |---------|------------|
+> | retain | manter, reter |
+> | retain power | manter poder |
+> | retain consciousness | manter consciência |
+> | retain control | manter controle |
+> | retain composure | manter compostura |
+> | retained | mantido, retido |

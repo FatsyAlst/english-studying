@@ -57,12 +57,14 @@ From Middle Dutch *sprūten* ('to sprout'), entering English around 14th century
 > - Informal usage for young children or adolescents.
 
 ---
-**Tradução:** 1. (Substantivo) Broto; rebento | 2. (Verbo) Brotar; germinar | 3. (Substantivo, informal) Pivete; garoto
 
-| English | Portuguese |
-|---------|------------|
-| Bean sprouts add crunch to stir-fries. | Broto de feijão adiciona crocancia aos refogados. |
-| The seeds sprouted within days. | As sementes brotaram em poucos dias. |
-| New sprouts emerged after the rain. | Novos brotos surgiram após a chuva. |
-| A new shopping mall sprouted up downtown. | Um novo shopping surgiu no centro da cidade. |
-| Brussels sprouts are a popular winter vegetable. | Os bruxelas são um legume popular no inverno. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Substantivo) Broto; rebento | 2. (Verbo) Brotar; germinar | 3. (Substantivo, informal) Pivete; garoto
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Bean sprouts add crunch to stir-fries. | Broto de feijão adiciona crocancia aos refogados. |
+> | The seeds sprouted within days. | As sementes brotaram em poucos dias. |
+> | New sprouts emerged after the rain. | Novos brotos surgiram após a chuva. |
+> | A new shopping mall sprouted up downtown. | Um novo shopping surgiu no centro da cidade. |
+> | Brussels sprouts are a popular winter vegetable. | Os bruxelas são um legume popular no inverno. |

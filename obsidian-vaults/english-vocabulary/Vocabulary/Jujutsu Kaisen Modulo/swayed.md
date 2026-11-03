@@ -60,11 +60,12 @@ Old English *swægian* 'swing, rush'; related to Old Norse *sveygja*. Noun sense
 > - Present tense: sway, swayed (past), swaying (present participle).
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** 1. (Verbo, movimento) Balançar; oscilar; ondular | 2. (Verbo, influenciar) Influenciar; persuadir; convencer | 3. (Substantivo, influência) Influência; domínio; poder
 
-| English | Portuguese |
-|---------|------------|
-| The trees swayed in the wind. | As árvores balançavam ao vento. |
-| The argument swayed the jury in his favor. | O argumento persuadiu o júri a seu favor. |
-| The politician held sway over his constituents. | O político exercia poder sobre seus eleitores. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** 1. (Verbo, movimento) Balançar; oscilar; ondular | 2. (Verbo, influenciar) Influenciar; persuadir; convencer | 3. (Substantivo, influência) Influência; domínio; poder
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The trees swayed in the wind. | As árvores balançavam ao vento. |
+> | The argument swayed the jury in his favor. | O argumento persuadiu o júri a seu favor. |
+> | The politician held sway over his constituents. | O político exercia poder sobre seus eleitores. |

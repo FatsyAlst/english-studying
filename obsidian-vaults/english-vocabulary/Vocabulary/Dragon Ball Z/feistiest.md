@@ -46,9 +46,11 @@ From "feist" (small yappy dog, 18th c. U.S.), variant of "fist" (break wind, sma
 > - Synonyms: spirited/plucky (pos.), scrappy/testy (neg.).
 
 ---
-**Tradução:** Mais corajoso(a) / Mais aguerrido(a) / Mais brigão/brigona
 
-| English | Portuguese |
-|---------|------------|
-| She's the feistiest debater in the club, never backing down. | Ela é a debatedora mais aguerrida do clube, nunca recua. |
-| The feistiest puppy barked loudest at the big dogs. | O filhote mais corajoso latiu mais alto para os cães grandes. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Mais corajoso(a) / Mais aguerrido(a) / Mais brigão/brigona
+>
+> | English | Portuguese |
+> |---------|------------|
+> | She's the feistiest debater in the club, never backing down. | Ela é a debatedora mais aguerrida do clube, nunca recua. |
+> | The feistiest puppy barked loudest at the big dogs. | O filhote mais corajoso latiu mais alto para os cães grandes. |

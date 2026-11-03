@@ -49,12 +49,13 @@ From *slap* (to hit with an open hand) + *kick* (to strike with the foot). This 
 > - Used in action sequences and combat descriptions
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Golpe de palma seguido de chute, técnica de bofetada com chute
 
-| English | Portuguese |
-|---|---|
-| slap-kick | golpe de palma com chute |
-| slap-kick technique | técnica de bofetada e chute |
-| execute a slap-kick | executar um golpe de palma e chute |
-| slap-kick combination | combinação de bofetada e chute |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Golpe de palma seguido de chute, técnica de bofetada com chute
+>
+> | English | Portuguese |
+> |---|---|
+> | slap-kick | golpe de palma com chute |
+> | slap-kick technique | técnica de bofetada e chute |
+> | execute a slap-kick | executar um golpe de palma e chute |
+> | slap-kick combination | combinação de bofetada e chute |

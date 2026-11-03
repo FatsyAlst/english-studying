@@ -49,12 +49,13 @@ From Middle English "be" (prefix) + "ware" (aware). "Ware" comes from Old Englis
 > - Always followed by "of" + noun or the object directly
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Cuidado, tenha cuidado, fique atento
 
-| English | Portuguese |
-|---------|------------|
-| beware | cuidado |
-| beware of | cuidado com |
-| beware! | cuidado! |
-| watch out | fique atento |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Cuidado, tenha cuidado, fique atento
+>
+> | English | Portuguese |
+> |---------|------------|
+> | beware | cuidado |
+> | beware of | cuidado com |
+> | beware! | cuidado! |
+> | watch out | fique atento |

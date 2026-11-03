@@ -47,11 +47,12 @@ From Old English *be-* (prefix) + *stow* 'place, position' (from Old Norse *sta�
 > - Structure: "bestow something upon someone."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Conceder; outorgar; dar; presentear; conferir
 
-| English | Portuguese |
-|---------|------------|
-| The king bestowed a title upon the knight. | O rei conferiu um título ao cavaleiro. |
-| The organization bestowed an award on the volunteer. | A organização outorgou um prêmio ao voluntário. |
-| Good fortune was bestowed upon them. | A boa fortuna foi concedida a eles. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Conceder; outorgar; dar; presentear; conferir
+>
+> | English | Portuguese |
+> |---------|------------|
+> | The king bestowed a title upon the knight. | O rei conferiu um título ao cavaleiro. |
+> | The organization bestowed an award on the volunteer. | A organização outorgou um prêmio ao voluntário. |
+> | Good fortune was bestowed upon them. | A boa fortuna foi concedida a eles. |

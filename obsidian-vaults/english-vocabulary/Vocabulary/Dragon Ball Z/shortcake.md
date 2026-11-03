@@ -40,17 +40,18 @@ From "short" (describing the texture that crumbles easily, from the high butter 
 ---
 ## 💡 Usage Notes
 > [!tip] Notes
-> - Often paired with fruit and whipped cream
+> - Often paired with fruit and [[whipped cream]]
 > - The texture is crisp and crumbly due to high butter content
 > - Strawberry shortcake is the most popular variety
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** bolo de farinha, bolo quebradiço
 
-| English | Portuguese |
-|---------|------------|
-| shortcake | bolo de farinha, bolo quebradiço |
-| strawberry shortcake | bolo com morangos |
-| vanilla shortcake | bolo de baunilha |
-| shortcake dessert | sobremesa de bolo quebradiço |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** bolo de farinha, bolo quebradiço
+>
+> | English | Portuguese |
+> |---------|------------|
+> | shortcake | bolo de farinha, bolo quebradiço |
+> | strawberry shortcake | bolo com morangos |
+> | vanilla shortcake | bolo de baunilha |
+> | shortcake dessert | sobremesa de bolo quebradiço |

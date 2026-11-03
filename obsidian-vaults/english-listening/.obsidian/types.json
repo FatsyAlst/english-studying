@@ -1,0 +1,9 @@
+{
+  "types": {
+    "speakers": "multitext",
+    "accents": "multitext",
+    "listened": "date",
+    "understood": "number",
+    "tags": "tags"
+  }
+}

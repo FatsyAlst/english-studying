@@ -60,11 +60,12 @@ A type of activity or business (often cynical or humorous).
 > - "Protection racket" = extortion scheme where criminals demand payment for "protection."
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** raquete (esporte); barulho, algazarra (ruído); esquema ilegal, quadrilha (crime); negócio, ramo (informal)
 
-| English | Portuguese |
-|---------|------------|
-| Tennis rackets and balls are provided. | Raquetes e bolas de tênis são fornecidas. |
-| Stop making that terrible racket! | Pare de fazer essa barulheira terrível! |
-| He set up a protection racket. | Ele montou um esquema de extorsão. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** raquete (esporte); barulho, algazarra (ruído); esquema ilegal, quadrilha (crime); negócio, ramo (informal)
+>
+> | English | Portuguese |
+> |---------|------------|
+> | Tennis rackets and balls are provided. | Raquetes e bolas de tênis são fornecidas. |
+> | Stop making that terrible racket! | Pare de fazer essa barulheira terrível! |
+> | He set up a protection racket. | Ele montou um esquema de extorsão. |

@@ -49,13 +49,14 @@ A short, encouraging speech or words of motivation intended to inspire someone t
 > - Frequently featured in sports and action narratives
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** discurso motivador; palavras de encorajamento; conversa inspiradora
 
-| English | Portuguese |
-|---------|------------|
-| pep talk | discurso motivador |
-| give a pep talk | dar um discurso motivador |
-| deliver a pep talk | proferir um discurso inspirador |
-| need a pep talk | precisar de encorajamento |
-| pre-game pep talk | palestra motivadora pré-jogo |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** discurso motivador; palavras de encorajamento; conversa inspiradora
+>
+> | English | Portuguese |
+> |---------|------------|
+> | pep talk | discurso motivador |
+> | give a pep talk | dar um discurso motivador |
+> | deliver a pep talk | proferir um discurso inspirador |
+> | need a pep talk | precisar de encorajamento |
+> | pre-game pep talk | palestra motivadora pré-jogo |

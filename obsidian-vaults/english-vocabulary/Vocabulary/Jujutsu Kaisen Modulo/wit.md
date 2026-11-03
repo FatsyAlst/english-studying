@@ -64,11 +64,12 @@ From Old English "wit," related to the verb "know" and meaning "knowledge" or "u
 > - Can describe both the ability to make witty remarks and the remarks themselves
 
 ---
-## 🇧🇷 Translation (Portuguese)
-**Tradução:** Inteligência, sagacidade; humor inteligente
 
-| English | Portuguese |
-|---------|------------|
-| He has a sharp wit. | Ele tem uma sagacidade aguçada. |
-| Keep your wits about you. | Mantenha sua presença de espírito. |
-| Her wit was entertaining. | Seu humor inteligente era entretido. |
+> [!info]- 🇧🇷 Translation (Portuguese)
+> **Tradução:** Inteligência, sagacidade; humor inteligente
+>
+> | English | Portuguese |
+> |---------|------------|
+> | He has a sharp wit. | Ele tem uma sagacidade aguçada. |
+> | Keep your wits about you. | Mantenha sua presença de espírito. |
+> | Her wit was entertaining. | Seu humor inteligente era entretido. |
